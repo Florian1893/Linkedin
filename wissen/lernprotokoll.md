@@ -38,7 +38,7 @@ Median der echten Phase (ohne die zwei Kaltstart-Posts): rund 180. Das ist die L
 
 - Posting-Zeit 07:30 gegen 08:30, beide Dienstag oder Donnerstag.
 - Laenge Richtung 1300 Zeichen statt 1100, ob die Verweildauer das traegt.
-- Karussell, das eine Geschichte erzaehlt statt Tipps aufzaehlt. Nur einmal, kontrolliert.
+- Karussell, das eine Geschichte erzaehlt statt Tipps aufzaehlt. LAEUFT: 25.08.2026, Freigabe-Post, 8 Seiten Skizzen-Stil. Gegen den Text-Median von rund 180 messen.
 
 ## Naechster Eintrag
 

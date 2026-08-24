@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="de"><head><meta charset="utf-8">
+<style>
+@font-face{font-family:'Caveat';font-weight:400;src:url(caveat-400.ttf) format('truetype');}
+@font-face{font-family:'Caveat';font-weight:700;src:url(caveat-700.ttf) format('truetype');}
+*{margin:0;padding:0;box-sizing:border-box;}
+body{background:#888;font-family:'Caveat',cursive;}
+.slide{width:1080px;height:1350px;background:#fdfcf7;position:relative;overflow:hidden;
+  page-break-after:always;break-after:page;}
+.slide::after{content:'';position:absolute;inset:0;pointer-events:none;
+  background:radial-gradient(circle at 20% 15%,rgba(0,0,0,.028),transparent 55%),
+             radial-gradient(circle at 82% 88%,rgba(0,0,0,.032),transparent 58%);}
+.hd{position:absolute;left:78px;right:78px;top:92px;font-weight:700;color:#2b2b2b;
+  line-height:1.06;letter-spacing:.5px;}
+.hd.big{font-size:104px;}
+.hd.mid{font-size:86px;}
+.hd.sm{font-size:72px;}
+svg.art{position:absolute;left:0;top:0;width:1080px;height:1350px;}
+.cap{position:absolute;left:78px;right:78px;bottom:112px;font-size:62px;color:#2b2b2b;
+  font-weight:400;line-height:1.14;}
+.cap.red{color:#c8302b;font-weight:700;}
+.cap.grn{color:#2f7d32;font-weight:700;}
+.pg{position:absolute;right:70px;bottom:48px;font-size:34px;color:#9a958a;font-weight:700;}
+</style></head><body>
+<div id="root"></div>
+<script src="node_modules/roughjs/bundled/rough.js"></script>
+<script>
+const INK='#2b2b2b', RED='#c8302b', GRN='#2f7d32', PENCIL='#6f6a60';
+
+const SLIDES=[
+ {cls:'big', hd:'ZWANZIG<br>MITARBEITER.', cap:'UND KEINER DARF EINE OFFERTE<br>RAUSSCHICKEN AUSSER DIR.', art:'funnel'},
+ {cls:'mid', hd:'DAS KLINGT<br>NACH KONTROLLE.', cap:'IST ES ABER NICHT.', art:'desk'},
+ {cls:'mid', hd:'ES GIBT<br>KEINE REGEL.', cap:'ES GIBT NUR DICH.', capCls:'red', art:'blank'},
+ {cls:'mid', hd:'AM ANFANG<br>GEHT DAS.', cap:'DRÜBERSCHAUEN. KORRIGIEREN.<br>FREIGEBEN.', art:'stack1'},
+ {cls:'mid', hd:'DANN WIRD<br>ES MEHR.', cap:'UND DU SCHAUST SCHNELLER DRÜBER.', art:'stack2'},
+ {cls:'sm', hd:'IRGENDWANN<br>UNTERSCHREIBST<br>DU NUR NOCH.', cap:'DIE KONTROLLE IST WEG.<br>DER ENGPASS IST GEBLIEBEN.', capCls:'red', art:'stack3'},
+ {cls:'mid', hd:'UND DER KUNDE<br>WARTET.', cap:'AUF ETWAS, DAS LÄNGST<br>FERTIG GERECHNET IST.', art:'clock'},
+ {cls:'sm', hd:'FREIGABE IST<br>KEINE KONTROLLE.', cap:'FREIGABE IST EINE REGEL,<br>DIE DU NIE AUFGESCHRIEBEN HAST.', capCls:'grn', art:'rule'}
+];
+
+const root=document.getElementById('root');
+SLIDES.forEach((s,i)=>{
+  const d=document.createElement('div'); d.className='slide';
+  d.innerHTML=`<svg class="art" id="a${i}" viewBox="0 0 1080 1350"></svg>`
+    +`<div class="hd ${s.cls}">${s.hd}</div>`
+    +`<div class="cap ${s.capCls||''}">${s.cap}</div>`
+    +`<div class="pg">${i+1} / ${SLIDES.length}</div>`;
+  root.appendChild(d);
+});
+
+const R=(id)=>rough.svg(document.getElementById(id));
+function add(id,node){document.getElementById(id).appendChild(node);}
+const O=(c,w,f)=>({stroke:c||INK,strokeWidth:w||3,roughness:1.9,bowing:1.5,seed:f||7});
+
+function arrow(id,x1,y1,x2,y2,col,w){
+  const r=R(id); add(id,r.line(x1,y1,x2,y2,O(col,w,11)));
+  const a=Math.atan2(y2-y1,x2-x1),L=26;
+  add(id,r.line(x2,y2,x2-L*Math.cos(a-0.42),y2-L*Math.sin(a-0.42),O(col,w,12)));
+  add(id,r.line(x2,y2,x2-L*Math.cos(a+0.42),y2-L*Math.sin(a+0.42),O(col,w,13)));
+}
+function figure(id,x,y,sc,col){
+  const r=R(id),s=sc||1,c=col||PENCIL;
+  add(id,r.circle(x,y,34*s,O(c,2.5,21)));
+  add(id,r.line(x,y+17*s,x,y+62*s,O(c,2.5,22)));
+  add(id,r.line(x,y+30*s,x-22*s,y+48*s,O(c,2.5,23)));
+  add(id,r.line(x,y+30*s,x+22*s,y+48*s,O(c,2.5,24)));
+  add(id,r.line(x,y+62*s,x-19*s,y+96*s,O(c,2.5,25)));
+  add(id,r.line(x,y+62*s,x+19*s,y+96*s,O(c,2.5,26)));
+}
+function sheets(id,cx,baseY,n,w,h,col){
+  const r=R(id);
+  for(let k=0;k<n;k++){
+    const off=k*(h*0.55), tilt=((k%3)-1)*7;
+    const g=document.createElementNS('http://www.w3.org/2000/svg','g');
+    g.setAttribute('transform',`rotate(${tilt} ${cx} ${baseY-off})`);
+    g.appendChild(r.rectangle(cx-w/2,baseY-off-h,w,h,O(col,2.6,30+k)));
+    document.getElementById(id).appendChild(g);
+  }
+}
+function deskTop(id,cx,cy,w){
+  const r=R(id);
+  add(id,r.line(cx-w/2,cy,cx+w/2,cy,O(INK,4,41)));
+  add(id,r.line(cx-w/2+40,cy,cx-w/2+18,cy+96,O(INK,3,42)));
+  add(id,r.line(cx+w/2-40,cy,cx+w/2-18,cy+96,O(INK,3,43)));
+}
+
+const ART={
+ funnel(id){
+   for(let k=0;k<5;k++) figure(id,196+k*132,392,0.78);
+   for(let k=0;k<5;k++) figure(id,196+k*132,532,0.78);
+   for(let k=0;k<5;k++) arrow(id,196+k*132,622,464,798,PENCIL,2.4);
+   deskTop(id,656,962,398); sheets(id,712,956,4,146,44,INK);
+   figure(id,470,835,1.32,INK);
+ },
+ desk(id){
+   deskTop(id,540,900,470); sheets(id,540,894,5,168,46,INK);
+   figure(id,540,720,1.25,INK);
+   for(let k=0;k<6;k++){const a=Math.PI*(0.10+k*0.16);
+     arrow(id,540+Math.cos(a)*430,560-Math.sin(a)*120,540+Math.cos(a)*150,660-Math.sin(a)*54,PENCIL,2.5);}
+ },
+ blank(id){
+   const r=R(id);
+   add(id,r.rectangle(300,520,480,340,O(INK,3.4,51)));
+   for(let k=0;k<4;k++) add(id,r.line(348,592+k*62,732,592+k*62,O('#d9d4c8',2.4,52+k)));
+   add(id,r.line(360,570,720,830,O(RED,5,58))); add(id,r.line(720,570,360,830,O(RED,5,59)));
+ },
+ stack1(id){ deskTop(id,540,900,470); sheets(id,540,894,3,168,46,INK);
+   const r=R(id); add(id,r.circle(830,800,86,O(GRN,3.4,61)));
+   add(id,r.line(800,800,822,826,O(GRN,4.6,62))); add(id,r.line(822,826,864,776,O(GRN,4.6,63))); },
+ stack2(id){ deskTop(id,540,930,470); sheets(id,540,924,8,168,46,INK); },
+ stack3(id){ deskTop(id,540,990,470); sheets(id,540,984,14,168,46,INK);
+   const r=R(id);
+   add(id,r.curve([[720,760],[772,700],[822,790],[878,690],[930,760]],O(RED,4.4,71)));
+   add(id,r.line(716,800,938,800,O(RED,3,72))); },
+ clock(id){
+   const r=R(id); add(id,r.circle(540,760,300,O(INK,3.6,81)));
+   add(id,r.line(540,760,540,640,O(INK,4,82))); add(id,r.line(540,760,636,806,O(INK,4,83)));
+   for(let k=0;k<12;k++){const a=k*Math.PI/6;
+     add(id,r.line(540+Math.sin(a)*132,760-Math.cos(a)*132,540+Math.sin(a)*150,760-Math.cos(a)*150,O(INK,2.4,84)));}
+   figure(id,880,712,1.0,PENCIL);
+   for(let k=0;k<3;k++) add(id,r.circle(846+k*34,880,10,O(PENCIL,2.4,90+k)));
+ },
+ rule(id){
+   const r=R(id);
+   add(id,r.rectangle(300,540,480,320,O(INK,3.4,101)));
+   [0,1,2].forEach(k=>add(id,r.line(348,626+k*74,732,626+k*74,O(GRN,3.4,102+k))));
+   add(id,r.circle(830,600,72,O(GRN,3.4,106)));
+   add(id,r.line(804,600,824,624,O(GRN,4.4,107))); add(id,r.line(824,624,860,580,O(GRN,4.4,108)));
+ }
+};
+SLIDES.forEach((s,i)=>ART[s.art]('a'+i));
+window.__ready={rough:typeof rough, svgs:SLIDES.map((_,i)=>document.getElementById('a'+i).childElementCount)};
+</script></body></html>
