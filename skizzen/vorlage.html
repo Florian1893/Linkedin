@@ -1,0 +1,33 @@
+<!doctype html><html lang="de"><head><meta charset="utf-8">
+<style>
+@font-face{font-family:'Caveat';font-weight:400;src:url(caveat-400.ttf) format('truetype');}
+@font-face{font-family:'Caveat';font-weight:700;src:url(caveat-700.ttf) format('truetype');}
+*{margin:0;padding:0;box-sizing:border-box;}
+body{font-family:'Caveat',cursive;}
+.s{width:1080px;height:1350px;background:#fdfcf7;position:relative;overflow:hidden;}
+.s::after{content:'';position:absolute;inset:0;pointer-events:none;
+ background:radial-gradient(circle at 18% 12%,rgba(0,0,0,.03),transparent 55%),
+            radial-gradient(circle at 84% 90%,rgba(0,0,0,.035),transparent 58%);}
+svg{position:absolute;left:0;top:0;width:1080px;height:1350px;}
+.q{position:absolute;left:96px;right:96px;top:210px;font-size:96px;font-weight:700;
+   color:#2b2b2b;line-height:1.08;}
+.a{position:absolute;left:150px;right:96px;top:730px;font-size:78px;font-weight:400;
+   color:#2b2b2b;line-height:1.1;transform:rotate(-1.6deg);}
+.ser{position:absolute;left:96px;bottom:84px;font-size:40px;font-weight:700;color:#9a958a;
+   letter-spacing:1px;}
+</style></head><body>
+<div class="s">
+  <svg id="a" viewBox="0 0 1080 1350"></svg>
+  <div class="q">LÄUFT DEIN BETRIEB<br>EINEN TAG<br>OHNE DICH?</div>
+  <div class="a">&raquo;OHNE MICH LÄUFT<br>GAR NICHTS.&laquo;</div>
+  <div class="ser">DIE FRAGE, NR. 1</div>
+</div>
+<script src="node_modules/roughjs/bundled/rough.js"></script>
+<script>
+const r=rough.svg(document.getElementById('a')), A=document.getElementById('a');
+const o=(c,w,s)=>({stroke:c,strokeWidth:w,roughness:2.2,bowing:2.4,seed:s});
+A.appendChild(r.line(96,640,690,634,o('#2b2b2b',4,3)));
+A.appendChild(r.line(150,930,806,938,o('#c8302b',6,5)));
+A.appendChild(r.line(156,952,798,958,o('#c8302b',4,6)));
+window.__ready={rough:typeof rough,n:A.childElementCount};
+</script></body></html>
