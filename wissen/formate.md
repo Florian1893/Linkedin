@@ -85,3 +85,17 @@ Entscheidung erst, wenn die Zahlen vom Freigabe-Post da sind. Deine eigenen Date
 ## Nummerierung
 
 Auf jede Serie legbar: eine kleine Zählung am Schluss, etwa "Der teuerste Satz, Nummer 7". Erzeugt Wiederkehr, weil Leute Serien nachschauen, sobald sie merken, dass es mehrere gibt. Zählung nur in einer Zeile, nie als Liste im Post.
+
+---
+
+## Absender-Regel (gilt fuer alles, Posts wie PDFs)
+
+Der Handwerker-Hintergrund ist Beleg, nie Vorstellung. Konkret:
+
+- Hoechstens einmal pro Dokument, nie zweimal.
+- Nie als Einstieg und nie als Aufzaehlung von Name, Beruf, Ort. "Ich bin Florian, gelernter Plattenleger aus Naefels" ist genau die Form, die nicht mehr vorkommt.
+- Wenn ueberhaupt, dann angehaengt an eine Aussage ueber die Arbeit. Beispiel: "Wie ein Betrieb von innen aussieht, kenne ich aus dem Handwerk selbst."
+- Auf Deckblaettern und in Fusszeilen steht die Marke, nicht die Person: BetriebsFlow, Naefels, betriebsflow.ch.
+- In Posts gilt zusaetzlich die alte Regel: das erste Wort gehoert dem Leser, nie "Ich".
+
+Grund: Der Hintergrund wirkt als beilaeufiger Beweis. Als Vorstellung wirkt er wie eine Bewerbung, und bei jeder Wiederholung verliert er.
