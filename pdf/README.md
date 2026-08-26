@@ -14,12 +14,30 @@ es dauert.
 4. Bewertungslink als Textbaustein (20 Minuten)
 5. Alle Anfragen an eine Sammeladresse (30 Minuten)
 
+Pro Punkt zusaetzlich ein Kasten "Was sich aendert" mit dem konkreten Nutzen.
+Das ist der Verkaufsteil: nicht was man tut, sondern was danach anders ist.
+
 Am Schluss der ehrliche Punkt: vier der fuenf haengen daran, dass es jemand
-tatsaechlich macht. Genau dort faengt ein System an. Kein Verkaufsblock,
-ein Satz.
+tatsaechlich macht. Genau dort faengt ein System an.
+
+Seite 5 ist die Angebotsseite. Was in der Prozessanalyse passiert, was man
+bekommt, dass sie nichts kostet und warum (Referenzaufbau im Glarnerland),
+kein Vertrag, kein Zwang. Der Einstieg ist bewusst niedrig gehalten: ein Satz
+mit Gewerk und Mitarbeiterzahl reicht.
 
 Keine erfundenen Zahlen, keine Zeitersparnis-Versprechen, keine Kundenergebnisse.
 Die Zeitangaben beschreiben den Einrichtungsaufwand, nicht einen Nutzen.
+
+## Aufbau
+
+Cover mit Inhaltsverzeichnis samt Aufwand pro Punkt, damit der Wert schon auf
+Seite eins sichtbar ist. Danach zwei Punkte pro Seite in zwei Spalten: links
+Nummer und Aufwand, rechts Problem, Umsetzung und Nutzen. Trennung ueber
+Haarlinien, keine Kaesten ausser dem Nutzen-Kasten.
+
+Violett erscheint genau einmal pro Seite und nur auf Cover, Seite 4 und Seite 5.
+Die Punkteseiten bleiben bewusst ohne Signalfarbe, damit die drei violetten
+Momente wirken.
 
 ## Design
 
