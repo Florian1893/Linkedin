@@ -1,0 +1,146 @@
+<!doctype html><html lang="de"><head><meta charset="utf-8">
+<style>
+@font-face{font-family:'Inter';font-weight:300;src:url(inter-1.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:400;src:url(inter-2.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:500;src:url(inter-3.ttf) format('truetype');}
+:root{--paper:#F7F4EE;--ink:#1B2A44;--soft:#5A6880;--faint:#98A0B0;
+ --violet:#5B4BD6;--line:#DCD6C9;--bar:linear-gradient(90deg,#5B4BD6 0%,#2FB6C0 100%);}
+@page{size:A4;margin:0;}
+*{margin:0;padding:0;box-sizing:border-box;}
+body{font-family:'Inter',Helvetica,Arial,sans-serif;color:var(--ink);background:var(--paper);
+ -webkit-font-smoothing:antialiased;hyphens:none;overflow-wrap:break-word;}
+.p{width:210mm;height:297mm;padding:26mm 22mm 20mm;position:relative;background:var(--paper);
+ page-break-after:always;break-after:page;overflow:hidden;}
+.p:last-child{break-after:auto;}
+.bar{position:absolute;left:0;top:0;right:0;height:3px;background:var(--bar);}
+.foot{position:absolute;left:22mm;right:22mm;bottom:14mm;display:flex;justify-content:space-between;
+ font-size:8.5pt;color:var(--faint);border-top:1px solid var(--line);padding-top:8px;}
+h1{font-size:36pt;font-weight:500;line-height:1.1;letter-spacing:-.8px;}
+h2{font-size:17pt;font-weight:500;line-height:1.25;letter-spacing:-.2px;margin-bottom:12px;}
+p{font-size:11.5pt;line-height:1.65;margin-bottom:14px;}
+.soft{color:var(--soft);}
+.lead{font-size:13.5pt;line-height:1.5;color:var(--soft);font-weight:300;}
+.eyebrow{font-size:9.5pt;letter-spacing:1.8px;text-transform:uppercase;color:var(--violet);
+ font-weight:500;margin-bottom:28px;}
+.item{margin-bottom:40px;}
+.item:last-child{margin-bottom:0;}
+.n{font-size:11pt;color:var(--violet);font-weight:500;letter-spacing:1px;margin-bottom:10px;}
+.how{border-left:1px solid var(--line);padding-left:20px;margin:14px 0;}
+.how p{font-size:11pt;line-height:1.6;color:var(--soft);margin-bottom:8px;}
+.how p:last-child{margin-bottom:0;}
+.time{display:inline-block;border:1px solid var(--line);border-radius:48px;padding:5px 14px;
+ font-size:9pt;color:var(--soft);}
+.rule{height:1px;background:var(--line);margin:28px 0;}
+.big{font-size:14pt;line-height:1.5;}
+.meta{position:absolute;left:22mm;bottom:26mm;font-size:10pt;color:var(--soft);line-height:1.7;}
+</style></head><body>
+
+<div class="p"><div class="bar"></div>
+  <div class="eyebrow">Für Handwerksbetriebe</div>
+  <h1>Fünf Dinge,<br>die du heute<br>selbst automatisierst.</h1>
+  <div class="rule" style="width:88px;margin:34px 0 26px;"></div>
+  <p class="lead" style="max-width:130mm;">Keine neue Software. Keine Beratung.
+  Nichts davon kostet dich mehr als eine halbe Stunde, und alles davon nimmt dir
+  etwas ab, das du sonst jede Woche wieder von Hand machst.</p>
+  <div class="meta">Florian, BetriebsFlow<br>Gelernter Plattenleger, Näfels GL<br>betriebsflow.ch</div>
+</div>
+
+<div class="p"><div class="bar"></div>
+  <div class="item">
+    <div class="n">01</div>
+    <h2>Der Kunde weiss sofort,<br>dass seine Anfrage angekommen ist.</h2>
+    <p>Die meisten Betriebe melden sich erst, wenn sie Zeit haben. Beim Kunden entsteht
+    in der Zwischenzeit der Eindruck, dass niemand zuständig ist. Genau in diesem
+    Fenster fragt er beim Nächsten an.</p>
+    <div class="how">
+      <p>Richte auf deiner Anfrage-Adresse eine automatische Antwort ein. In jedem
+      Mailprogramm unter «Automatische Antworten» oder «Abwesenheit», nur ohne Enddatum.</p>
+      <p>Drei Sätze reichen: bestätigen, dass es angekommen ist, sagen bis wann du dich
+      meldest, und eine Nummer für Dringendes.</p>
+    </div>
+    <span class="time">15 Minuten, einmalig</span>
+  </div>
+  <div class="item">
+    <div class="n">02</div>
+    <h2>Offerten einsprechen,<br>statt sie abends zu tippen.</h2>
+    <p>Du hast beim Kundentermin längst im Kopf, was das kostet. Trotzdem sitzt du
+    abends nochmal hin und tippst es ab.</p>
+    <div class="how">
+      <p>Sprich direkt nach dem Termin im Auto in eine Notiz auf dem Handy. Die
+      Diktierfunktion ist auf jedem Gerät schon installiert.</p>
+      <p>Immer dieselbe Reihenfolge einsprechen: Kunde, Objekt, Positionen, Besonderheiten.
+      Wer im Büro daraus die Offerte schreibt, muss dann nichts mehr nachfragen.</p>
+    </div>
+    <span class="time">Sofort, nichts einzurichten</span>
+  </div>
+  <div class="foot"><span>Fünf Dinge, die du heute selbst automatisierst</span><span>2</span></div>
+</div>
+
+<div class="p"><div class="bar"></div>
+  <div class="item">
+    <div class="n">03</div>
+    <h2>Nachfassen, ohne<br>daran denken zu müssen.</h2>
+    <p>Der grösste stille Verlust im Betrieb ist die Offerte, bei der sich nie wieder
+    jemand meldet. Der Kunde wollte oft beauftragen, dann kam sein Alltag dazwischen.</p>
+    <div class="how">
+      <p>Beim Versand jeder Offerte sofort einen Kalendereintrag in acht Tagen setzen.
+      Titel: Nachfassen, plus Kundenname. Mehr nicht.</p>
+      <p>Wenn dir das zu kleinteilig ist: ein fixer Block pro Woche, dreissig Minuten,
+      in dem alle offenen Offerten durchtelefoniert werden. Der Termin wird nicht verschoben.</p>
+    </div>
+    <span class="time">10 Sekunden pro Offerte</span>
+  </div>
+  <div class="item">
+    <div class="n">04</div>
+    <h2>Nach Bewertungen fragen,<br>ohne jedes Mal zu überlegen.</h2>
+    <p>Zufriedene Kunden bewerten fast nie von selbst. Unzufriedene schon. Deshalb
+    steht bei guten Betrieben oft weniger als bei mittelmässigen.</p>
+    <div class="how">
+      <p>Hol dir einmal den Bewertungslink deines Google-Eintrags und speichere ihn als
+      Textbaustein im Handy, zusammen mit zwei fertigen Sätzen.</p>
+      <p>Am Tag des Abschlusses eine Nachricht an den Kunden. Nicht später. Nach zwei
+      Wochen ist die Freude weg.</p>
+    </div>
+    <span class="time">20 Minuten, einmalig</span>
+  </div>
+  <div class="foot"><span>Fünf Dinge, die du heute selbst automatisierst</span><span>3</span></div>
+</div>
+
+<div class="p"><div class="bar"></div>
+  <div class="item">
+    <div class="n">05</div>
+    <h2>Alle Anfragen<br>an einem einzigen Ort.</h2>
+    <p>Anfragen kommen per Telefon, Mail, Kontaktformular und Nachricht. Vier Orte
+    heisst: niemand hat den Überblick, und eine verlorene Anfrage fällt niemandem auf.</p>
+    <div class="how">
+      <p>Leg eine einzige Sammeladresse an, zum Beispiel anfragen@deinbetrieb.ch.</p>
+      <p>Leite das Kontaktformular deiner Website und alle bestehenden Mailadressen
+      dorthin um. Telefonnotizen kommen als kurze Mail an dieselbe Adresse.</p>
+      <p>Ab dann gibt es genau einen Ort, an dem man sieht, was offen ist. Für das
+      Formular brauchst du kurz denjenigen, der deine Website betreut.</p>
+    </div>
+    <span class="time">30 Minuten, einmalig</span>
+  </div>
+  <div class="rule"></div>
+  <p class="soft">Diese fünf Dinge haben eine Gemeinsamkeit: Sie kosten dich einmal
+  Zeit und danach nie wieder. Sie haben aber auch eine gemeinsame Schwäche. Vier
+  davon hängen daran, dass es jemand tatsächlich macht.</p>
+  <p class="big" style="color:var(--violet);margin-bottom:0;">Was oft kommt und kein Urteil
+  braucht, sollte irgendwann nicht mehr an einem Menschen hängen.</p>
+  <div class="foot"><span>Fünf Dinge, die du heute selbst automatisierst</span><span>4</span></div>
+</div>
+
+<div class="p"><div class="bar"></div>
+  <h2 style="font-size:22pt;">Wenn du wissen willst,<br>was danach kommt.</h2>
+  <p>Ich bin Florian, gelernter Plattenleger aus Näfels. Ich schaue mir mit Inhabern
+  ihre Abläufe an und baue die Teile um, die keine Entscheidung brauchen. Damit der
+  Betrieb weiterläuft, auch wenn der Chef im Kundentermin sitzt.</p>
+  <p>Die Prozessanalyse dauert ein bis zwei Stunden und kostet nichts. Du bekommst
+  danach eine ehrliche Einschätzung, auch wenn sie lautet, dass bei dir gerade
+  nichts zu tun ist.</p>
+  <div class="rule"></div>
+  <p class="soft" style="margin-bottom:0;">betriebsflow.ch<br>Oder schreib mir hier auf LinkedIn.</p>
+  <div class="foot"><span>Fünf Dinge, die du heute selbst automatisierst</span><span>5</span></div>
+</div>
+
+</body></html>
