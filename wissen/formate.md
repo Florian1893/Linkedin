@@ -48,6 +48,20 @@ Alle vier respektieren die harten Regeln: Fliesstext, keine Liste, keine Frage i
 
 ---
 
+## 5. Die Uhrzeit (laeuft ab 25.08.)
+
+**Mechanik.** Jede Folge startet mit einer Uhrzeit und einer Szene, die genau in dieser Minute spielt. Kein Rueckblick, kein Beispiel von einem Dritten, sondern der Leser mitten drin, in der zweiten Person.
+
+**Vorrat.** 06:48 die Fragen vor dem Bueroeintritt. 11:20 der Kunde, der seit einer Woche auf die Offerte wartet. 16:40 die Anfrage, die reinkommt, waehrend du im Kundentermin sitzt. 19:15 der Stapel, der auf dich gewartet hat. 05:30 am Montag nach einer Woche Grippe. Jede Stunde einer Betriebswoche ist eine Folge.
+
+**Warum das zieht.** Szenen erzeugen Verweildauer, und Verweildauer ist 2026 das Leitsignal. Die Uhrzeit als erstes Zeichen ist die Wiedererkennung, noch bevor jemand den Serienname liest. Und anders als eine Szene ueber einen Dritten (313 Impressions) steht der Leser selbst darin, das ist Spiegel statt Fenster.
+
+**Risiko.** Die Szene muss stimmen. Der Chef ist im Buero oder im Kundentermin, nie selbst auf der Baustelle. Sobald ein Detail nicht passt, steigt die Zielgruppe aus.
+
+**Reichweite pro Post: hoch. Aufwand: klein. Vorrat: praktisch unendlich.**
+
+---
+
 ## 4. Die Skizzen-Signatur (Format-Ebene, nicht Thema)
 
 **Mechanik.** Keine eigene Serie, sondern eine Bildsprache, die über jeder der drei anderen liegt. Immer derselbe Stift, dasselbe Papier, dieselben zwei Spalten, dieselbe Handschrift.

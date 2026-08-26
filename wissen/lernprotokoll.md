@@ -40,6 +40,12 @@ Median der echten Phase (ohne die zwei Kaltstart-Posts): rund 180. Das ist die L
 - Laenge Richtung 1300 Zeichen statt 1100, ob die Verweildauer das traegt.
 - Karussell, das eine Geschichte erzaehlt statt Tipps aufzaehlt. LAEUFT: 25.08.2026, Freigabe-Post, 8 Seiten Skizzen-Stil. Gegen den Text-Median von rund 180 messen.
 
+## Laufende Tests
+
+- 25.08. Uhrzeit-Serie Folge 1 (06:48). Szene in der zweiten Person, Test auf Verweildauer.
+- 27.08. Wissens-Post KI im Handwerk. Test, ob ein Denkmodell haelt, wo Listen zweimal geflopt sind (176, 109). CTA steht bewusst in der Mitte, weil der Werbeblock am Schluss den Bewertungs-Post auf 120 gedrueckt hat.
+- Freigabe-Karussell liegt fertig im Repo, noch nicht raus.
+
 ## Naechster Eintrag
 
 Sobald Florian neue Zahlen liefert, hier ergaenzen und die Rangliste neu sortieren.
