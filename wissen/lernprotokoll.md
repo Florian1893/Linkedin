@@ -16,12 +16,13 @@ Alle Posts nach Impressions. Startbestand uebernommen aus dem Skill `betriebsflo
 | 184 | Millionaer-Zitat | Zitat | - | Zitat braucht erst Kontext, wirkt nicht kalt |
 | 176 | KI-Feature-Katalog mit Pfeilen | Liste | - | Format floppt bei dieser Zielgruppe |
 | 120 | Google-Bewertungen | Frage | - | Frage selbst beantwortet, Werbeblock am Schluss |
+| 113 | KI im Handwerk (Wissens-Post, 27.08.) | These | - | Auch als Denkmodell statt Liste verpackt floppt Wissen. Vierter Beleg |
 | 109 | "Wir sind voll digitalisiert" | Ich-Anekdote | - | Ich-Einstieg, Leser urteilt ueber Dritte |
 | 109 | Griechenland-Reflexion | persoenlich | - | ohne Betriebsbezug, Zielgruppe nicht getroffen |
 | 109 | Mehrwert-Liste mit 3 Tipps | Liste | - | Format floppt |
 | 91 | "Zu viele Auftraege koennen killen" | Paradox | - | Behauptung ueber die Branche statt ueber den Leser |
 
-Median der echten Phase (ohne die zwei Kaltstart-Posts): rund 180. Das ist die Latte, gegen die neue Posts gemessen werden, nicht die 9374.
+Median der echten Phase (ohne die zwei Kaltstart-Posts): rund 180. Stand 29.08. mit 113 dazu: rund 176. Das ist die Latte, gegen die neue Posts gemessen werden, nicht die 9374.
 
 ## Abgeleitete Regeln
 
@@ -33,6 +34,7 @@ Median der echten Phase (ohne die zwei Kaltstart-Posts): rund 180. Das ist die L
 6. Bester belegter Schlusssatz: "Wachstum bringt keinen Betrieb um. Wachstum auf einem System, das fuer die Haelfte gebaut war, schon."
 7. Der Kranken-Winkel trifft die Zielgruppe stark.
 8. NEU aus der Algorithmus-Recherche: in den ersten 30 Minuten auf jeden Kommentar antworten. Rund 64 Prozent mehr Kommentare, 2,3-fache Views.
+9. ANWEISUNG FLORIAN (29.08.2026), gilt ab sofort fuer jeden Post: NUR NOCH STORYS. Kein Wissens-Post, keine These-Posts, keine Denkmodelle mehr im Feed. Beleglage: Wissen/Liste/These liegen bei 91 bis 184 (Flops: 176, 120, 113, 109, 91), Storys und Spiegel bei 313 bis 1014. Wissens-Inhalte leben nur noch im Profil-PDF und in Kommentaren. Jeder Post braucht Szene, Kippbewegung, Wendepunkt, Merksatz, eine Frage.
 
 ## Offene Tests
 
@@ -43,7 +45,7 @@ Median der echten Phase (ohne die zwei Kaltstart-Posts): rund 180. Das ist die L
 ## Laufende Tests
 
 - 25.08. Uhrzeit-Serie Folge 1 (06:48). Szene in der zweiten Person, Test auf Verweildauer.
-- 27.08. Wissens-Post KI im Handwerk. Test, ob ein Denkmodell haelt, wo Listen zweimal geflopt sind (176, 109). CTA steht bewusst in der Mitte, weil der Werbeblock am Schluss den Bewertungs-Post auf 120 gedrueckt hat.
+- 27.08. Wissens-Post KI im Handwerk: 113 Impressions, Test gescheitert. Auch ein Denkmodell mit CTA in der Mitte rettet die Saeule nicht. Wissen ist als Reichweiten-Format tot, das PDF im Profil uebernimmt diese Rolle ab jetzt allein.
 - Freigabe-Karussell liegt fertig im Repo, noch nicht raus.
 
 ## Naechster Eintrag
