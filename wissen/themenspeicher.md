@@ -22,7 +22,9 @@
 
 **Die Frage, die dreissig Mal am Tag kommt.** Wo, wann, wie viel. Jede einzeln beantwortet ist harmlos, dreissig zusammen sind ein halber Arbeitstag.
 
-**Der Stapel auf dem Schreibtisch.** Physisches Bild fuer den Engpass. Aus dem Gipser-Gespraech belegt.
+**Der Stapel auf dem Schreibtisch.** Physisches Bild fuer den Engpass. Aus dem Gipser-Gespraech belegt. Fertiger Entwurf existiert (Zweitplatzierter vom 29.08., 88.5/100), Merksatz: "Ein Stapel Arbeit laesst sich verteilen. Ein Stapel Entscheidungen wartet auf genau einen Kopf."
+
+**Das Naturgesetz.** Millionaer-Zitat als Wendepunkt statt Hook: Der Gipser haelt seinen Engpass fuer unveraenderbar wie das Wetter. Merksatz: "Das Gefaehrlichste an einem Engpass ist nicht die Zeit, die er frisst. Es ist der Moment, in dem du aufhoerst, ihn fuer loesbar zu halten." Entwurf vom 29.08. (85/100), braucht Du-Form in Absatz zwei.
 
 ## Content-Saeulen
 
