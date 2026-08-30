@@ -34,7 +34,8 @@ Median der echten Phase (ohne die zwei Kaltstart-Posts): rund 180. Stand 29.08. 
 6. Bester belegter Schlusssatz: "Wachstum bringt keinen Betrieb um. Wachstum auf einem System, das fuer die Haelfte gebaut war, schon."
 7. Der Kranken-Winkel trifft die Zielgruppe stark.
 8. NEU aus der Algorithmus-Recherche: in den ersten 30 Minuten auf jeden Kommentar antworten. Rund 64 Prozent mehr Kommentare, 2,3-fache Views.
-9. ANWEISUNG FLORIAN (29.08.2026), gilt ab sofort fuer jeden Post: NUR NOCH STORYS. Kein Wissens-Post, keine These-Posts, keine Denkmodelle mehr im Feed. Beleglage: Wissen/Liste/These liegen bei 91 bis 184 (Flops: 176, 120, 113, 109, 91), Storys und Spiegel bei 313 bis 1014. Wissens-Inhalte leben nur noch im Profil-PDF und in Kommentaren. Jeder Post braucht Szene, Kippbewegung, Wendepunkt, Merksatz, eine Frage.
+9. MILIEU-REGEL (Korrektur Florian, 29.08.): Ein Handwerksinhaber macht keine eigenen Ferien, waehrend der Betrieb laeuft. Ferien gibt es nur als Betriebsferien, wenn der ganze Betrieb zu ist. Szenen mit dem Chef am Strand bei laufendem Betrieb sind falsch und fliegen sofort auf. Gilt zusaetzlich zu: Chef ist im Buero oder im Kundentermin, nie auf der Baustelle.
+10. ANWEISUNG FLORIAN (29.08.2026), gilt ab sofort fuer jeden Post: NUR NOCH STORYS. Kein Wissens-Post, keine These-Posts, keine Denkmodelle mehr im Feed. Beleglage: Wissen/Liste/These liegen bei 91 bis 184 (Flops: 176, 120, 113, 109, 91), Storys und Spiegel bei 313 bis 1014. Wissens-Inhalte leben nur noch im Profil-PDF und in Kommentaren. Jeder Post braucht Szene, Kippbewegung, Wendepunkt, Merksatz, eine Frage.
 
 ## Offene Tests
 
