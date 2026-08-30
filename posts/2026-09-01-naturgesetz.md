@@ -10,7 +10,7 @@ Basis: dokumentiertes Gipser-Gespräch (Millionär-Zitat, Stapel, jede Offerte d
 
 Den vollen Schreibtisch behandelst du inzwischen wie das Wetter.
 
-Du ärgerst dich darüber, du planst deine Wochen drum herum, und auf die Idee, dass sich daran etwas ändern liesse, kommst du längst nicht mehr. Genau diese Haltung lag kürzlich vor mir auf einem Schreibtisch.
+Du ärgerst dich darüber, du planst drum herum, und auf die Idee, dass sich daran etwas ändern liesse, kommst du längst nicht mehr. Genau diese Haltung lag kürzlich vor mir auf einem Schreibtisch.
 
 Prozessanalyse bei einem Gipser, zwanzig Mitarbeiter, volle Auftragsbücher. Neben uns ein Stapel Kalkulationen, denn jede Offerte muss am Schluss durch ihn. Mein Vorschlag: nach dem Kundentermin einsprechen, was gerechnet werden muss, statt es abends im Büro aufzuarbeiten. Er lachte und sagte, wenn ich das wirklich hinkriege, sei er Millionär.
 
