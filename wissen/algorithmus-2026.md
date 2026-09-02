@@ -1,6 +1,6 @@
 # LinkedIn-Algorithmus 2026
 
-Recherchestand: 24.08.2026. Externe Quellen unten. Diese Datei ergaenzt den Skill `betriebsflow-linkedin`, sie ersetzt ihn nicht. Der Skill bleibt das Regelwerk, hier steht, was der Markt gerade macht.
+Recherchestand: 24.08.2026, ergaenzt 02.09.2026 (siehe unten). Externe Quellen unten. Diese Datei ergaenzt den Skill `betriebsflow-linkedin`, sie ersetzt ihn nicht. Der Skill bleibt das Regelwerk, hier steht, was der Markt gerade macht.
 
 ## Das Wichtigste in fuenf Saetzen
 
@@ -64,6 +64,13 @@ Nur ein Bruchteil der Nutzer erstellt eigene Inhalte. Wer regelmaessig postet, f
 
 Das deckt sich mit der Skill-Regel: in kleinem Netzwerk entscheidet das aktive Kommentieren auf fremden Handwerker-Posts ueber die Reichweite.
 
+## Nachtrag 02.09.2026
+
+1. **Einzelbilder liegen rund 30 Prozent HINTER reinem Text.** Ein Foto-Post ist 2026 kein Reichweiten-Format mehr fuer persoenliche Profile. Text (Story) und Dokument-Karussell sind die beiden Gewinner-Formate.
+2. **Authenticity Update Maerz 2026:** LinkedIn erkennt Engagement-Bait per Sprachanalyse und bestraft es um rund 60 Prozent. Formeln wie "Kommentiere unten", Pfeil-Emojis und "Stimmst du zu?" sind tot. Erlaubt bleibt ein natuerlich formuliertes, ehrliches Giveaway mit echtem Gegenwert.
+3. **Lead-Magnet-Posts funktionieren weiter,** wenn der Wert echt ist und der Versand persoenlich in menschlichem Tempo passiert. Jede Zusendung per Nachricht oeffnet ein Gespraech, genau das Ziel.
+4. **Die ersten 60 bis 90 Minuten entscheiden rund 70 Prozent der Reichweite.** Antworten auf Kommentare innerhalb von zwei Stunden bringt rund 30 Prozent mehr Engagement.
+
 ## Quellen
 
 - https://richardvanderblom.com/algorithm-report-corporate/
@@ -71,3 +78,7 @@ Das deckt sich mit der Skill-Regel: in kleinem Netzwerk entscheidet das aktive K
 - https://growleads.io/blog/linkedin-algorithm-2026-text-vs-video-reach/
 - https://skill-sprinters.de/blog/social-media/linkedin-algorithmus-2026/
 - https://omr.com/de/education/articles/linkedin-2026-weniger-reichweite-mehr-relevanz
+- https://www.dataslayer.ai/blog/linkedin-algorithm-february-2026-whats-working-now
+- https://www.ecomghosts.com/blog/linkedin-engagement-bait-penalty-ecommerce-founders/
+- https://saylink.io/blog/linkedin-comment-to-dm
+- https://meet-lea.com/en/blog/viral-linkedin-posts

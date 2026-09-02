@@ -12,6 +12,7 @@ Alle Posts nach Impressions. Startbestand uebernommen aus dem Skill `betriebsflo
 | 662 | "Du bist der teuerste Mitarbeiter" | direkte Ansprache | B | Spiegel ohne Szene, funktioniert nackt |
 | 359 | Nachfassen | Aussage | A | Hook gut, aber zwei Fragen am Schluss plus Hashtags |
 | 313 | Gipser spricht Offerte ein | Szene | C | Fenster statt Spiegel, Handlung eines Dritten |
+| 250 | Naturgesetz-Post (01.09., Millionaer als Wendepunkt) | Spiegel-Hook, dann Fenster-Szene | A | Ueber Median, aber die Gipser-Szene bleibt Fenster. Dritter Beleg: erzaehlte Dritte deckeln bei 250 bis 313, volle Du-Posts holen 662 plus |
 | 243 | Verlorene Anfrage | Tautologie | - | Hook loest nichts auf, nichts zu erfahren |
 | 184 | Millionaer-Zitat | Zitat | - | Zitat braucht erst Kontext, wirkt nicht kalt |
 | 176 | KI-Feature-Katalog mit Pfeilen | Liste | - | Format floppt bei dieser Zielgruppe |
