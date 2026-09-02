@@ -46,6 +46,8 @@ Antwortquote (nach kompletter Sequenz): noch keine Daten. Benchmark: 20-30 % sol
 
 Nicht kontaktieren (Florians Entscheid): Claudio Baggio (Baggio Fenster und Tueren, Glarus) — nicht anschreiben, nicht tracken.
 
+Netzwerk-Kontakte (nicht pitchen, nur Beziehung/Sichtbarkeit): Paul Buehler (CEO Marti AG Bauunternehmung Zuerich) — Grossunternehmen, weit ausserhalb ICP. Kein Prozessanalyse-Pitch. Stattdessen: Marti-Posts gelegentlich ehrlich kommentieren (Reichweite bei seinem Publikum), optional pitchfreie Beziehungs-Nachricht.
+
 ## Regeln (Kurzfassung aus SOP und Playbook)
 
 - FU1 nach 3-4 Tagen ohne Antwort, FU2 nach weiteren 4-5 Tagen, danach VERLOREN und in Ruhe lassen.
