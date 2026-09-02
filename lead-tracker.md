@@ -39,6 +39,7 @@ Antwortquote (nach kompletter Sequenz): noch keine Daten. Benchmark: 20-30 % sol
 | 15 | Hevzi Badalli | Badalli Fassaden AG | Gipser/Fassade | A | ENTWURF | - | - | - | - | Inhaber seit 2001, GU-Zulieferer (HRS, allron). Erstgespraech: Rapporte und Ausmass ansprechen. |
 | 16 | Michael Walser | Stoeckle Metallbau AG | Metallbau | B | ENTWURF | - | - | - | - | Kaum LinkedIn-aktiv (letzter Post 11 Monate), langsame Reaktion einplanen. |
 | 17 | Thomas Feldmann | Feldmann Gaerten AG | Gartenbau | A | ENTWURF | - | - | - | - | TOP-PRIO: Hat den Margen-Schmerz vor 2 Wochen oeffentlich selbst formuliert, sitzt in Ziegelbruecke (Nachbar), Ex-Hauser Naefels. Zuerst senden, bei Antwort sofort reagieren. |
+| 18 | Hansueli Knobel | Knobel Naturstein/Keramik/Ofenbau AG | Naturstein/Keramik | A | ENTWURF | - | - | - | - | Schwanden GL, Inhaber seit 1998, gleiches Gewerk wie Florian. VOR SENDEN: Verhaeltnis zu Florians Lehrbetrieb pruefen. Erstgespraech-Winkel: Nachfolge/Betriebswert. |
 
 Nicht kontaktieren (Florians Entscheid): Claudio Baggio (Baggio Fenster und Tueren, Glarus) — nicht anschreiben, nicht tracken.
 
