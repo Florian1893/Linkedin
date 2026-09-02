@@ -43,6 +43,7 @@ Antwortquote (nach kompletter Sequenz): noch keine Daten. Benchmark: 20-30 % sol
 | 19 | Renato Breny | Baebler Heizungen AG | Heizung | A | ENTWURF | - | - | - | - | Buelach ZH. Saison-Einstieg (Heizsaison) — Nachricht zeitnah senden, sonst verpufft der Anker. Kaum LinkedIn-aktiv. Falls kleiner Betrieb: Rechnung auf 5h/20k. |
 | 20 | Vincenzo Gatto | SIGA Aufzuege AG | Aufzuege/Service | A | ENTWURF | - | - | - | - | Glarus, Referenzen in Naefels/Netstal. Uebernahme-Story 2020. Erstgespraech: Tiziana Gatto-Sergi (Admin-Leitung) einbeziehen. Falls kleines Team: Rechnung 5h/20k. |
 | 21 | Monir Nouri | FensterWerk GmbH | Fenster/Tueren-Service | A | ENTWURF | - | - | - | - | Hat Offerten-Ghosting-Frust oeffentlich gepostet ("Genug ist genug", verrechnet Offerten jetzt) — Nachfassen ist SEIN Thema. Sehr aktiv, waechst, 44 gemeinsame Kontakte. Sturm-Anker zeitnah senden. |
+| 22 | Reto Wetter | Pletscher Metallbau AG | Metallbau | A | ENTWURF | - | - | - | - | 46 MA, Beringen SH. Digital-Vorreiter (Lean, KI, BIM) — Augenhoehe-Ton, "Verschwendung"-Sprache, Analyse als zweites Paar Augen. Anspruchsvoller Gespraechspartner, Multiplikator (bald VR Raiffeisenbank SH). |
 
 Nicht kontaktieren (Florians Entscheid): Claudio Baggio (Baggio Fenster und Tueren, Glarus) — nicht anschreiben, nicht tracken.
 
