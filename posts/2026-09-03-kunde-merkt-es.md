@@ -6,14 +6,15 @@ Bild: skizzen/bild-postit.png (gelbes Post-it, "Jede Anfrage wird sofort bestät
 Alternativbild: skizzen/bild-ruf.png (Zwei-Spalten-Skizze innen gegen aussen)
 Content-Säule: Schmerz-Story mit kleinem Pitch in der Mitte
 Thema: Ruf von aussen, komplett unbespielt (bisher alles Innensicht)
+Gewerk: Sanitär (Badsanierung). Nächste Posts rotieren: Gipser, Maler, Elektro, Schreiner.
 
 ## Post
 
 Dein Ruf wird gerade beschädigt. Nur nicht auf der Baustelle.
 
-Von innen fühlt sich dein Betrieb normal an. Zwanzig Mitarbeiter, die Baustellen laufen, die Arbeit stimmt. Aber der Kunde, der vor fünf Tagen angefragt hat, erlebt einen anderen Betrieb. Er sieht deinen Schreibtisch nicht, den Stapel, den Kundentermin, der länger ging. Er sieht nur, dass nichts kommt.
+Von innen fühlt sich dein Betrieb normal an. Zwanzig Mitarbeiter, die Baustellen laufen, die Arbeit stimmt. Aber der Kunde, der vor fünf Tagen wegen der Badsanierung angefragt hat, erlebt einen anderen Betrieb. Er sieht deinen Schreibtisch nicht, den Stapel, den Termin, der länger ging. Er sieht nur, dass nichts kommt.
 
-Am zweiten Tag denkt er, es sei halt viel los. Am vierten zieht er den einzigen möglichen Schluss: So wie die mit Anfragen umgehen, arbeiten die wahrscheinlich auch auf der Baustelle. Das stimmt nicht, aber es ist alles, was er von dir gesehen hat. Am fünften ruft er woanders an.
+Am zweiten Tag denkt er, es sei halt viel los. Am vierten zieht er den einzigen möglichen Schluss: So wie die mit Anfragen umgehen, arbeiten die wahrscheinlich auch auf der Baustelle. Das stimmt nicht, aber es ist alles, was er von dir gesehen hat. Am fünften ruft er beim nächsten Sanitär an.
 
 Und du merkst nichts davon. Keine Absage, kein böses Wort, einfach eine Anfrage weniger.
 
