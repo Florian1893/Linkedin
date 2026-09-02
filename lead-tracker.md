@@ -11,12 +11,12 @@ Stand: 2026-09-02. 23 Nachrichten verschickt: Welle 1 am 01.09. (FU1 Fr 04.09., 
 | Stufe | Anzahl |
 |---|---|
 | Nachrichten gesendet | 23 (10 am 01.09., 13 am 02.09.) |
-| Geantwortet | 0 |
+| Geantwortet | 1 |
 | Termin gebucht | 0 |
 | Erschienen | 0 |
 | Abgeschlossen | 0 |
 
-Antwortquote (nach kompletter Sequenz): noch keine Daten. Benchmark: 20-30 % solide, ab 30 % Volumen erhoehen statt Nachricht aendern, unter 15 % nach 30+ Nachrichten zuerst Ice Breaker ueberarbeiten.
+Antwortquote (Stand 02.09.): 1 von 23 (4 %), erste Antwort nach 49 Minuten. Einwand-Muster: "Wir loesen es intern" (eigene Stelle). Zu frueh fuer Schluesse. Benchmark: 20-30 % solide, ab 30 % Volumen erhoehen statt Nachricht aendern, unter 15 % nach 30+ Nachrichten zuerst Ice Breaker ueberarbeiten.
 
 ## Leads
 
@@ -43,7 +43,7 @@ Antwortquote (nach kompletter Sequenz): noch keine Daten. Benchmark: 20-30 % sol
 |19|Renato Breny|Baebler Heizungen AG|Heizung|A|GESENDET|02.09.|Mo 07.09.|Fr 11.09.|-|Buelach ZH. Saison-Einstieg (Heizsaison) — Nachricht zeitnah senden, sonst verpufft der Anker. Kaum LinkedIn-aktiv. Falls kleiner Betrieb: Rechnung auf 5h/20k.|
 |20|Vincenzo Gatto|SIGA Aufzuege AG|Aufzuege/Service|A|GESENDET|02.09.|Mo 07.09.|Fr 11.09.|-|Glarus, Referenzen in Naefels/Netstal. Uebernahme-Story 2020. Erstgespraech: Tiziana Gatto-Sergi (Admin-Leitung) einbeziehen. Falls kleines Team: Rechnung 5h/20k.|
 |21|Monir Nouri|FensterWerk GmbH|Fenster/Tueren-Service|A|GESENDET|02.09.|Mo 07.09.|Fr 11.09.|-|Hat Offerten-Ghosting-Frust oeffentlich gepostet ("Genug ist genug", verrechnet Offerten jetzt) — Nachfassen ist SEIN Thema. Sehr aktiv, waechst, 44 gemeinsame Kontakte. Sturm-Anker zeitnah senden.|
-|22|Reto Wetter|Pletscher Metallbau AG|Metallbau|A|GESENDET|02.09.|Mo 07.09.|Fr 11.09.|-|46 MA, Beringen SH. Digital-Vorreiter (Lean, KI, BIM) — Augenhoehe-Ton, "Verschwendung"-Sprache, Analyse als zweites Paar Augen. Anspruchsvoller Gespraechspartner, Multiplikator (bald VR Raiffeisenbank SH).|
+|22|Reto Wetter|Pletscher Metallbau AG|Metallbau|A|ANTWORT (Absage)|02.09.|-|-|02.09. nach 49 Min|ABSAGE, hoeflich: schaffen intern eine Teilzeit-Stelle mit Weiterbildung fuer genau diese Themen. Bedarf bestaetigt, Weg intern. KEIN Nachfassen. Wiedervorlage ~Maerz 2027. Hat KI-Verdacht angesprochen — offen beantwortet. |46 MA, Beringen SH. Digital-Vorreiter (Lean, KI, BIM) — Augenhoehe-Ton, "Verschwendung"-Sprache, Analyse als zweites Paar Augen. Anspruchsvoller Gespraechspartner, Multiplikator (bald VR Raiffeisenbank SH).|
 |23|Hansruedi Roeschmann|Roeschmann Automobile Glarus|Autohaus (kein Kern-ICP)|B|ENTWURF|-|-|-|-|NICHT GESENDET am 01./02.09. — Glarner Netzwerk-Knoten (taucht bei Knobel, Baehler, Baggio als gemeinsamer Kontakt auf), 40 Jahre Inhaber. Als Beziehung wertvoller denn als Kunde. ACHTUNG: verkauft seit ~3 Monaten die Gewerbeliegenschaft — Hintergrund vor dem Senden klaeren, Thema nicht ansprechen.|
 |24|Robin Attenhofer|AF Dachtechnik AG|Spengler/Dach|A|GESENDET|02.09.|Mo 07.09.|Fr 11.09.|-|Thusis GR, Spengler-Lehre 2016, eigene AG seit 2020 (jung, vermutlich klein). Kleine Rechnung 5h/20k. Kaum LinkedIn-aktiv. Gespraechswinkel: Dachkontrollen vor Winter, Sturm-Notfaelle.|
 |25|Filippo Milone|Fartec GmbH|Solar/PV|A|GESENDET|02.09.|Mo 07.09.|Fr 11.09.|-|Kreuzlingen TG, Firma seit Feb 2025, vorher 12 J. Elektriker/Techniker. Winkel: hoher Offerten-Aufwand bei tiefer Abschlussquote in der Solarbranche. Erstgespraech: Pronovo/Foerderantraege abfragen. Kleine Rechnung 5h/20k.|
