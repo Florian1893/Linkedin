@@ -2,7 +2,7 @@
 
 Datum: 2026-09-03 (Donnerstag), 07:30
 Format: Story plus Post-it-Bild mit der Lösung, kleiner Pitch in der Mitte
-Bild: skizzen/bild-postit.png (gelbes Post-it, "Jede Anfrage bekommt noch am gleichen Tag eine Antwort")
+Bild: skizzen/bild-postit.png (gelbes Post-it, "Jede Anfrage wird sofort bestätigt", Unterzeile "Die Offerte darf dauern. Das Schweigen nicht.")
 Alternativbild: skizzen/bild-ruf.png (Zwei-Spalten-Skizze innen gegen aussen)
 Content-Säule: Schmerz-Story mit Giveaway-Schluss
 Thema: Ruf von aussen, komplett unbespielt (bisher alles Innensicht)

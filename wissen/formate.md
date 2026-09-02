@@ -99,3 +99,35 @@ Der Handwerker-Hintergrund ist Beleg, nie Vorstellung. Konkret:
 - In Posts gilt zusaetzlich die alte Regel: das erste Wort gehoert dem Leser, nie "Ich".
 
 Grund: Der Hintergrund wirkt als beilaeufiger Beweis. Als Vorstellung wirkt er wie eine Bewerbung, und bei jeder Wiederholung verliert er.
+
+---
+
+## 6. Blick hinter die Kulissen (gemerkt am 02.09., noch nicht gelaufen)
+
+Von Florian aus dem Feed mitgebracht. Eine Ghostwriterin erklaert Schritt fuer
+Schritt, wie eine Zusammenarbeit mit ihr ablaeuft: Fragebogen, erste Strategie,
+Workshop, danach der monatliche Takt. Am Schluss eine Frage, die nichts mit dem
+Angebot zu tun hat.
+
+**Warum das interessant ist.** Es nimmt dem Interessenten die Angst vor dem
+ersten Schritt. Wer den Ablauf kennt, muss vor dem Erstgespraech nicht mehr
+raten, was auf ihn zukommt. Fuer eine kostenlose Prozessanalyse ist das der
+direkteste Weg von Neugier zu Termin.
+
+**Umbau fuer unsere Zielgruppe, zwingend.** Das Original ist eine Liste mit
+Emojis und in der Wir-Form. Beides floppt bei Handwerksinhabern (176, 109).
+Unsere Fassung: Fliesstext, keine Emojis, keine Aufzaehlung, der Ablauf als
+kurze Erzaehlung eines echten Termins. Also nicht "so laeuft es ab", sondern
+"letzte Woche sass ich bei einem Gipser am Tisch, und so ist es gelaufen".
+Damit wird aus dem Ablauf-Post wieder eine Story und die Nur-Story-Regel bleibt
+eingehalten.
+
+**Wann einsetzen.** Nicht als naechster Post. Er wirkt erst, wenn jemand schon
+Interesse hat, also nach ein paar Reichweiten-Posts oder wenn die ersten
+Anfragen kommen. Frueh eingesetzt beantwortet er eine Frage, die noch niemand
+gestellt hat.
+
+**Risiko.** Klingt schnell nach Verkaufsprospekt. Gegenmittel: eine konkrete
+Szene statt Prozessbeschreibung, und mindestens ein Satz darueber, was in der
+Analyse NICHT passiert (kein Verkaufsgespraech, keine Software-Empfehlung am
+ersten Tag).

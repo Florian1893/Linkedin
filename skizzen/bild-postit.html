@@ -14,18 +14,18 @@
 .note::before{content:'';position:absolute;left:0;right:0;top:0;height:74px;background:rgba(255,255,255,.28);}
 .k{position:absolute;left:170px;right:170px;top:330px;transform:rotate(-2.4deg);
  font-weight:400;font-size:56px;color:#5a5030;letter-spacing:1px;}
-.t{position:absolute;left:170px;right:150px;top:412px;transform:rotate(-2.4deg);
+.t{position:absolute;left:170px;right:150px;top:470px;transform:rotate(-2.4deg);
  font-weight:700;font-size:104px;line-height:1.08;color:#2b2b2b;}
 .sub{position:absolute;left:80px;right:80px;top:1178px;text-align:center;
- font-weight:400;font-size:54px;color:#6f6a60;white-space:nowrap;}
+ font-weight:400;font-size:50px;color:#6f6a60;white-space:nowrap;}
 svg{position:absolute;left:0;top:0;width:1080px;height:1350px;}
 </style></head><body>
 <div class="s">
   <div class="note"></div>
   <svg id="a" viewBox="0 0 1080 1350"></svg>
   <div class="k">NEUE REGEL AB HEUTE:</div>
-  <div class="t">JEDE ANFRAGE<br>BEKOMMT NOCH<br>AM GLEICHEN TAG<br>EINE ANTWORT.</div>
-  <div class="sub">Auch wenn du im Kundentermin sitzt.</div>
+  <div class="t">JEDE ANFRAGE<br>WIRD SOFORT<br>BESTÄTIGT.</div>
+  <div class="sub">Die Offerte darf dauern. Das Schweigen nicht.</div>
 </div>
 <script src="node_modules/roughjs/bundled/rough.js"></script>
 <script>
@@ -33,8 +33,8 @@ const A=document.getElementById('a'), r=rough.svg(A);
 const o=(c,w,s)=>({stroke:c,strokeWidth:w||3,roughness:2.1,bowing:2.2,seed:s||7});
 const add=n=>A.appendChild(n);
 // gruene Doppel-Unterstreichung unter "AM GLEICHEN TAG" (Zeile 3 der Note)
-add(r.line(178,930,860,918,o('#2f7d32',7,11)));
-add(r.line(188,952,846,942,o('#2f7d32',5,12)));
+add(r.line(178,872,700,860,o('#2f7d32',7,11)));
+add(r.line(188,894,688,884,o('#2f7d32',5,12)));
 // Reisszwecke oben mittig auf der Note
 add(r.circle(540,266,34,o('#2b2b2b',3.4,21)));
 add(r.circle(540,266,10,o('#2b2b2b',2.6,22)));
