@@ -48,6 +48,7 @@ Antwortquote (nach kompletter Sequenz): noch keine Daten. Benchmark: 20-30 % sol
 | 24 | Robin Attenhofer | AF Dachtechnik AG | Spengler/Dach | A | ENTWURF | - | - | - | - | Thusis GR, Spengler-Lehre 2016, eigene AG seit 2020 (jung, vermutlich klein). Kleine Rechnung 5h/20k. Kaum LinkedIn-aktiv. Gespraechswinkel: Dachkontrollen vor Winter, Sturm-Notfaelle. |
 | 25 | Filippo Milone | Fartec GmbH | Solar/PV | A | ENTWURF | - | - | - | - | Kreuzlingen TG, Firma seit Feb 2025, vorher 12 J. Elektriker/Techniker. Winkel: hoher Offerten-Aufwand bei tiefer Abschlussquote in der Solarbranche. Erstgespraech: Pronovo/Foerderantraege abfragen. Kleine Rechnung 5h/20k. |
 | 26 | Sebastian Albert | glas & planung AG | Metallbau/Glas | A | ENTWURF | - | - | - | - | Huenenberg ZG, Firma seit 2023, Auftragsbuecher bis 2028 (Letzigarten 380 Whg). Selbst LinkedIn-/Leadgen-Profi mit eigenem Gratis-Erstgespraech — Augenhoehe-Ton, Tueroeffner offen benennen. Partner Valon Dushica = gleicher Betrieb, nicht doppelt anschreiben. |
+| 27 | Mirco Della Rossa | Super Polish GmbH | Oberflaechensanierung/Bauschaeden | A | ENTWURF | - | - | - | - | Pfaeffikon SZ, Firma seit 2024. USP ist "Chef persoenlich vor Ort" (Post 06:30-Baustelle) — NICHT als Problem framen, sondern: Buerozeit fehlt dort, wo er am staerksten ist. Viele kleine Einsaetze = viel Admin pro Auftrag. Kleine Rechnung 5h/20k. |
 
 Nicht kontaktieren (Florians Entscheid): Claudio Baggio (Baggio Fenster und Tueren, Glarus) — nicht anschreiben, nicht tracken.
 
