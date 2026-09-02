@@ -16,6 +16,12 @@ Verbindliche Struktur fuer jede Cold-Outreach-Erstnachricht. Von Florian freigeg
 
 > Ich analysiere jeden Handwerksbetrieb individuell und automatisiere genau die Ablaeufe, die dort am meisten Zeit fressen, damit bei gleichem Team mehr Profit uebrig bleibt.
 
+## Florians LinkedIn-Headline (offizieller Ein-Satz-Pitch, Stand 02.09.2026)
+
+> Ich automatisiere den Bueroalltag von Schweizer Handwerksbetrieben und spare dir so 10+ Stunden pro Woche ein.
+
+Optionaler Zusatz (No-Brainer): "Einstieg: kostenlose Prozessanalyse, 30 Minuten." Die 10+ Stunden stehen auch auf dem Banner; Headline, Banner und Nachrichten muessen dieselben Zahlen erzaehlen. Die 40'000-Franken-Zahl bleibt den Nachrichten vorbehalten (offene Rechnung: 10 h x 100 CHF x 48 Wochen), nie als Kundenresultat behaupten.
+
 Wichtig: Das Offer ist NICHT auf Offerten fixiert. Offerten, Nachfassen, Anfragen, Rapporte sind Beispiele zum Andocken. Kern ist die individuelle Analyse plus Custom-Prozessoptimierung. Winkel: Profit (nicht Umsatz).
 
 ## Struktur der Pitch-Message (5 Bausteine, feste Reihenfolge)
