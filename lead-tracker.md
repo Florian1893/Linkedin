@@ -45,8 +45,8 @@ Antwortquote (nach kompletter Sequenz): noch keine Daten. Benchmark: 20-30 % sol
 | 21 | Monir Nouri | FensterWerk GmbH | Fenster/Tueren-Service | A | ENTWURF | - | - | - | - | Hat Offerten-Ghosting-Frust oeffentlich gepostet ("Genug ist genug", verrechnet Offerten jetzt) — Nachfassen ist SEIN Thema. Sehr aktiv, waechst, 44 gemeinsame Kontakte. Sturm-Anker zeitnah senden. |
 | 22 | Reto Wetter | Pletscher Metallbau AG | Metallbau | A | ENTWURF | - | - | - | - | 46 MA, Beringen SH. Digital-Vorreiter (Lean, KI, BIM) — Augenhoehe-Ton, "Verschwendung"-Sprache, Analyse als zweites Paar Augen. Anspruchsvoller Gespraechspartner, Multiplikator (bald VR Raiffeisenbank SH). |
 | 23 | Hansruedi Roeschmann | Roeschmann Automobile Glarus | Autohaus (kein Kern-ICP) | B | ENTWURF | - | - | - | - | Glarner Netzwerk-Knoten (taucht bei Knobel, Baehler, Baggio als gemeinsamer Kontakt auf), 40 Jahre Inhaber. Als Beziehung wertvoller denn als Kunde. ACHTUNG: verkauft seit ~3 Monaten die Gewerbeliegenschaft — Hintergrund vor dem Senden klaeren, Thema nicht ansprechen. |
-
 | 24 | Robin Attenhofer | AF Dachtechnik AG | Spengler/Dach | A | ENTWURF | - | - | - | - | Thusis GR, Spengler-Lehre 2016, eigene AG seit 2020 (jung, vermutlich klein). Kleine Rechnung 5h/20k. Kaum LinkedIn-aktiv. Gespraechswinkel: Dachkontrollen vor Winter, Sturm-Notfaelle. |
+| 25 | Filippo Milone | Fartec GmbH | Solar/PV | A | ENTWURF | - | - | - | - | Kreuzlingen TG, Firma seit Feb 2025, vorher 12 J. Elektriker/Techniker. Winkel: hoher Offerten-Aufwand bei tiefer Abschlussquote in der Solarbranche. Erstgespraech: Pronovo/Foerderantraege abfragen. Kleine Rechnung 5h/20k. |
 
 Nicht kontaktieren (Florians Entscheid): Claudio Baggio (Baggio Fenster und Tueren, Glarus) — nicht anschreiben, nicht tracken.
 
