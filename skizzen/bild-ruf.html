@@ -1,0 +1,72 @@
+<!doctype html><html lang="de"><head><meta charset="utf-8">
+<style>
+@font-face{font-family:'Caveat';font-weight:400;src:url(caveat-400.ttf) format('truetype');}
+@font-face{font-family:'Caveat';font-weight:700;src:url(caveat-700.ttf) format('truetype');}
+*{margin:0;padding:0;box-sizing:border-box;}
+.s{width:1080px;height:1350px;background:#fdfcf7;position:relative;overflow:hidden;font-family:'Caveat',cursive;}
+.s::after{content:'';position:absolute;inset:0;pointer-events:none;
+ background:radial-gradient(circle at 20% 12%,rgba(0,0,0,.03),transparent 55%),
+            radial-gradient(circle at 82% 90%,rgba(0,0,0,.035),transparent 58%);}
+svg{position:absolute;left:0;top:0;width:1080px;height:1350px;}
+.h{position:absolute;top:96px;font-weight:700;font-size:72px;line-height:1.02;color:#2b2b2b;text-align:center;}
+.hl{left:30px;width:480px;}
+.hr{right:30px;width:480px;}
+.u{position:absolute;bottom:150px;font-weight:700;font-size:56px;line-height:1.05;text-align:center;}
+.ul{left:30px;width:480px;color:#2f7d32;}
+.ur{right:30px;width:480px;color:#c8302b;}
+</style></head><body>
+<div class="s">
+  <svg id="a" viewBox="0 0 1080 1350"></svg>
+  <div class="h hl">WAS DU<br>SIEHST.</div>
+  <div class="h hr">WAS DEIN<br>KUNDE SIEHT.</div>
+  <div class="u ul">ALLES LÄUFT.</div>
+  <div class="u ur">SEIT FÜNF<br>TAGEN NICHTS.</div>
+</div>
+<script src="node_modules/roughjs/bundled/rough.js"></script>
+<script>
+const A=document.getElementById('a'), r=rough.svg(A);
+const INK='#2b2b2b', RED='#c8302b', GRN='#2f7d32', P='#6f6a60';
+const o=(c,w,s)=>({stroke:c,strokeWidth:w||3,roughness:1.9,bowing:1.6,seed:s||7});
+const add=n=>A.appendChild(n);
+
+// Trennlinie
+add(r.line(540,120,540,1180,o('#d9d4c8',3,4)));
+
+// LINKS: Haus mit Arbeiter, gruener Haken
+add(r.rectangle(120,560,300,240,o(INK,4,11)));                    // Hauskoerper
+add(r.line(100,560,270,430,o(INK,4,12)));                         // Dach links
+add(r.line(270,430,440,560,o(INK,4,13)));                         // Dach rechts
+add(r.rectangle(200,660,70,140,o(INK,3,14)));                     // Tuer
+add(r.rectangle(320,620,70,70,o(INK,3,15)));                      // Fenster
+// Leiter, bleibt links der Trennlinie
+add(r.line(400,800,450,540,o(INK,3.5,16))); add(r.line(450,800,500,540,o(INK,3.5,17)));
+for(let k=0;k<5;k++){const t=k/4; add(r.line(400+50*t,800-260*t,450+50*t,800-260*t,o(INK,3,18+k)));}
+// Figur auf der Leiter
+add(r.circle(480,462,40,o(INK,3,25)));
+add(r.line(480,482,476,540,o(INK,3,26)));
+add(r.line(476,540,458,585,o(INK,3,27))); add(r.line(476,540,494,585,o(INK,3,28)));
+add(r.line(478,498,452,518,o(INK,3,29))); add(r.line(478,498,508,512,o(INK,3,30)));
+// Gruener Haken im Kreis
+add(r.circle(180,430,110,o(GRN,5,31)));
+add(r.line(140,430,172,466,o(GRN,7,32))); add(r.line(172,466,230,392,o(GRN,7,33)));
+
+// RECHTS: grosser Briefumschlag, fuenf Striche, Figur geht weg
+add(r.rectangle(640,560,300,200,o(INK,4,41)));                    // Umschlag
+add(r.line(640,560,790,680,o(INK,3.5,42)));                       // Lasche links
+add(r.line(940,560,790,680,o(INK,3.5,43)));                       // Lasche rechts
+// Fuenf Tage Strichliste
+for(let k=0;k<4;k++) add(r.line(680+k*46,420,680+k*46,500,o(RED,6,44+k)));
+add(r.line(660,510,830,412,o(RED,6,48)));
+// Wartende kleine Uhr
+add(r.circle(950,450,80,o(P,3,51)));
+add(r.line(950,450,950,410,o(P,3.5,52))); add(r.line(950,450,978,462,o(P,3.5,53)));
+// Figur geht nach rechts weg (vom Umschlag abgewandt)
+add(r.circle(920,880,44,o(INK,3,61)));
+add(r.line(920,902,928,975,o(INK,3,62)));
+add(r.line(928,975,905,1050,o(INK,3,63))); add(r.line(928,975,972,1040,o(INK,3,64)));
+add(r.line(923,925,896,955,o(INK,3,65))); add(r.line(923,925,955,940,o(INK,3,66)));
+// kleine Schritte-Spur vom Umschlag zur Figur
+for(let k=0;k<3;k++) add(r.line(790+k*44,830+k*14,806+k*44,834+k*14,o(P,3,67+k)));
+
+window.__ready={rough:typeof rough,n:A.childElementCount};
+</script></body></html>
