@@ -47,7 +47,6 @@ Antwortquote (nach kompletter Sequenz): noch keine Daten. Benchmark: 20-30 % sol
 | 23 | Hansruedi Roeschmann | Roeschmann Automobile Glarus | Autohaus (kein Kern-ICP) | B | ENTWURF | - | - | - | - | Glarner Netzwerk-Knoten (taucht bei Knobel, Baehler, Baggio als gemeinsamer Kontakt auf), 40 Jahre Inhaber. Als Beziehung wertvoller denn als Kunde. ACHTUNG: verkauft seit ~3 Monaten die Gewerbeliegenschaft — Hintergrund vor dem Senden klaeren, Thema nicht ansprechen. |
 | 24 | Robin Attenhofer | AF Dachtechnik AG | Spengler/Dach | A | ENTWURF | - | - | - | - | Thusis GR, Spengler-Lehre 2016, eigene AG seit 2020 (jung, vermutlich klein). Kleine Rechnung 5h/20k. Kaum LinkedIn-aktiv. Gespraechswinkel: Dachkontrollen vor Winter, Sturm-Notfaelle. |
 | 25 | Filippo Milone | Fartec GmbH | Solar/PV | A | ENTWURF | - | - | - | - | Kreuzlingen TG, Firma seit Feb 2025, vorher 12 J. Elektriker/Techniker. Winkel: hoher Offerten-Aufwand bei tiefer Abschlussquote in der Solarbranche. Erstgespraech: Pronovo/Foerderantraege abfragen. Kleine Rechnung 5h/20k. |
-
 | 26 | Sebastian Albert | glas & planung AG | Metallbau/Glas | A | ENTWURF | - | - | - | - | Huenenberg ZG, Firma seit 2023, Auftragsbuecher bis 2028 (Letzigarten 380 Whg). Selbst LinkedIn-/Leadgen-Profi mit eigenem Gratis-Erstgespraech — Augenhoehe-Ton, Tueroeffner offen benennen. Partner Valon Dushica = gleicher Betrieb, nicht doppelt anschreiben. |
 
 Nicht kontaktieren (Florians Entscheid): Claudio Baggio (Baggio Fenster und Tueren, Glarus) — nicht anschreiben, nicht tracken.
