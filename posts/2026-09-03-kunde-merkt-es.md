@@ -9,15 +9,15 @@ Thema: Ruf von aussen, komplett unbespielt (bisher alles Innensicht)
 
 Deine Kunden merken vor dir, dass es zu viel ist.
 
-Von innen fühlt sich dein Betrieb normal an. Zwanzig Mitarbeiter eingeteilt, die Baustellen laufen, die Qualität stimmt. Aber der Kunde, der vor fünf Tagen angefragt hat, erlebt einen anderen Betrieb. Er sieht deinen Schreibtisch nicht, den Stapel, den Kundentermin, der länger ging. Er sieht nur, dass nichts kommt. Keine Antwort, keine Bestätigung, kein Zeichen, dass seine Anfrage überhaupt angekommen ist.
+Von innen fühlt sich dein Betrieb normal an. Zwanzig Mitarbeiter, die Baustellen laufen, die Qualität stimmt. Aber der Kunde, der vor fünf Tagen angefragt hat, erlebt einen anderen Betrieb. Er sieht deinen Schreibtisch nicht, den Stapel, den Kundentermin, der länger ging. Er sieht nur, dass nichts kommt. Keine Antwort, keine Bestätigung, kein Zeichen, dass sie angekommen ist.
 
-Am zweiten Tag denkt er, es sei halt viel los. Am vierten fragt er beim nächsten Betrieb an. Am fünften zieht er den einzigen Schluss, den er ziehen kann: So wie die mit Anfragen umgehen, arbeiten die wahrscheinlich auch auf der Baustelle. Das ist unfair und stimmt nicht. Aber es ist alles, was er von dir gesehen hat.
+Am zweiten Tag denkt er, es sei halt viel los. Am vierten fragt er beim nächsten Betrieb an. Am fünften zieht er den einzigen möglichen Schluss: So wie die mit Anfragen umgehen, arbeiten die wahrscheinlich auch auf der Baustelle. Das stimmt nicht. Aber es ist alles, was er von dir gesehen hat.
 
 Und du merkst nichts davon. Keine Absage, kein böses Wort, einfach eine Anfrage weniger auf dem Stapel.
 
 Zwanzig Jahre Baustelle bauen deinen Ruf auf. Fünf stille Tage im Posteingang bauen ihn ab.
 
-Gegen genau das gibt es fünf einfache Gegenmittel. Keines braucht neue Software, das schnellste ist in fünfzehn Minuten eingerichtet. Ich habe sie als kurzes PDF aufgeschrieben. Soll ich es dir schicken?
+Dagegen gibt es fünf einfache Gegenmittel, keines braucht neue Software. Ich habe sie als kurzes PDF aufgeschrieben. Soll ich es dir schicken?
 
 ## Alternative Hooks
 
