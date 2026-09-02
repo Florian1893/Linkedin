@@ -10,7 +10,7 @@ Gewerk: Sanitär (Badsanierung). Nächste Posts rotieren: Gipser, Maler, Elektro
 
 ## Post
 
-Dein Ruf wird gerade beschädigt. Nur nicht auf der Baustelle.
+Dein Ruf als Sanitär wird gerade beschädigt. Nur nicht auf der Baustelle.
 
 Von innen fühlt sich dein Betrieb normal an. Zwanzig Mitarbeiter, die Baustellen laufen, die Arbeit stimmt. Aber der Kunde, der vor fünf Tagen wegen der Badsanierung angefragt hat, erlebt einen anderen Betrieb. Er sieht deinen Schreibtisch nicht, den Stapel, den Termin, der länger ging. Er sieht nur, dass nichts kommt.
 
@@ -26,8 +26,10 @@ Wie alt ist die älteste Anfrage, die bei dir noch auf eine Antwort wartet?
 
 ## Alternative Hooks
 
-1. Dein Kunde wartet seit fünf Tagen. Du weisst es nicht.
-2. Von innen sieht dein Betrieb normal aus. Von aussen nicht.
+1. Seit fünf Tagen wartet eine Badsanierung auf deine Antwort.
+2. Zwanzig Mitarbeiter im Sanitär, und du verlierst Kunden, die nie absagen.
+
+Beide nennen das Gewerk ebenfalls in Zeile eins.
 
 Experten-Runde 02.09. eingearbeitet: Zeitlinie gedreht (Urteil vor Wechsel), Singular-Hook, Anfrage-Referenz repariert, Arbeit statt Qualität.
 
