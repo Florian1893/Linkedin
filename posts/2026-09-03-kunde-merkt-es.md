@@ -11,15 +11,15 @@ Thema: Ruf von aussen, komplett unbespielt (bisher alles Innensicht)
 
 Dein Ruf wird gerade beschädigt. Nur nicht auf der Baustelle.
 
-Von innen fühlt sich dein Betrieb normal an. Zwanzig Mitarbeiter, die Baustellen laufen, die Arbeit stimmt. Aber der Kunde, der vor fünf Tagen angefragt hat, erlebt einen anderen Betrieb. Er sieht deinen Schreibtisch nicht, den Stapel, den Kundentermin, der länger ging. Er sieht nur, dass nichts kommt. Keine Antwort, keine Bestätigung, kein Zeichen, dass seine Anfrage angekommen ist.
+Von innen fühlt sich dein Betrieb normal an. Zwanzig Mitarbeiter, die Baustellen laufen, die Arbeit stimmt. Aber der Kunde, der vor fünf Tagen angefragt hat, erlebt einen anderen Betrieb. Er sieht deinen Schreibtisch nicht, den Stapel, den Kundentermin, der länger ging. Er sieht nur, dass nichts kommt.
 
-Am zweiten Tag denkt er, es sei halt viel los. Am vierten zieht er den einzigen möglichen Schluss: So wie die mit Anfragen umgehen, arbeiten die wahrscheinlich auch auf der Baustelle. Das stimmt nicht, aber es ist alles, was er von dir gesehen hat. Am fünften ruft er beim nächsten Betrieb an.
+Am zweiten Tag denkt er, es sei halt viel los. Am vierten zieht er den einzigen möglichen Schluss: So wie die mit Anfragen umgehen, arbeiten die wahrscheinlich auch auf der Baustelle. Das stimmt nicht, aber es ist alles, was er von dir gesehen hat. Am fünften ruft er woanders an.
 
-Und du merkst nichts davon. Keine Absage, kein böses Wort, einfach eine Anfrage weniger auf dem Stapel.
+Und du merkst nichts davon. Keine Absage, kein böses Wort, einfach eine Anfrage weniger.
 
 Zwanzig Jahre Baustelle bauen deinen Ruf auf. Fünf stille Tage im Posteingang bauen ihn ab.
 
-Dabei braucht es dafür keinen zusätzlichen Handgriff von dir. Eine Eingangsbestätigung, die von selbst rausgeht, kauft dir genau die Tage, die du zum Antworten brauchst. Das ist der kleinste Baustein, mit dem ich in Betrieben anfange.
+Dabei kostet dich die Gegenmassnahme keinen Handgriff. Eine Eingangsbestätigung, die von selbst rausgeht, kauft dir genau die Tage, die du zum Antworten brauchst. Das ist der kleinste Baustein, mit dem ich in Betrieben anfange.
 
 Wie alt ist die älteste Anfrage, die bei dir noch auf eine Antwort wartet?
 
