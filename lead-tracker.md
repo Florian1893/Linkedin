@@ -40,6 +40,7 @@ Antwortquote (nach kompletter Sequenz): noch keine Daten. Benchmark: 20-30 % sol
 | 16 | Michael Walser | Stoeckle Metallbau AG | Metallbau | B | ENTWURF | - | - | - | - | Kaum LinkedIn-aktiv (letzter Post 11 Monate), langsame Reaktion einplanen. |
 | 17 | Thomas Feldmann | Feldmann Gaerten AG | Gartenbau | A | ENTWURF | - | - | - | - | TOP-PRIO: Hat den Margen-Schmerz vor 2 Wochen oeffentlich selbst formuliert, sitzt in Ziegelbruecke (Nachbar), Ex-Hauser Naefels. Zuerst senden, bei Antwort sofort reagieren. |
 | 18 | Hansueli Knobel | Knobel Naturstein/Keramik/Ofenbau AG | Naturstein/Keramik | A | ENTWURF | - | - | - | - | Schwanden GL, Inhaber seit 1998, gleiches Gewerk wie Florian. VOR SENDEN: Verhaeltnis zu Florians Lehrbetrieb pruefen. Erstgespraech-Winkel: Nachfolge/Betriebswert. |
+| 19 | Renato Breny | Baebler Heizungen AG | Heizung | A | ENTWURF | - | - | - | - | Buelach ZH. Saison-Einstieg (Heizsaison) — Nachricht zeitnah senden, sonst verpufft der Anker. Kaum LinkedIn-aktiv. Falls kleiner Betrieb: Rechnung auf 5h/20k. |
 
 Nicht kontaktieren (Florians Entscheid): Claudio Baggio (Baggio Fenster und Tueren, Glarus) — nicht anschreiben, nicht tracken.
 
