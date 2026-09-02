@@ -1,7 +1,9 @@
 # Post: Der Kunde merkt es zuerst (Giveaway-Format)
 
 Datum: 2026-09-03 (Donnerstag), 07:30
-Format: reine Story (Giveaway-Variante geparkt, zu wenig Follower dafür)
+Format: Story plus Post-it-Bild mit der Lösung, kleiner Pitch in der Mitte
+Bild: skizzen/bild-postit.png (gelbes Post-it, "Jede Anfrage bekommt noch am gleichen Tag eine Antwort")
+Alternativbild: skizzen/bild-ruf.png (Zwei-Spalten-Skizze innen gegen aussen)
 Content-Säule: Schmerz-Story mit Giveaway-Schluss
 Thema: Ruf von aussen, komplett unbespielt (bisher alles Innensicht)
 
@@ -16,6 +18,8 @@ Am zweiten Tag denkt er, es sei halt viel los. Am vierten zieht er den einzigen 
 Und du merkst nichts davon. Keine Absage, kein böses Wort, einfach eine Anfrage weniger auf dem Stapel.
 
 Zwanzig Jahre Baustelle bauen deinen Ruf auf. Fünf stille Tage im Posteingang bauen ihn ab.
+
+Dabei braucht es dafür keinen zusätzlichen Handgriff von dir. Eine Eingangsbestätigung, die von selbst rausgeht, kauft dir genau die Tage, die du zum Antworten brauchst. Das ist der kleinste Baustein, mit dem ich in Betrieben anfange.
 
 Wie alt ist die älteste Anfrage, die bei dir noch auf eine Antwort wartet?
 
