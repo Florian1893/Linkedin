@@ -1,6 +1,6 @@
 # BetriebsFlow Lead-Tracker
 
-Stand: 2026-09-01. Gefuehrt von Claude, gefuettert von Florian.
+Stand: 2026-09-02. 23 Nachrichten am 02.09. verschickt. FU1 faellig Mo 07.09., FU2 faellig Fr 11.09. Gefuehrt von Claude, gefuettert von Florian.
 
 **Workflow:** Florian meldet in einem Satz, was passiert ist ("an Sanel gesendet", "Mark hat geantwortet", "Termin mit Mehdi am 12.9."). Claude aktualisiert Status und Daten, rechnet Follow-up-Termine (FU1 = Senden + 4 Tage, FU2 = FU1 + 5 Tage, danach Schluss) und haelt die KPI-Kette aktuell. Ein Werktags-Routine-Check meldet jeden Morgen die faelligen Follow-ups.
 
@@ -10,7 +10,7 @@ Stand: 2026-09-01. Gefuehrt von Claude, gefuettert von Florian.
 
 | Stufe | Anzahl |
 |---|---|
-| Nachrichten gesendet | 0 |
+| Nachrichten gesendet | 23 (02.09.2026) |
 | Geantwortet | 0 |
 | Termin gebucht | 0 |
 | Erschienen | 0 |
