@@ -46,6 +46,8 @@ Antwortquote (nach kompletter Sequenz): noch keine Daten. Benchmark: 20-30 % sol
 | 22 | Reto Wetter | Pletscher Metallbau AG | Metallbau | A | ENTWURF | - | - | - | - | 46 MA, Beringen SH. Digital-Vorreiter (Lean, KI, BIM) — Augenhoehe-Ton, "Verschwendung"-Sprache, Analyse als zweites Paar Augen. Anspruchsvoller Gespraechspartner, Multiplikator (bald VR Raiffeisenbank SH). |
 | 23 | Hansruedi Roeschmann | Roeschmann Automobile Glarus | Autohaus (kein Kern-ICP) | B | ENTWURF | - | - | - | - | Glarner Netzwerk-Knoten (taucht bei Knobel, Baehler, Baggio als gemeinsamer Kontakt auf), 40 Jahre Inhaber. Als Beziehung wertvoller denn als Kunde. ACHTUNG: verkauft seit ~3 Monaten die Gewerbeliegenschaft — Hintergrund vor dem Senden klaeren, Thema nicht ansprechen. |
 
+| 24 | Robin Attenhofer | AF Dachtechnik AG | Spengler/Dach | A | ENTWURF | - | - | - | - | Thusis GR, Spengler-Lehre 2016, eigene AG seit 2020 (jung, vermutlich klein). Kleine Rechnung 5h/20k. Kaum LinkedIn-aktiv. Gespraechswinkel: Dachkontrollen vor Winter, Sturm-Notfaelle. |
+
 Nicht kontaktieren (Florians Entscheid): Claudio Baggio (Baggio Fenster und Tueren, Glarus) — nicht anschreiben, nicht tracken.
 
 Netzwerk-Kontakte (nicht pitchen, nur Beziehung/Sichtbarkeit): Paul Buehler (CEO Marti AG Bauunternehmung Zuerich) — Grossunternehmen, weit ausserhalb ICP. Kein Prozessanalyse-Pitch. Stattdessen: Marti-Posts gelegentlich ehrlich kommentieren (Reichweite bei seinem Publikum), optional pitchfreie Beziehungs-Nachricht.
