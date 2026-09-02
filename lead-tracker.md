@@ -48,6 +48,8 @@ Antwortquote (nach kompletter Sequenz): noch keine Daten. Benchmark: 20-30 % sol
 | 24 | Robin Attenhofer | AF Dachtechnik AG | Spengler/Dach | A | ENTWURF | - | - | - | - | Thusis GR, Spengler-Lehre 2016, eigene AG seit 2020 (jung, vermutlich klein). Kleine Rechnung 5h/20k. Kaum LinkedIn-aktiv. Gespraechswinkel: Dachkontrollen vor Winter, Sturm-Notfaelle. |
 | 25 | Filippo Milone | Fartec GmbH | Solar/PV | A | ENTWURF | - | - | - | - | Kreuzlingen TG, Firma seit Feb 2025, vorher 12 J. Elektriker/Techniker. Winkel: hoher Offerten-Aufwand bei tiefer Abschlussquote in der Solarbranche. Erstgespraech: Pronovo/Foerderantraege abfragen. Kleine Rechnung 5h/20k. |
 
+| 26 | Sebastian Albert | glas & planung AG | Metallbau/Glas | A | ENTWURF | - | - | - | - | Huenenberg ZG, Firma seit 2023, Auftragsbuecher bis 2028 (Letzigarten 380 Whg). Selbst LinkedIn-/Leadgen-Profi mit eigenem Gratis-Erstgespraech — Augenhoehe-Ton, Tueroeffner offen benennen. Partner Valon Dushica = gleicher Betrieb, nicht doppelt anschreiben. |
+
 Nicht kontaktieren (Florians Entscheid): Claudio Baggio (Baggio Fenster und Tueren, Glarus) — nicht anschreiben, nicht tracken.
 
 Netzwerk-Kontakte (nicht pitchen, nur Beziehung/Sichtbarkeit): Paul Buehler (CEO Marti AG Bauunternehmung Zuerich) — Grossunternehmen, weit ausserhalb ICP. Kein Prozessanalyse-Pitch. Stattdessen: Marti-Posts gelegentlich ehrlich kommentieren (Reichweite bei seinem Publikum), optional pitchfreie Beziehungs-Nachricht.
