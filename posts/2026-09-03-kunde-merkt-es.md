@@ -12,15 +12,15 @@ Gewerk: Sanitär (Badsanierung). Nächste Posts rotieren: Gipser, Maler, Elektro
 
 Dein Ruf als Sanitär wird gerade beschädigt. Nur nicht auf der Baustelle.
 
-Von innen fühlt sich dein Betrieb normal an. Zwanzig Mitarbeiter, die Baustellen laufen, die Arbeit stimmt. Aber der Kunde, der vor fünf Tagen wegen der Badsanierung angefragt hat, erlebt einen anderen Betrieb. Er sieht deinen Schreibtisch nicht, den Stapel, den Termin, der länger ging. Er sieht nur, dass nichts kommt.
+Von innen ist alles in Ordnung. Zwanzig Mitarbeiter, die Baustellen laufen, die Arbeit stimmt. Aber der Kunde, der letzte Woche wegen der Badsanierung angefragt hat, sieht davon nichts. Er weiss auch nicht, dass dein Termin am Dienstag zwei Stunden länger ging. Er sieht nur, dass niemand zurückschreibt.
 
-Am zweiten Tag denkt er, es sei halt viel los. Am vierten zieht er den einzigen möglichen Schluss: So wie die mit Anfragen umgehen, arbeiten die wahrscheinlich auch auf der Baustelle. Das stimmt nicht, aber es ist alles, was er von dir gesehen hat. Am fünften ruft er beim nächsten Sanitär an.
+Am zweiten Tag denkt er noch, es sei halt viel los. Am vierten denkt er etwas anderes. Wenn die schon nicht antworten, wie arbeiten die dann auf der Baustelle. Das ist ungerecht und es stimmt auch nicht. Nur hat er nichts anderes, woran er dich messen kann. Am fünften ruft er beim nächsten Sanitär an.
 
-Und du merkst nichts davon. Keine Absage, kein böses Wort, einfach eine Anfrage weniger.
+Bei dir passiert dabei gar nichts. Keine Absage, kein Anruf, du erfährst es nie.
 
-Zwanzig Jahre Baustelle bauen deinen Ruf auf. Fünf stille Tage im Posteingang bauen ihn ab.
+Auf der Baustelle hast du zwanzig Jahre für deinen Ruf gebraucht. Kaputt geht er in fünf stillen Tagen, an einem Ort, an dem du gar nicht hinschaust.
 
-Dabei würde eine Bestätigung reichen, die von selbst rausgeht. Sie beantwortet nichts, sie sagt dem Kunden nur, dass er nicht ins Leere geschrieben hat. Das ist der kleinste Baustein, mit dem ich in Betrieben anfange.
+Dabei würde eine Bestätigung reichen, die von selbst rausgeht. Die beantwortet noch nichts, sie sagt dem Kunden bloss, dass er nicht ins Leere geschrieben hat. Damit fange ich in den Betrieben meistens an.
 
 Wie alt ist die älteste Anfrage, die bei dir noch auf eine Antwort wartet?
 

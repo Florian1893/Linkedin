@@ -41,7 +41,15 @@ Median der echten Phase (ohne die zwei Kaltstart-Posts): rund 180. Stand 29.08. 
     DAS GEWERK GEHOERT IN ZEILE EINS (Praezisierung Florian, 02.09.). Nicht erst in Absatz zwei. Zeile eins ist das Einzige, was vor dem Aufklappen sichtbar ist, dort entscheidet sich sowohl die Themenverteilung als auch, ob ein Sanitaer stehen bleibt. Ein Gewerksignal in Absatz zwei sehen nur die, die ohnehin schon lesen.
     Vorsicht Bildbruch: In einem Post, der ueber "Baustelle" laeuft, passt keine Autowerkstatt. Fuer Autowerkstatt und Garage braucht es einen eigenen Post mit eigenem Bildfeld (Hebebuehne, Termin, Ersatzteil).
     Offen: Autowerkstatt steht nicht in der dokumentierten Zielgruppe (Maler, Gipser, Sanitaer, Elektro, Schreiner). Wenn sie dauerhaft dazugehoert, gehoert sie in die Zielgruppen-Definition.
-11. ANWEISUNG FLORIAN (29.08.2026), gilt ab sofort fuer jeden Post: NUR NOCH STORYS. Kein Wissens-Post, keine These-Posts, keine Denkmodelle mehr im Feed. Beleglage: Wissen/Liste/These liegen bei 91 bis 184 (Flops: 176, 120, 113, 109, 91), Storys und Spiegel bei 313 bis 1014. Wissens-Inhalte leben nur noch im Profil-PDF und in Kommentaren. Jeder Post braucht Szene, Kippbewegung, Wendepunkt, Merksatz, eine Frage.
+11. KI-KLANG RAUS (Florian, 02.09.): Nach mehreren Ueberarbeitungsrunden wird ein Text zu glatt und klingt nach Maschine. Warnzeichen und Gegenmittel:
+    - Perfekt gespiegelte Saetze ("Zwanzig Jahre bauen auf, fuenf Tage bauen ab") rauher und laenger formulieren, die Pointe darf bleiben, die Symmetrie nicht.
+    - Dreierlisten mit gleicher Satzlaenge meiden. Lieber zwei oder vier ungleiche Glieder.
+    - Die Konstruktion "nicht A, sondern B" sparsam einsetzen, sie ist das haeufigste Maschinenmuster.
+    - Abstrakte Wendungen ("erlebt einen anderen Betrieb") durch konkrete ersetzen ("dein Termin am Dienstag ging zwei Stunden laenger").
+    - Satzlaengen bewusst ungleich halten. Ein echter Satz darf holpern.
+    - Schweizer Umgangswoerter nutzen: bloss, halt, gar nicht, eben.
+    Test vor dem Posten: Wuerde Florian den Satz so am Tisch sagen? Wenn nicht, umschreiben.
+12. ANWEISUNG FLORIAN (29.08.2026), gilt ab sofort fuer jeden Post: NUR NOCH STORYS. Kein Wissens-Post, keine These-Posts, keine Denkmodelle mehr im Feed. Beleglage: Wissen/Liste/These liegen bei 91 bis 184 (Flops: 176, 120, 113, 109, 91), Storys und Spiegel bei 313 bis 1014. Wissens-Inhalte leben nur noch im Profil-PDF und in Kommentaren. Jeder Post braucht Szene, Kippbewegung, Wendepunkt, Merksatz, eine Frage.
 
 ## Offene Tests
 
