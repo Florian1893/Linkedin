@@ -32,6 +32,14 @@ Wichtig: Das Offer ist NICHT auf Offerten fixiert. Offerten, Nachfassen, Anfrage
 4. **No-Brainer-Angebot.** Kostenlose Prozessanalyse, 30 Minuten, er sieht schwarz auf weiss, wo Zeit und Geld liegen bleiben, Ansatzpunkte behaelt er in jedem Fall. Risiko-Satz: "Du riskierst nichts ausser einer halben Stunde."
 5. **Genau eine Abschlussfrage,** die die No-Brainer-Rechnung wiederholt: "Waere dir das eine halbe Stunde wert?"
 
+## Laenge und Form (Florians Vorgabe 02.09.2026: kompakter und uebersichtlicher)
+
+- Ziel: circa 700 bis 900 Zeichen, deutlich kuerzer als die erste Generation dieser Nachrichten.
+- Fuenf kurze Absaetze, je ein bis zwei Saetze: Ice Breaker, Offer, Rechnung, Angebot, Frage.
+- Rechnung in EINEM Satz ("Zehn Stunden Buero-Handarbeit pro Woche à 100 Franken sind ueber 40'000 Franken im Jahr.").
+- Proof-Satz nur wenn er wirklich traegt, sonst weglassen; Plattenleger-Hinweis auf einen Halbsatz kuerzen.
+- Keine Aufzaehlung aller Beispiel-Ablaeufe, maximal drei nennen.
+
 ## Follow-up-Vorlagen
 
 **Follow-up 1 (Tag 3 bis 4):**
