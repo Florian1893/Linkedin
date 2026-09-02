@@ -1,7 +1,7 @@
 # Post: Der Kunde merkt es zuerst (Giveaway-Format)
 
 Datum: 2026-09-03 (Donnerstag), 07:30
-Format: NEU, Story plus PDF-Giveaway per Nachricht. Erster Lead-Magnet-Post.
+Format: reine Story (Giveaway-Variante geparkt, zu wenig Follower dafür)
 Content-Säule: Schmerz-Story mit Giveaway-Schluss
 Thema: Ruf von aussen, komplett unbespielt (bisher alles Innensicht)
 
@@ -17,20 +17,16 @@ Und du merkst nichts davon. Keine Absage, kein böses Wort, einfach eine Anfrage
 
 Zwanzig Jahre Baustelle bauen deinen Ruf auf. Fünf stille Tage im Posteingang bauen ihn ab.
 
-Dagegen gibt es fünf einfache Gegenmittel, keines braucht neue Software. Ich habe sie als kurzes PDF aufgeschrieben. Soll ich es dir schicken?
+Wie alt ist die älteste Anfrage, die bei dir noch auf eine Antwort wartet?
 
 ## Alternative Hooks
 
 1. Von innen sieht dein Betrieb normal aus. Von aussen nicht.
 2. Dein Ruf wird gerade beschädigt. Nur nicht auf der Baustelle.
 
-## Format-Regeln für diesen Post
+## Geparkt: Giveaway-Variante
 
-Die Schlussfrage ist gleichzeitig der Abholmechanismus: jedes "Ja" in den Kommentaren ist ein Kommentar-Signal für den Algorithmus und eine Einladung, das PDF per Nachricht zu schicken. Kein "Kommentiere unten", keine Pfeile, kein Emoji: das Authenticity Update vom März 2026 bestraft Bait-Formeln um rund 60 Prozent, natürlich formulierte Giveaways mit echtem Gegenwert bleiben erlaubt.
-
-Versand NUR von Hand und einzeln, mit einem persönlichen Satz dazu ("Gerne. Welcher der fünf wäre bei dir zuerst dran?"). Jede Zusendung ist ein Gesprächseinstieg. Keine Automatisierung.
-
-Bewusste Abweichung von der Eine-Frage-Regel: Die Frage ist hier ein Ja-Trigger statt einer Reflexionsfrage. Das ist der Formattest. Gemessen wird an Kommentaren und Nachrichten, nicht nur an Impressions.
+Der gleiche Post mit dem Schluss "Dagegen gibt es fünf einfache Gegenmittel, keines braucht neue Software. Ich habe sie als kurzes PDF aufgeschrieben. Soll ich es dir schicken?" liegt bereit. Einsetzen, sobald die Followerbasis gross genug ist, dass unter dem Post sichtbar Kommentare zusammenkommen. Bei drei Ja-Kommentaren wirkt ein Giveaway leerer als gar keins. Bis dahin arbeitet das PDF im Profil unter "Im Fokus" und als Anhang in Direktnachrichten nach dem Erstkontakt.
 
 ## Warum dieses Thema ganz neu ist
 
@@ -41,6 +37,4 @@ Alle bisherigen Posts erzählten die Innensicht (dein Tisch, deine Zeit, dein En
 Impressions:
 Reaktionen:
 Kommentare:
-PDF-Anfragen:
-Erstgespräche daraus:
 Erkenntnis:
