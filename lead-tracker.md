@@ -11,12 +11,12 @@ Stand: 2026-09-03. 23 Nachrichten verschickt: Welle 1 am 01.09. (FU1 Fr 04.09., 
 | Stufe | Anzahl |
 |---|---|
 | Nachrichten gesendet | 23 (10 am 01.09., 13 am 02.09.) |
-| Geantwortet | 1 |
+| Geantwortet | 2 |
 | Termin gebucht | 0 |
 | Erschienen | 0 |
 | Abgeschlossen | 0 |
 
-Antwortquote (Stand 02.09.): 1 von 23 (4 %), erste Antwort nach 49 Minuten. Einwand-Muster: "Wir loesen es intern" (eigene Stelle). Zu frueh fuer Schluesse. Benchmark: 20-30 % solide, ab 30 % Volumen erhoehen statt Nachricht aendern, unter 15 % nach 30+ Nachrichten zuerst Ice Breaker ueberarbeiten.
+Antwortquote (Stand 02.09.): 1 von 23 (4 %), erste Antwort nach 49 Minuten. Einwand-Muster (2 von 2): fehlende KAPAZITAET, nicht fehlendes Interesse. Reto: eigene Stelle geschaffen. Ahmed: keine Zeit. Beide antworteten innerhalb von Stunden. Hebel waere ein kleinerer erster Schritt (15 Min Telefon statt 30 Min vor Ort), nicht ein neuer Text. Zu frueh fuer Schluesse. Benchmark: 20-30 % solide, ab 30 % Volumen erhoehen statt Nachricht aendern, unter 15 % nach 30+ Nachrichten zuerst Ice Breaker ueberarbeiten.
 
 ## Leads
 
@@ -52,7 +52,7 @@ Antwortquote (Stand 02.09.): 1 von 23 (4 %), erste Antwort nach 49 Minuten. Einw
 |28|Geni Tahiri|Sprenger Werkzeugbau AG|CNC/Werkzeugbau|B|GESENDET|02.09.|Mo 07.09.|Fr 11.09.|-|St. Margarethen, CEO seit 2010. NUR Sprenger nennen (fuehrt auch Turbometall). Kein Bau-Handwerk: "Betriebe" statt "Handwerksbetriebe", "Marge" statt "Profit", keine Plattenleger-Gewerkbruecke. Anker: eigener Post zu Preiskampf + Effizienz-Investitionen in der Fertigung. Posts ~1 Jahr alt, kein Zeitbezug.|
 |29|Benjamin Winzeler|Centro AG Schwimmbadtechnik|Schwimmbadtechnik/Service|A|GESENDET|02.09.|Mo 07.09.|Fr 11.09.|-|Volketswil ZH, CEO seit 2010. Saison-Anker: Einwinterungswelle im Herbst — jetzt senden, verpufft in 2 Monaten. Eigener Claim "sorglose Pool-Time" zitieren, nicht gegen ihn drehen. Standard-Rechnung 10h/40k.|
 |30|Peter With|With Metallbau AG|Metallbau|A|ENTWURF|-|-|-|-|Luzern, GF seit 2004, Lehre im eigenen Betrieb. Treuhand-VR (prueft Zahlen!) und Ex-Praesident KMU-/Gewerbeverband LU = groesster Multiplikator der Liste. WARNUNG: stark politischer Feed (SVP) — Politik nie ansprechen, nie kommentieren. NUR With Metallbau nennen.|
-|31|Ahmed Vuckic|smartelectro schweiz ag|Elektro|A|ENTWURF|-|-|-|-|Sursee LU, Firma seit Sep 2025, waechst schnell (3 neue MA gestern, Lernender vor 4 Wochen, 90-Whg-Projekt Sursee). Perfekter Claim-Fit: Betrieb waechst schneller als System. Anker ist frisch, zeitnah senden. Erstgespraech: 24/7-Pikettdienst (Notfaelle, Rapporte) abfragen.|
+|31|Ahmed Vuckic|smartelectro schweiz ag|Elektro|A|ANTWORT (kein Zeit)|03.09.|-|-|03.09. gleicher Tag|WEICHES NEIN: "Momentan viel los, finde die Zeit nicht." Kein Desinteresse. Antwort mit konkretem Termin Anfang November gesendet. WIEDERVORLAGE ANFANG NOVEMBER 2026. |Sursee LU, Firma seit Sep 2025, waechst schnell (3 neue MA gestern, Lernender vor 4 Wochen, 90-Whg-Projekt Sursee). Perfekter Claim-Fit: Betrieb waechst schneller als System. Anker ist frisch, zeitnah senden. Erstgespraech: 24/7-Pikettdienst (Notfaelle, Rapporte) abfragen.|
 |32|Stefan Dettwiler|Daetwyler Schlosserei AG|Schlosserei/Metallbau|A|ENTWURF|-|-|-|-|Erlinsbach/Olten, GF seit 2022. War 2009-2016 selbst selbststaendig (Dettwiler-Montagen) — kennt den Buero-Schmerz aus erster Hand, das ist der Anker. Kaum LinkedIn-aktiv. ACHTUNG: Tochter der Marco Daetwyler Gruppe, GF aber nicht Inhaber — Entscheidungsspielraum frueh klaeren.|
 
 Nicht kontaktieren (Florians Entscheid): Claudio Baggio (Baggio Fenster und Tueren, Glarus) — nicht anschreiben, nicht tracken.
