@@ -53,6 +53,7 @@ Antwortquote (Stand 02.09.): 1 von 23 (4 %), erste Antwort nach 49 Minuten. Einw
 |29|Benjamin Winzeler|Centro AG Schwimmbadtechnik|Schwimmbadtechnik/Service|A|GESENDET|02.09.|Mo 07.09.|Fr 11.09.|-|Volketswil ZH, CEO seit 2010. Saison-Anker: Einwinterungswelle im Herbst — jetzt senden, verpufft in 2 Monaten. Eigener Claim "sorglose Pool-Time" zitieren, nicht gegen ihn drehen. Standard-Rechnung 10h/40k.|
 |30|Peter With|With Metallbau AG|Metallbau|A|ENTWURF|-|-|-|-|Luzern, GF seit 2004, Lehre im eigenen Betrieb. Treuhand-VR (prueft Zahlen!) und Ex-Praesident KMU-/Gewerbeverband LU = groesster Multiplikator der Liste. WARNUNG: stark politischer Feed (SVP) — Politik nie ansprechen, nie kommentieren. NUR With Metallbau nennen.|
 |31|Ahmed Vuckic|smartelectro schweiz ag|Elektro|A|ENTWURF|-|-|-|-|Sursee LU, Firma seit Sep 2025, waechst schnell (3 neue MA gestern, Lernender vor 4 Wochen, 90-Whg-Projekt Sursee). Perfekter Claim-Fit: Betrieb waechst schneller als System. Anker ist frisch, zeitnah senden. Erstgespraech: 24/7-Pikettdienst (Notfaelle, Rapporte) abfragen.|
+|32|Stefan Dettwiler|Daetwyler Schlosserei AG|Schlosserei/Metallbau|A|ENTWURF|-|-|-|-|Erlinsbach/Olten, GF seit 2022. War 2009-2016 selbst selbststaendig (Dettwiler-Montagen) — kennt den Buero-Schmerz aus erster Hand, das ist der Anker. Kaum LinkedIn-aktiv. ACHTUNG: Tochter der Marco Daetwyler Gruppe, GF aber nicht Inhaber — Entscheidungsspielraum frueh klaeren.|
 
 Nicht kontaktieren (Florians Entscheid): Claudio Baggio (Baggio Fenster und Tueren, Glarus) — nicht anschreiben, nicht tracken.
 
