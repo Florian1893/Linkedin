@@ -1,6 +1,6 @@
 # BetriebsFlow Lead-Tracker
 
-Stand: 2026-09-03. 23 Nachrichten verschickt: Welle 1 am 01.09. (FU1 Fr 04.09., FU2 Mi 09.09.), Welle 2 am 02.09. (FU1 Mo 07.09., FU2 Fr 11.09.). Gefuehrt von Claude, gefuettert von Florian.
+Stand: 2026-09-03. 27 Nachrichten verschickt: Welle 1 am 01.09. (FU1 Fr 04.09., FU2 Mi 09.09.), Welle 2 am 02.09. und Welle 3 am 03.09. (FU1 Mo 07.09., FU2 Fr 11.09.). Gefuehrt von Claude, gefuettert von Florian.
 
 **Workflow:** Florian meldet in einem Satz, was passiert ist ("an Sanel gesendet", "Mark hat geantwortet", "Termin mit Mehdi am 12.9."). Claude aktualisiert Status und Daten, rechnet Follow-up-Termine (FU1 = Senden + 4 Tage, FU2 = FU1 + 5 Tage, danach Schluss) und haelt die KPI-Kette aktuell. Ein Werktags-Routine-Check meldet jeden Morgen die faelligen Follow-ups.
 
@@ -10,13 +10,13 @@ Stand: 2026-09-03. 23 Nachrichten verschickt: Welle 1 am 01.09. (FU1 Fr 04.09., 
 
 | Stufe | Anzahl |
 |---|---|
-| Nachrichten gesendet | 23 (10 am 01.09., 13 am 02.09.) |
+| Nachrichten gesendet | 27 (10 am 01.09., 13 am 02.09., 4 am 03.09.) |
 | Geantwortet | 2 |
 | Termin gebucht | 0 |
 | Erschienen | 0 |
 | Abgeschlossen | 0 |
 
-Antwortquote (Stand 02.09.): 1 von 23 (4 %), erste Antwort nach 49 Minuten. Einwand-Muster (2 von 2): fehlende KAPAZITAET, nicht fehlendes Interesse. Reto: eigene Stelle geschaffen. Ahmed: keine Zeit. Beide antworteten innerhalb von Stunden. Hebel waere ein kleinerer erster Schritt (15 Min Telefon statt 30 Min vor Ort), nicht ein neuer Text. Zu frueh fuer Schluesse. Benchmark: 20-30 % solide, ab 30 % Volumen erhoehen statt Nachricht aendern, unter 15 % nach 30+ Nachrichten zuerst Ice Breaker ueberarbeiten.
+Antwortquote (Stand 03.09.): 2 von 27 (7 %), beide innerhalb von Stunden. Einwand-Muster (2 von 2): fehlende KAPAZITAET, nicht fehlendes Interesse. Reto: eigene Stelle geschaffen. Ahmed: keine Zeit. Beide antworteten innerhalb von Stunden. Hebel waere ein kleinerer erster Schritt (15 Min Telefon statt 30 Min vor Ort), nicht ein neuer Text. Zu frueh fuer Schluesse. Benchmark: 20-30 % solide, ab 30 % Volumen erhoehen statt Nachricht aendern, unter 15 % nach 30+ Nachrichten zuerst Ice Breaker ueberarbeiten.
 
 ## Leads
 
@@ -37,7 +37,7 @@ Antwortquote (Stand 02.09.): 1 von 23 (4 %), erste Antwort nach 49 Minuten. Einw
 |13|Daniel Alpiger|Alpiger Holzbau AG|Holzbau|A|GESENDET|01.09.|Fr 04.09.|Mi 09.09.|-|Inhaber seit 1998. Gespraechswinkel fuers Erstgespraech: Nachfolge/Betriebswert.|
 |14|Fisnik Zeneli|LUXORA Storen GmbH|Storen/Sonnenschutz|B|ENTWURF|-|-|-|-|NICHT GESENDET am 01./02.09. — Junger Gruender, klein. Kleine Rechnung (5h/20k). Service-Geschaeft, Anfragen-Handling.|
 |15|Hevzi Badalli|Badalli Fassaden AG|Gipser/Fassade|A|GESENDET|02.09.|Mo 07.09.|Fr 11.09.|-|Inhaber seit 2001, GU-Zulieferer (HRS, allron). Erstgespraech: Rapporte und Ausmass ansprechen.|
-|16|Michael Walser|Stoeckle Metallbau AG|Metallbau|B|ENTWURF|-|-|-|-|NICHT GESENDET am 01./02.09. — Kaum LinkedIn-aktiv (letzter Post 11 Monate), langsame Reaktion einplanen.|
+|16|Michael Walser|Stoeckle Metallbau AG|Metallbau|B|GESENDET|03.09.|Mo 07.09.|Fr 11.09.|-|Kaum LinkedIn-aktiv (letzter Post 11 Monate), langsame Reaktion einplanen.|
 |17|Thomas Feldmann|Feldmann Gaerten AG|Gartenbau|A|GESENDET|02.09.|Mo 07.09.|Fr 11.09.|-|TOP-PRIO: Hat den Margen-Schmerz vor 2 Wochen oeffentlich selbst formuliert, sitzt in Ziegelbruecke (Nachbar), Ex-Hauser Naefels. Zuerst senden, bei Antwort sofort reagieren.|
 |18|Hansueli Knobel|Knobel Naturstein/Keramik/Ofenbau AG|Naturstein/Keramik|A|GESENDET|02.09.|Mo 07.09.|Fr 11.09.|-|Schwanden GL, Inhaber seit 1998, gleiches Gewerk wie Florian. VOR SENDEN: Verhaeltnis zu Florians Lehrbetrieb pruefen. Erstgespraech-Winkel: Nachfolge/Betriebswert.|
 |19|Renato Breny|Baebler Heizungen AG|Heizung|A|GESENDET|02.09.|Mo 07.09.|Fr 11.09.|-|Buelach ZH. Saison-Einstieg (Heizsaison) — Nachricht zeitnah senden, sonst verpufft der Anker. Kaum LinkedIn-aktiv. Falls kleiner Betrieb: Rechnung auf 5h/20k.|
@@ -51,9 +51,9 @@ Antwortquote (Stand 02.09.): 1 von 23 (4 %), erste Antwort nach 49 Minuten. Einw
 |27|Mirco Della Rossa|Super Polish GmbH|Oberflaechensanierung/Bauschaeden|A|GESENDET|02.09.|Mo 07.09.|Fr 11.09.|-|Pfaeffikon SZ, Firma seit 2024. USP ist "Chef persoenlich vor Ort" (Post 06:30-Baustelle) — NICHT als Problem framen, sondern: Buerozeit fehlt dort, wo er am staerksten ist. Viele kleine Einsaetze = viel Admin pro Auftrag. Kleine Rechnung 5h/20k.|
 |28|Geni Tahiri|Sprenger Werkzeugbau AG|CNC/Werkzeugbau|B|GESENDET|02.09.|Mo 07.09.|Fr 11.09.|-|St. Margarethen, CEO seit 2010. NUR Sprenger nennen (fuehrt auch Turbometall). Kein Bau-Handwerk: "Betriebe" statt "Handwerksbetriebe", "Marge" statt "Profit", keine Plattenleger-Gewerkbruecke. Anker: eigener Post zu Preiskampf + Effizienz-Investitionen in der Fertigung. Posts ~1 Jahr alt, kein Zeitbezug.|
 |29|Benjamin Winzeler|Centro AG Schwimmbadtechnik|Schwimmbadtechnik/Service|A|GESENDET|02.09.|Mo 07.09.|Fr 11.09.|-|Volketswil ZH, CEO seit 2010. Saison-Anker: Einwinterungswelle im Herbst — jetzt senden, verpufft in 2 Monaten. Eigener Claim "sorglose Pool-Time" zitieren, nicht gegen ihn drehen. Standard-Rechnung 10h/40k.|
-|30|Peter With|With Metallbau AG|Metallbau|A|ENTWURF|-|-|-|-|Luzern, GF seit 2004, Lehre im eigenen Betrieb. Treuhand-VR (prueft Zahlen!) und Ex-Praesident KMU-/Gewerbeverband LU = groesster Multiplikator der Liste. WARNUNG: stark politischer Feed (SVP) — Politik nie ansprechen, nie kommentieren. NUR With Metallbau nennen.|
+|30|Peter With|With Metallbau AG|Metallbau|A|GESENDET|03.09.|Mo 07.09.|Fr 11.09.|-|Luzern, GF seit 2004, Lehre im eigenen Betrieb. Treuhand-VR (prueft Zahlen!) und Ex-Praesident KMU-/Gewerbeverband LU = groesster Multiplikator der Liste. WARNUNG: stark politischer Feed (SVP) — Politik nie ansprechen, nie kommentieren. NUR With Metallbau nennen.|
 |31|Ahmed Vuckic|smartelectro schweiz ag|Elektro|A|ANTWORT (kein Zeit)|03.09.|-|-|03.09. gleicher Tag|WEICHES NEIN: "Momentan viel los, finde die Zeit nicht." Kein Desinteresse. Antwort mit konkretem Termin Anfang November gesendet. WIEDERVORLAGE ANFANG NOVEMBER 2026. |Sursee LU, Firma seit Sep 2025, waechst schnell (3 neue MA gestern, Lernender vor 4 Wochen, 90-Whg-Projekt Sursee). Perfekter Claim-Fit: Betrieb waechst schneller als System. Anker ist frisch, zeitnah senden. Erstgespraech: 24/7-Pikettdienst (Notfaelle, Rapporte) abfragen.|
-|32|Stefan Dettwiler|Daetwyler Schlosserei AG|Schlosserei/Metallbau|A|ENTWURF|-|-|-|-|Erlinsbach/Olten, GF seit 2022. War 2009-2016 selbst selbststaendig (Dettwiler-Montagen) — kennt den Buero-Schmerz aus erster Hand, das ist der Anker. Kaum LinkedIn-aktiv. ACHTUNG: Tochter der Marco Daetwyler Gruppe, GF aber nicht Inhaber — Entscheidungsspielraum frueh klaeren.|
+|32|Stefan Dettwiler|Daetwyler Schlosserei AG|Schlosserei/Metallbau|A|GESENDET|03.09.|Mo 07.09.|Fr 11.09.|-|Erlinsbach/Olten, GF seit 2022. War 2009-2016 selbst selbststaendig (Dettwiler-Montagen) — kennt den Buero-Schmerz aus erster Hand, das ist der Anker. Kaum LinkedIn-aktiv. ACHTUNG: Tochter der Marco Daetwyler Gruppe, GF aber nicht Inhaber — Entscheidungsspielraum frueh klaeren.|
 
 Nicht kontaktieren (Florians Entscheid): Claudio Baggio (Baggio Fenster und Tueren, Glarus) — nicht anschreiben, nicht tracken.
 
