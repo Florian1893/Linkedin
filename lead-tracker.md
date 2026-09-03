@@ -1,22 +1,24 @@
 # BetriebsFlow Lead-Tracker
 
-Stand: 2026-09-03. 28 Nachrichten verschickt: Welle 1 am 01.09. (FU1 Fr 04.09., FU2 Mi 09.09.), Welle 2 am 02.09. und Welle 3 am 03.09. (FU1 Mo 07.09., FU2 Fr 11.09.). Gefuehrt von Claude, gefuettert von Florian.
+Stand: 2026-09-03. 30 Nachrichten verschickt: Welle 1 am 01.09. (FU1 Fr 04.09., FU2 Mi 09.09.), Welle 2 am 02.09. und Welle 3 am 03.09. (FU1 Mo 07.09., FU2 Fr 11.09.). Gefuehrt von Claude, gefuettert von Florian.
+
+**Grundregel (Florian, 03.09.2026): Wenn Florian nichts sagt, ist die Nachricht raus.** Jede fertige Pitch-Message gilt automatisch als GESENDET am Tag der Ausgabe, inklusive Follow-up-Daten. Nur wenn Florian ausdruecklich sagt "geht nicht raus", bleibt sie ENTWURF.
 
 **Workflow:** Florian meldet in einem Satz, was passiert ist ("an Sanel gesendet", "Mark hat geantwortet", "Termin mit Mehdi am 12.9."). Claude aktualisiert Status und Daten, rechnet Follow-up-Termine (FU1 = Senden + 4 Tage, FU2 = FU1 + 5 Tage, danach Schluss) und haelt die KPI-Kette aktuell. Ein Werktags-Routine-Check meldet jeden Morgen die faelligen Follow-ups.
 
-**Status-Codes:** ENTWURF (Nachricht bereit, noch nicht gesendet) | PENDENT (Vernetzungsanfrage offen) | GESENDET | FU1 | FU2 | ANTWORT | TERMIN | GEWONNEN | VERLOREN (2x nachgefasst, keine Antwort — nicht mehr anschreiben) | ABGELEHNT
+**Status-Codes:** ENTWURF (Nachricht bereit, noch nicht gesendet) | PENDENT (Vernetzungsanfrage offen) | GESENDET | FU1 | FU2 | ANTWORT | TERMIN | GEWONNEN | VERLOREN (2x nachgefasst, keine Antwort — nicht mehr anschreiben) | ABGELEHNT | NICHT ANSCHREIBEN (bewusst zu, z.B. zweite Person derselben Firma)
 
 ## KPI-Kette (kumuliert)
 
 | Stufe | Anzahl |
 |---|---|
-| Nachrichten gesendet | 28 (10 am 01.09., 13 am 02.09., 5 am 03.09.) |
+| Nachrichten gesendet | 30 (10 am 01.09., 13 am 02.09., 7 am 03.09.) |
 | Geantwortet | 2 |
 | Termin gebucht | 0 |
 | Erschienen | 0 |
 | Abgeschlossen | 0 |
 
-Antwortquote (Stand 03.09.): 2 von 28 (7 %), beide innerhalb von Stunden. Einwand-Muster (2 von 2): fehlende KAPAZITAET, nicht fehlendes Interesse. Reto: eigene Stelle geschaffen. Ahmed: keine Zeit. Beide antworteten innerhalb von Stunden. Hebel waere ein kleinerer erster Schritt (15 Min Telefon statt 30 Min vor Ort), nicht ein neuer Text. Zu frueh fuer Schluesse. Benchmark: 20-30 % solide, ab 30 % Volumen erhoehen statt Nachricht aendern, unter 15 % nach 30+ Nachrichten zuerst Ice Breaker ueberarbeiten.
+Antwortquote (Stand 03.09.): 2 von 30 (7 %), beide innerhalb von Stunden. Einwand-Muster (2 von 2): fehlende KAPAZITAET, nicht fehlendes Interesse. Reto: eigene Stelle geschaffen. Ahmed: keine Zeit. Beide antworteten innerhalb von Stunden. Hebel waere ein kleinerer erster Schritt (15 Min Telefon statt 30 Min vor Ort), nicht ein neuer Text. Zu frueh fuer Schluesse. Benchmark: 20-30 % solide, ab 30 % Volumen erhoehen statt Nachricht aendern, unter 15 % nach 30+ Nachrichten zuerst Ice Breaker ueberarbeiten.
 
 ## Leads
 
@@ -27,7 +29,7 @@ Antwortquote (Stand 03.09.): 2 von 28 (7 %), beide innerhalb von Stunden. Einwan
 |3|Mark Gjoni|Malergeschaeft Kuster GmbH|Maler|A|GESENDET|01.09.|Fr 04.09.|Mi 09.09.|-|NUR Kuster ansprechen (Ein-Firma-Regel), Zwei-Betriebe-Satz ersetzen, Standard-Rechnung 10h.|
 |4|Tobias Kuebler|Kuebler AG Holzbau|Holzbau|A|GESENDET|01.09.|Fr 04.09.|Mi 09.09.|-|~60 MA, 100-Jahr-Jubilaeum, 4. Generation. Evtl. Weiterleitung an Co-GF/Bueroleitung.|
 |5|Daniel Hohl|Baltensperger AG|Holzbau|A|GESENDET|01.09.|Fr 04.09.|Mi 09.09.|-|Stv. GF, 14 Jahre im Betrieb. Familie in der GL, Entscheid evtl. nicht allein bei ihm.|
-|6|Michel Baehler|Baehler Bau AG|Fassade/Verputz/Maler|A|ENTWURF|-|-|-|-|NICHT GESENDET am 01./02.09. — Keramikriemchen-Einstieg. NUR Baehler Bau nennen, Standard-Rechnung. ACHTUNG KOLLISION: Jeannine Hintermeister #35 ist GF derselben Firma. Nur eine von beiden anschreiben, Empfehlung Jeannine. Wenn Jeannine rausgeht, Michel auf VERLOREN bzw. nicht anschreiben setzen.|
+|6|Michel Baehler|Baehler Bau AG|Fassade/Verputz/Maler|A|NICHT ANSCHREIBEN|-|-|-|-|NICHT GESENDET am 01./02.09. — Keramikriemchen-Einstieg. NUR Baehler Bau nennen, Standard-Rechnung. KOLLISION AUFGELOEST 03.09.: Jeannine Hintermeister #35 (GF derselben Firma) wurde angeschrieben. Michel bleibt zu, damit nicht zwei Nachrichten in dieselbe Firma gehen. Firma laeuft ueber #35.|
 |7|Besart Krasniqi|BE Sanitaer GmbH|Sanitaer|B|GESENDET|01.09.|Fr 04.09.|Mi 09.09.|-|4 MA, unter Kern-ICP. Kleine Rechnung (5h/20k). Als Sanitaer-Referenz interessant.|
 |8|Franco Chiappetta|F. Chiappetta Malergeschaeft|Maler|A|GESENDET|01.09.|Fr 04.09.|Mi 09.09.|-|Abschirmfarbe-Einstieg. Groesse unklar: falls klein, Rechnung auf 5h/20k tauschen.|
 |9|Night Schmid-Ouko|Maler/Gipser Aargau & Zuerich|Maler/Gipser|A|FU1 bereit|Erstnachricht 02.07.|sofort moeglich|+4-5 Tage danach|-|Juli-Nachricht geghostet. Neues Follow-up mit Offer+Rechnung liegt bereit, danach nur noch letzter Ping, dann Schluss.|
@@ -55,8 +57,8 @@ Antwortquote (Stand 03.09.): 2 von 28 (7 %), beide innerhalb von Stunden. Einwan
 |31|Ahmed Vuckic|smartelectro schweiz ag|Elektro|A|ANTWORT (kein Zeit)|03.09.|-|-|03.09. gleicher Tag|WEICHES NEIN: "Momentan viel los, finde die Zeit nicht." Kein Desinteresse. Antwort mit konkretem Termin Anfang November gesendet. WIEDERVORLAGE ANFANG NOVEMBER 2026. Sursee LU, Firma seit Sep 2025, waechst schnell (3 neue MA gestern, Lernender vor 4 Wochen, 90-Whg-Projekt Sursee). Perfekter Claim-Fit: Betrieb waechst schneller als System. Anker ist frisch, zeitnah senden. Erstgespraech: 24/7-Pikettdienst (Notfaelle, Rapporte) abfragen.|
 |32|Stefan Dettwiler|Daetwyler Schlosserei AG|Schlosserei/Metallbau|A|GESENDET|03.09.|Mo 07.09.|Fr 11.09.|-|Erlinsbach/Olten, GF seit 2022. War 2009-2016 selbst selbststaendig (Dettwiler-Montagen) — kennt den Buero-Schmerz aus erster Hand, das ist der Anker. Kaum LinkedIn-aktiv. ACHTUNG: Tochter der Marco Daetwyler Gruppe, GF aber nicht Inhaber — Entscheidungsspielraum frueh klaeren.|
 |33|Zacharias Sennrich|Sennrich AG|Metallbau/Metallgitter|A|GESENDET|03.09.|Mo 07.09.|Fr 11.09.|-|Staefa ZH, Firma in Meilen ZH. GF/Inhaber seit Mai 2017, davor Sprich AG (Produktmanager 2010-2015, GF 2015-2017) — ueber 15 Jahre dieselbe Nische, das ist der Anker. Liefert Gitterroste, Streckmetall, Architekturroste nach Mass, Projekte Basel/Genf/Wattwil/Trier, Swissbau-Stand Jan 2026. Finaler Ice Breaker: Wattwil-Post (Maschenmass 33x33, Tragstaebe 40/2, 1.5 kN Punktlast) plus Plattenleger-Bruecke ueber Roste und Lichtschachtabdeckungen. Erster Entwurf mit Werdegang-Aufzaehlung wurde von Florian als zu plump verworfen. 1939 Follower, aktiv. 9+ gemeinsame Kontakte (Albert, Kevin). Volle 10h/40k-Rechnung (etablierter Betrieb). Andockpunkt: technische Anfragen, Bemusterungen, Offerten — steht so in ihren eigenen Posts.|
-|34|Raphael Feigenwinter|Sanitaer-Heizung Feigenwinter AG|Sanitaer/Heizung|A|ENTWURF|-|-|-|-|Reinach BL. Eidg. dipl. Sanitaermeister, Pruefungsexperte QV Kanton BL/BS, Familienbetrieb. Sehr aktiv (Posts 1d, 3d, 6d, 1w, 2w). EINSTIEG: sein Post "Lerne etwas Handwerkliches, uns kann KI nicht so schnell was vormachen" — Einwand vorwegnehmen und ihm recht geben, Grenze ziehen zwischen Baustelle und Buero. NICHT ANFASSEN: Firmenhistorie Teil 6 (Tod seines Vaters) — pietaetlos als Kaltpitch-Aufhaenger. Zweiter Anker: "Gut vorbereitet ist halb erledigt" plus Servicefahrzeug-Serie. Abteilungsleiter Heizung vorhanden, also groesserer Betrieb, volle 10h/40k-Rechnung.|
-|35|Jeannine Hintermeister|Baehler Bau AG|Fassade/Gebaeudehuelle|A|ENTWURF|-|-|-|-|Winterthur ZH. ACHTUNG KOLLISION: gleiche Firma wie Michel Baehler #6 (CEO/Inhaber). NUR EINE Person anschreiben, Empfehlung Jeannine (postet aktiv, macht Kommunikation selber, fuehrt operativ). Einstieg: Keramikriemchen-Referenzprojekt Zuerich, Plattenleger-Bruecke. 3089 Follower, Posts 6d und 1w. Vollsortiment Gebaeudehuelle (Baueingabe, Bauleitung, Geruest, Elektro, Maler, Storen, Spengler), volle 10h/40k-Rechnung.|
+|34|Raphael Feigenwinter|Sanitaer-Heizung Feigenwinter AG|Sanitaer/Heizung|A|GESENDET|03.09.|Mo 07.09.|Fr 11.09.|-|Reinach BL. Eidg. dipl. Sanitaermeister, Pruefungsexperte QV Kanton BL/BS, Familienbetrieb. Sehr aktiv (Posts 1d, 3d, 6d, 1w, 2w). EINSTIEG: sein Post "Lerne etwas Handwerkliches, uns kann KI nicht so schnell was vormachen" — Einwand vorwegnehmen und ihm recht geben, Grenze ziehen zwischen Baustelle und Buero. NICHT ANFASSEN: Firmenhistorie Teil 6 (Tod seines Vaters) — pietaetlos als Kaltpitch-Aufhaenger. Zweiter Anker: "Gut vorbereitet ist halb erledigt" plus Servicefahrzeug-Serie. Abteilungsleiter Heizung vorhanden, also groesserer Betrieb, volle 10h/40k-Rechnung.|
+|35|Jeannine Hintermeister|Baehler Bau AG|Fassade/Gebaeudehuelle|A|GESENDET|03.09.|Mo 07.09.|Fr 11.09.|-|Winterthur ZH. ACHTUNG KOLLISION: gleiche Firma wie Michel Baehler #6 (CEO/Inhaber). NUR EINE Person anschreiben, Empfehlung Jeannine (postet aktiv, macht Kommunikation selber, fuehrt operativ). Einstieg: Keramikriemchen-Referenzprojekt Zuerich, Plattenleger-Bruecke. 3089 Follower, Posts 6d und 1w. Vollsortiment Gebaeudehuelle (Baueingabe, Bauleitung, Geruest, Elektro, Maler, Storen, Spengler), volle 10h/40k-Rechnung.|
 
 Nicht kontaktieren (Florians Entscheid): Claudio Baggio (Baggio Fenster und Tueren, Glarus) — nicht anschreiben, nicht tracken.
 
@@ -71,7 +73,7 @@ Duplikat-Check vor jedem neuen Lead. Wer hier steht, ist bereits im System. Sale
 - Robin Attenhofer (AF Dachtechnik AG) — GESENDET, #24
 - Mehdi Avdijaj (Simog Systembau AG) — GESENDET, #11
 - Hevzi Badalli (Badalli Fassaden AG) — GESENDET, #15
-- Michel Baehler (Baehler Bau AG) — ENTWURF, #6
+- Michel Baehler (Baehler Bau AG) — NICHT ANSCHREIBEN, #6 (Firma laeuft ueber Jeannine #35)
 - Renato Breny (Baebler Heizungen AG) — GESENDET, #19
 - Franco Chiappetta (F. Chiappetta Malergeschaeft) — GESENDET, #8
 - Stefan Dettwiler (Daetwyler Schlosserei AG) — GESENDET, #32
@@ -99,8 +101,8 @@ Duplikat-Check vor jedem neuen Lead. Wer hier steht, ist bereits im System. Sale
 - Benjamin Winzeler (Centro AG Schwimmbadtechnik) — GESENDET, #29
 - Peter With (With Metallbau AG) — GESENDET, #30
 - Fisnik Zeneli (LUXORA Storen GmbH) — ENTWURF, #14
-- Raphael Feigenwinter (Sanitaer-Heizung Feigenwinter AG) — ENTWURF, #34
-- Jeannine Hintermeister (Baehler Bau AG) — ENTWURF, #35 (Kollision mit Michel Baehler #6)
+- Raphael Feigenwinter (Sanitaer-Heizung Feigenwinter AG) — GESENDET, #34
+- Jeannine Hintermeister (Baehler Bau AG) — GESENDET, #35
 - Claudio Baggio (Baggio Fenster und Tueren) — NICHT KONTAKTIEREN (Florians Entscheid)
 - Paul Buehler (Marti AG) — Netzwerk-Kontakt, nicht pitchen
 
