@@ -122,6 +122,20 @@ Florian arbeitet ab jetzt mit Sales Navigator statt normaler LinkedIn-Suche.
 - Company headcount: 11-50 als Hauptband, 1-10 als zweite Liste (dort die kleinere 5h/20k-Rechnung).
 - Gewerk ueber Firmen-Keyword statt Industry-Filter, weil kleine CH-Betriebe schlecht getaggt sind: Schreinerei, Sanitaer, Elektro, Maler, Gipser, Plattenleger, Metallbau, Schlosserei, Dachdecker, Heizung, Gartenbau, Bodenbelaege, Zimmerei, Fensterbau.
 
+**Industry-Filter (grobes Sieb):** Construction, Building Construction, Building Equipment Contractors, Building Finishing Contractors, Building Structure and Exterior Contractors, Fabricated Metal Products, Furniture and Home Furnishings Manufacturing, Wholesale Building Materials. Nicht zu viel erwarten, viele kleine CH-Betriebe liegen weiter im groben "Construction".
+
+**Titel-Boolean:** ("Geschaeftsfuehrer" OR "Inhaber" OR "Mitinhaber" OR "Geschaeftsinhaber" OR "Betriebsleiter")
+
+**Gewerk-Keywords in fuenf Bloecken** (einzeln laufen lassen, damit sichtbar wird, welches Gewerk antwortet):
+
+1. Gebaeudehuelle: "Dachdecker" OR "Bedachungen" OR "Spenglerei" OR "Spengler" OR "Gebaeudehuelle" OR "Fassadenbau" OR "Geruestbau" OR "Flachdach" OR "Abdichtungen" OR "Kaminfeger" OR "Kaminbau"
+2. Gebaeudetechnik: "Sanitaer" OR "Heizung" OR "Haustechnik" OR "Gebaeudetechnik" OR "Lueftung" OR "Klima" OR "HLK" OR "HLKS" OR "Waermepumpen" OR "Elektroinstallation" OR "Elektrotechnik" OR "Photovoltaik" OR "Solartechnik"
+3. Ausbau: "Schreinerei" OR "Innenausbau" OR "Kuechenbau" OR "Plattenleger" OR "Plattenbelaege" OR "Bodenleger" OR "Bodenbelaege" OR "Parkett" OR "Maler" OR "Malergeschaeft" OR "Gipser" OR "Gipsergeschaeft" OR "Stuckateur"
+4. Metall/Glas/Fenster: "Metallbau" OR "Schlosserei" OR "Stahlbau" OR "Glaserei" OR "Fensterbau" OR "Tueren" OR "Storen" OR "Sonnenschutz" OR "Rollladen"
+5. Bau/Holz/Garten: "Bauunternehmung" OR "Baugeschaeft" OR "Hochbau" OR "Umbau" OR "Renovationen" OR "Sanierungen" OR "Zimmerei" OR "Holzbau" OR "Gartenbau" OR "Landschaftsbau"
+
+**Luecke in der bisherigen Liste (Stand 33 Leads):** Kein einziger Schreiner, kein Bodenleger, kein Geruestbauer, nur ein Naturstein-/Keramikbetrieb. Block 3 zuerst abarbeiten, speziell Schreinerei und Plattenleger. Bei Plattenlegern ist Florians Ice Breaker am staerksten, weil er dort nicht "ich komme aus dem Handwerk" sagen muss, sondern "ich habe deinen Job gemacht".
+
 **Wichtigster Filter (Spotlight): "Posted on LinkedIn in past 30 days".**
 Der Ice Breaker ist der Engpass des ganzen Systems. Wer gepostet hat, liefert einen frischen, pruefbaren Anker (siehe Zacharias Sennrich, Wattwil-Post). Ohne Aktivitaet bleibt nur der Werdegang, und genau das hat Florian als zu plump verworfen.
 
