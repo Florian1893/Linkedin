@@ -60,6 +60,46 @@ Nicht kontaktieren (Florians Entscheid): Claudio Baggio (Baggio Fenster und Tuer
 
 Netzwerk-Kontakte (nicht pitchen, nur Beziehung/Sichtbarkeit): Paul Buehler (CEO Marti AG Bauunternehmung Zuerich) — Grossunternehmen, weit ausserhalb ICP. Kein Prozessanalyse-Pitch. Stattdessen: Marti-Posts gelegentlich ehrlich kommentieren (Reichweite bei seinem Publikum), optional pitchfreie Beziehungs-Nachricht.
 
+## Angeschrieben-Index (alphabetisch nach Nachname)
+
+Duplikat-Check vor jedem neuen Lead. Wer hier steht, ist bereits im System. Sales-Navigator-Listen sind KEIN Duplikat-Schutz, dieser Index ist es.
+
+- Sebastian Albert (glas & planung AG) — GESENDET, #26
+- Daniel Alpiger (Alpiger Holzbau AG) — GESENDET, #13
+- Robin Attenhofer (AF Dachtechnik AG) — GESENDET, #24
+- Mehdi Avdijaj (Simog Systembau AG) — GESENDET, #11
+- Hevzi Badalli (Badalli Fassaden AG) — GESENDET, #15
+- Michel Baehler (Baehler Bau AG) — ENTWURF, #6
+- Renato Breny (Baebler Heizungen AG) — GESENDET, #19
+- Franco Chiappetta (F. Chiappetta Malergeschaeft) — GESENDET, #8
+- Stefan Dettwiler (Daetwyler Schlosserei AG) — GESENDET, #32
+- Pascal Eberle (Mega-Stahl AG) — GESENDET, #10
+- Thomas Feldmann (Feldmann Gaerten AG) — GESENDET, #17
+- Vincenzo Gatto (SIGA Aufzuege AG) — GESENDET, #20
+- Mark Gjoni (Malergeschaeft Kuster GmbH) — GESENDET, #3
+- Daniel Hohl (Baltensperger AG) — GESENDET, #5
+- Sanel Jukic (Peduzzi Gipser AG Maler AG) — GESENDET, #2
+- Hansueli Knobel (Knobel Naturstein/Keramik/Ofenbau AG) — GESENDET, #18
+- Besart Krasniqi (BE Sanitaer GmbH) — GESENDET, #7
+- Tobias Kuebler (Kuebler AG Holzbau) — GESENDET, #4
+- Filippo Milone (Fartec GmbH) — GESENDET, #25
+- Monir Nouri (FensterWerk GmbH) — GESENDET, #21
+- Hansruedi Roeschmann (Roeschmann Automobile Glarus) — ENTWURF, #23
+- Mirco Della Rossa (Super Polish GmbH) — GESENDET, #27
+- Night Schmid-Ouko (Maler/Gipser Aargau & Zuerich) — FU1 bereit, #9
+- Zacharias Sennrich (Sennrich AG) — GESENDET, #33
+- Geni Tahiri (Sprenger Werkzeugbau AG) — GESENDET, #28
+- Michel Vogt (Galli Hoch- und Tiefbau AG) — GESENDET, #12
+- Ahmed Vuckic (smartelectro schweiz ag) — ANTWORT (kein Zeit), #31
+- Michael Walser (Stoeckle Metallbau AG) — GESENDET, #16
+- Timy Weidmann (Buewe Tiefbau AG) — PENDENT, #1
+- Reto Wetter (Pletscher Metallbau AG) — ANTWORT (Absage), #22
+- Benjamin Winzeler (Centro AG Schwimmbadtechnik) — GESENDET, #29
+- Peter With (With Metallbau AG) — GESENDET, #30
+- Fisnik Zeneli (LUXORA Storen GmbH) — ENTWURF, #14
+- Claudio Baggio (Baggio Fenster und Tueren) — NICHT KONTAKTIEREN (Florians Entscheid)
+- Paul Buehler (Marti AG) — Netzwerk-Kontakt, nicht pitchen
+
 ## Lead-Quelle: Sales Navigator (ab 03.09.2026)
 
 Florian arbeitet ab jetzt mit Sales Navigator statt normaler LinkedIn-Suche.
@@ -76,6 +116,10 @@ Der Ice Breaker ist der Engpass des ganzen Systems. Wer gepostet hat, liefert ei
 **Zweiter Trigger: "Changed jobs in past 90 days".** Neuer Geschaeftsfuehrer heisst neue Ablaeufe und offenes Ohr.
 
 **Lead-Listen:** pro Gewerk bzw. Kanton eine Liste anlegen, damit die SOP-Schlagzahl (15-20 pro Tag) abgearbeitet statt gesucht wird.
+
+**Nie aus dem Sales Navigator schreiben.** Sales Navigator ist Such- und Listenwerkzeug, nichts anderes. Vom Lead auf das normale LinkedIn-Profil klicken, dort vernetzen und dort schreiben. So bleibt die gesamte Nachrichtenhistorie in einem Posteingang und ein offener Thread ist beim Profilaufruf sofort sichtbar.
+
+**Listen als Pipeline-Stufen:** In Sales Navigator drei Listen fuehren (1 Zu vernetzen, 2 Vernetzt, 3 Angeschrieben) und den Lead nach jedem Schritt verschieben. Das ist die Sichtkontrolle im Tool, der Index oben ist die Wahrheit.
 
 **Nicht aendern:** Vernetzungsanfrage weiterhin ohne Notiz ueber das normale Profil, danach Pitch im Chat. InMails NICHT fuer den Kaltpitch verbrennen, nur fuer Leads, die die Vernetzung nicht annehmen. Das Wochenlimit fuer Vernetzungsanfragen bleibt trotz Premium bestehen.
 
