@@ -47,6 +47,14 @@ Wichtig: Das Offer ist NICHT auf Offerten fixiert. Offerten, Nachfassen, Anfrage
 **Follow-up 2 (weitere 4 bis 5 Tage spaeter, letzter Ping):**
 > Hallo [Name], letzter kurzer Ping, danach lasse ich dich in Ruhe. Falls du irgendwann wissen willst, wo in euren Ablaeufen Zeit und Geld liegen bleiben, weisst du, wo du mich findest. Weiterhin viel Erfolg mit [Betrieb].
 
+
+## Formatierung (Florians Vorgabe 03.09.2026)
+
+- Viele Zeilenabstaende, kurze Bloecke. Kein Textblock ueber drei Zeilen.
+- Nach einem Doppelpunkt IMMER: Absatz, dann gross weiterschreiben. Gilt fuer "Warum ich dir schreibe:", "Das Ziel ist immer dasselbe:", "Eine kurze Rechnung:", "Mein Angebot:".
+- Die Doppelpunkt-Zeilen wirken als Zwischentitel und machen die Nachricht auf dem Handy scanbar.
+- Anrede, dann Leerzeile. Abschlussfrage steht allein am Schluss.
+
 ## Ehrlichkeits-Leitplanken
 
 - Keine erfundenen Zahlen, kein CHF-Betrag ohne echte Quelle. Offene Rechnungen mit sichtbaren Annahmen sind erlaubt.
