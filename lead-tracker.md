@@ -1,6 +1,6 @@
 # BetriebsFlow Lead-Tracker
 
-Stand: 2026-09-03. 33 Nachrichten verschickt: Welle 1 am 01.09. (FU1 Fr 04.09., FU2 Mi 09.09.), Welle 2 am 02.09. und Welle 3 am 03.09. (FU1 Mo 07.09., FU2 Fr 11.09.). Gefuehrt von Claude, gefuettert von Florian.
+Stand: 2026-09-03. 32 Nachrichten verschickt: Welle 1 am 01.09. (FU1 Fr 04.09., FU2 Mi 09.09.), Welle 2 am 02.09. und Welle 3 am 03.09. (FU1 Mo 07.09., FU2 Fr 11.09.). Gefuehrt von Claude, gefuettert von Florian.
 
 **Grundregel (Florian, 03.09.2026): Wenn Florian nichts sagt, ist die Nachricht raus.** Jede fertige Pitch-Message gilt automatisch als GESENDET am Tag der Ausgabe, inklusive Follow-up-Daten. Nur wenn Florian ausdruecklich sagt "geht nicht raus", bleibt sie ENTWURF.
 
@@ -12,13 +12,13 @@ Stand: 2026-09-03. 33 Nachrichten verschickt: Welle 1 am 01.09. (FU1 Fr 04.09., 
 
 | Stufe | Anzahl |
 |---|---|
-| Nachrichten gesendet | 33 (10 am 01.09., 13 am 02.09., 10 am 03.09.) |
+| Nachrichten gesendet | 32 (10 am 01.09., 13 am 02.09., 9 am 03.09.) |
 | Geantwortet | 2 |
 | Termin gebucht | 0 |
 | Erschienen | 0 |
 | Abgeschlossen | 0 |
 
-Antwortquote (Stand 03.09.): 2 von 33 (6 %), beide innerhalb von Stunden. Einwand-Muster (2 von 2): fehlende KAPAZITAET, nicht fehlendes Interesse. Reto: eigene Stelle geschaffen. Ahmed: keine Zeit. Beide antworteten innerhalb von Stunden. Hebel waere ein kleinerer erster Schritt (15 Min Telefon statt 30 Min vor Ort), nicht ein neuer Text. Zu frueh fuer Schluesse. Benchmark: 20-30 % solide, ab 30 % Volumen erhoehen statt Nachricht aendern, unter 15 % nach 30+ Nachrichten zuerst Ice Breaker ueberarbeiten.
+Antwortquote (Stand 03.09.): 2 von 32 (6 %), beide innerhalb von Stunden. Einwand-Muster (2 von 2): fehlende KAPAZITAET, nicht fehlendes Interesse. Reto: eigene Stelle geschaffen. Ahmed: keine Zeit. Beide antworteten innerhalb von Stunden. Hebel waere ein kleinerer erster Schritt (15 Min Telefon statt 30 Min vor Ort), nicht ein neuer Text. Zu frueh fuer Schluesse. Benchmark: 20-30 % solide, ab 30 % Volumen erhoehen statt Nachricht aendern, unter 15 % nach 30+ Nachrichten zuerst Ice Breaker ueberarbeiten.
 
 ## Leads
 
@@ -61,7 +61,7 @@ Antwortquote (Stand 03.09.): 2 von 33 (6 %), beide innerhalb von Stunden. Einwan
 |35|Jeannine Hintermeister|Baehler Bau AG|Fassade/Gebaeudehuelle|A|GESENDET|03.09.|Mo 07.09.|Fr 11.09.|-|Winterthur ZH. ACHTUNG KOLLISION: gleiche Firma wie Michel Baehler #6 (CEO/Inhaber). NUR EINE Person anschreiben, Empfehlung Jeannine (postet aktiv, macht Kommunikation selber, fuehrt operativ). Einstieg: Keramikriemchen-Referenzprojekt Zuerich, Plattenleger-Bruecke. 3089 Follower, Posts 6d und 1w. Vollsortiment Gebaeudehuelle (Baueingabe, Bauleitung, Geruest, Elektro, Maler, Storen, Spengler), volle 10h/40k-Rechnung.|
 |36|Luca Monaco|Dudler & Co GmbH|Storen/Sonnenschutz|A|GESENDET|03.09.|Mo 07.09.|Fr 11.09.|-|Goldach SG, Ostschweiz, Firma seit 1952. Einstieg: sein Mundart-Slogan "Muesch en Storen ha, lüt am Dudler a" plus die Firmenposts "Chef unterwegs", in denen er selber zum Aufmass faehrt. Als Staerke formuliert, keine Diagnose. Sehr LinkedIn-erfahren (Videos, Quartalsrueckblicke, Engagement-Fragen), erkennt Outreach sofort. Gemeinsame Kontakte: Fisnik Zeneli (#14), Mirco Della Rossa. Betriebsgroesse unklar, GmbH mit Lernendem und Serviceabteilung, volle 10h/40k-Rechnung gewaehlt. Falls im Gespraech kleiner als gedacht, auf 5h/20k runterschalten.|
 |37|Tobias Aeppli|Mueller Heizung-Service AG|Heizung/Waermepumpen|A|GESENDET|03.09.|Mo 07.09.|Fr 11.09.|-|Rueti ZH, Standorte Laupen ZH und Hinwil, Zuercher Oberland. Einstieg: Mitarbeiter-Thread (Hansruedi 50 Jahre in Pension, Altrim EFZ bestanden und geblieben, Robin startet Lehre). Wichtiger Zusatz fuer diesen Lead: "Am Team aendert das nichts" — er postet staendig ueber Leute und wuerde Automatisierung sonst als Stellenabbau lesen. Slogan "Mir bringet d'Waermi hei." 2528 Follower, sehr aktiv. Partner eConnect, Waermepumpen/Solar/Fernwaerme, Messen (Gwerbfaescht Wald mit Matthias Glarner). ACHTUNG: heisst Aeppli, Firma heisst Mueller — Entscheidungsspielraum frueh klaeren wie bei Dettwiler #32. Sucht seit ~1 Monat Elektroinstallateur EFZ, Aufhaenger fuer Fachkraeftemangel-Thema. Volle 10h/40k-Rechnung.|
-|38|Severin Oesch|Oesch & Weber AG|Dachdecker/Kaminfeger/PV|A|GESENDET (Kurzfassung ohne Pitch)|03.09.|Mo 29.09. Wiedervorlage|-|-|Embrach ZH, Standort Bachenbuelach, 4. Generation, ueber 100 Jahre. SONDERFALL: Post vom 02.09. "Mehr als 500 Mails. Mehr als 700 Telefonate." nach dem Hagel in Buelach, Team im Dauereinsatz. Deshalb bewusst KEINE Standardnachricht, sondern kurze Nachricht ohne Pitch, die das schlechte Timing benennt und eine spaetere Meldung ankuendigt. KEIN FU1/FU2 im Normalrhythmus, stattdessen Wiedervorlage Ende September mit Bezug auf diese Nachricht. EINWAND VORBEREITEN: hat vor ~1 Monat Jeanette fuer die Administration eingestellt ("Ordnung ins taegliche Buero-Chaos"). Antwort ist nicht Personal sparen, sondern dass Jeanette mit sauberen Ablaeufen 500 Mails schafft. Weitere Signale: zweimal explizit KI-skeptisch, Eroeffnungspost gegen "Anzugtraeger-Verkaufsshows" — jede Verkaufsrhetorik faellt bei ihm durch. Sehr aktiver Poster, 247 Reaktionen auf Top-Post.|
+|38|Severin Oesch|Oesch & Weber AG|Dachdecker/Kaminfeger/PV|A|WIEDERVORLAGE (nicht angeschrieben)|-|-|-|-|Embrach ZH, Standort Bachenbuelach, 4. Generation, ueber 100 Jahre. NICHT ANGESCHRIEBEN, Florians Entscheid 03.09.: wegen Hagel-Grosseinsatz gar keine Nachricht, erst in einem Monat. ANSCHREIBEN AB CA. 03.10.2026, dann die normale ausfuehrliche Standardnachricht, Hagel nicht mehr als Aufhaenger nutzen (dann alt), stattdessen sein eigener Post "Mehr als 500 Mails, mehr als 700 Telefonate" vom 02.09. als Beleg im Gespraech. EINWAND VORBEREITEN: hat vor ~1 Monat Jeanette fuer die Administration eingestellt ("Ordnung ins taegliche Buero-Chaos"). Antwort ist nicht Personal sparen, sondern dass Jeanette mit sauberen Ablaeufen 500 Mails schafft. Weitere Signale: zweimal explizit KI-skeptisch, Eroeffnungspost gegen "Anzugtraeger-Verkaufsshows" — jede Verkaufsrhetorik faellt bei ihm durch. Sehr aktiver Poster, 247 Reaktionen auf Top-Post.|
 
 Nicht kontaktieren (Florians Entscheid): Claudio Baggio (Baggio Fenster und Tueren, Glarus) — nicht anschreiben, nicht tracken.
 
@@ -107,7 +107,7 @@ Duplikat-Check vor jedem neuen Lead. Wer hier steht, ist bereits im System. Sale
 - Raphael Feigenwinter (Sanitaer-Heizung Feigenwinter AG) — GESENDET, #34
 - Luca Monaco (Dudler & Co GmbH) — GESENDET, #36
 - Tobias Aeppli (Mueller Heizung-Service AG) — GESENDET, #37
-- Severin Oesch (Oesch & Weber AG) — GESENDET Kurzfassung, #38, Wiedervorlage Ende September
+- Severin Oesch (Oesch & Weber AG) — NICHT ANGESCHRIEBEN, #38, Wiedervorlage ab 03.10.2026
 - Jeannine Hintermeister (Baehler Bau AG) — GESENDET, #35
 - Claudio Baggio (Baggio Fenster und Tueren) — NICHT KONTAKTIEREN (Florians Entscheid)
 - Paul Buehler (Marti AG) — Netzwerk-Kontakt, nicht pitchen
@@ -136,6 +136,15 @@ Der Ice Breaker ist der Engpass des ganzen Systems. Wer gepostet hat, liefert ei
 **Nicht aendern:** Vernetzungsanfrage weiterhin ohne Notiz ueber das normale Profil, danach Pitch im Chat. InMails NICHT fuer den Kaltpitch verbrennen, nur fuer Leads, die die Vernetzung nicht annehmen. Das Wochenlimit fuer Vernetzungsanfragen bleibt trotz Premium bestehen.
 
 **Dieser Tracker bleibt die Wahrheit.** Sales-Navigator-Listen sind Quelle, nicht Status. Status, Follow-up-Daten und KPI-Kette stehen weiter hier.
+
+## Wiedervorlagen (bewusst spaeter anschreiben)
+
+Diese Leads sind NICHT angeschrieben und duerfen nicht als Follow-up gemeldet werden. Die Morgenroutine soll sie nur am jeweiligen Datum melden.
+
+| Datum | Lead | Was dann tun |
+|---|---|---|
+| ca. 03.10.2026 | Severin Oesch (#38, Oesch & Weber AG) | Normale ausfuehrliche Standardnachricht. Hagel nicht mehr als Aufhaenger, der ist dann alt. |
+| Anfang November 2026 | Ahmed Vuckic (#31, smartelectro schweiz ag) | Hat im September wegen Zeitmangel abgesagt und selber auf spaeter verwiesen. |
 
 ## Regeln (Kurzfassung aus SOP und Playbook)
 
