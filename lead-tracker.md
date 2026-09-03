@@ -1,6 +1,6 @@
 # BetriebsFlow Lead-Tracker
 
-Stand: 2026-09-03. 27 Nachrichten verschickt: Welle 1 am 01.09. (FU1 Fr 04.09., FU2 Mi 09.09.), Welle 2 am 02.09. und Welle 3 am 03.09. (FU1 Mo 07.09., FU2 Fr 11.09.). Gefuehrt von Claude, gefuettert von Florian.
+Stand: 2026-09-03. 28 Nachrichten verschickt: Welle 1 am 01.09. (FU1 Fr 04.09., FU2 Mi 09.09.), Welle 2 am 02.09. und Welle 3 am 03.09. (FU1 Mo 07.09., FU2 Fr 11.09.). Gefuehrt von Claude, gefuettert von Florian.
 
 **Workflow:** Florian meldet in einem Satz, was passiert ist ("an Sanel gesendet", "Mark hat geantwortet", "Termin mit Mehdi am 12.9."). Claude aktualisiert Status und Daten, rechnet Follow-up-Termine (FU1 = Senden + 4 Tage, FU2 = FU1 + 5 Tage, danach Schluss) und haelt die KPI-Kette aktuell. Ein Werktags-Routine-Check meldet jeden Morgen die faelligen Follow-ups.
 
@@ -10,13 +10,13 @@ Stand: 2026-09-03. 27 Nachrichten verschickt: Welle 1 am 01.09. (FU1 Fr 04.09., 
 
 | Stufe | Anzahl |
 |---|---|
-| Nachrichten gesendet | 27 (10 am 01.09., 13 am 02.09., 4 am 03.09.) |
+| Nachrichten gesendet | 28 (10 am 01.09., 13 am 02.09., 5 am 03.09.) |
 | Geantwortet | 2 |
 | Termin gebucht | 0 |
 | Erschienen | 0 |
 | Abgeschlossen | 0 |
 
-Antwortquote (Stand 03.09.): 2 von 27 (7 %), beide innerhalb von Stunden. Einwand-Muster (2 von 2): fehlende KAPAZITAET, nicht fehlendes Interesse. Reto: eigene Stelle geschaffen. Ahmed: keine Zeit. Beide antworteten innerhalb von Stunden. Hebel waere ein kleinerer erster Schritt (15 Min Telefon statt 30 Min vor Ort), nicht ein neuer Text. Zu frueh fuer Schluesse. Benchmark: 20-30 % solide, ab 30 % Volumen erhoehen statt Nachricht aendern, unter 15 % nach 30+ Nachrichten zuerst Ice Breaker ueberarbeiten.
+Antwortquote (Stand 03.09.): 2 von 28 (7 %), beide innerhalb von Stunden. Einwand-Muster (2 von 2): fehlende KAPAZITAET, nicht fehlendes Interesse. Reto: eigene Stelle geschaffen. Ahmed: keine Zeit. Beide antworteten innerhalb von Stunden. Hebel waere ein kleinerer erster Schritt (15 Min Telefon statt 30 Min vor Ort), nicht ein neuer Text. Zu frueh fuer Schluesse. Benchmark: 20-30 % solide, ab 30 % Volumen erhoehen statt Nachricht aendern, unter 15 % nach 30+ Nachrichten zuerst Ice Breaker ueberarbeiten.
 
 ## Leads
 
@@ -54,11 +54,32 @@ Antwortquote (Stand 03.09.): 2 von 27 (7 %), beide innerhalb von Stunden. Einwan
 |30|Peter With|With Metallbau AG|Metallbau|A|GESENDET|03.09.|Mo 07.09.|Fr 11.09.|-|Luzern, GF seit 2004, Lehre im eigenen Betrieb. Treuhand-VR (prueft Zahlen!) und Ex-Praesident KMU-/Gewerbeverband LU = groesster Multiplikator der Liste. WARNUNG: stark politischer Feed (SVP) — Politik nie ansprechen, nie kommentieren. NUR With Metallbau nennen.|
 |31|Ahmed Vuckic|smartelectro schweiz ag|Elektro|A|ANTWORT (kein Zeit)|03.09.|-|-|03.09. gleicher Tag|WEICHES NEIN: "Momentan viel los, finde die Zeit nicht." Kein Desinteresse. Antwort mit konkretem Termin Anfang November gesendet. WIEDERVORLAGE ANFANG NOVEMBER 2026. Sursee LU, Firma seit Sep 2025, waechst schnell (3 neue MA gestern, Lernender vor 4 Wochen, 90-Whg-Projekt Sursee). Perfekter Claim-Fit: Betrieb waechst schneller als System. Anker ist frisch, zeitnah senden. Erstgespraech: 24/7-Pikettdienst (Notfaelle, Rapporte) abfragen.|
 |32|Stefan Dettwiler|Daetwyler Schlosserei AG|Schlosserei/Metallbau|A|GESENDET|03.09.|Mo 07.09.|Fr 11.09.|-|Erlinsbach/Olten, GF seit 2022. War 2009-2016 selbst selbststaendig (Dettwiler-Montagen) — kennt den Buero-Schmerz aus erster Hand, das ist der Anker. Kaum LinkedIn-aktiv. ACHTUNG: Tochter der Marco Daetwyler Gruppe, GF aber nicht Inhaber — Entscheidungsspielraum frueh klaeren.|
-|33|Zacharias Sennrich|Sennrich AG|Metallbau/Metallgitter|A|ENTWURF|-|-|-|-|Staefa ZH, Firma in Meilen ZH. GF/Inhaber seit Mai 2017, davor Sprich AG (Produktmanager 2010-2015, GF 2015-2017) — ueber 15 Jahre dieselbe Nische, das ist der Anker. Liefert Gitterroste, Streckmetall, Architekturroste nach Mass, Projekte Basel/Genf/Wattwil/Trier, Swissbau-Stand Jan 2026. Post vom letzten Woche zu neuem Auftrag (frisch, als Anker verwendbar). 1939 Follower, aktiv. 9+ gemeinsame Kontakte (Albert, Kevin). Volle 10h/40k-Rechnung (etablierter Betrieb). Andockpunkt: technische Anfragen, Bemusterungen, Offerten — steht so in ihren eigenen Posts.|
+|33|Zacharias Sennrich|Sennrich AG|Metallbau/Metallgitter|A|GESENDET|03.09.|Mo 07.09.|Fr 11.09.|-|Staefa ZH, Firma in Meilen ZH. GF/Inhaber seit Mai 2017, davor Sprich AG (Produktmanager 2010-2015, GF 2015-2017) — ueber 15 Jahre dieselbe Nische, das ist der Anker. Liefert Gitterroste, Streckmetall, Architekturroste nach Mass, Projekte Basel/Genf/Wattwil/Trier, Swissbau-Stand Jan 2026. Finaler Ice Breaker: Wattwil-Post (Maschenmass 33x33, Tragstaebe 40/2, 1.5 kN Punktlast) plus Plattenleger-Bruecke ueber Roste und Lichtschachtabdeckungen. Erster Entwurf mit Werdegang-Aufzaehlung wurde von Florian als zu plump verworfen. 1939 Follower, aktiv. 9+ gemeinsame Kontakte (Albert, Kevin). Volle 10h/40k-Rechnung (etablierter Betrieb). Andockpunkt: technische Anfragen, Bemusterungen, Offerten — steht so in ihren eigenen Posts.|
 
 Nicht kontaktieren (Florians Entscheid): Claudio Baggio (Baggio Fenster und Tueren, Glarus) — nicht anschreiben, nicht tracken.
 
 Netzwerk-Kontakte (nicht pitchen, nur Beziehung/Sichtbarkeit): Paul Buehler (CEO Marti AG Bauunternehmung Zuerich) — Grossunternehmen, weit ausserhalb ICP. Kein Prozessanalyse-Pitch. Stattdessen: Marti-Posts gelegentlich ehrlich kommentieren (Reichweite bei seinem Publikum), optional pitchfreie Beziehungs-Nachricht.
+
+## Lead-Quelle: Sales Navigator (ab 03.09.2026)
+
+Florian arbeitet ab jetzt mit Sales Navigator statt normaler LinkedIn-Suche.
+
+**Kernfilter fuer den ICP:**
+- Geography: Schweiz, oder gezielt Kantone (Glarus, St. Gallen, Zuerich, Aargau, Luzern).
+- Job title (Boolean): ("Geschaeftsfuehrer" OR "Inhaber" OR "Betriebsleiter" OR "Geschaeftsinhaber" OR "Mitinhaber").
+- Company headcount: 11-50 als Hauptband, 1-10 als zweite Liste (dort die kleinere 5h/20k-Rechnung).
+- Gewerk ueber Firmen-Keyword statt Industry-Filter, weil kleine CH-Betriebe schlecht getaggt sind: Schreinerei, Sanitaer, Elektro, Maler, Gipser, Plattenleger, Metallbau, Schlosserei, Dachdecker, Heizung, Gartenbau, Bodenbelaege, Zimmerei, Fensterbau.
+
+**Wichtigster Filter (Spotlight): "Posted on LinkedIn in past 30 days".**
+Der Ice Breaker ist der Engpass des ganzen Systems. Wer gepostet hat, liefert einen frischen, pruefbaren Anker (siehe Zacharias Sennrich, Wattwil-Post). Ohne Aktivitaet bleibt nur der Werdegang, und genau das hat Florian als zu plump verworfen.
+
+**Zweiter Trigger: "Changed jobs in past 90 days".** Neuer Geschaeftsfuehrer heisst neue Ablaeufe und offenes Ohr.
+
+**Lead-Listen:** pro Gewerk bzw. Kanton eine Liste anlegen, damit die SOP-Schlagzahl (15-20 pro Tag) abgearbeitet statt gesucht wird.
+
+**Nicht aendern:** Vernetzungsanfrage weiterhin ohne Notiz ueber das normale Profil, danach Pitch im Chat. InMails NICHT fuer den Kaltpitch verbrennen, nur fuer Leads, die die Vernetzung nicht annehmen. Das Wochenlimit fuer Vernetzungsanfragen bleibt trotz Premium bestehen.
+
+**Dieser Tracker bleibt die Wahrheit.** Sales-Navigator-Listen sind Quelle, nicht Status. Status, Follow-up-Daten und KPI-Kette stehen weiter hier.
 
 ## Regeln (Kurzfassung aus SOP und Playbook)
 
