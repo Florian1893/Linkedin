@@ -1,6 +1,6 @@
 # BetriebsFlow Lead-Tracker
 
-Stand: 2026-09-03. 31 Nachrichten verschickt: Welle 1 am 01.09. (FU1 Fr 04.09., FU2 Mi 09.09.), Welle 2 am 02.09. und Welle 3 am 03.09. (FU1 Mo 07.09., FU2 Fr 11.09.). Gefuehrt von Claude, gefuettert von Florian.
+Stand: 2026-09-03. 32 Nachrichten verschickt: Welle 1 am 01.09. (FU1 Fr 04.09., FU2 Mi 09.09.), Welle 2 am 02.09. und Welle 3 am 03.09. (FU1 Mo 07.09., FU2 Fr 11.09.). Gefuehrt von Claude, gefuettert von Florian.
 
 **Grundregel (Florian, 03.09.2026): Wenn Florian nichts sagt, ist die Nachricht raus.** Jede fertige Pitch-Message gilt automatisch als GESENDET am Tag der Ausgabe, inklusive Follow-up-Daten. Nur wenn Florian ausdruecklich sagt "geht nicht raus", bleibt sie ENTWURF.
 
@@ -12,13 +12,13 @@ Stand: 2026-09-03. 31 Nachrichten verschickt: Welle 1 am 01.09. (FU1 Fr 04.09., 
 
 | Stufe | Anzahl |
 |---|---|
-| Nachrichten gesendet | 31 (10 am 01.09., 13 am 02.09., 8 am 03.09.) |
+| Nachrichten gesendet | 32 (10 am 01.09., 13 am 02.09., 9 am 03.09.) |
 | Geantwortet | 2 |
 | Termin gebucht | 0 |
 | Erschienen | 0 |
 | Abgeschlossen | 0 |
 
-Antwortquote (Stand 03.09.): 2 von 31 (6 %), beide innerhalb von Stunden. Einwand-Muster (2 von 2): fehlende KAPAZITAET, nicht fehlendes Interesse. Reto: eigene Stelle geschaffen. Ahmed: keine Zeit. Beide antworteten innerhalb von Stunden. Hebel waere ein kleinerer erster Schritt (15 Min Telefon statt 30 Min vor Ort), nicht ein neuer Text. Zu frueh fuer Schluesse. Benchmark: 20-30 % solide, ab 30 % Volumen erhoehen statt Nachricht aendern, unter 15 % nach 30+ Nachrichten zuerst Ice Breaker ueberarbeiten.
+Antwortquote (Stand 03.09.): 2 von 32 (6 %), beide innerhalb von Stunden. Einwand-Muster (2 von 2): fehlende KAPAZITAET, nicht fehlendes Interesse. Reto: eigene Stelle geschaffen. Ahmed: keine Zeit. Beide antworteten innerhalb von Stunden. Hebel waere ein kleinerer erster Schritt (15 Min Telefon statt 30 Min vor Ort), nicht ein neuer Text. Zu frueh fuer Schluesse. Benchmark: 20-30 % solide, ab 30 % Volumen erhoehen statt Nachricht aendern, unter 15 % nach 30+ Nachrichten zuerst Ice Breaker ueberarbeiten.
 
 ## Leads
 
@@ -60,6 +60,7 @@ Antwortquote (Stand 03.09.): 2 von 31 (6 %), beide innerhalb von Stunden. Einwan
 |34|Raphael Feigenwinter|Sanitaer-Heizung Feigenwinter AG|Sanitaer/Heizung|A|GESENDET|03.09.|Mo 07.09.|Fr 11.09.|-|Reinach BL. Eidg. dipl. Sanitaermeister, Pruefungsexperte QV Kanton BL/BS, Familienbetrieb. Sehr aktiv (Posts 1d, 3d, 6d, 1w, 2w). EINSTIEG: sein Post "Lerne etwas Handwerkliches, uns kann KI nicht so schnell was vormachen" — Einwand vorwegnehmen und ihm recht geben, Grenze ziehen zwischen Baustelle und Buero. NICHT ANFASSEN: Firmenhistorie Teil 6 (Tod seines Vaters) — pietaetlos als Kaltpitch-Aufhaenger. Zweiter Anker: "Gut vorbereitet ist halb erledigt" plus Servicefahrzeug-Serie. Abteilungsleiter Heizung vorhanden, also groesserer Betrieb, volle 10h/40k-Rechnung.|
 |35|Jeannine Hintermeister|Baehler Bau AG|Fassade/Gebaeudehuelle|A|GESENDET|03.09.|Mo 07.09.|Fr 11.09.|-|Winterthur ZH. ACHTUNG KOLLISION: gleiche Firma wie Michel Baehler #6 (CEO/Inhaber). NUR EINE Person anschreiben, Empfehlung Jeannine (postet aktiv, macht Kommunikation selber, fuehrt operativ). Einstieg: Keramikriemchen-Referenzprojekt Zuerich, Plattenleger-Bruecke. 3089 Follower, Posts 6d und 1w. Vollsortiment Gebaeudehuelle (Baueingabe, Bauleitung, Geruest, Elektro, Maler, Storen, Spengler), volle 10h/40k-Rechnung.|
 |36|Luca Monaco|Dudler & Co GmbH|Storen/Sonnenschutz|A|GESENDET|03.09.|Mo 07.09.|Fr 11.09.|-|Goldach SG, Ostschweiz, Firma seit 1952. Einstieg: sein Mundart-Slogan "Muesch en Storen ha, lüt am Dudler a" plus die Firmenposts "Chef unterwegs", in denen er selber zum Aufmass faehrt. Als Staerke formuliert, keine Diagnose. Sehr LinkedIn-erfahren (Videos, Quartalsrueckblicke, Engagement-Fragen), erkennt Outreach sofort. Gemeinsame Kontakte: Fisnik Zeneli (#14), Mirco Della Rossa. Betriebsgroesse unklar, GmbH mit Lernendem und Serviceabteilung, volle 10h/40k-Rechnung gewaehlt. Falls im Gespraech kleiner als gedacht, auf 5h/20k runterschalten.|
+|37|Tobias Aeppli|Mueller Heizung-Service AG|Heizung/Waermepumpen|A|GESENDET|03.09.|Mo 07.09.|Fr 11.09.|-|Rueti ZH, Standorte Laupen ZH und Hinwil, Zuercher Oberland. Einstieg: Mitarbeiter-Thread (Hansruedi 50 Jahre in Pension, Altrim EFZ bestanden und geblieben, Robin startet Lehre). Wichtiger Zusatz fuer diesen Lead: "Am Team aendert das nichts" — er postet staendig ueber Leute und wuerde Automatisierung sonst als Stellenabbau lesen. Slogan "Mir bringet d'Waermi hei." 2528 Follower, sehr aktiv. Partner eConnect, Waermepumpen/Solar/Fernwaerme, Messen (Gwerbfaescht Wald mit Matthias Glarner). ACHTUNG: heisst Aeppli, Firma heisst Mueller — Entscheidungsspielraum frueh klaeren wie bei Dettwiler #32. Sucht seit ~1 Monat Elektroinstallateur EFZ, Aufhaenger fuer Fachkraeftemangel-Thema. Volle 10h/40k-Rechnung.|
 
 Nicht kontaktieren (Florians Entscheid): Claudio Baggio (Baggio Fenster und Tueren, Glarus) — nicht anschreiben, nicht tracken.
 
@@ -104,6 +105,7 @@ Duplikat-Check vor jedem neuen Lead. Wer hier steht, ist bereits im System. Sale
 - Fisnik Zeneli (LUXORA Storen GmbH) — ENTWURF, #14
 - Raphael Feigenwinter (Sanitaer-Heizung Feigenwinter AG) — GESENDET, #34
 - Luca Monaco (Dudler & Co GmbH) — GESENDET, #36
+- Tobias Aeppli (Mueller Heizung-Service AG) — GESENDET, #37
 - Jeannine Hintermeister (Baehler Bau AG) — GESENDET, #35
 - Claudio Baggio (Baggio Fenster und Tueren) — NICHT KONTAKTIEREN (Florians Entscheid)
 - Paul Buehler (Marti AG) — Netzwerk-Kontakt, nicht pitchen
