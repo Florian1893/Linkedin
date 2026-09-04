@@ -22,8 +22,22 @@ Alle Posts nach Impressions. Startbestand uebernommen aus dem Skill `betriebsflo
 | 109 | Griechenland-Reflexion | persoenlich | - | ohne Betriebsbezug, Zielgruppe nicht getroffen |
 | 109 | Mehrwert-Liste mit 3 Tipps | Liste | - | Format floppt |
 | 91 | "Zu viele Auftraege koennen killen" | Paradox | - | Behauptung ueber die Branche statt ueber den Leser |
+| 65 | Ruf-Post (03.09., "Dein Ruf als Sanitaer") | Spiegel mit Gewerks-Anrede, plus Einzelbild | B | SCHLECHTESTER WERT UEBERHAUPT. Drei Variablen gleichzeitig geaendert, siehe Diagnose unten |
 
 Median der echten Phase (ohne die zwei Kaltstart-Posts): rund 180. Stand 29.08. mit 113 dazu: rund 176. Das ist die Latte, gegen die neue Posts gemessen werden, nicht die 9374.
+
+## Diagnose zum 65er (03.09.)
+
+Drei Dinge wurden in einem Post gleichzeitig geaendert. Das war handwerklich falsch, weil sich die Ursache so nicht isolieren laesst. Wahrscheinlichste Reihenfolge nach Schadenswirkung:
+
+**1. Die Gewerks-Anrede im Hook war der Hauptfehler.** Florians Beobachtung stimmt, aber ich habe sie falsch umgesetzt. Der 1014er nannte drei Gewerke als AUFZAEHLUNG ("Maler, Gipser, Sanitaer, immer dasselbe") und signalisierte damit: das betrifft euch alle. Ich habe daraus eine ANREDE gemacht ("Dein Ruf als Sanitaer"). Damit scrollen vier von fuenf Lesern weiter, und LinkedIn verteilt zusaetzlich nur noch in ein winziges Themencluster. In einem kleinen Netzwerk im Glarnerland sind das vielleicht eine Handvoll Profile.
+   Korrektur der Regel: Gewerke IMMER als Aufzaehlung oder als konkretes Detail (Badsanierung, Fassade), NIE als Anrede an ein einzelnes Gewerk.
+
+**2. Das Einzelbild.** Recherche sagt minus 30 Prozent gegenueber reinem Text. Erklaert einen Teil, aber nicht den Absturz von 176 auf 65.
+
+**3. Der Rauheits-Umbau.** Am wenigsten wahrscheinlich, aber nicht auszuschliessen, dass der Hook dabei an Druck verloren hat.
+
+**Konsequenz fuer das Vorgehen:** Ab jetzt nur noch EINE Variable pro Post aendern. Sonst lernen wir aus jeder Zahl nichts.
 
 ## Abgeleitete Regeln
 
