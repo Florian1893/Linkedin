@@ -92,3 +92,28 @@ Alle 33 Zeilen wurden nach dem Import aus Notion zurueckgelesen und maschinell F
 - **Unbeantwortete Inbounds:** Mike Mbokolanzi (pitcht Florian), Adrian Krasniqi ("Was baust du eigentlich gerade auf?"), Bastian Schmidt ("Woher?").
 - **Testimonial bei Diego holen** mit konkreter Zahl. Wird der starke Proof-Satz und der Inhalt fuer Follow-up 2.
 - **Headline:** Im Playbook steht noch die Fassung vom 02.09. Florian hat am 03.09. eine neuere gespeichert, welche genau ist offen. Playbook nachziehen, sobald klar.
+
+## Zweite Datenbank: BetriebsFlow Tagesaktivitaet (angelegt 04.09.2026)
+
+Zeigt, wie viele Nachrichten pro Tag rausgingen, aufgeteilt nach Typ.
+
+| Feld | Wert |
+|---|---|
+| URL | https://app.notion.com/p/f1e7144998c74631b38b5684f3158c35 |
+| Database ID | `f1e71449-98c7-4631-b38b-5684f3158c35` |
+| Data Source ID | `90320b6e-202c-4898-b171-f604bed222e0` |
+
+Spalten: Tag (Titel), Datum (date), Erstnachrichten (number), Follow-up 1 (number), Follow-up 2 (number), Total (FORMEL, nicht setzen), Notiz (rich text).
+
+Ansichten: "Total pro Tag" (Saeulendiagramm, blau), "Erstnachrichten pro Tag" (Saeulendiagramm, gruen, mit SOP-Ziel 15-20 in der Bildunterschrift), "Aufteilung pro Tag" (Tabelle, neueste zuerst).
+
+Die 08:00-Routine (trig_01K9v85heURGvQBoDmFkkXDw) fuellt diese DB taeglich aus lead-tracker.md nach. Erstnachrichten = Anzahl Leads mit diesem Gesendet-Datum. Follow-ups = Anzahl Leads mit "FU1 raus TT.MM." bzw. "FU2 raus TT.MM." in der jeweiligen Spalte.
+
+Stand 04.09.2026:
+
+| Tag | Erst | FU1 | FU2 | Total |
+|---|---|---|---|---|
+| Di 01.09. | 10 | 0 | 0 | 10 |
+| Mi 02.09. | 13 | 0 | 0 | 13 |
+| Do 03.09. | 4 | 0 | 0 | 4 |
+| Fr 04.09. | 14 | 10 | 0 | 24 |
