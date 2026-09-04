@@ -32,6 +32,25 @@ Wichtig: Das Offer ist NICHT auf Offerten fixiert. Offerten, Nachfassen, Anfrage
 4. **No-Brainer-Angebot.** Kostenlose Prozessanalyse, 30 Minuten, er sieht schwarz auf weiss, wo Zeit und Geld liegen bleiben, Ansatzpunkte behaelt er in jedem Fall. Risiko-Satz: "Du riskierst nichts ausser einer halben Stunde."
 5. **Genau eine Abschlussfrage,** die die No-Brainer-Rechnung wiederholt: "Waere dir das eine halbe Stunde wert?"
 
+## Betriebsgroesse einschaetzen (Florians Regel 04.09.2026)
+
+Die Rechnung nur dann auf 5 h und 20'000 kuerzen, wenn der Betrieb wirklich klein ist. Im Zweifel die volle Fassung nehmen.
+
+**Diese Signale heissen: gestandene Groesse, volle 10 h / 40'000 Rechnung.**
+- Eigener Projektleiter oder Bauleiter im Betrieb. Wer sich diese Stelle leistet, hat mindestens rund zehn Leute. Von Florian korrigiert bei Raphael Licka (Kuriger Schreinerei): ich hatte auf 5h/20k gekuerzt, obwohl er dort selber vier Jahre Projektleiter war.
+- Abteilungen oder Abteilungsleiter (z.B. Leiter Heizung, Leiter Kundendienst).
+- Mehrkoepfige Geschaeftsleitung.
+- Eigene Serviceabteilung oder eigener Kundendienst.
+- Eigene Planung, AVOR oder CNC-Fertigung.
+- Mehrere Lernende gleichzeitig.
+- Messeauftritte, eigener Stand.
+
+**Nur dann kuerzen (5 h / 20'000):**
+- Erkennbar Ein- bis Fuenf-Personen-Betrieb ohne Struktur im Hintergrund.
+- Sehr junger Betrieb ohne Anzeichen von Arbeitsteilung.
+
+**Grundsatz:** Zu tief ansetzen ist im Erstgespraech leicht nach oben zu korrigieren, zu hoch ansetzen klingt nach Verkaeufergerede und kostet Glaubwuerdigkeit. Aber nicht vorsorglich kuerzen, wenn die Signale oben da sind.
+
 ## Laenge und Form (Stand 02.09.2026)
 
 - Ausfuehrliche Fassung ist der Standard: circa 1000 bis 1300 Zeichen, fuenf Absaetze mit je zwei bis drei Saetzen. Die stark gekuerzte Variante wurde getestet und von Florian wieder verworfen.
