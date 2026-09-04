@@ -1,6 +1,6 @@
 # BetriebsFlow Lead-Tracker
 
-Stand: 2026-09-04. 33 Nachrichten verschickt. Welle 1 am 01.09., FU1 am 04.09. raus, FU2 faellig Mi 09.09. Welle 2 am 02.09. und Welle 3 am 03.09., FU1 Mo 07.09., FU2 Fr 11.09. Welle 4 am 04.09. (6 Leads), FU1 Mo 08.09., FU2 Fr 12.09. Gefuehrt von Claude, gefuettert von Florian.
+Stand: 2026-09-04. 34 Nachrichten verschickt. Welle 1 am 01.09., FU1 am 04.09. raus, FU2 faellig Mi 09.09. Welle 2 am 02.09. und Welle 3 am 03.09., FU1 Mo 07.09., FU2 Fr 11.09. Welle 4 am 04.09. (7 Leads), FU1 Mo 08.09., FU2 Fr 12.09. Gefuehrt von Claude, gefuettert von Florian.
 
 **Grundregel (Florian, 04.09.2026): Wenn Florian nichts sagt, ist die Nachricht raus.** Jede fertige Pitch-Message gilt automatisch als GESENDET am Tag der Ausgabe, inklusive Follow-up-Daten. Nur wenn Florian ausdruecklich sagt "geht nicht raus", bleibt sie ENTWURF.
 
@@ -12,13 +12,13 @@ Stand: 2026-09-04. 33 Nachrichten verschickt. Welle 1 am 01.09., FU1 am 04.09. r
 
 | Stufe | Anzahl |
 |---|---|
-| Nachrichten gesendet | 33 (10 am 01.09., 13 am 02.09., 4 am 03.09., 6 am 04.09.) |
+| Nachrichten gesendet | 34 (10 am 01.09., 13 am 02.09., 4 am 03.09., 7 am 04.09.) |
 | Geantwortet | 2 |
 | Termin gebucht | 0 |
 | Erschienen | 0 |
 | Abgeschlossen | 0 |
 
-Antwortquote (Stand 04.09.): 2 von 33 (6 %), beide innerhalb von Stunden. Einwand-Muster (2 von 2): fehlende KAPAZITAET, nicht fehlendes Interesse. Reto: eigene Stelle geschaffen. Ahmed: keine Zeit. Beide antworteten innerhalb von Stunden. Hebel waere ein kleinerer erster Schritt (15 Min Telefon statt 30 Min vor Ort), nicht ein neuer Text. Zu frueh fuer Schluesse. Benchmark: 20-30 % solide, ab 30 % Volumen erhoehen statt Nachricht aendern, unter 15 % nach 30+ Nachrichten zuerst Ice Breaker ueberarbeiten.
+Antwortquote (Stand 04.09.): 2 von 34 (6 %), beide innerhalb von Stunden. Einwand-Muster (2 von 2): fehlende KAPAZITAET, nicht fehlendes Interesse. Reto: eigene Stelle geschaffen. Ahmed: keine Zeit. Beide antworteten innerhalb von Stunden. Hebel waere ein kleinerer erster Schritt (15 Min Telefon statt 30 Min vor Ort), nicht ein neuer Text. Zu frueh fuer Schluesse. Benchmark: 20-30 % solide, ab 30 % Volumen erhoehen statt Nachricht aendern, unter 15 % nach 30+ Nachrichten zuerst Ice Breaker ueberarbeiten.
 
 ## Leads
 
@@ -63,6 +63,7 @@ Antwortquote (Stand 04.09.): 2 von 33 (6 %), beide innerhalb von Stunden. Einwan
 |37|Tobias Aeppli|Mueller Heizung-Service AG|Heizung/Waermepumpen|A|GESENDET|04.09.|Mo 08.09.|Fr 12.09.|-|Rueti ZH, Standorte Laupen ZH und Hinwil, Zuercher Oberland. Einstieg: Mitarbeiter-Thread (Hansruedi 50 Jahre in Pension, Altrim EFZ bestanden und geblieben, Robin startet Lehre). Wichtiger Zusatz fuer diesen Lead: "Am Team aendert das nichts" — er postet staendig ueber Leute und wuerde Automatisierung sonst als Stellenabbau lesen. Slogan "Mir bringet d'Waermi hei." 2528 Follower, sehr aktiv. Partner eConnect, Waermepumpen/Solar/Fernwaerme, Messen (Gwerbfaescht Wald mit Matthias Glarner). ACHTUNG: heisst Aeppli, Firma heisst Mueller — Entscheidungsspielraum frueh klaeren wie bei Dettwiler #32. Sucht seit ~1 Monat Elektroinstallateur EFZ, Aufhaenger fuer Fachkraeftemangel-Thema. Volle 10h/40k-Rechnung.|
 |38|Severin Oesch|Oesch & Weber AG|Dachdecker/Kaminfeger/PV|A|WIEDERVORLAGE (nicht angeschrieben)|-|-|-|-|Embrach ZH, Standort Bachenbuelach, 4. Generation, ueber 100 Jahre. NICHT ANGESCHRIEBEN, Florians Entscheid 04.09.: wegen Hagel-Grosseinsatz gar keine Nachricht, erst in einem Monat. ANSCHREIBEN AB CA. 04.10.2026, dann die normale ausfuehrliche Standardnachricht, Hagel nicht mehr als Aufhaenger nutzen (dann alt), stattdessen sein eigener Post "Mehr als 500 Mails, mehr als 700 Telefonate" vom 02.09. als Beleg im Gespraech. EINWAND VORBEREITEN: hat vor ~1 Monat Jeanette fuer die Administration eingestellt ("Ordnung ins taegliche Buero-Chaos"). Antwort ist nicht Personal sparen, sondern dass Jeanette mit sauberen Ablaeufen 500 Mails schafft. Weitere Signale: zweimal explizit KI-skeptisch, Eroeffnungspost gegen "Anzugtraeger-Verkaufsshows" — jede Verkaufsrhetorik faellt bei ihm durch. Sehr aktiver Poster, 247 Reaktionen auf Top-Post.|
 |39|Alex Tiralosi|Serafino Gipsergeschaeft AG|Gipser|A|GESENDET|04.09.|Mo 08.09.|Fr 12.09.|-|Schweiz, genauer Ort unbekannt. SMGV-Mitglied. SEHR DUENNES PROFIL: 525 Follower, kein About, keine Posts, letzter Kommentar 11 Monate alt — kein persoenlicher Anker vorhanden. Einstieg ueber die Plattenleger-Bruecke plus Anerkennung des Koennens ("wer selber mit der Wasserwaage arbeitet, weiss, wie viel Koennen in einer wirklich ebenen Wand steckt"). ERSTER ENTWURF VERWORFEN: "faellt erst auf, wenn sie schlecht ist" las sich fuer Florian wie eine Beleidigung. MERKE: Beobachtungen ueber ein Gewerk muessen den Lead groesser machen, nie kleiner — auch nicht ironisch oder verkappt. Keine Aussage zu Bauablauf oder Reihenfolge. Gemeinsame Kontakte: Monir Nouri, Night Schmid-Ouko. ACHTUNG: kaum LinkedIn-aktiv, Antwort kann Wochen dauern — Nichtantwort NICHT als Signal fuer die Textqualitaet werten. Firma heisst Serafino, er heisst Tiralosi: Entscheidungsspielraum frueh klaeren wie bei Dettwiler #32 und Aeppli #37. Betriebsgroesse unbekannt, volle 10h/40k gewaehlt, im Gespraech ggf. auf 5h/20k runter.|
+|40|Taner Tan|Glatt Gebaeudetechnik AG|Gebaeudetechnik/Heizung|A|GESENDET|04.09.|Mo 08.09.|Fr 12.09.|-|Raum Zuerich (Glattal). STARKES PROFIL: Ende 2023 als GmbH gegruendet, seit Maerz 2026 AG — sein eigener Stolz-Post mit 51 Reaktionen ist der Einstieg. HF Gebaeudetechnik (Vertiefung Heizung), Baugewerbliche Berufsschule Zuerich. 2792 Follower, postet selten aber mit hoher Resonanz (Gruendungspost 168 Reaktionen). 31+ gemeinsame Kontakte. Frueherer Post: Sanierungsarbeiten mit EKZ und Kibernetik. HEBEL FUERS ERSTGESPRAECH: Betrieb waechst schnell, Bueroablaeufe stammen vermutlich noch aus der Gruendungszeit. NICHT in die Nachricht schreiben (waere eine Unterstellung), sondern als erste Frage im Call: was von dem, was ihr heute im Buero macht, habt ihr seit der Gruendung nie mehr angefasst. Volle 10h/40k-Rechnung, bei schnellem Wachstum gut vertretbar.|
 
 Nicht kontaktieren (Florians Entscheid): Claudio Baggio (Baggio Fenster und Tueren, Glarus) — nicht anschreiben, nicht tracken.
 
@@ -109,6 +110,7 @@ Duplikat-Check vor jedem neuen Lead. Wer hier steht, ist bereits im System. Sale
 - Luca Monaco (Dudler & Co GmbH) — GESENDET, #36
 - Tobias Aeppli (Mueller Heizung-Service AG) — GESENDET, #37
 - Alex Tiralosi (Serafino Gipsergeschaeft AG) — GESENDET, #39
+- Taner Tan (Glatt Gebaeudetechnik AG) — GESENDET, #40
 - Severin Oesch (Oesch & Weber AG) — NICHT ANGESCHRIEBEN, #38, Wiedervorlage ab 04.10.2026
 - Jeannine Hintermeister (Baehler Bau AG) — GESENDET, #35
 - Claudio Baggio (Baggio Fenster und Tueren) — NICHT KONTAKTIEREN (Florians Entscheid)
