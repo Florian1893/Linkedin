@@ -31,7 +31,7 @@ Antwortquote (Stand 04.09.): 3 von 41 (7 %), beide innerhalb von Stunden. Einwan
 |5|Daniel Hohl|Baltensperger AG|Holzbau|A|FU1|01.09.|FU1 raus 04.09.|Mi 09.09.|-|Stv. GF, 14 Jahre im Betrieb. Familie in der GL, Entscheid evtl. nicht allein bei ihm.|
 |6|Michel Baehler|Baehler Bau AG|Fassade/Verputz/Maler|A|NICHT ANSCHREIBEN|-|-|-|-|NICHT GESENDET am 01./02.09. — Keramikriemchen-Einstieg. NUR Baehler Bau nennen, Standard-Rechnung. KOLLISION AUFGELOEST 04.09.: Jeannine Hintermeister #35 (GF derselben Firma) wurde angeschrieben. Michel bleibt zu, damit nicht zwei Nachrichten in dieselbe Firma gehen. Firma laeuft ueber #35.|
 |7|Besart Krasniqi|BE Sanitaer GmbH|Sanitaer|B|FU1|01.09.|FU1 raus 04.09.|Mi 09.09.|-|4 MA, unter Kern-ICP. Kleine Rechnung (5h/20k). Als Sanitaer-Referenz interessant.|
-|8|Franco Chiappetta|F. Chiappetta Malergeschaeft|Maler|A|ABGELEHNT|01.09.|-|-|04.09. auf FU1: "nein danke", ohne Begruendung|Abschirmfarbe-Einstieg. Groesse unklar: falls klein, Rechnung auf 5h/20k tauschen. ABSAGE nach FU1 am 04.09. Sauberes Nein ohne Begruendung, kein Nachfassen mehr. Freundlich verabschiedet.|
+|8|Franco Chiappetta|F. Chiappetta Malergeschaeft|Maler|A|ABGELEHNT|01.09.|-|-|KEIN-INTERESSE. 04.09. auf FU1: "nein danke", ohne Begruendung|Abschirmfarbe-Einstieg. Groesse unklar: falls klein, Rechnung auf 5h/20k tauschen. ABSAGE nach FU1 am 04.09. Sauberes Nein ohne Begruendung, kein Nachfassen mehr. Freundlich verabschiedet.|
 |9|Night Schmid-Ouko|Maler/Gipser Aargau & Zuerich|Maler/Gipser|A|FU1 bereit|Erstnachricht 02.07.|sofort moeglich|+4-5 Tage danach|-|Juli-Nachricht geghostet. Neues Follow-up mit Offer+Rechnung liegt bereit, danach nur noch letzter Ping, dann Schluss.|
 |10|Pascal Eberle|Mega-Stahl AG|Betriebseinrichtung/Metall|B|FU1|01.09.|FU1 raus 04.09.|Mi 09.09.|-|Ausserhalb Kern-Gewerke, aber Offerten/Nachfassen-Schmerz gross.|
 |11|Mehdi Avdijaj|Simog Systembau AG|Trockenbau/Gipser/Fassade|A|FU1|01.09.|FU1 raus 04.09.|Mi 09.09.|-|Top-Lead. NUR Simog ansprechen. 23 gemeinsame Kontakte, bei Antwort besonders schnell reagieren.|
@@ -168,6 +168,24 @@ Der Ice Breaker ist der Engpass des ganzen Systems. Wer gepostet hat, liefert ei
 **Nicht aendern:** Vernetzungsanfrage weiterhin ohne Notiz ueber das normale Profil, danach Pitch im Chat. InMails NICHT fuer den Kaltpitch verbrennen, nur fuer Leads, die die Vernetzung nicht annehmen. Das Wochenlimit fuer Vernetzungsanfragen bleibt trotz Premium bestehen.
 
 **Dieser Tracker bleibt die Wahrheit.** Sales-Navigator-Listen sind Quelle, nicht Status. Status, Follow-up-Daten und KPI-Kette stehen weiter hier.
+
+## Absage-Analyse (ab 04.09.2026)
+
+Jede Absage bekommt eine Kategorie in die Antwort-Spalte, in GROSSBUCHSTABEN vorangestellt. Erst damit laesst sich spaeter erkennen, WAS kaputt ist. Ohne Kategorie ist eine Absage nur ein Gefuehl.
+
+| Code | Aussage des Leads | Was das anzeigt | Was geaendert wird |
+|---|---|---|---|
+| KAPAZITAET | "keine Zeit", "melde dich spaeter" | Der erste Schritt ist zu gross | Die Abschlussfrage, kleinerer Einstieg (15 Min Telefon) |
+| KEIN-BEDARF | "haben wir im Griff", "machen wir schon" | Zielgruppe oder Angebot | Sales-Navigator-Filter, nicht der Text |
+| KEIN-INTERESSE | Nein ohne Begruendung | Die Nachricht erzeugt keinen Sog | Zuerst Proof (echter Fall mit Zahl), dann Text |
+| ZU-KLEIN | Betrieb zu klein fuer das Angebot | Groessenfilter | Headcount 11-50 im Sales Navigator |
+| KEINE-ANTWORT | nach FU2 Schluss | Ice Breaker oder Zielgruppe | Erste Zeile |
+
+**Stand 04.09.2026:** 3 Absagen, alle in unterschiedlichen Kategorien (Reto KEIN-BEDARF, Ahmed KAPAZITAET, Franco KEIN-INTERESSE). Daraus ist noch nichts abzuleiten.
+
+**Auswertungsregel:** Erst ab 10 kategorisierten Absagen schauen, ob sich eine Kategorie haeuft. Haeufen sich KAPAZITAET und KEIN-INTERESSE, liegt es NICHT am Ice Breaker, sondern am ersten Schritt und am fehlenden Proof. Nie nach einer einzelnen Absage etwas umschreiben, sonst gibt es keine Vergleichbarkeit.
+
+**Statistik-Realitaet:** Null Termine aus zehn Antworten sind bei einer wahren Quote von 10 % in einem von drei Faellen normaler Zufall. Erst ab ca. 200 bis 300 Nachrichten laesst sich aus dem Ergebnis allein etwas schliessen. Vorher zaehlt der INHALT der Absagen, nicht ihre Anzahl.
 
 ## Wiedervorlagen (bewusst spaeter anschreiben)
 
