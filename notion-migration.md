@@ -115,5 +115,7 @@ Stand 04.09.2026:
 |---|---|---|---|---|
 | Di 01.09. | 10 | 0 | 0 | 10 |
 | Mi 02.09. | 13 | 0 | 0 | 13 |
-| Do 03.09. | 4 | 0 | 0 | 4 |
-| Fr 04.09. | 14 | 10 | 0 | 24 |
+| Do 03.09. | 9 | 0 | 0 | 9 |
+| Fr 04.09. | 9 | 10 | 0 | 19 |
+
+Korrigiert am 04.09. anhand der echten Zeitstempel im LinkedIn-Postfach: Zacharias Sennrich, Raphael Feigenwinter, Jeannine Hintermeister, Luca Monaco und Tobias Aeppli gingen am 03.09. raus, nicht am 04.09. MERKE: Versanddatum immer am LinkedIn-Zeitstempel pruefen, nicht aus dem Chatverlauf ableiten.
