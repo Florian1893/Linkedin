@@ -13,12 +13,12 @@ Stand: 2026-09-04. 36 Nachrichten verschickt. Welle 1 am 01.09., FU1 am 04.09. r
 | Stufe | Anzahl |
 |---|---|
 | Nachrichten gesendet | 36 (10 am 01.09., 13 am 02.09., 4 am 03.09., 9 am 04.09.) |
-| Geantwortet | 2 |
+| Geantwortet | 3 |
 | Termin gebucht | 0 |
 | Erschienen | 0 |
 | Abgeschlossen | 0 |
 
-Antwortquote (Stand 04.09.): 2 von 36 (6 %), beide innerhalb von Stunden. Einwand-Muster (2 von 2): fehlende KAPAZITAET, nicht fehlendes Interesse. Reto: eigene Stelle geschaffen. Ahmed: keine Zeit. Beide antworteten innerhalb von Stunden. Hebel waere ein kleinerer erster Schritt (15 Min Telefon statt 30 Min vor Ort), nicht ein neuer Text. Zu frueh fuer Schluesse. Benchmark: 20-30 % solide, ab 30 % Volumen erhoehen statt Nachricht aendern, unter 15 % nach 30+ Nachrichten zuerst Ice Breaker ueberarbeiten.
+Antwortquote (Stand 04.09.): 3 von 36 (8 %), beide innerhalb von Stunden. Einwand-Muster (3 Antworten): Reto fehlende Kapazitaet (eigene Stelle geschaffen), Ahmed keine Zeit, Franco klares Nein ohne Begruendung. WICHTIG: Francos Antwort kam auf das FOLLOW-UP, nicht auf die Erstnachricht. Das stuetzt die SOP-Aussage, dass ein grosser Teil der Reaktionen erst ueber Follow-ups kommt. Reto: eigene Stelle geschaffen. Ahmed: keine Zeit. Beide antworteten innerhalb von Stunden. Hebel waere ein kleinerer erster Schritt (15 Min Telefon statt 30 Min vor Ort), nicht ein neuer Text. Zu frueh fuer Schluesse. Benchmark: 20-30 % solide, ab 30 % Volumen erhoehen statt Nachricht aendern, unter 15 % nach 30+ Nachrichten zuerst Ice Breaker ueberarbeiten.
 
 ## Leads
 
@@ -31,7 +31,7 @@ Antwortquote (Stand 04.09.): 2 von 36 (6 %), beide innerhalb von Stunden. Einwan
 |5|Daniel Hohl|Baltensperger AG|Holzbau|A|FU1|01.09.|FU1 raus 04.09.|Mi 09.09.|-|Stv. GF, 14 Jahre im Betrieb. Familie in der GL, Entscheid evtl. nicht allein bei ihm.|
 |6|Michel Baehler|Baehler Bau AG|Fassade/Verputz/Maler|A|NICHT ANSCHREIBEN|-|-|-|-|NICHT GESENDET am 01./02.09. — Keramikriemchen-Einstieg. NUR Baehler Bau nennen, Standard-Rechnung. KOLLISION AUFGELOEST 04.09.: Jeannine Hintermeister #35 (GF derselben Firma) wurde angeschrieben. Michel bleibt zu, damit nicht zwei Nachrichten in dieselbe Firma gehen. Firma laeuft ueber #35.|
 |7|Besart Krasniqi|BE Sanitaer GmbH|Sanitaer|B|FU1|01.09.|FU1 raus 04.09.|Mi 09.09.|-|4 MA, unter Kern-ICP. Kleine Rechnung (5h/20k). Als Sanitaer-Referenz interessant.|
-|8|Franco Chiappetta|F. Chiappetta Malergeschaeft|Maler|A|FU1|01.09.|FU1 raus 04.09.|Mi 09.09.|-|Abschirmfarbe-Einstieg. Groesse unklar: falls klein, Rechnung auf 5h/20k tauschen.|
+|8|Franco Chiappetta|F. Chiappetta Malergeschaeft|Maler|A|ABGELEHNT|01.09.|-|-|04.09. auf FU1: "nein danke", ohne Begruendung|Abschirmfarbe-Einstieg. Groesse unklar: falls klein, Rechnung auf 5h/20k tauschen. ABSAGE nach FU1 am 04.09. Sauberes Nein ohne Begruendung, kein Nachfassen mehr. Freundlich verabschiedet.|
 |9|Night Schmid-Ouko|Maler/Gipser Aargau & Zuerich|Maler/Gipser|A|FU1 bereit|Erstnachricht 02.07.|sofort moeglich|+4-5 Tage danach|-|Juli-Nachricht geghostet. Neues Follow-up mit Offer+Rechnung liegt bereit, danach nur noch letzter Ping, dann Schluss.|
 |10|Pascal Eberle|Mega-Stahl AG|Betriebseinrichtung/Metall|B|FU1|01.09.|FU1 raus 04.09.|Mi 09.09.|-|Ausserhalb Kern-Gewerke, aber Offerten/Nachfassen-Schmerz gross.|
 |11|Mehdi Avdijaj|Simog Systembau AG|Trockenbau/Gipser/Fassade|A|FU1|01.09.|FU1 raus 04.09.|Mi 09.09.|-|Top-Lead. NUR Simog ansprechen. 23 gemeinsame Kontakte, bei Antwort besonders schnell reagieren.|
@@ -82,7 +82,7 @@ Duplikat-Check vor jedem neuen Lead. Wer hier steht, ist bereits im System. Sale
 - Hevzi Badalli (Badalli Fassaden AG) — GESENDET, #15
 - Michel Baehler (Baehler Bau AG) — NICHT ANSCHREIBEN, #6 (Firma laeuft ueber Jeannine #35)
 - Renato Breny (Baebler Heizungen AG) — GESENDET, #19
-- Franco Chiappetta (F. Chiappetta Malergeschaeft) — GESENDET, #8
+- Franco Chiappetta (F. Chiappetta Malergeschaeft) — ABGELEHNT, #8
 - Stefan Dettwiler (Daetwyler Schlosserei AG) — GESENDET, #32
 - Pascal Eberle (Mega-Stahl AG) — GESENDET, #10
 - Thomas Feldmann (Feldmann Gaerten AG) — GESENDET, #17
