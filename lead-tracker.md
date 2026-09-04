@@ -1,6 +1,6 @@
 # BetriebsFlow Lead-Tracker
 
-Stand: 2026-09-04. 36 Nachrichten verschickt. Welle 1 am 01.09., FU1 am 04.09. raus, FU2 faellig Mi 09.09. Welle 2 am 02.09. und Welle 3 am 03.09., FU1 Mo 07.09., FU2 Fr 11.09. Welle 4 am 04.09. (9 Leads), FU1 Mo 08.09., FU2 Fr 12.09. Gefuehrt von Claude, gefuettert von Florian.
+Stand: 2026-09-04. 37 Nachrichten verschickt. Welle 1 am 01.09., FU1 am 04.09. raus, FU2 faellig Mi 09.09. Welle 2 am 02.09. und Welle 3 am 03.09., FU1 Mo 07.09., FU2 Fr 11.09. Welle 4 am 04.09. (10 Leads), FU1 Mo 08.09., FU2 Fr 12.09. Gefuehrt von Claude, gefuettert von Florian.
 
 **Grundregel (Florian, 04.09.2026): Wenn Florian nichts sagt, ist die Nachricht raus.** Jede fertige Pitch-Message gilt automatisch als GESENDET am Tag der Ausgabe, inklusive Follow-up-Daten. Nur wenn Florian ausdruecklich sagt "geht nicht raus", bleibt sie ENTWURF.
 
@@ -12,13 +12,13 @@ Stand: 2026-09-04. 36 Nachrichten verschickt. Welle 1 am 01.09., FU1 am 04.09. r
 
 | Stufe | Anzahl |
 |---|---|
-| Nachrichten gesendet | 36 (10 am 01.09., 13 am 02.09., 4 am 03.09., 9 am 04.09.) |
+| Nachrichten gesendet | 37 (10 am 01.09., 13 am 02.09., 4 am 03.09., 10 am 04.09.) |
 | Geantwortet | 3 |
 | Termin gebucht | 0 |
 | Erschienen | 0 |
 | Abgeschlossen | 0 |
 
-Antwortquote (Stand 04.09.): 3 von 36 (8 %), beide innerhalb von Stunden. Einwand-Muster (3 Antworten): Reto fehlende Kapazitaet (eigene Stelle geschaffen), Ahmed keine Zeit, Franco klares Nein ohne Begruendung. WICHTIG: Francos Antwort kam auf das FOLLOW-UP, nicht auf die Erstnachricht. Das stuetzt die SOP-Aussage, dass ein grosser Teil der Reaktionen erst ueber Follow-ups kommt. Reto: eigene Stelle geschaffen. Ahmed: keine Zeit. Beide antworteten innerhalb von Stunden. Hebel waere ein kleinerer erster Schritt (15 Min Telefon statt 30 Min vor Ort), nicht ein neuer Text. Zu frueh fuer Schluesse. Benchmark: 20-30 % solide, ab 30 % Volumen erhoehen statt Nachricht aendern, unter 15 % nach 30+ Nachrichten zuerst Ice Breaker ueberarbeiten.
+Antwortquote (Stand 04.09.): 3 von 37 (8 %), beide innerhalb von Stunden. Einwand-Muster (3 Antworten): Reto fehlende Kapazitaet (eigene Stelle geschaffen), Ahmed keine Zeit, Franco klares Nein ohne Begruendung. WICHTIG: Francos Antwort kam auf das FOLLOW-UP, nicht auf die Erstnachricht. Das stuetzt die SOP-Aussage, dass ein grosser Teil der Reaktionen erst ueber Follow-ups kommt. Reto: eigene Stelle geschaffen. Ahmed: keine Zeit. Beide antworteten innerhalb von Stunden. Hebel waere ein kleinerer erster Schritt (15 Min Telefon statt 30 Min vor Ort), nicht ein neuer Text. Zu frueh fuer Schluesse. Benchmark: 20-30 % solide, ab 30 % Volumen erhoehen statt Nachricht aendern, unter 15 % nach 30+ Nachrichten zuerst Ice Breaker ueberarbeiten.
 
 ## Leads
 
@@ -66,6 +66,7 @@ Antwortquote (Stand 04.09.): 3 von 36 (8 %), beide innerhalb von Stunden. Einwan
 |40|Taner Tan|Glatt Gebaeudetechnik AG|Gebaeudetechnik/Heizung|A|GESENDET|04.09.|Mo 08.09.|Fr 12.09.|-|Raum Zuerich (Glattal). STARKES PROFIL: Ende 2023 als GmbH gegruendet, seit Maerz 2026 AG — sein eigener Stolz-Post mit 51 Reaktionen ist der Einstieg. HF Gebaeudetechnik (Vertiefung Heizung), Baugewerbliche Berufsschule Zuerich. 2792 Follower, postet selten aber mit hoher Resonanz (Gruendungspost 168 Reaktionen). 31+ gemeinsame Kontakte. Frueherer Post: Sanierungsarbeiten mit EKZ und Kibernetik. HEBEL FUERS ERSTGESPRAECH: Betrieb waechst schnell, Bueroablaeufe stammen vermutlich noch aus der Gruendungszeit. NICHT in die Nachricht schreiben (waere eine Unterstellung), sondern als erste Frage im Call: was von dem, was ihr heute im Buero macht, habt ihr seit der Gruendung nie mehr angefasst. Volle 10h/40k-Rechnung, bei schnellem Wachstum gut vertretbar.|
 |41|Fabio Kaelin|Kaelin Sanitaer + Heizung AG|Sanitaer/Heizung/Lueftung|A|GESENDET|04.09.|Mo 08.09.|Fr 12.09.|-|Zuerich. CEO, fuehrt den Betrieb mit Adriano Kaelin. BESTER ANKER BISHER: Post vom selben Tag (6h alt) zur Erweiterung der Geschaeftsleitung, Nderim Iseni seit 2010 im Betrieb wird befoerdert. Im Post steht woertlich "damit wir diesem Wachstum auch fuehrungsseitig gerecht werden" — genau dieser Satz wird in der Nachricht aufgegriffen und auf die Ablaeufe erweitert. Keine Diagnose noetig, er liefert die Vorlage selber. FUER DEN CALL, NICHT DIE NACHRICHT: sucht seit ~2 Monaten eine Leitung Kundendienst Sanitaer/Heizung — wer dafuer eine eigene Fuehrungsstelle schafft, hat dort Volumen. MAXX-Mitglied. 1818 Follower. Abteilungen und mehrkoepfige GL vorhanden, also groesserer Betrieb, volle 10h/40k-Rechnung klar vertretbar.|
 |42|Martin Eberle|werkholz AG|Schreinerei/Innenausbau|A|GESENDET|04.09.|Mo 08.09.|Fr 12.09.|-|Haslen AI, Profil zeigt Haeggenschwil SG. Holztechniker HF. BESTER INHALTLICHER FIT BISHER: Post vom Mai 2026 "KI soll Zeit sparen, aber tut sie das wirklich" formuliert woertlich Florians Positionierung — "Die Frage ist nicht welches KI-Tool, sondern welchen Prozess will ich verbessern" und "nur dann, wenn die Prozesse dahinter klar sind". Er ist auf die Philosophie vorverkauft, Einstieg greift genau diesen Satz auf. BEWUSST NICHT VERWENDET: Alp-Post von Juli, in dem er offen schreibt "in den letzten Monaten gab es Veraenderungen, auch intern im Buero, manche Aufgaben sind wieder staerker bei mir gelandet" und "nicht alles ist perfekt eingespielt". Das ist der Schmerzpunkt, aber ein verletzlicher Post — im Kaltpitch waere es Ertappen statt Verstehen. FUERS ERSTGESPRAECH aufheben, dort Gold wert. ACHTUNG: Thomas Sutter fuehrt sich als Gruender der Werkholz AG, Martin nennt sich im About Geschaeftsfuehrer UND Inhaber — Eigentuemerstruktur und Entscheidungsspielraum klaeren. Hat Triviso-ERP-Post geteilt, Digitalisierungsthema laeuft schon. CNC im Einsatz, Lehrlinge, ERFA-Gruppe. Volle 10h/40k-Rechnung.|
+|43|Raphael Licka|Kuriger Schreinerei GmbH|Schreinerei/Innenausbau|A|GESENDET|04.09.|Mo 08.09.|Fr 12.09.|-|Rapperswil-Jona SG. EINSTIEG AUS DEM LEBENSLAUF: Lehre 2009-2013 bei Kuriger, zwei Jahre Zimmerei Diethelm Meilen, 2020 zurueck als Moebelschreiner, ab 2022 Projektleiter, SEIT JANUAR 2026 INHABER UND GF desselben Betriebs. Vom Lehrling zum Chef im gleichen Haus. Zweiter Satz "von der Werkstatt bis zum Schreibtisch" ist woertlich wahr und fuehrt das Buero-Thema ein, ohne etwas zu unterstellen. KLEINERE RECHNUNG GEWAEHLT: 5h/20k statt 10h/40k, weil kleine Schreinerei mit einem Lehrling — die grosse Zahl haette nach Verkaeufergerede geklungen. HEBEL FUERS ERSTGESPRAECH: erst neun Monate Inhaber, also genau der Moment, in dem alte Ablaeufe hinterfragt werden. Frage im Call: was machst du heute im Buero, das du vorher gar nicht gesehen hast. Kleines Netzwerk (248 Kontakte, 252 Follower), teilt nur Firmenposts, letzter Repost 1 Tag alt. Neuer Lehrling Joel seit 2 Wochen.|
 
 Nicht kontaktieren (Florians Entscheid): Claudio Baggio (Baggio Fenster und Tueren, Glarus) — nicht anschreiben, nicht tracken.
 
@@ -112,6 +113,7 @@ Duplikat-Check vor jedem neuen Lead. Wer hier steht, ist bereits im System. Sale
 - Luca Monaco (Dudler & Co GmbH) — GESENDET, #36
 - Tobias Aeppli (Mueller Heizung-Service AG) — GESENDET, #37
 - Alex Tiralosi (Serafino Gipsergeschaeft AG) — GESENDET, #39
+- Raphael Licka (Kuriger Schreinerei GmbH) — GESENDET, #43
 - Martin Eberle (werkholz AG) — GESENDET, #42
 - Fabio Kaelin (Kaelin Sanitaer + Heizung AG) — GESENDET, #41
 - Taner Tan (Glatt Gebaeudetechnik AG) — GESENDET, #40
