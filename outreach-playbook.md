@@ -74,6 +74,22 @@ Die Rechnung nur dann auf 5 h und 20'000 kuerzen, wenn der Betrieb wirklich klei
 - Die Doppelpunkt-Zeilen wirken als Zwischentitel und machen die Nachricht auf dem Handy scanbar.
 - Anrede, dann Leerzeile. Abschlussfrage steht allein am Schluss.
 
+## Kein KI-Sound (Florians Vorgabe 04.09.2026)
+
+Die Nachricht darf nicht nach Maschine klingen. Der haeufigste Verraeter ist der Stakkato-Rhythmus aus kurzen, gleich gebauten Brocken.
+
+**Was raus muss:**
+- Dreierschlaege aus parallelen Kurzphrasen. "Gleiches Team, weniger Buero, mehr Profit" wurde von Florian als zu KI-lastig verworfen. Ausformulieren: "Am Ende soll dasselbe Team weniger Zeit im Buero verbringen und unter dem Strich mehr uebrig bleiben."
+- Nackte Stichwortlisten als eigener Satz. Statt "Anfragen, Offerten, Nachfassen, Rapporte." lieber in den Satz einbauen: "meistens sind das die Anfragen, die Offerten und das Nachfassen."
+- Aneinandergereihte Kurzsaetze ohne Bindewort. "Der dritte Punkt ist genau mein Thema. Sehe ich genauso. Am Team aendere ich nichts."
+
+**Was rein muss:**
+- Saetze mit Bindewoertern verbinden: und, dann, weil, meistens, dafuer.
+- Lieber ein laengerer gesprochener Satz als drei abgehackte.
+- Vorlesen im Kopf: Wuerde Florian das am Telefon so sagen? Wenn nicht, umschreiben.
+
+**Bleibt unveraendert:** Florians Formatierungsvorgabe vom 03.09. (Absatz nach Doppelpunkt, kurze Bloecke, viele Zeilenabstaende). Nur der Ton INNERHALB der Bloecke wird gesprochener, die Struktur bleibt.
+
 ## Ehrlichkeits-Leitplanken
 
 - Keine erfundenen Zahlen, kein CHF-Betrag ohne echte Quelle. Offene Rechnungen mit sichtbaren Annahmen sind erlaubt.
