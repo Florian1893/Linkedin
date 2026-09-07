@@ -4,8 +4,9 @@
 @font-face{font-family:'Inter';font-weight:500;src:url(inter-3.ttf) format('truetype');}
 *{margin:0;padding:0;box-sizing:border-box;}
 .s{width:1080px;height:1350px;position:relative;overflow:hidden;background:#111;font-family:'Inter',Helvetica,Arial,sans-serif;}
-.s img{position:absolute;left:0;top:0;width:1080px;height:1920px;object-fit:cover;transform:translateY(-190px);}
-.shade{position:absolute;left:0;right:0;bottom:0;height:46%;
+.bg{position:absolute;left:-60px;top:-60px;right:-60px;bottom:-60px;background:url(foto.jpg) center/cover;filter:blur(30px) brightness(.5);}
+.ph{position:absolute;top:0;left:50%;height:1350px;width:auto;transform:translateX(-50%);}
+.shade{position:absolute;left:0;right:0;bottom:0;height:44%;
  background:linear-gradient(180deg,rgba(0,0,0,0) 0%,rgba(0,0,0,.42) 45%,rgba(0,0,0,.72) 100%);}
 .bar{position:absolute;left:80px;bottom:388px;width:64px;height:5px;background:#7B6CF0;border-radius:8px;}
 .q{position:absolute;left:80px;right:80px;bottom:120px;color:#fff;font-weight:500;
@@ -13,7 +14,8 @@
 .q span{display:block;font-weight:400;font-size:34px;letter-spacing:.2px;opacity:.86;margin-bottom:22px;}
 </style></head><body>
 <div class="s">
-  <img src="foto.jpg">
+  <div class="bg"></div>
+  <img class="ph" src="foto.jpg">
   <div class="shade"></div>
   <div class="bar"></div>
   <div class="q"><span>Die Frage, die ich jedem Inhaber stelle:</span>Läuft dein Betrieb<br>einen Tag ohne dich?</div>
