@@ -41,7 +41,7 @@ Drei Dinge wurden in einem Post gleichzeitig geaendert. Das war handwerklich fal
 
 ## Abgeleitete Regeln
 
-1. Erstes Wort gehoert dem Leser, nie "Ich". Spiegel schlaegt Fenster.
+1. Erstes Wort gehoert dem Leser. "Ich" ist die Ausnahme, NICHT verboten: der 1014er begann mit "Ich fragte einen Maler: [Frage]" und gewann, der 109er mit "Ich war bei einem Betrieb, der stolz sagte..." und floppte. Unterschied: Im ersten Fall folgt sofort eine Frage, die der Leser auf sich bezieht. Im zweiten wird er Zuschauer. Ich ist erlaubt, wenn im selben Satz eine Frage steht.
 2. Erkennen schlaegt Provozieren. Ein Satz, den der Leser mit schlechtem Gewissen beantwortet, schlaegt jede steile Branchen-These.
 3. Hook maximal 10 Woerter, polarisiert ueber eine Ueberzeugung des Lesers, Filter steht in Zeile eins.
 4. Listen, Pfeile, Tipps, Feature-Kataloge floppen. Immer Fliesstext.
