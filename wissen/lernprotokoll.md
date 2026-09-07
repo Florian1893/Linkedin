@@ -63,7 +63,8 @@ Drei Dinge wurden in einem Post gleichzeitig geaendert. Das war handwerklich fal
     - Satzlaengen bewusst ungleich halten. Ein echter Satz darf holpern.
     - Schweizer Umgangswoerter nutzen: bloss, halt, gar nicht, eben.
     Test vor dem Posten: Wuerde Florian den Satz so am Tisch sagen? Wenn nicht, umschreiben.
-12. ANWEISUNG FLORIAN (29.08.2026), gilt ab sofort fuer jeden Post: NUR NOCH STORYS. Kein Wissens-Post, keine These-Posts, keine Denkmodelle mehr im Feed. Beleglage: Wissen/Liste/These liegen bei 91 bis 184 (Flops: 176, 120, 113, 109, 91), Storys und Spiegel bei 313 bis 1014. Wissens-Inhalte leben nur noch im Profil-PDF und in Kommentaren. Jeder Post braucht Szene, Kippbewegung, Wendepunkt, Merksatz, eine Frage.
+12. EINE FRAGE heisst: eine Frage AN DEN LESER, ganz am Schluss. Eine zitierte Frage in direkter Rede im Hook ("Laeuft dein Betrieb einen Tag ohne dich?" an einen Maler gerichtet) zaehlt nicht dazu, sie ist der Motor des 1014ers. Der mechanische Fragezeichen-Check darf bei diesem Format also 2 zeigen: eine oben in Anfuehrungszeichen, eine unten an den Leser.
+13. ANWEISUNG FLORIAN (29.08.2026), gilt ab sofort fuer jeden Post: NUR NOCH STORYS. Kein Wissens-Post, keine These-Posts, keine Denkmodelle mehr im Feed. Beleglage: Wissen/Liste/These liegen bei 91 bis 184 (Flops: 176, 120, 113, 109, 91), Storys und Spiegel bei 313 bis 1014. Wissens-Inhalte leben nur noch im Profil-PDF und in Kommentaren. Jeder Post braucht Szene, Kippbewegung, Wendepunkt, Merksatz, eine Frage.
 
 ## Offene Tests
 
