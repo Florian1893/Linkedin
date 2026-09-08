@@ -24,6 +24,18 @@ Optionaler Zusatz (No-Brainer): "Einstieg: kostenlose Prozessanalyse, 30 Minuten
 
 Wichtig: Das Offer ist NICHT auf Offerten fixiert. Offerten, Nachfassen, Anfragen, Rapporte sind Beispiele zum Andocken. Kern ist die individuelle Analyse plus Custom-Prozessoptimierung. Winkel: Profit (nicht Umsatz).
 
+## Florians Antrieb in einem Satz (08.09.2026)
+
+> "Ich will, dass Handwerksbetriebe die beste Marge rausholen, die bei ihnen drin liegt. Automatisieren ist fuer mich einfach der Weg dahin, nicht das Ziel."
+
+Der zweite Satz ist der wichtige. Er dreht Florian vom Automatisierer zum Anwalt des Handwerks, und das ist die ehrliche Reihenfolge: das Ziel ist die Marge des Betriebs, die Technik ist nur Mittel.
+
+**Wo der Satz hingehoert:** In die Umfrage-Variante und ins Sprachmemo, wo er das WARUM liefert, das dem trockenen "ich automatisiere Bueroablaeufe" fehlt. In der langen Pitch-Message ist er optional, dort traegt schon die Rechnung.
+
+**HARTE LEITPLANKE:** Immer als Florians ZIEL formulieren, nie als Versprechen an den Lead. "Ich will, dass..." ist ehrlich und kostet nichts. "Ich hole dir die beste Marge raus" waere eine Ergebnisbehauptung, die ohne einen einzigen belegten Fall nicht gedeckt ist. Gilt so lange, bis es einen echten Kundenfall mit einer Zahl gibt.
+
+**Was NICHT geht:** "Mein grosses Ziel ist es, Handwerksbetrieben die bestmoegliche Marge zu bieten." Klingt nach LinkedIn-Bio, und eine Marge kann man niemandem "bieten", der Betrieb holt sie selber.
+
 ## Struktur der Pitch-Message (5 Bausteine, feste Reihenfolge)
 
 1. **Persoenlicher Ice Breaker.** Immer individuell, nie generisch. Staerkster Hebel: Florians Plattenleger-Hintergrund als echte Bruecke zum Gewerk des Leads (z.B. an Gipser: "Als Plattenleger habe ich auf genug Baustellen mit euch Gipsern zusammengearbeitet"). Dazu ein konkretes Profildetail (Werdegang, Uebernahme, Doppel-Gewerk, Post). Kein Standardkompliment. ACHTUNG 1: Keine Fachaussagen ueber fremde Gewerke erfinden (Bauablauf, Reihenfolge der Gewerke usw.), nur Dinge behaupten, die sicher stimmen. Von Florian korrigiert: "Gipser kommt vor dem Plattenleger" war falsch. ACHTUNG 2: Bei Aktivitaets-Ankern (Posts, Stellenausschreibungen, Webseiten) IMMER den Zeitstempel pruefen. Nur als "gerade/aktuell" formulieren, was wenige Wochen alt ist; aeltere Aktivitaet weglassen oder neutral ohne Zeitbezug erwaehnen. Von Florian korrigiert: einjaehrige Stellen-Reposts wurden faelschlich als "ihr sucht gerade" verkauft. ACHTUNG 3: Keine Zustandsdiagnosen ueber den Betrieb des Leads ("da laeuft einiges doppelt ueber deinen Tisch", "bei dir stapelt sich sicher X") — das wirkt als Angriff. Stattdessen die Leistung anerkennen ("Das haelt keiner ohne saubere Organisation") und den Schmerz nur in der konditionalen Rechnung andeuten ("Stecken bei euch nur X Stunden..."). Von Florian korrigiert bei Michel Baehler. ACHTUNG 5: Beobachtungen ueber das Gewerk muessen den Lead GROESSER machen, nie kleiner. Kein verkapptes Lob, keine Ironie auf Kosten des Handwerks. Von Florian korrigiert bei Alex Tiralosi: "Eure Arbeit faellt erst auf, wenn sie schlecht ist" wurde als Beleidigung gelesen. Richtige Fassung: das Koennen anerkennen ("wer selber mit der Wasserwaage arbeitet, weiss, wie viel Koennen in einer wirklich ebenen Wand steckt"). ACHTUNG 4 (harte Regel): NIE mehrere Firmen des Leads ansprechen, auch wenn das Profil ein ganzes Portfolio zeigt. Immer nur EINE Firma waehlen (die aus der Headline bzw. die mit dem passendsten Gewerk) und Nachricht, Rechnung und Follow-ups nur auf diese eine beziehen. Keine Pro-Firma-Rechnungen. Von Florian als harte Regel gesetzt bei Mehdi Avdijaj.
