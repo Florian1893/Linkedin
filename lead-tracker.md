@@ -1,6 +1,6 @@
 # BetriebsFlow Lead-Tracker
 
-Stand: 2026-09-07. 44 Erstnachrichten plus 30 Follow-ups. Welle 1 am 01.09. (10), FU1 am 04.09. raus, FU2 faellig Mi 09.09. Welle 2 am 02.09. (13), FU1 am 07.09. raus (12 Stueck, Reto Wetter hat abgesagt), FU2 faellig Fr 11.09. Welle 3 am 03.09. (9), FU1 am 07.09. raus (8 Stueck, Ahmed Vuckic hat geantwortet), FU2 faellig Fr 11.09. Welle 4 am 04.09. (10), FU1 Di 08.09., FU2 Mo 14.09. Gefuehrt von Claude, gefuettert von Florian.
+Stand: 2026-09-07. 44 Erstnachrichten plus 30 Follow-ups. Welle 1 am 01.09. (10), FU1 am 04.09. raus, FU2 am 09.09. raus (9 Stueck, Franco Chiappetta hat abgesagt) — Welle 1 damit durch. Welle 2 am 02.09. (13), FU1 am 07.09. raus (12 Stueck, Reto Wetter hat abgesagt), FU2 faellig Fr 11.09. Welle 3 am 03.09. (9), FU1 am 07.09. raus (8 Stueck, Ahmed Vuckic hat geantwortet), FU2 faellig Fr 11.09. Welle 4 am 04.09. (10), FU1 Di 08.09., FU2 Mo 14.09. Gefuehrt von Claude, gefuettert von Florian.
 
 **Grundregel (Florian, 04.09.2026): Wenn Florian nichts sagt, ist die Nachricht raus.** Jede fertige Pitch-Message gilt automatisch als GESENDET am Tag der Ausgabe, inklusive Follow-up-Daten. Nur wenn Florian ausdruecklich sagt "geht nicht raus", bleibt sie ENTWURF.
 
@@ -12,7 +12,7 @@ Stand: 2026-09-07. 44 Erstnachrichten plus 30 Follow-ups. Welle 1 am 01.09. (10)
 
 | Stufe | Anzahl |
 |---|---|
-| Nachrichten gesendet | 44 Erstnachrichten (10 am 01.09., 13 am 02.09., 9 am 03.09., 10 am 04.09., 2 am 07.09.) plus 30 Follow-ups (10 am 04.09., 20 am 07.09.) = 74 Nachrichten total |
+| Nachrichten gesendet | 44 Erstnachrichten (10 am 01.09., 13 am 02.09., 9 am 03.09., 10 am 04.09., 2 am 07.09.) plus 39 Follow-ups (10 FU1 am 04.09., 20 FU1 am 07.09., 9 FU2 am 09.09.) = 83 Nachrichten total |
 | Geantwortet | 4 |
 | Termin gebucht | 0 |
 | Erschienen | 0 |
@@ -25,18 +25,18 @@ Antwortquote (Stand 04.09.): 3 von 42 (7 %), beide innerhalb von Stunden. Einwan
 | # | Name | Firma | Gewerk | Prio | Status | Gesendet | FU1 faellig | FU2 faellig | Antwort | Notiz |
 |---|---|---|---|---|---|---|---|---|---|---|
 |1|Timy Weidmann|Buewe Tiefbau AG|Tiefbau|A|PENDENT|-|-|-|-|Vernetzung seit 19.08. offen, Nachricht liegt bereit fuer Annahme. Nicht nachfassen, keine InMail.|
-|2|Sanel Jukic|Peduzzi Gipser AG Maler AG|Gipser/Maler|A|FU1|01.09.|FU1 raus 04.09.|Mi 09.09.|-|GF seit Jan 2026. Gipser-Proof-Satz vor Senden auf echten Stand pruefen.|
-|3|Mark Gjoni|Malergeschaeft Kuster GmbH|Maler|A|FU1|01.09.|FU1 raus 04.09.|Mi 09.09.|-|NUR Kuster ansprechen (Ein-Firma-Regel), Zwei-Betriebe-Satz ersetzen, Standard-Rechnung 10h.|
-|4|Tobias Kuebler|Kuebler AG Holzbau|Holzbau|A|FU1|01.09.|FU1 raus 04.09.|Mi 09.09.|-|~60 MA, 100-Jahr-Jubilaeum, 4. Generation. Evtl. Weiterleitung an Co-GF/Bueroleitung.|
-|5|Daniel Hohl|Baltensperger AG|Holzbau|A|FU1|01.09.|FU1 raus 04.09.|Mi 09.09.|-|Stv. GF, 14 Jahre im Betrieb. Familie in der GL, Entscheid evtl. nicht allein bei ihm.|
+|2|Sanel Jukic|Peduzzi Gipser AG Maler AG|Gipser/Maler|A|FU2|01.09.|FU1 raus 04.09.|FU2 raus 09.09.|-|GF seit Jan 2026. Gipser-Proof-Satz vor Senden auf echten Stand pruefen.|
+|3|Mark Gjoni|Malergeschaeft Kuster GmbH|Maler|A|FU2|01.09.|FU1 raus 04.09.|FU2 raus 09.09.|-|NUR Kuster ansprechen (Ein-Firma-Regel), Zwei-Betriebe-Satz ersetzen, Standard-Rechnung 10h.|
+|4|Tobias Kuebler|Kuebler AG Holzbau|Holzbau|A|FU2|01.09.|FU1 raus 04.09.|FU2 raus 09.09.|-|~60 MA, 100-Jahr-Jubilaeum, 4. Generation. Evtl. Weiterleitung an Co-GF/Bueroleitung.|
+|5|Daniel Hohl|Baltensperger AG|Holzbau|A|FU2|01.09.|FU1 raus 04.09.|FU2 raus 09.09.|-|Stv. GF, 14 Jahre im Betrieb. Familie in der GL, Entscheid evtl. nicht allein bei ihm.|
 |6|Michel Baehler|Baehler Bau AG|Fassade/Verputz/Maler|A|NICHT ANSCHREIBEN|-|-|-|-|NICHT GESENDET am 01./02.09. — Keramikriemchen-Einstieg. NUR Baehler Bau nennen, Standard-Rechnung. KOLLISION AUFGELOEST 04.09.: Jeannine Hintermeister #35 (GF derselben Firma) wurde angeschrieben. Michel bleibt zu, damit nicht zwei Nachrichten in dieselbe Firma gehen. Firma laeuft ueber #35.|
-|7|Besart Krasniqi|BE Sanitaer GmbH|Sanitaer|B|FU1|01.09.|FU1 raus 04.09.|Mi 09.09.|-|4 MA, unter Kern-ICP. Kleine Rechnung (5h/20k). Als Sanitaer-Referenz interessant.|
+|7|Besart Krasniqi|BE Sanitaer GmbH|Sanitaer|B|FU2|01.09.|FU1 raus 04.09.|FU2 raus 09.09.|-|4 MA, unter Kern-ICP. Kleine Rechnung (5h/20k). Als Sanitaer-Referenz interessant.|
 |8|Franco Chiappetta|F. Chiappetta Malergeschaeft|Maler|A|ABGELEHNT|01.09.|-|-|KEIN-INTERESSE. 04.09. auf FU1: "nein danke", ohne Begruendung|Abschirmfarbe-Einstieg. Groesse unklar: falls klein, Rechnung auf 5h/20k tauschen. ABSAGE nach FU1 am 04.09. Sauberes Nein ohne Begruendung, kein Nachfassen mehr. Freundlich verabschiedet.|
 |9|Night Schmid-Ouko|Maler/Gipser Aargau & Zuerich|Maler/Gipser|A|FU1 bereit|Erstnachricht 02.07.|sofort moeglich|+4-5 Tage danach|-|Juli-Nachricht geghostet. Neues Follow-up mit Offer+Rechnung liegt bereit, danach nur noch letzter Ping, dann Schluss.|
-|10|Pascal Eberle|Mega-Stahl AG|Betriebseinrichtung/Metall|B|FU1|01.09.|FU1 raus 04.09.|Mi 09.09.|-|Ausserhalb Kern-Gewerke, aber Offerten/Nachfassen-Schmerz gross.|
-|11|Mehdi Avdijaj|Simog Systembau AG|Trockenbau/Gipser/Fassade|A|FU1|01.09.|FU1 raus 04.09.|Mi 09.09.|-|Top-Lead. NUR Simog ansprechen. 23 gemeinsame Kontakte, bei Antwort besonders schnell reagieren.|
-|12|Michel Vogt|Galli Hoch- und Tiefbau AG|Hochbau/Tiefbau|A|FU1|01.09.|FU1 raus 04.09.|Mi 09.09.|-|~140 MA, groesster Lead. Beim Termin darauf achten, dass Vogt selbst dabei ist.|
-|13|Daniel Alpiger|Alpiger Holzbau AG|Holzbau|A|FU1|01.09.|FU1 raus 04.09.|Mi 09.09.|-|Inhaber seit 1998. Gespraechswinkel fuers Erstgespraech: Nachfolge/Betriebswert.|
+|10|Pascal Eberle|Mega-Stahl AG|Betriebseinrichtung/Metall|B|FU2|01.09.|FU1 raus 04.09.|FU2 raus 09.09.|-|Ausserhalb Kern-Gewerke, aber Offerten/Nachfassen-Schmerz gross.|
+|11|Mehdi Avdijaj|Simog Systembau AG|Trockenbau/Gipser/Fassade|A|FU2|01.09.|FU1 raus 04.09.|FU2 raus 09.09.|-|Top-Lead. NUR Simog ansprechen. 23 gemeinsame Kontakte, bei Antwort besonders schnell reagieren.|
+|12|Michel Vogt|Galli Hoch- und Tiefbau AG|Hochbau/Tiefbau|A|FU2|01.09.|FU1 raus 04.09.|FU2 raus 09.09.|-|~140 MA, groesster Lead. Beim Termin darauf achten, dass Vogt selbst dabei ist.|
+|13|Daniel Alpiger|Alpiger Holzbau AG|Holzbau|A|FU2|01.09.|FU1 raus 04.09.|FU2 raus 09.09.|-|Inhaber seit 1998. Gespraechswinkel fuers Erstgespraech: Nachfolge/Betriebswert.|
 |14|Fisnik Zeneli|LUXORA Storen GmbH|Storen/Sonnenschutz|B|ENTWURF|-|-|-|-|NICHT GESENDET am 01./02.09. — Junger Gruender, klein. Kleine Rechnung (5h/20k). Service-Geschaeft, Anfragen-Handling.|
 |15|Hevzi Badalli|Badalli Fassaden AG|Gipser/Fassade|A|FU1|02.09.|FU1 raus 07.09.|Fr 11.09.|-|Inhaber seit 2001, GU-Zulieferer (HRS, allron). Erstgespraech: Rapporte und Ausmass ansprechen.|
 |16|Michael Walser|Stoeckle Metallbau AG|Metallbau|B|FU1|03.09.|FU1 raus 07.09.|Fr 11.09.|-|Kaum LinkedIn-aktiv (letzter Post 11 Monate), langsame Reaktion einplanen.|

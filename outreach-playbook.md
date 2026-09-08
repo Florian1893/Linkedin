@@ -63,8 +63,12 @@ Die Rechnung nur dann auf 5 h und 20'000 kuerzen, wenn der Betrieb wirklich klei
 **Follow-up 1 (Tag 3 bis 4):**
 > Hallo [Name], wollte kurz nachhaken, so eine Nachricht geht im Tagesgeschaeft schnell unter. Falls die Prozessanalyse gerade nichts fuer dich ist, voellig okay, kurzes Nein reicht.
 
-**Follow-up 2 (weitere 4 bis 5 Tage spaeter, letzter Ping):**
-> Hallo [Name], letzter kurzer Ping, danach lasse ich dich in Ruhe. Falls du irgendwann wissen willst, wo in euren Ablaeufen Zeit und Geld liegen bleiben, weisst du, wo du mich findest. Weiterhin viel Erfolg mit [Betrieb].
+**Follow-up 2 (weitere 4 bis 5 Tage spaeter, letzter Ping) — NEUE FASSUNG ab 08.09.2026:**
+> Hallo [Name], letzter kurzer Ping, danach lasse ich dich in Ruhe. [Ein individueller Satz zum Lead.] Machen wir es kleiner: fuenfzehn Minuten am Telefon statt einer halben Stunde vor Ort, und du hoerst, wo ich bei euch Zeit liegen sehe. Waere dir das eine Viertelstunde wert?
+
+**Warum geaendert (Florians Entscheid 08.09.2026):** Die alte Fassung endete passiv mit "weisst du, wo du mich findest" und hatte gar keine Frage mehr drin. Der letzte Kontakt ist aber der einzige Ort, wo ein kleinerer erster Schritt noch etwas bringt. Der 15-Minuten-Anruf beantwortet direkt den KAPAZITAET-Einwand (Ahmed Vuckic) und kostet nichts, weil die Nachricht ohnehin rausgeht. Alte Fassung zum Vergleich: "Falls du irgendwann wissen willst, wo in euren Ablaeufen Zeit und Geld liegen bleiben, weisst du, wo du mich findest."
+
+**Merke fuer beide Follow-ups:** Sie sind kein zweiter Pitch. Keine Rechnung wiederholen, kein Proof-Satz, kein Angebotsblock. Ein individueller Satz, der kleinere Schritt, fertig.
 
 
 ## Formatierung (Florians Vorgabe 03.09.2026)
