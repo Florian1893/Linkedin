@@ -13,7 +13,7 @@ Stand: 2026-09-07. 44 Erstnachrichten plus 30 Follow-ups. Welle 1 am 01.09. (10)
 | Stufe | Anzahl |
 |---|---|
 | Nachrichten gesendet | 44 Erstnachrichten (10 am 01.09., 13 am 02.09., 9 am 03.09., 10 am 04.09., 2 am 07.09.) plus 30 Follow-ups (10 am 04.09., 20 am 07.09.) = 74 Nachrichten total |
-| Geantwortet | 3 |
+| Geantwortet | 4 |
 | Termin gebucht | 0 |
 | Erschienen | 0 |
 | Abgeschlossen | 0 |
@@ -50,7 +50,7 @@ Antwortquote (Stand 04.09.): 3 von 42 (7 %), beide innerhalb von Stunden. Einwan
 |24|Robin Attenhofer|AF Dachtechnik AG|Spengler/Dach|A|FU1|02.09.|FU1 raus 07.09.|Fr 11.09.|-|Thusis GR, Spengler-Lehre 2016, eigene AG seit 2020 (jung, vermutlich klein). Kleine Rechnung 5h/20k. Kaum LinkedIn-aktiv. Gespraechswinkel: Dachkontrollen vor Winter, Sturm-Notfaelle.|
 |25|Filippo Milone|Fartec GmbH|Solar/PV|A|FU1|02.09.|FU1 raus 07.09.|Fr 11.09.|-|Kreuzlingen TG, Firma seit Feb 2025, vorher 12 J. Elektriker/Techniker. Winkel: hoher Offerten-Aufwand bei tiefer Abschlussquote in der Solarbranche. Erstgespraech: Pronovo/Foerderantraege abfragen. Kleine Rechnung 5h/20k.|
 |26|Sebastian Albert|glas & planung AG|Metallbau/Glas|A|FU1|02.09.|FU1 raus 07.09.|Fr 11.09.|-|Huenenberg ZG, Firma seit 2023, Auftragsbuecher bis 2028 (Letzigarten 380 Whg). Selbst LinkedIn-/Leadgen-Profi mit eigenem Gratis-Erstgespraech — Augenhoehe-Ton, Tueroeffner offen benennen. Partner Valon Dushica = gleicher Betrieb, nicht doppelt anschreiben.|
-|27|Mirco Della Rossa|Super Polish GmbH|Oberflaechensanierung/Bauschaeden|A|FU1|02.09.|FU1 raus 07.09.|Fr 11.09.|-|Pfaeffikon SZ, Firma seit 2024. USP ist "Chef persoenlich vor Ort" (Post 06:30-Baustelle) — NICHT als Problem framen, sondern: Buerozeit fehlt dort, wo er am staerksten ist. Viele kleine Einsaetze = viel Admin pro Auftrag. Kleine Rechnung 5h/20k.|
+|27|Mirco Della Rossa|Super Polish GmbH|Oberflaechensanierung/Bauschaeden|A|ABGELEHNT|02.09.|-|-|METHODE. 08.09. auf FU1: "Ihr schickt staendig KI-generierte Nachrichten raus und spammt die Leute zu. Sobald man antwortet und es konkret wird, kommt nichts mehr. Wirkt unserioes." ZWEITER VORWURF STIMMT BEI FLORIAN NICHT: Mirco hat vor dem 08.09. nie geschrieben, es wurde nichts ignoriert. Erster Vorwurf ist Feedback: seine Erstnachricht vom 02.09. stammt VOR der Kein-KI-Sound-Regel vom 04.09.|Pfaeffikon SZ, Firma seit 2024. USP ist "Chef persoenlich vor Ort" (Post 06:30-Baustelle) — NICHT als Problem framen, sondern: Buerozeit fehlt dort, wo er am staerksten ist. Viele kleine Einsaetze = viel Admin pro Auftrag. Kleine Rechnung 5h/20k. ABGELEHNT am 08.09. Sachlich korrigiert, Tuer zu, kein Nachfassen mehr.|
 |28|Geni Tahiri|Sprenger Werkzeugbau AG|CNC/Werkzeugbau|B|FU1|02.09.|FU1 raus 07.09.|Fr 11.09.|-|St. Margarethen, CEO seit 2010. NUR Sprenger nennen (fuehrt auch Turbometall). Kein Bau-Handwerk: "Betriebe" statt "Handwerksbetriebe", "Marge" statt "Profit", keine Plattenleger-Gewerkbruecke. Anker: eigener Post zu Preiskampf + Effizienz-Investitionen in der Fertigung. Posts ~1 Jahr alt, kein Zeitbezug.|
 |29|Benjamin Winzeler|Centro AG Schwimmbadtechnik|Schwimmbadtechnik/Service|A|FU1|02.09.|FU1 raus 07.09.|Fr 11.09.|-|Volketswil ZH, CEO seit 2010. Saison-Anker: Einwinterungswelle im Herbst — jetzt senden, verpufft in 2 Monaten. Eigener Claim "sorglose Pool-Time" zitieren, nicht gegen ihn drehen. Standard-Rechnung 10h/40k.|
 |30|Peter With|With Metallbau AG|Metallbau|A|FU1|03.09.|FU1 raus 07.09.|Fr 11.09.|-|Luzern, GF seit 2004, Lehre im eigenen Betrieb. Treuhand-VR (prueft Zahlen!) und Ex-Praesident KMU-/Gewerbeverband LU = groesster Multiplikator der Liste. WARNUNG: stark politischer Feed (SVP) — Politik nie ansprechen, nie kommentieren. NUR With Metallbau nennen.|
@@ -188,8 +188,9 @@ Jede Absage bekommt eine Kategorie in die Antwort-Spalte, in GROSSBUCHSTABEN vor
 | KEIN-INTERESSE | Nein ohne Begruendung | Die Nachricht erzeugt keinen Sog | Zuerst Proof (echter Fall mit Zahl), dann Text |
 | ZU-KLEIN | Betrieb zu klein fuer das Angebot | Groessenfilter | Headcount 11-50 im Sales Navigator |
 | KEINE-ANTWORT | nach FU2 Schluss | Ice Breaker oder Zielgruppe | Erste Zeile |
+| METHODE | "KI-generiert", "Spam", Kritik an der Ansprache selbst statt am Angebot | Kanal und Ton, nicht das Angebot | Ice Breaker menschlicher, Tagesvolumen runter, und vor allem JEDE eingehende Antwort innert 24 Stunden beantworten |
 
-**Stand 04.09.2026:** 3 Absagen, alle in unterschiedlichen Kategorien (Reto KEIN-BEDARF, Ahmed KAPAZITAET, Franco KEIN-INTERESSE). Daraus ist noch nichts abzuleiten.
+**Stand 08.09.2026:** 4 Absagen, alle in unterschiedlichen Kategorien (Reto KEIN-BEDARF, Ahmed KAPAZITAET, Franco KEIN-INTERESSE, Mirco METHODE). Daraus ist noch nichts abzuleiten. ABER: Mircos zweiter Satz, dass auf Antworten nichts mehr komme, trifft bei ihm nicht zu, beschreibt aber ein echtes Loch im Ablauf. Bastian Schmidt hat am 02.09. "Woher?" gefragt und bis 08.09. keine Antwort bekommen, Mike Mbokolanzi und Adrian Krasniqi ebenfalls nicht. HARTE REGEL AB 08.09.: Jede eingehende Antwort wird innert 24 Stunden beantwortet, auch ein Nein. Eine unbeantwortete Antwort ist teurer als zehn nicht gesendete Erstnachrichten.
 
 **Auswertungsregel:** Erst ab 10 kategorisierten Absagen schauen, ob sich eine Kategorie haeuft. Haeufen sich KAPAZITAET und KEIN-INTERESSE, liegt es NICHT am Ice Breaker, sondern am ersten Schritt und am fehlenden Proof. Nie nach einer einzelnen Absage etwas umschreiben, sonst gibt es keine Vergleichbarkeit.
 
@@ -210,5 +211,6 @@ Diese Leads sind NICHT angeschrieben und duerfen nicht als Follow-up gemeldet we
 
 - FU1 nach 3-4 Tagen ohne Antwort, FU2 nach weiteren 4-5 Tagen, danach VERLOREN und in Ruhe lassen.
 - Bei Antwort: sofort reagieren (Speed to Lead), Status auf ANTWORT, naechster Schritt Termin.
+- HARTE REGEL (Mirco Della Rossa, 08.09.2026): Jede eingehende Antwort wird innert 24 Stunden beantwortet, auch ein Nein und auch eine Rueckfrage wie "Woher?". Wer antwortet und dann nichts hoert, erzaehlt das weiter. Eine unbeantwortete Antwort kostet mehr als zehn nicht gesendete Erstnachrichten. Vor jedem neuen Versandtag zuerst den Posteingang leeren, dann erst neue Leads anschreiben.
 - Schlagzahl-Ziel laut SOP: 15-20 Vernetzungen plus 15-20 Nachrichten pro Tag.
 - Quoten immer erst ab ~30 gesendeten Nachrichten interpretieren.
