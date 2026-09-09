@@ -14,6 +14,7 @@ Alle Posts nach Impressions. Startbestand uebernommen aus dem Skill `betriebsflo
 | 313 | Gipser spricht Offerte ein | Szene | C | Fenster statt Spiegel, Handlung eines Dritten |
 | 250 | Naturgesetz-Post (01.09., Millionaer als Wendepunkt) | Spiegel-Hook, dann Fenster-Szene | A | Ueber Median, aber die Gipser-Szene bleibt Fenster. Dritter Beleg: erzaehlte Dritte deckeln bei 250 bis 313, volle Du-Posts holen 662 plus |
 | 243 | Verlorene Anfrage | Tautologie | - | Hook loest nichts auf, nichts zu erfahren |
+| 200 | Folge 1 "Laeuft dein Betrieb einen Tag ohne dich" (08.09., mit Foto) | Dialog-Hook | A | Dreimal der 65er, knapp ueber Median. Struktur des 1014ers allein reicht nicht, siehe Zaehlbarkeits-Befund |
 | 184 | Millionaer-Zitat | Zitat | - | Zitat braucht erst Kontext, wirkt nicht kalt |
 | 176 | KI-Feature-Katalog mit Pfeilen | Liste | - | Format floppt bei dieser Zielgruppe |
 | 120 | Google-Bewertungen | Frage | - | Frage selbst beantwortet, Werbeblock am Schluss |
@@ -38,6 +39,18 @@ Drei Dinge wurden in einem Post gleichzeitig geaendert. Das war handwerklich fal
 **3. Der Rauheits-Umbau.** Am wenigsten wahrscheinlich, aber nicht auszuschliessen, dass der Hook dabei an Druck verloren hat.
 
 **Konsequenz fuer das Vorgehen:** Ab jetzt nur noch EINE Variable pro Post aendern. Sonst lernen wir aus jeder Zahl nichts.
+
+## Befund zum 200er (08.09.): Zaehlbare Fragen schlagen Ja-Nein-Fragen
+
+Beide Posts haben dieselbe Struktur, der eine holte 1014, der andere 200. Der Unterschied liegt in der Frage selbst.
+
+1014: "Wie oft rufst du nach einer Offerte nochmal an?" Antwort "Eigentlich nie." Schlussfrage: "Wie viele Offerten hast du diesen Monat rausgeschickt und nie mehr etwas gehoert?" Der Leser muss ZAEHLEN. Er rechnet, er bleibt haengen, er erschrickt ueber seine eigene Zahl.
+
+200: "Laeuft dein Betrieb einen Tag ohne dich?" Antwort ja oder nein. Schlussfrage dieselbe. Der Leser antwortet in einer Sekunde und scrollt weiter.
+
+Regel fuer die Serie: Die Frage muss etwas ZAEHLBARES verlangen. Wie viele, wie oft, wie lange, seit wann. Nie ja oder nein. Zaehlen erzeugt Verweildauer, und Verweildauer ist das Leitsignal.
+
+Zweiter Punkt: Der 200er hatte ein Foto, der 250er nicht. Schwacher Beleg, deckt sich aber mit der Recherche (Einzelbild rund 30 Prozent hinter Text). Folge 2 laeuft ohne Bild, dann ist die Variable isoliert.
 
 ## Abgeleitete Regeln
 

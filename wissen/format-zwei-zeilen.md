@@ -8,6 +8,10 @@ Der 1014er begann so: `Ich fragte einen Maler: "Wie oft rufst du nach einer Offe
 
 Der Motor dahinter: Der Leser beantwortet die Frage im Kopf, BEVOR er die Antwort des Malers liest. Dann sieht er seine eigene Antwort in Anführungszeichen. Er ist nicht überredet worden, er hat sich selbst ertappt. Das ist die einzige Mechanik, die bei dieser Zielgruppe nachweislich vierstellig geliefert hat.
 
+## Die wichtigste Regel: Die Frage muss zaehlbar sein
+
+Befund vom 200er gegen den 1014er. Ja-Nein-Fragen ("Laeuft dein Betrieb ohne dich?") beantwortet der Leser in einer Sekunde. Zaehl-Fragen ("Wie oft rufst du nach einer Offerte an?") zwingen ihn zu rechnen, und beim Rechnen bleibt er haengen. Jede Folge braucht eine Frage mit wie viele, wie oft, wie lange oder seit wann. Die Schlussfrage ebenfalls.
+
 ## Die Bauweise (jede Folge gleich)
 
 1. **Zeile eins: die Frage aus einem echten Gespräch.** Kurz, an einen Inhaber gerichtet, nicht an den Leser. Der Leser antwortet trotzdem im Kopf mit.
