@@ -86,6 +86,10 @@ Zweiter Punkt: Der 200er hatte ein Foto, der 250er nicht. Schwacher Beleg, deckt
 - Laenge Richtung 1300 Zeichen statt 1100, ob die Verweildauer das traegt.
 - Karussell, das eine Geschichte erzaehlt statt Tipps aufzaehlt. LAEUFT: 25.08.2026, Freigabe-Post, 8 Seiten Skizzen-Stil. Gegen den Text-Median von rund 180 messen.
 
+## Erster Resultat-Post (10.09.)
+
+Der Sanitaer mit zwoelf Mitarbeitern ist umgesetzt: Offerte von 30 bis 45 Minuten auf fuenf Minuten, eingesprochen bzw. eingegeben statt kopiert und angepasst. Damit ist die Content-Saeule "Resultat und Beweis" freigeschaltet. Regel bleibt: nur Zahlen, die gemessen oder vom Inhaber genannt wurden. Florian schreibt diese Posts in eigenem Staccato-Stil mit Dialog und Vorher-Nachher. Der Schluss darf auf BetriebsFlow zielen, die letzte Zeile bleibt eine zaehlbare Frage an den Leser.
+
 ## Laufende Tests
 
 - 25.08. Uhrzeit-Serie Folge 1 (06:48). Szene in der zweiten Person, Test auf Verweildauer.
