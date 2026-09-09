@@ -3,32 +3,43 @@
 @font-face{font-family:'Inter';font-weight:400;src:url(inter-2.ttf) format('truetype');}
 @font-face{font-family:'Inter';font-weight:500;src:url(inter-3.ttf) format('truetype');}
 *{margin:0;padding:0;box-sizing:border-box;}
-.s{width:1080px;height:1350px;position:relative;overflow:hidden;background:#111;font-family:'Inter',Helvetica,Arial,sans-serif;}
+.s{width:1080px;height:1350px;position:relative;overflow:hidden;background:#111;font-family:'Inter',Helvetica,Arial,sans-serif;color:#fff;}
 .ph{position:absolute;left:-130px;top:-110px;width:1210px;height:auto;}
-.shade{position:absolute;left:0;right:0;bottom:0;height:64%;
- background:linear-gradient(180deg,rgba(0,0,0,0) 0%,rgba(0,0,0,.35) 28%,rgba(0,0,0,.66) 55%,rgba(0,0,0,.86) 100%);}
-svg{position:absolute;left:0;top:0;width:1080px;height:1350px;}
-.lab{position:absolute;left:80px;bottom:452px;color:#fff;opacity:.92;font-size:34px;font-weight:400;letter-spacing:.2px;text-shadow:0 2px 12px rgba(0,0,0,.7);}
-.old{position:absolute;left:80px;bottom:330px;color:#fff;opacity:.95;font-size:70px;font-weight:400;letter-spacing:-1px;line-height:1;text-shadow:0 2px 16px rgba(0,0,0,.75);}
-.new{position:absolute;left:80px;bottom:150px;color:#fff;font-size:118px;font-weight:500;letter-spacing:-3px;line-height:1;text-shadow:0 2px 18px rgba(0,0,0,.6);}
-.sub{position:absolute;left:80px;bottom:78px;color:#fff;opacity:.8;font-size:30px;font-weight:400;}
+.panel{position:absolute;left:56px;right:56px;bottom:72px;height:520px;border-radius:24px;
+ background:rgba(8,10,16,.72);backdrop-filter:blur(6px);}
+.title{position:absolute;left:0;right:0;top:34px;text-align:center;font-size:30px;letter-spacing:3px;opacity:.78;font-weight:400;}
+.col{position:absolute;top:96px;bottom:110px;}
+.left{left:0;width:56%;}
+.right{left:56%;right:0;}
+.lab{position:absolute;left:0;right:0;top:0;text-align:center;font-size:32px;letter-spacing:2px;opacity:.7;}
+.num{position:absolute;left:0;right:0;top:56px;text-align:center;font-weight:500;line-height:1;letter-spacing:-2px;}
+.left .num{font-size:118px;}
+.right .num{font-size:210px;top:24px;letter-spacing:-6px;}
+.unit{position:absolute;left:0;right:0;bottom:0;text-align:center;font-size:40px;opacity:.9;}
+.div{position:absolute;left:56%;top:110px;bottom:120px;width:1px;background:rgba(255,255,255,.22);}
+.foot{position:absolute;left:0;right:0;bottom:30px;text-align:center;font-size:36px;opacity:.92;}
+svg{position:absolute;left:0;top:0;width:1080px;height:1350px;pointer-events:none;}
 </style></head><body>
 <div class="s">
   <img class="ph" src="foto2.jpg">
-  <div class="shade"></div>
+  <div class="panel">
+    <div class="title">EINE OFFERTE SCHREIBEN</div>
+    <div class="col left"><div class="lab">VORHER</div><div class="num">30 bis 45</div><div class="unit">Minuten</div></div>
+    <div class="div"></div>
+    <div class="col right"><div class="lab">HEUTE</div><div class="num">5</div><div class="unit">Minuten</div></div>
+    <div class="foot">Eingesprochen statt abgetippt.</div>
+  </div>
   <svg id="a" viewBox="0 0 1080 1350"></svg>
-  <div class="lab">Eine Offerte schreiben, vorher:</div>
-  <div class="old">30 bis 45 Minuten</div>
-  <div class="new">5 Minuten.</div>
-  <div class="sub">Eingesprochen statt abgetippt.</div>
 </div>
 <script src="node_modules/roughjs/bundled/rough.js"></script>
 <script>
 const A=document.getElementById('a'), r=rough.svg(A);
-const o=(c,w,s)=>({stroke:c,strokeWidth:w,roughness:2.1,bowing:2.2,seed:s});
-A.appendChild(r.line(74,988,640,976,o('#e5453d',9,3)));
-A.appendChild(r.line(82,1004,632,996,o('#e5453d',5,4)));
-A.appendChild(r.line(78,1204,586,1196,o('#3fb950',9,7)));
-A.appendChild(r.line(86,1220,578,1214,o('#3fb950',5,8)));
+const o=(c,w,s)=>({stroke:c,strokeWidth:w,roughness:2.2,bowing:2.4,seed:s});
+// Panel: left 56, top 1350-72-520=758. Linke Spalte: x 56..(56+968*0.56=598), Zahl bei top 758+96+56 -> ca. y 910..1028
+A.appendChild(r.line(118,948,548,938,o('#e5453d',11,3)));
+A.appendChild(r.line(126,968,540,960,o('#e5453d',6,4)));
+// Rechte Spalte: x 598..1024, "5" ca. y 878..1088; Unterstrich darunter
+A.appendChild(r.line(720,1076,900,1068,o('#3fb950',12,7)));
+A.appendChild(r.line(728,1096,892,1090,o('#3fb950',7,8)));
 window.__ready={rough:typeof rough,n:A.childElementCount};
 </script></body></html>
