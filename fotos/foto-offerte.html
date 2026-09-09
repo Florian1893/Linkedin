@@ -2,44 +2,35 @@
 <style>
 @font-face{font-family:'Inter';font-weight:400;src:url(inter-2.ttf) format('truetype');}
 @font-face{font-family:'Inter';font-weight:500;src:url(inter-3.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:800;src:url(inter-8.ttf) format('truetype');}
 *{margin:0;padding:0;box-sizing:border-box;}
-.s{width:1080px;height:1350px;position:relative;overflow:hidden;background:#111;font-family:'Inter',Helvetica,Arial,sans-serif;color:#fff;}
+.s{width:1080px;height:1350px;position:relative;overflow:hidden;background:#0b0d12;font-family:'Inter',Helvetica,Arial,sans-serif;color:#fff;}
 .ph{position:absolute;left:-130px;top:-110px;width:1210px;height:auto;}
-.panel{position:absolute;left:56px;right:56px;bottom:72px;height:520px;border-radius:24px;
- background:rgba(8,10,16,.72);backdrop-filter:blur(6px);}
-.title{position:absolute;left:0;right:0;top:34px;text-align:center;font-size:30px;letter-spacing:3px;opacity:.78;font-weight:400;}
-.col{position:absolute;top:96px;bottom:110px;}
-.left{left:0;width:56%;}
-.right{left:56%;right:0;}
-.lab{position:absolute;left:0;right:0;top:0;text-align:center;font-size:32px;letter-spacing:2px;opacity:.7;}
-.num{position:absolute;left:0;right:0;top:56px;text-align:center;font-weight:500;line-height:1;letter-spacing:-2px;}
-.left .num{font-size:118px;}
-.right .num{font-size:210px;top:24px;letter-spacing:-6px;}
-.unit{position:absolute;left:0;right:0;bottom:0;text-align:center;font-size:40px;opacity:.9;}
-.div{position:absolute;left:56%;top:110px;bottom:120px;width:1px;background:rgba(255,255,255,.22);}
-.foot{position:absolute;left:0;right:0;bottom:30px;text-align:center;font-size:36px;opacity:.92;}
+.band{position:absolute;left:0;right:0;bottom:0;height:620px;
+ background:linear-gradient(180deg,rgba(11,13,18,0) 0%,rgba(11,13,18,.88) 14%,rgba(11,13,18,.96) 100%);}
+.ctx{position:absolute;left:72px;top:0;font-size:36px;font-weight:400;opacity:.78;letter-spacing:.3px;}
+.old{position:absolute;left:72px;font-size:88px;font-weight:500;letter-spacing:-2px;line-height:1;opacity:.92;}
+.big{position:absolute;left:60px;display:flex;align-items:baseline;gap:22px;line-height:1;}
+.big .n{font-size:392px;font-weight:800;letter-spacing:-18px;color:#4ade80;}
+.big .u{font-size:104px;font-weight:800;letter-spacing:-3px;color:#4ade80;}
+.foot{position:absolute;left:72px;font-size:38px;font-weight:500;opacity:.95;}
 svg{position:absolute;left:0;top:0;width:1080px;height:1350px;pointer-events:none;}
 </style></head><body>
 <div class="s">
   <img class="ph" src="foto2.jpg">
-  <div class="panel">
-    <div class="title">EINE OFFERTE SCHREIBEN</div>
-    <div class="col left"><div class="lab">VORHER</div><div class="num">30 bis 45</div><div class="unit">Minuten</div></div>
-    <div class="div"></div>
-    <div class="col right"><div class="lab">HEUTE</div><div class="num">5</div><div class="unit">Minuten</div></div>
-    <div class="foot">Eingesprochen statt abgetippt.</div>
-  </div>
+  <div class="band"></div>
+  <div class="ctx" style="top:786px;">Eine Offerte schreiben. Vorher:</div>
+  <div class="old" style="top:846px;">30 bis 45 Minuten</div>
+  <div class="big" style="top:930px;"><span class="n">5</span><span class="u">Minuten</span></div>
+  <div class="foot" style="top:1268px;">Eingesprochen statt abgetippt.</div>
   <svg id="a" viewBox="0 0 1080 1350"></svg>
 </div>
 <script src="node_modules/roughjs/bundled/rough.js"></script>
 <script>
 const A=document.getElementById('a'), r=rough.svg(A);
 const o=(c,w,s)=>({stroke:c,strokeWidth:w,roughness:2.2,bowing:2.4,seed:s});
-// Panel: left 56, top 1350-72-520=758. Linke Spalte: x 56..(56+968*0.56=598), Zahl bei top 758+96+56 -> ca. y 910..1028
-A.appendChild(r.line(118,964,548,956,o('#e5453d',11,3)));
-A.appendChild(r.line(126,982,540,976,o('#e5453d',6,4)));
-// Rechte Spalte: x 598..1024, "5" ca. y 878..1088; Unterstrich darunter
-A.appendChild(r.line(720,1076,900,1068,o('#3fb950',12,7)));
-A.appendChild(r.line(728,1096,892,1090,o('#3fb950',7,8)));
+// "30 bis 45 Minuten" bei top 846, 88px -> Mitte ca. y 892, Breite ca. 72..790
+A.appendChild(r.line(66,896,796,884,o('#ef4444',12,3)));
+A.appendChild(r.line(74,914,788,906,o('#ef4444',6,4)));
 window.__ready={rough:typeof rough,n:A.childElementCount};
 </script></body></html>
