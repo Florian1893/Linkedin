@@ -134,3 +134,29 @@ Die Nachricht darf nicht nach Maschine klingen. Der haeufigste Verraeter ist der
 2. Baustein-Check in einem Satz (sitzt der Ice Breaker individuell, ist der Proof echt).
 3. Beide Follow-ups mit eingesetztem Namen.
 4. Falls ein Proof-Satz auf einem Pilotfall beruht: Ehrlichkeits-Hinweis, ob Florian ihn so verteidigen kann.
+
+## Angebotsmodell ab 12.09.2026 (Florians Entscheid)
+
+**Das Freebie:** Kostenlose Analyse plus der erste Prozess gratis aufgebaut. Ohne Verpflichtung. Bringt er nichts, wirft der Betrieb ihn weg.
+
+**Die Kalkulation:** Der Gratis-Aufbau ist kein Verlust, sondern Akquisekosten. Er wird in den zweiten Prozess eingerechnet, Richtpreis 4'000 Franken. Der Report kostet Florian kaum Zeit und bleibt drin.
+
+**WAS DARUEBER ENTSCHEIDET, OB DAS MODELL FUNKTIONIERT:** Waehrend des Gratis-Aufbaus muss Prozess zwei bereits gefunden und benennbar sein. Sonst liefert Florian, der Betrieb bedankt sich, und es gibt keinen Anschluss. Bei der Analyse also nicht nur nach der einen Sache suchen, die gratis gebaut wird, sondern nach den zwei, drei dahinter. Bei der Uebergabe sagen koennen: "Das hier laeuft jetzt, und das Naechste, was ich bei euch sehe, ist X." Dann ist der zweite Prozess die logische Fortsetzung statt ein neuer Verkauf.
+
+**Preise gehoeren NIE in die Erstnachricht.** Sie kommen nach dem Gratis-Aufbau, wenn geliefert wurde.
+
+**Begrenzung:** Das grosse Freebie geht nur an A-Leads. Alle anderen bekommen die Fuenfzehn-Minuten-Variante. Sonst arbeitet Florian bei mehreren Zusagen wochenlang gratis.
+
+## Der echte Referenzfall (seit 12.09.2026 verwendbar)
+
+> "Ein Gipser, mit dem ich gearbeitet habe, spricht seine Offerten heute ein. Er kommt vom Aufmass, sagt ins Handy, was er aufgenommen hat, und daraus entsteht die fertige Offerte."
+
+Echter umgesetzter Fall, kein erfundenes Beispiel. Ersetzt in den neuen Nachrichten den vagen Proof-Satz ("Solche Analysen habe ich bereits mit Betrieben in der Deutschschweiz gemacht"), weil er zeigt statt zu behaupten.
+
+**NOCH OFFEN und wichtig:** Wie viel Zeit spart der Gipser tatsaechlich? Eine Zahl von ihm ("vorher zwei Stunden am Abend, jetzt zwanzig Minuten") wuerde die ganze Nachricht tragen. Solange die Zahl fehlt, nur die Mechanik beschreiben und KEIN Ergebnis behaupten.
+
+**ACHTUNG ZIELGRUPPE:** Der Chef steht nicht auf der Baustelle, er kommt vom Aufmass oder aus dem Kundentermin. Mehrfach von Florian korrigiert.
+
+## Erkenntnis zur 10h/40'000-Rechnung (11.09.2026)
+
+Die Rechnung stand in allen 44 Erstnachrichten der ersten Welle. In KEINER einzigen Absage ging es um Geld, immer nur um "brauchen wir nicht" oder "nicht jetzt". Sie ueberzeugt niemanden und macht die Nachricht um rund 400 Zeichen laenger und verkaeuferischer. In den neuen Fassungen ist sie draussen, das Gipser-Beispiel macht den Job besser. Falls sie zurueckkommt, steht sie zwischen Beispiel und Vorschlag.
