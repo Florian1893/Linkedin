@@ -1,6 +1,6 @@
 # BetriebsFlow LinkedIn Outreach Playbook
 
-Verbindliche Struktur fuer jede Cold-Outreach-Erstnachricht. Von Florian freigegeben am 01.09.2026 (Lead: Sanel Jukic). Basis: MMS SOP LinkedIn Lead Gen + BetriebsFlow-Kontext.
+Verbindliche Struktur fuer jede Cold-Outreach-Erstnachricht. Von Florian freigegeben am 01.09.2026 (Lead: Sanel Jukic). Basis: MMS SOP LinkedIn Lead Gen + BetriebsFlow-Kontext. **Seit 12.09.2026 gilt die Endfassung im Abschnitt "Erstnachricht ab 12.09.2026"** (Lead: Besnik Velijaj #58). Die 5-Baustein-Struktur weiter unten ist die Fassung der ersten 47 Nachrichten und bleibt als Referenz stehen.
 
 ## Prozessregeln (aus dem MMS SOP)
 
@@ -46,7 +46,62 @@ Fuer gesprochene Formate und ueberall dort, wo es persoenlich werden soll, ist F
 
 **MERKE:** Ein geliehenes Warum hoert man beim Sprechen sofort. Wenn Claude eine Motivation formuliert, die Florian nicht selber so empfindet, muss das ausdruecklich gekennzeichnet und von Florian bestaetigt oder ersetzt werden.
 
-## Struktur der Pitch-Message (5 Bausteine, feste Reihenfolge)
+## Erstnachricht ab 12.09.2026 (Endfassung, von Florian abgenommen)
+
+Gilt fuer alle neuen Leads ab 12.09.2026 und ersetzt die 5-Baustein-Struktur. Erster Lead damit: Besnik Velijaj #58. Florians Anweisung dazu: "so uebernehmen fuer weitere".
+
+> Hallo [Name]
+>
+> [Ice Breaker, ein bis zwei Saetze aus seinem Profil]
+>
+> Ich weiss nicht, wie es bei dir aussieht, aber bei den meisten Handwerksbetrieben mit denen ich spreche, passiert mit der Zeit dasselbe:
+>
+> Der Betrieb ist gewachsen aber die Ablaeufe im Buero sind gleich geblieben. Vieles laeuft noch von Hand oder ueber mehrere Stationen.
+>
+> Urspruenglich habe ich Plattenleger gelernt und automatisiere heute genau solche Ablaeufe. Ein Gipser, mit dem ich gearbeitet habe, kommt vom Kundentermin oder vom Ausmessen und spricht ein, was er aufgenommen hat. Daraus entsteht die fertige Offerte.
+>
+> Mein Vorschlag:
+>
+> Ich schaue mir eure Ablaeufe einmal kostenlos an und baue dir danach den ersten Prozess gratis und unverbindlich. Einen, der in einer Woche steht.
+>
+> Dann siehst du selber, ob sich das lohnt, und wenn nicht, wirfst du ihn weg :D
+>
+> Ob bei euch dasselbe Sinn macht wie beim Gipser, weiss ich nicht. Genau deshalb mache ich zuerst die kostenlose Analyse.
+>
+> Haettest du Lust, das auszuprobieren?
+>
+> Gruss Florian
+
+(Im Versand mit echten Umlauten, hier nur wegen der Datei-Konvention umschrieben.)
+
+**Nur der Ice Breaker wird pro Lead geschrieben.** Ein bis zwei Saetze aus seinem Profil, Regeln wie bisher (ACHTUNG 1 bis 6, erstes Wort nie "Ich", keine Zustandsdiagnose, keine Zeitangabe bei alten Posts). Alles ab "Ich weiss nicht" bleibt woertlich stehen. Der Ice Breaker muss so enden, dass "Ich weiss nicht, wie es bei dir aussieht" direkt anschliessen kann.
+
+**Bewusste Entscheidungen von Florian, NICHT korrigieren:**
+- Kein Komma zwischen "Handwerksbetrieben" und "mit denen".
+- "gewachsen aber" ohne Komma.
+- Der Smiley ":D" nach "wirfst du ihn weg".
+- "gratis und unverbindlich" und "Einen, der in einer Woche steht." (Florians Fassung vom 12.09., ersetzt Claudes "in ein, zwei Tagen").
+- Der Schluss "Genau deshalb mache ich zuerst die kostenlose Analyse." (ersetzt "Genau darum schaue ich zuerst hin").
+- Keine Zahlen, keine Rechnung, kein Preis, kein Proof-Satz mehr. Die 10h/40k-Rechnung ist raus (siehe Erkenntnis unten).
+- Beim Gipser nur die Mechanik, keine Zeitersparnis, solange seine Zahl fehlt.
+
+**Von Claude korrigierte Tippfehler in Florians Fassung:** "zuest" zu "zuerst", "Kostenlose" zu "kostenlose". Sonst woertlich uebernommen.
+
+**Wer bekommt welche Fassung:** Das grosse Freebie (Analyse plus erster Prozess gratis) nur an A-Leads, siehe Angebotsmodell unten. B- und C-Leads bekommen die Fuenfzehn-Minuten-Variante: identisch bis "Daraus entsteht die fertige Offerte.", danach:
+
+> Mein Vorschlag:
+>
+> Fuenfzehn Minuten am Telefon. Ich frage dich ein paar Sachen zu euren Ablaeufen und sage dir danach, wo ich bei euch ansetzen wuerde. Was ich dir sage, behaeltst du in jedem Fall.
+>
+> Ob bei euch dasselbe Sinn macht wie beim Gipser, weiss ich nicht. Genau deshalb frage ich zuerst.
+>
+> Waere dir das eine Viertelstunde wert?
+
+(Fuenfzehn-Minuten-Variante ist Claudes Vorschlag vom 12.09., an die Endfassung angepasst, von Florian noch nicht einzeln abgenommen.)
+
+**Follow-ups zum neuen Format:** Vorlagen unten, mit zwei Anpassungen: FU1 sagt "Falls die kostenlose Analyse gerade nichts fuer dich ist", FU2 sagt "fuenfzehn Minuten am Telefon statt Analyse und Aufbau". Bei der Fuenfzehn-Minuten-Variante ist FU2 nur noch "letzter kurzer Ping" plus individueller Satz plus die Viertelstunden-Frage, weil es nichts Kleineres mehr gibt.
+
+## Struktur der Pitch-Message (5 Bausteine, feste Reihenfolge, Fassung bis 11.09.2026)
 
 1. **Persoenlicher Ice Breaker.** Immer individuell, nie generisch. Staerkster Hebel: Florians Plattenleger-Hintergrund als echte Bruecke zum Gewerk des Leads (z.B. an Gipser: "Als Plattenleger habe ich auf genug Baustellen mit euch Gipsern zusammengearbeitet"). Dazu ein konkretes Profildetail (Werdegang, Uebernahme, Doppel-Gewerk, Post). Kein Standardkompliment. ACHTUNG 1: Keine Fachaussagen ueber fremde Gewerke erfinden (Bauablauf, Reihenfolge der Gewerke usw.), nur Dinge behaupten, die sicher stimmen. Von Florian korrigiert: "Gipser kommt vor dem Plattenleger" war falsch. ACHTUNG 2: Bei Aktivitaets-Ankern (Posts, Stellenausschreibungen, Webseiten) IMMER den Zeitstempel pruefen. Nur als "gerade/aktuell" formulieren, was wenige Wochen alt ist; aeltere Aktivitaet weglassen oder neutral ohne Zeitbezug erwaehnen. Von Florian korrigiert: einjaehrige Stellen-Reposts wurden faelschlich als "ihr sucht gerade" verkauft. ACHTUNG 3: Keine Zustandsdiagnosen ueber den Betrieb des Leads ("da laeuft einiges doppelt ueber deinen Tisch", "bei dir stapelt sich sicher X") — das wirkt als Angriff. Stattdessen die Leistung anerkennen ("Das haelt keiner ohne saubere Organisation") und den Schmerz nur in der konditionalen Rechnung andeuten ("Stecken bei euch nur X Stunden..."). Von Florian korrigiert bei Michel Baehler. ACHTUNG 5: Beobachtungen ueber das Gewerk muessen den Lead GROESSER machen, nie kleiner. Kein verkapptes Lob, keine Ironie auf Kosten des Handwerks. Von Florian korrigiert bei Alex Tiralosi: "Eure Arbeit faellt erst auf, wenn sie schlecht ist" wurde als Beleidigung gelesen. Richtige Fassung: das Koennen anerkennen ("wer selber mit der Wasserwaage arbeitet, weiss, wie viel Koennen in einer wirklich ebenen Wand steckt"). ACHTUNG 6: Was ein Lead SELBER oeffentlich ueber sich schreibt (About-Text, eigener Post), darf man ihm zustimmend zurueckgeben. Das ist Zustimmung, keine Zustandsdiagnose, und faellt nicht unter ACHTUNG 3. Beispiel Florian Kurt Ulmann #53: Er schreibt in seinem About 'mein Fokus liegt auf der Optimierung von Prozessen', aufgegriffen als 'du schreibst ja selber, dass dein Fokus auf den Prozessen liegt, dann sind wir schon zu zweit'. Verboten bleiben nur EIGENE Behauptungen ueber seinen Betrieb. Der Unterschied: seine Worte spiegeln ist erlaubt, ihm etwas unterstellen nicht. ACHTUNG 4 (harte Regel): NIE mehrere Firmen des Leads ansprechen, auch wenn das Profil ein ganzes Portfolio zeigt. Immer nur EINE Firma waehlen (die aus der Headline bzw. die mit dem passendsten Gewerk) und Nachricht, Rechnung und Follow-ups nur auf diese eine beziehen. Keine Pro-Firma-Rechnungen. Von Florian als harte Regel gesetzt bei Mehdi Avdijaj.
 2. **Offer allgemein, in 2 bis 3 Saetzen.** Individuelle Analyse, Automatisierung der Zeitfresser, Beispiele nennen (Offerten, Nachfassen, Anfragen, Rapporte), Ziel-Satz: "gleiches Team, weniger Buero, mehr Profit." Plus ein ehrlicher Proof-Satz (Umsetzungen mit Betrieben in der Deutschschweiz; harte Zahlen nur mit echter Quelle).
@@ -75,6 +130,8 @@ Die Rechnung nur dann auf 5 h und 20'000 kuerzen, wenn der Betrieb wirklich klei
 
 ## Laenge und Form (Stand 02.09.2026)
 
+Gilt fuer die 5-Baustein-Fassung bis 11.09.2026. Fuer die Endfassung ab 12.09. zaehlt der Wortlaut oben, dort wird nichts gekuerzt und nichts ergaenzt ausser dem Ice Breaker.
+
 - Ausfuehrliche Fassung ist der Standard: circa 1000 bis 1300 Zeichen, fuenf Absaetze mit je zwei bis drei Saetzen. Die stark gekuerzte Variante wurde getestet und von Florian wieder verworfen.
 - Rechnung im vollen Wortlaut mit sichtbaren Annahmen ("Stecken bei euch im Buero nur zehn Stunden Handarbeit pro Woche, die sich automatisieren lassen, und rechnest du die Stunde mit 100 Franken...").
 - Proof-Satz ("Solche Analysen und Umsetzungen habe ich bereits mit Betrieben in der Deutschschweiz gemacht") bleibt drin.
@@ -85,8 +142,12 @@ Die Rechnung nur dann auf 5 h und 20'000 kuerzen, wenn der Betrieb wirklich klei
 **Follow-up 1 (Tag 3 bis 4):**
 > Hallo [Name], wollte kurz nachhaken, so eine Nachricht geht im Tagesgeschaeft schnell unter. Falls die Prozessanalyse gerade nichts fuer dich ist, voellig okay, kurzes Nein reicht.
 
+Ab 12.09.2026 (Endfassung): "Falls die kostenlose Analyse gerade nichts fuer dich ist" statt "Falls die Prozessanalyse".
+
 **Follow-up 2 (weitere 4 bis 5 Tage spaeter, letzter Ping) — NEUE FASSUNG ab 08.09.2026:**
 > Hallo [Name], letzter kurzer Ping, danach lasse ich dich in Ruhe. [Ein individueller Satz zum Lead.] Machen wir es kleiner: fuenfzehn Minuten am Telefon statt einer halben Stunde vor Ort, und du hoerst, wo ich bei euch Zeit liegen sehe. Waere dir das eine Viertelstunde wert?
+
+Ab 12.09.2026 (Endfassung): "fuenfzehn Minuten am Telefon statt Analyse und Aufbau" statt "statt einer halben Stunde vor Ort".
 
 **Warum geaendert (Florians Entscheid 08.09.2026):** Die alte Fassung endete passiv mit "weisst du, wo du mich findest" und hatte gar keine Frage mehr drin. Der letzte Kontakt ist aber der einzige Ort, wo ein kleinerer erster Schritt noch etwas bringt. Der 15-Minuten-Anruf beantwortet direkt den KAPAZITAET-Einwand (Ahmed Vuckic) und kostet nichts, weil die Nachricht ohnehin rausgeht. Alte Fassung zum Vergleich: "Falls du irgendwann wissen willst, wo in euren Ablaeufen Zeit und Geld liegen bleiben, weisst du, wo du mich findest."
 
