@@ -1,7 +1,7 @@
 # Post: Nach der Offerte warten zwei
 
 Datum: 2026-09-15 (Dienstag), 07:30
-Format: Du-Post mit Statistik als Wendepunkt in der Mitte
+Format: Dialog-Hook, dann voller Du-Post, Statistik als Wendepunkt in der Mitte
 Bild: keines. Reiner Text.
 Content-Säule: Unbequeme Wahrheit (Vorlage B), volle Du-Ansprache
 
@@ -16,7 +16,11 @@ ACHTUNG: Die beiden Quellseiten sind aus dieser Arbeitsumgebung gesperrt, ich ko
 
 ## Post
 
-Die Offerte ist raus. Und jetzt warten zwei Leute.
+Hast du nichts Besseres zu tun?
+
+Das hat mich ein Inhaber gefragt. Ich sass neben ihm und sagte nichts. Ich schaute zu wie er eine Offerte rausschickt. Und danach passierte nichts mehr.
+
+Genau da schaut fast keiner hin. Die Offerte ist raus und jetzt warten zwei Leute.
 
 Du wartest, dass der Kunde sich meldet. Er wartet, dass du dich meldest. Beide warten auf den anderen. Also passiert tagelang nichts.
 
@@ -36,12 +40,14 @@ Wie viele Offerten vom letzten Monat liegen bei dir ohne Antwort?
 
 ## Alternative Hooks
 
-1. 97 von 100 Betrieben wissen, dass ihre Kunden schneller Antwort wollen. Nach der Offerte machen es die wenigsten.
+1. Die Offerte ist raus. Und jetzt warten zwei Leute.
 2. Ich renne meinen Kunden nicht hinterher. Den Satz hat jeder schon gesagt, der eine Offerte verloren hat, ohne je zu erfahren warum.
 
 ## Warum so gebaut
 
-Volle Du-Ansprache ab Zeile zwei. Belegt: Du-Posts holen 662 plus, erzählte Dritte deckeln bei 250 bis 313.
+Hook ist der abgenommene Dialog-Hook (Florian, 14.09.: "Hook von oben einbauen"). Er gehoert seither diesem Post, der Stapel-Post am 17.09. startet dafuer mit seiner Alternative, damit nicht zwei Posts gleich anfangen.
+
+Die Szene bleibt bei dem, was belegt ist: Florian sitzt daneben und sagt nichts. Was er sieht, ist eine Offerte die rausgeht und danach Stille. Keine erfundene Nachfass-Geschichte. Ab dem dritten Absatz volle Du-Ansprache. Belegt: Du-Posts holen 662 plus, erzählte Dritte deckeln bei 250 bis 313.
 
 Statistik steht bewusst NICHT im Hook. Ein Zahlen-Einstieg wäre ein Wissens-Post, und die floppen bei dieser Zielgruppe (91 bis 184). Die Zahl kommt als Wendepunkt in der Mitte und dreht den Post: fast alle sehen die Erwartung, beziehen sie aber nur auf die erste Antwort.
 

@@ -1,18 +1,16 @@
 # Post: Der Stapel, der nicht kleiner wird
 
 Datum: 2026-09-17 (Donnerstag), 07:30. Verschoben vom 15.09., weil Florian fuer Dienstag ein Nachfass-Thema mit Statistik wollte.
-Format: Blick hinter die Kulissen (Format 6), Dialog-Hook, Szene beim Gipser
+Format: Blick hinter die Kulissen (Format 6), Bild-Hook, Szene beim Gipser
 Bild: keines. Reiner Text.
 Belegt durch: Gipser-Gespräch (Stapel auf dem Schreibtisch), Prozessanalyse kostenlos (Angebot), Freigabe-Winkel aus dem Themenspeicher
 Variable dieses Posts: frisches Thema. Kein Bild und kein Produktname, beides war bei den letzten zwei Flops dabei.
 
 ## Post
 
-Hast du nichts Besseres zu tun?
+Auf dem Tisch lag ein Stapel. Keine Arbeit.
 
-Das hat mich ein Gipser gefragt. Ich sass in seinem Büro und schaute einfach zu. Fast eine Stunde lang. Gesagt hatte ich bis dahin nichts.
-
-Auf dem Tisch lag ein Stapel. Keine Arbeit. Lauter Sachen, bei denen einer kurz sein Ja braucht. Material ist teurer geworden. Ein Termin muss verschoben werden. Einer versteht eine Rechnung nicht.
+Ich sass eine Stunde beim Gipser im Büro und schaute einfach zu. Gesagt hatte ich bis dahin nichts. Und dieser Stapel fiel mir als Erstes auf. Lauter Sachen, bei denen einer kurz sein Ja braucht. Material ist teurer geworden. Ein Termin muss verschoben werden. Einer versteht eine Rechnung nicht.
 
 Zwischendrin kommt jemand rein und will kurz etwas wissen. Kurz heisst zwei Minuten. Danach sucht er die Stelle wieder.
 
@@ -30,12 +28,12 @@ Wie oft kommt an einem normalen Vormittag einer zu dir und will kurz ein Ja?
 
 ## Alternative Hooks
 
-1. Auf dem Tisch lag ein Stapel. Keine Arbeit. Lauter offene Ja.
-2. Seine Leute sind gut, die Baustellen laufen, und trotzdem kommt er nicht nach.
+1. Seine Leute sind gut, die Baustellen laufen, und trotzdem kommt er nicht nach.
+2. Arbeit kann ein Chef verteilen. Ein Ja nicht.
 
 ## Warum so gebaut
 
-Hook bleibt der aus der verworfenen Offerten-Fassung, Florian hat ihn abgenommen. Der erste Satz kommt aus dem Mund des Inhabers und klingt nach Spott.
+Hook ist jetzt der Gegenstand selbst: ein Stapel, der keine Arbeit ist. Der Dialog-Hook "Hast du nichts Besseres zu tun" ist am 14.09. auf Florians Wunsch in den Dienstags-Post gewandert und darf hier nicht nochmal auftauchen.
 
 Thema ist neu. Offerten sind nach dem 100er verbrannt, siehe Lernprotokoll. Der Stapel ist der Zweitplatzierte vom 29.08. (88.5/100) und war bisher nie im Feed.
 
