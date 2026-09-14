@@ -9,17 +9,17 @@ Belegt durch: Prozessanalyse kostenlos (Angebot), Sanitär-Stunde mit Offerten-U
 
 Bevor ich etwas baue, schaue ich eine Stunde zu.
 
-Das ist der ganze Trick. Ich sitze neben dem Inhaber und lasse ihn machen, was er jeden Tag macht. Beim Sanitär war das eine Offerte. Laptop auf, alte Offerte suchen, kopieren, Position für Position anpassen. Ich sage nichts. Ich schaue nur, wo er denkt und wo er bloss tippt.
+Das ist der ganze Trick. Ich sitze neben dem Inhaber und er arbeitet einfach weiter wie immer. Beim Sanitär war das eine Offerte. Laptop auf. Alte Offerte suchen. Kopieren. Position für Position anpassen. Ich sage nichts. Ich schaue nur, wo er denkt und wo er bloss tippt.
 
-Denn das ist die einzige Frage, die mich interessiert. Was in diesem Ablauf braucht seinen Kopf. Und was davon kommt jede Woche gleich und braucht ihn gar nicht.
+Das ist die einzige Frage. Was in diesem Ablauf braucht seinen Kopf. Und was kommt jede Woche gleich und braucht ihn gar nicht.
 
-Was seinen Kopf braucht, bleibt bei ihm. Der Preis, die Einschätzung vor Ort, das Bauchgefühl beim Kunden. Da fasse ich nichts an.
+Was seinen Kopf braucht, bleibt bei ihm. Der Preis. Die Einschätzung vor Ort. Das Bauchgefühl beim Kunden. Da fasse ich nichts an.
 
 Den Rest baue ich so, dass er ohne ihn läuft. Beim Sanitär war das die Offerte. Er gibt Kunde, Material und Aufwand ein oder spricht es ein. Der Rest passiert von selbst.
 
-Keine Software-Präsentation. Kein Vertrag. Kein Umbau des Betriebs. Eine Stunde zuschauen, dann bauen, dann nochmal hinsetzen und prüfen, ob es im Alltag hält.
+Keine Software-Präsentation. Kein Vertrag. Kein Umbau des Betriebs. Eine Stunde zuschauen. Dann bauen. Dann nochmal hinsetzen und im Alltag prüfen.
 
-Die erste Stunde kostet nichts. Ich baue meine Referenzen im Glarnerland auf, und ehrlich gesagt lerne ich beim Zuschauen mehr als in jedem Kurs.
+Die erste Stunde kostet nichts. Ich baue meine Referenzen im Glarnerland auf. Und ehrlich gesagt lerne ich beim Zuschauen mehr als in jedem Kurs.
 
 Welchen Ablauf in deinem Betrieb würdest du mir als Erstes zeigen?
 
@@ -36,7 +36,7 @@ Schlussfrage ist bewusst keine Zählfrage, sondern eine Einladung. Zweck dieses 
 
 ## Zu bestätigen
 
-"Dann nochmal hinsetzen und prüfen, ob es im Alltag hält": Ist das dein tatsächlicher Ablauf nach dem Bauen? Wenn nicht, wird der Satz zu "Eine Stunde zuschauen, dann bauen."
+"Dann nochmal hinsetzen und im Alltag prüfen": Ist das dein tatsächlicher Ablauf nach dem Bauen? Wenn nicht, fällt der Satz weg.
 
 ## Ergebnis
 
