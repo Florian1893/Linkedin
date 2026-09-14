@@ -2,7 +2,7 @@
 
 ## Schon bespielt, vorerst meiden
 
-- Offerten abtippen statt einsprechen (mehrfach)
+- Offerten abtippen statt einsprechen (mehrfach). VERBRANNT: der Resultat-Post vom 10.09. holte trotz guter Fassung nur 100 Impressions. Thema ist tot, auch mit neuem Ergebnis.
 - Nachfassen nach der Offerte (mehrfach)
 - Google-Bewertungen
 - KI-Features als Katalog
@@ -24,7 +24,7 @@
 
 **Die Frage, die dreissig Mal am Tag kommt.** Wo, wann, wie viel. Jede einzeln beantwortet ist harmlos, dreissig zusammen sind ein halber Arbeitstag.
 
-**Der Stapel auf dem Schreibtisch.** Physisches Bild fuer den Engpass. Aus dem Gipser-Gespraech belegt. Fertiger Entwurf existiert (Zweitplatzierter vom 29.08., 88.5/100), Merksatz: "Ein Stapel Arbeit laesst sich verteilen. Ein Stapel Entscheidungen wartet auf genau einen Kopf."
+**Der Stapel auf dem Schreibtisch.** Physisches Bild fuer den Engpass. Aus dem Gipser-Gespraech belegt. Fertiger Entwurf existiert (Zweitplatzierter vom 29.08., 88.5/100), Merksatz: "Ein Stapel Arbeit laesst sich verteilen. Ein Stapel Entscheidungen wartet auf genau einen Kopf." GESPIELT am 15.09. als Gipser-Szene mit Dialog-Hook, Merksatz dort absichtlich unrund als "Arbeit kann er verteilen. Ein Ja nicht."
 
 **Das Naturgesetz.** Millionaer-Zitat als Wendepunkt statt Hook: Der Gipser haelt seinen Engpass fuer unveraenderbar wie das Wetter. Merksatz: "Das Gefaehrlichste an einem Engpass ist nicht die Zeit, die er frisst. Es ist der Moment, in dem du aufhoerst, ihn fuer loesbar zu halten." Entwurf vom 29.08. (85/100), GEWAEHLT fuer 01.09., Fixes eingebaut.
 

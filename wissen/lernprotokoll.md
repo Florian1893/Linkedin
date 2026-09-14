@@ -19,6 +19,7 @@ Alle Posts nach Impressions. Startbestand uebernommen aus dem Skill `betriebsflo
 | 176 | KI-Feature-Katalog mit Pfeilen | Liste | - | Format floppt bei dieser Zielgruppe |
 | 120 | Google-Bewertungen | Frage | - | Frage selbst beantwortet, Werbeblock am Schluss |
 | 113 | KI im Handwerk (Wissens-Post, 27.08.) | These | - | Auch als Denkmodell statt Liste verpackt floppt Wissen. Vierter Beleg |
+| 100 | Offerten-Resultat (10.09., "15 Stunden pro Monat", mit Foto) | Zahl | - | Verbranntes Thema plus Produktname am Schluss plus Einzelbild, siehe Diagnose |
 | 109 | "Wir sind voll digitalisiert" | Ich-Anekdote | - | Ich-Einstieg, Leser urteilt ueber Dritte |
 | 109 | Griechenland-Reflexion | persoenlich | - | ohne Betriebsbezug, Zielgruppe nicht getroffen |
 | 109 | Mehrwert-Liste mit 3 Tipps | Liste | - | Format floppt |
@@ -26,6 +27,18 @@ Alle Posts nach Impressions. Startbestand uebernommen aus dem Skill `betriebsflo
 | 65 | Ruf-Post (03.09., "Dein Ruf als Sanitaer") | Spiegel mit Gewerks-Anrede, plus Einzelbild | B | SCHLECHTESTER WERT UEBERHAUPT. Drei Variablen gleichzeitig geaendert, siehe Diagnose unten |
 
 Median der echten Phase (ohne die zwei Kaltstart-Posts): rund 180. Stand 29.08. mit 113 dazu: rund 176. Das ist die Latte, gegen die neue Posts gemessen werden, nicht die 9374.
+
+## Diagnose zum 100er (10.09., Offerten-Resultat)
+
+Florian am 14.09.: "Offerten Thema hatte ich schon, letzter Post Katastrophe mit 100 Impressions." Der Post war handwerklich gut (seine eigene Fassung, Staccato, Zahl im Hook, Dialog drin) und ist trotzdem unter den Median gefallen. Drei Ursachen, nach Schadenswirkung:
+
+**1. Das Thema war verbrannt.** Im Themenspeicher stand Offerten seit Beginn unter "schon bespielt, vorerst meiden (mehrfach)". Ich habe es trotzdem gespielt, weil das Resultat neu war. Das reicht nicht. Dieselben Follower sehen dasselbe Thema zum vierten Mal und scrollen weiter, egal wie gut der Hook ist. Ein neues Ergebnis macht ein altes Thema nicht neu.
+
+**2. Der Produktname am Schluss.** "Genau das automatisiere ich mit BetriebsFlow." Damit kippt die Story zum Werbeblock. Zweiter Beleg dafuer: der Google-Bewertungen-Post mit 120 hatte denselben Fehler. Beide unter dem Median.
+
+**3. Das Einzelbild.** Minus 30 Prozent laut Recherche. Dritter Post mit Bild, der unter dem Median liegt (65, 200, 100). Das Muster ist inzwischen deutlich genug, um Bilder bis auf Weiteres wegzulassen.
+
+Konsequenz: Themenspeicher wird VOR dem Schreiben gelesen, nicht danach. Und Resultat-Posts brauchen ein Thema, das noch nicht durch ist.
 
 ## Diagnose zum 65er (03.09.)
 
@@ -85,6 +98,10 @@ Zweiter Punkt: Der 200er hatte ein Foto, der 250er nicht. Schwacher Beleg, deckt
     Gegenmittel, das funktioniert hat: konkrete Beobachtung statt Methode. Er findet die alte Offerte nicht auf Anhieb, zwischendrin ruft einer an, danach sucht er die Stelle wieder. Solche Details kann keine Maschine erfinden, weil sie nichts beweisen sollen.
 12. EINE FRAGE heisst: eine Frage AN DEN LESER, ganz am Schluss. Eine zitierte Frage in direkter Rede im Hook ("Laeuft dein Betrieb einen Tag ohne dich?" an einen Maler gerichtet) zaehlt nicht dazu, sie ist der Motor des 1014ers. Der mechanische Fragezeichen-Check darf bei diesem Format also 2 zeigen: eine oben in Anfuehrungszeichen, eine unten an den Leser.
 13. ANWEISUNG FLORIAN (29.08.2026), gilt ab sofort fuer jeden Post: NUR NOCH STORYS. Kein Wissens-Post, keine These-Posts, keine Denkmodelle mehr im Feed. Beleglage: Wissen/Liste/These liegen bei 91 bis 184 (Flops: 176, 120, 113, 109, 91), Storys und Spiegel bei 313 bis 1014. Wissens-Inhalte leben nur noch im Profil-PDF und in Kommentaren. Jeder Post braucht Szene, Kippbewegung, Wendepunkt, Merksatz, eine Frage.
+
+14. THEMEN-CHECK VOR DEM SCHREIBEN (Befund 14.09.2026): Erster Arbeitsschritt bei jedem Post ist `wissen/themenspeicher.md`, Abschnitt "schon bespielt". Ein Thema von dieser Liste wird nicht gespielt, auch nicht mit neuem Format, neuem Hook oder einem echten Resultat. Beleg: der 100er vom 10.09. war Offerten zum vierten Mal.
+15. KEIN WERBEBLOCK AM SCHLUSS (Befund 14.09.2026): Kein Produktname, kein "genau das mache ich mit X" im letzten Drittel. Belege: 120 (Google-Bewertungen) und 100 (Offerten-Resultat), beide unter dem Median von 176. Erlaubt bleibt der nackte Satz "Die erste Stunde kostet nichts" mit dem ehrlichen Grund dahinter (Referenzaufbau), weil er ein Angebot ist und keine Marke.
+16. BILDER PAUSIEREN (Befund 14.09.2026): Die drei Posts mit Einzelbild liegen bei 65, 200 und 100. Alle drei unter oder knapp am Median. Bis auf Weiteres reiner Text, bis der Text-Median wieder stabil ueber 250 liegt.
 
 ## Offene Tests
 
