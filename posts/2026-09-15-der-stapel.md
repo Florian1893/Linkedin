@@ -12,7 +12,7 @@ Hast du nichts Besseres zu tun?
 
 Das hat mich ein Gipser gefragt. Ich sass in seinem Büro und schaute einfach zu. Fast eine Stunde lang. Gesagt hatte ich bis dahin nichts.
 
-Auf dem Tisch lag ein Stapel. Das war nicht Arbeit. Das waren lauter Sachen, bei denen einer kurz sein Ja braucht. Material ist teurer geworden. Ein Termin muss verschoben werden. Einer versteht eine Rechnung nicht.
+Auf dem Tisch lag ein Stapel. Keine Arbeit. Lauter Sachen, bei denen einer kurz sein Ja braucht. Material ist teurer geworden. Ein Termin muss verschoben werden. Einer versteht eine Rechnung nicht.
 
 Zwischendrin kommt jemand rein und will kurz etwas wissen. Kurz heisst zwei Minuten. Danach sucht er die Stelle wieder.
 
@@ -24,7 +24,7 @@ Das ist in fast jedem Betrieb gleich. Maler, Gipser, Sanitär, Elektriker. Das h
 
 Genau da schaue ich hin wenn ich irgendwo hinkomme. Nicht auf die Software. Auf den Stapel.
 
-Die erste Stunde kostet nichts. Ich baue meine Referenzen im Glarnerland auf und ehrlich gesagt lerne ich beim Zuschauen mehr als in jedem Kurs.
+Die erste Stunde kostet nichts. Ich sammle gerade Referenzen. Ich schreibe auf, was ohne dich rausgehen kann. Dann baue ich es. Danach geht es ohne dich raus. Auf dem Tisch bleibt nur noch das, was wirklich dich braucht.
 
 Wie oft kommt an einem normalen Vormittag einer zu dir und will kurz ein Ja?
 
@@ -45,7 +45,7 @@ Merksatz ist absichtlich unrund: "Arbeit kann er verteilen. Ein Ja nicht." Vier 
 
 Schlussfrage ist zählbar (wie oft), das ist der Befund aus dem 1014er gegen den 200er.
 
-Kein Produktname am Schluss. Die 120 und die 100 hatten beide einen Werbeblock am Ende.
+Kein Produktname am Schluss. Die 120 und die 100 hatten beide einen Werbeblock am Ende. Statt der Marke steht dort jetzt der konkrete Nutzen (Florian, 14.09.): aufschreiben was ohne ihn rausgehen kann, so bauen dass es ohne ihn rausgeht, uebrig bleibt nur was wirklich ihn braucht. Ortsangabe Glarnerland ist auf seinen Wunsch raus.
 
 ## Zu prüfen vor dem Posten
 
