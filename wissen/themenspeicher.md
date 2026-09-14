@@ -38,6 +38,16 @@ Quelle: https://bitkom-research.de/studien/handwerk-2025 und der Studienbericht 
 Einschraenkung: beide Seiten sind aus der Arbeitsumgebung gesperrt, die Zahlen stammen aus zwei unabhaengigen Suchtreffern auf dieselbe Studie. Vor der ersten Verwendung von Florian einmal am Original geprueft.
 Verwendet am 15.09. (97 Prozent, als Wendepunkt in der Mitte). Die 82 und die 77 sind noch frei.
 
+Weitere Werte aus derselben Studie, nachrecherchiert am 14.09.:
+- 72 Prozent der Betriebe sagen, sie seien schlicht zu beschaeftigt, um sich intensiv mit Digitalisierung zu befassen.
+- 96 Prozent nennen Sorgen um IT- und Datensicherheit, 69 Prozent hohe Investitionskosten als Hemmnis.
+- 68 Prozent verschicken Angebote digital, 62 Prozent Rechnungen.
+- Die Betriebe geben sich selbst im Schnitt die Note 3.0 fuer den eigenen Digitalisierungsstand.
+
+DIE 72 IST DIE WERTVOLLSTE ZAHL FUER FLORIAN. Sie sagt in seinen eigenen Worten, was seine Positionierung behauptet: der Schmerz ist zu viel, nicht zu wenig. Sie ist ausserdem aussagekraeftiger als die 97, weil sie nicht fast einstimmig ist. Reserviert fuer einen eigenen Post, nicht nebenbei verbrauchen.
+
+Bewertung der 97 (14.09.): methodisch sauber erhoben, inhaltlich aber schwach, weil fast einstimmig und weil sie eine Selbstauskunft ueber eine Erwartung misst, kein Verhalten. Taugt als Aufhaenger, nicht als Beweis. Im Post vom 15.09. genau so eingesetzt.
+
 ## Content-Saeulen
 
 - Schmerz-Story (laeuft am besten)
