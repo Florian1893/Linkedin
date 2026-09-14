@@ -1,42 +1,54 @@
 # Post: Wie ich arbeite
 
 Datum: 2026-09-15 (Dienstag), 07:30
-Format: Blick hinter die Kulissen (Format 6), als Szene erzählt
+Format: Blick hinter die Kulissen (Format 6), als Szene mit Dialog-Hook
 Bild: optional Serienbild Gesicht plus Satz, sonst reiner Text
 Belegt durch: Prozessanalyse kostenlos (Angebot), Sanitär-Stunde mit Offerten-Umbau (Florians Fassung vom 09.09.), Prinzip Urteil gegen Wiederholung
 
 ## Post
 
-Bevor ich etwas baue, schaue ich eine Stunde zu.
+Hast du nichts Besseres zu tun?
 
-Das ist der ganze Trick. Ich sitze neben dem Inhaber und er arbeitet einfach weiter wie immer. Beim Sanitär war das eine Offerte. Laptop auf. Alte Offerte suchen. Kopieren. Position für Position anpassen. Ich sage nichts. Ich schaue nur, wo er denkt und wo er bloss tippt.
+Das hat mich der Sanitär gefragt. Ich sass seit einer Weile neben ihm und schaute zu, wie er eine Offerte schreibt. Gesagt hatte ich bis dahin nichts.
 
-Das ist die einzige Frage. Was in diesem Ablauf braucht seinen Kopf. Und was kommt jede Woche gleich und braucht ihn gar nicht.
+Laptop auf. Alte Offerte suchen. Kopieren. Position für Position anpassen. Telefon klingelt. Wieder von vorne.
 
-Was seinen Kopf braucht, bleibt bei ihm. Der Preis. Die Einschätzung vor Ort. Das Bauchgefühl beim Kunden. Da fasse ich nichts an.
+Ich achte in so einer Stunde nur auf eines. Wo denkt er und wo tippt er bloss.
 
-Den Rest baue ich so, dass er ohne ihn läuft. Beim Sanitär war das die Offerte. Er gibt Kunde, Material und Aufwand ein oder spricht es ein. Der Rest passiert von selbst.
+Gedacht hat er beim Preis. Bei der Einschätzung vor Ort. Beim Bauchgefühl, ob der Kunde am Schluss auch wirklich zahlt. Da fasse ich nichts an.
 
-Keine Software-Präsentation. Kein Vertrag. Kein Umbau des Betriebs. Eine Stunde zuschauen. Dann bauen. Dann nochmal hinsetzen und im Alltag prüfen.
+Getippt hat er beim ganzen Rest. Und der Rest war jede Woche derselbe.
 
-Die erste Stunde kostet nichts. Ich baue meine Referenzen im Glarnerland auf. Und ehrlich gesagt lerne ich beim Zuschauen mehr als in jedem Kurs.
+Den Kopf kann ich ihm nicht abnehmen. Die Finger schon.
 
-Welchen Ablauf in deinem Betrieb würdest du mir als Erstes zeigen?
+Also habe ich genau das gebaut. Heute gibt er Kunde und Material ein oder spricht es unterwegs ein. Die Offerte ist fertig, bevor er im Büro sitzt.
+
+Keine Präsentation. Kein Vertrag. Kein Umbau vom Betrieb. Eine Stunde zuschauen und dann das Langweilige wegnehmen.
+
+Die erste Stunde kostet nichts. Ich baue meine Referenzen im Glarnerland auf und lerne beim Zuschauen ehrlich gesagt mehr als in jedem Kurs.
+
+Bei welchem Ablauf würdest du mich zuschauen lassen?
 
 ## Alternative Hooks
 
-1. Ich bringe keine Software mit. Ich bringe eine Stunde Zeit mit.
-2. Eine Stunde neben dem Inhaber sitzen. Mehr brauche ich nicht, um zu sehen, wo es hängt.
+1. Ich sass eine Stunde neben dem Inhaber und sagte keinen einzigen Satz.
+2. Bevor ich etwas baue, schaue ich eine Stunde zu.
 
 ## Warum so gebaut
 
-Kulissen-Posts kippen schnell zum Prospekt. Gegenmittel hier: eine konkrete Szene (der Sanitär bei der Offerte), ein Satz mit dem, was NICHT passiert, und der ehrliche Grund für den Preis (Referenzaufbau). Der Fokus liegt auf dem Zuschauen, nicht auf dem Bauen. Das ist das, was ein Inhaber von einem Berater noch nie gehört hat.
+Dialog-Hook wie in der 1014er Vorlage. Der erste Satz kommt aus dem Mund des Inhabers und klingt nach Spott, also will man wissen, wie das ausgeht. Kein Gewerk als Anrede in Zeile eins, der Sanitär kommt erst im zweiten Satz als Detail.
 
-Schlussfrage ist bewusst keine Zählfrage, sondern eine Einladung. Zweck dieses Formats ist der Übergang zum Erstgespräch, nicht die Verweildauer. Wer "Offerten" oder "Anfragen" kommentiert, hat sich gerade selbst angemeldet.
+Lesefluss über kurze Sätze und eine echte Szene statt Erklärung. Das Staccato (Laptop auf, Kopieren, Telefon klingelt) ist derselbe Rhythmus, der im Offerten-Post funktioniert hat.
 
-## Zu bestätigen
+Merksatz ist neu und trägt den ganzen Post: "Den Kopf kann ich ihm nicht abnehmen. Die Finger schon." Das ist der Satz, den jemand weitererzählen kann.
 
-"Dann nochmal hinsetzen und im Alltag prüfen": Ist das dein tatsächlicher Ablauf nach dem Bauen? Wenn nicht, fällt der Satz weg.
+Gegenmittel gegen den Prospekt-Klang bleibt drin: der Absatz mit dem, was NICHT passiert, und der ehrliche Grund für den Preis (Referenzaufbau).
+
+Schlussfrage ist bewusst eine Einladung, keine Zählfrage. Zweck dieses Formats ist der Übergang zum Erstgespräch. Wer einen Ablauf nennt, hat sich selbst angemeldet.
+
+## Geändert gegenüber Fassung eins
+
+Fassung eins startete mit "Bevor ich etwas baue, schaue ich eine Stunde zu." Das war eine Erklärung, keine Szene. Neu: Dialog, Merksatz, Telefon-Unterbrechung und das Resultat des Sanitärs direkt in der Geschichte statt als Aufzählung der Methode. Der Satz zum Nachkontrollieren im Alltag ist raus, solange er nicht bestätigt ist.
 
 ## Ergebnis
 
