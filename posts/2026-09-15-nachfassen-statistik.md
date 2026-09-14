@@ -2,7 +2,7 @@
 
 Datum: 2026-09-15 (Dienstag), 07:30
 Format: Dialog-Hook, dann voller Du-Post, Statistik als Wendepunkt in der Mitte
-Bild: keines. Reiner Text.
+Bild: fotos/foto-nachfassen.png (Selfie von Florian am Laptop, Zahl und Pointe als Overlay). Quelle steht klein im Bild.
 Content-Säule: Unbequeme Wahrheit (Vorlage B), volle Du-Ansprache
 
 ## Quelle der Zahl
@@ -58,6 +58,14 @@ Merksatz absichtlich unrund: "Nicht weil der besser war. Weil er der Einzige war
 Wert steht als Handlung am Schluss, ohne Produktname, nach Regel 15.
 
 Schlussfrage ist zählbar, das ist der Befund aus dem 1014er gegen den 200er.
+
+## Offener Test: Bild gegen Text
+
+Regel 16 sagt seit dem 14.09.: Bilder pausieren, weil die drei Posts mit Einzelbild bei 65, 200 und 100 liegen. Florian will fuer diesen Post trotzdem ein Bild. Damit wird der Post zur Gegenprobe.
+
+Bedingung fuer die Auswertung: landet er unter dem Median von 176, ist die Bildpause ab dann nicht mehr verhandelbar. Landet er klar darueber, war nicht das Bild das Problem, sondern die Bilder selbst (Skizze, Post-it, Zahlenfoto). Dann gilt: Gesicht ja, Grafik nein.
+
+Das Bild traegt die Zahl und die Pointe, also funktioniert es auch allein im Feed, wenn jemand den Text nicht aufklappt.
 
 ## Ergebnis
 
