@@ -77,6 +77,12 @@ Zweiter Punkt: Der 200er hatte ein Foto, der 250er nicht. Schwacher Beleg, deckt
     - Satzlaengen bewusst ungleich halten. Ein echter Satz darf holpern.
     - Schweizer Umgangswoerter nutzen: bloss, halt, gar nicht, eben.
     Test vor dem Posten: Wuerde Florian den Satz so am Tisch sagen? Wenn nicht, umschreiben.
+    Nachtrag 14.09.2026 (Post "Wie arbeite ich"): Florian hat den Hook gelobt und den Rumpf als KI-artig verworfen. Vier weitere Muster, die ihn ausloesen:
+    - Gespiegelte Inversion ueber zwei Absaetze ("Gedacht hat er beim Preis ... Getippt hat er beim ganzen Rest"). Klingt gebaut.
+    - Der runde Aphorismus als Merksatz ("Den Kopf kann ich ihm nicht abnehmen. Die Finger schon."). Zu glatt, wirkt wie ein Spruch aus einem Buch.
+    - Die Dreierliste aus Verneinungen ("Keine Praesentation. Kein Vertrag. Kein Umbau vom Betrieb.").
+    - Die Ankuendigungsformel vor einem Prinzip ("Ich achte in so einer Stunde nur auf eines.").
+    Gegenmittel, das funktioniert hat: konkrete Beobachtung statt Methode. Er findet die alte Offerte nicht auf Anhieb, zwischendrin ruft einer an, danach sucht er die Stelle wieder. Solche Details kann keine Maschine erfinden, weil sie nichts beweisen sollen.
 12. EINE FRAGE heisst: eine Frage AN DEN LESER, ganz am Schluss. Eine zitierte Frage in direkter Rede im Hook ("Laeuft dein Betrieb einen Tag ohne dich?" an einen Maler gerichtet) zaehlt nicht dazu, sie ist der Motor des 1014ers. Der mechanische Fragezeichen-Check darf bei diesem Format also 2 zeigen: eine oben in Anfuehrungszeichen, eine unten an den Leser.
 13. ANWEISUNG FLORIAN (29.08.2026), gilt ab sofort fuer jeden Post: NUR NOCH STORYS. Kein Wissens-Post, keine These-Posts, keine Denkmodelle mehr im Feed. Beleglage: Wissen/Liste/These liegen bei 91 bis 184 (Flops: 176, 120, 113, 109, 91), Storys und Spiegel bei 313 bis 1014. Wissens-Inhalte leben nur noch im Profil-PDF und in Kommentaren. Jeder Post braucht Szene, Kippbewegung, Wendepunkt, Merksatz, eine Frage.
 

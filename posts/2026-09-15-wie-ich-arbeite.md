@@ -9,23 +9,21 @@ Belegt durch: Prozessanalyse kostenlos (Angebot), Sanitär-Stunde mit Offerten-U
 
 Hast du nichts Besseres zu tun?
 
-Das hat mich der Sanitär gefragt. Ich sass seit einer Weile neben ihm und schaute zu, wie er eine Offerte schreibt. Gesagt hatte ich bis dahin nichts.
+Das hat mich der Sanitär gefragt. Ich sass neben ihm im Büro und schaute zu, wie er eine Offerte schreibt. Fast eine Stunde lang. Gesagt hatte ich bis dahin nichts.
 
-Laptop auf. Alte Offerte suchen. Kopieren. Position für Position anpassen. Telefon klingelt. Wieder von vorne.
+Er sucht zuerst eine alte Offerte. Findet sie nicht auf Anhieb. Kopiert sie dann und geht Position für Position durch. Zwischendrin ruft einer an. Danach sucht er die Stelle wieder.
 
-Ich achte in so einer Stunde nur auf eines. Wo denkt er und wo tippt er bloss.
+Ich schaue bei sowas nur auf eine Sache. Was macht der Inhaber hier mit dem Kopf und was macht er bloss aus Gewohnheit.
 
-Gedacht hat er beim Preis. Bei der Einschätzung vor Ort. Beim Bauchgefühl, ob der Kunde am Schluss auch wirklich zahlt. Da fasse ich nichts an.
+Der Preis kommt aus dem Kopf. Die Einschätzung vor Ort auch. Und beim Kunden hat er ein Gespür, das ich gar nie nachbauen könnte. Da fasse ich nichts an.
 
-Getippt hat er beim ganzen Rest. Und der Rest war jede Woche derselbe.
+Der Rest waren dieselben Handgriffe wie letzte Woche. Und wie die Woche davor.
 
-Den Kopf kann ich ihm nicht abnehmen. Die Finger schon.
+Genau das habe ich ihm weggenommen. Heute tippt er Kunde und Material rein oder spricht es unterwegs ein. Wenn er ins Büro kommt, ist die Offerte da.
 
-Also habe ich genau das gebaut. Heute gibt er Kunde und Material ein oder spricht es unterwegs ein. Die Offerte ist fertig, bevor er im Büro sitzt.
+Ich habe ihm nichts präsentiert und er hat an dem Tag nichts unterschrieben. Ich habe zugeschaut und dann gebaut.
 
-Keine Präsentation. Kein Vertrag. Kein Umbau vom Betrieb. Eine Stunde zuschauen und dann das Langweilige wegnehmen.
-
-Die erste Stunde kostet nichts. Ich baue meine Referenzen im Glarnerland auf und lerne beim Zuschauen ehrlich gesagt mehr als in jedem Kurs.
+Die erste Stunde kostet nichts. Ich baue meine Referenzen im Glarnerland auf und ehrlich gesagt lerne ich beim Zuschauen mehr als in jedem Kurs.
 
 Bei welchem Ablauf würdest du mich zuschauen lassen?
 
@@ -36,19 +34,23 @@ Bei welchem Ablauf würdest du mich zuschauen lassen?
 
 ## Warum so gebaut
 
-Dialog-Hook wie in der 1014er Vorlage. Der erste Satz kommt aus dem Mund des Inhabers und klingt nach Spott, also will man wissen, wie das ausgeht. Kein Gewerk als Anrede in Zeile eins, der Sanitär kommt erst im zweiten Satz als Detail.
-
-Lesefluss über kurze Sätze und eine echte Szene statt Erklärung. Das Staccato (Laptop auf, Kopieren, Telefon klingelt) ist derselbe Rhythmus, der im Offerten-Post funktioniert hat.
-
-Merksatz ist neu und trägt den ganzen Post: "Den Kopf kann ich ihm nicht abnehmen. Die Finger schon." Das ist der Satz, den jemand weitererzählen kann.
-
-Gegenmittel gegen den Prospekt-Klang bleibt drin: der Absatz mit dem, was NICHT passiert, und der ehrliche Grund für den Preis (Referenzaufbau).
+Dialog-Hook wie in der 1014er Vorlage. Der erste Satz kommt aus dem Mund des Inhabers und klingt nach Spott, also will man wissen wie das ausgeht. Kein Gewerk als Anrede in Zeile eins, der Sanitär kommt erst im zweiten Satz als Detail.
 
 Schlussfrage ist bewusst eine Einladung, keine Zählfrage. Zweck dieses Formats ist der Übergang zum Erstgespräch. Wer einen Ablauf nennt, hat sich selbst angemeldet.
 
-## Geändert gegenüber Fassung eins
+## Fassungen
 
-Fassung eins startete mit "Bevor ich etwas baue, schaue ich eine Stunde zu." Das war eine Erklärung, keine Szene. Neu: Dialog, Merksatz, Telefon-Unterbrechung und das Resultat des Sanitärs direkt in der Geschichte statt als Aufzählung der Methode. Der Satz zum Nachkontrollieren im Alltag ist raus, solange er nicht bestätigt ist.
+Fassung eins startete mit "Bevor ich etwas baue, schaue ich eine Stunde zu." Das war eine Erklärung, keine Szene.
+
+Fassung zwei brachte den Dialog-Hook, klang im Rumpf aber nach Maschine (Florian, 14.09.: "Hook behalten, weniger KI-artig"). Raus sind:
+- die gespiegelte Inversion "Gedacht hat er beim Preis. Getippt hat er beim ganzen Rest."
+- der Aphorismus "Den Kopf kann ich ihm nicht abnehmen. Die Finger schon." Zu rund, zu gebaut.
+- die Dreierliste "Keine Präsentation. Kein Vertrag. Kein Umbau vom Betrieb."
+- die Ankündigungsformel "Ich achte in so einer Stunde nur auf eines."
+
+Dafür rein: die Suche nach der alten Offerte die er nicht auf Anhieb findet, der Anruf dazwischen, das Wiederfinden der Stelle. Konkrete Beobachtung statt Methode. Umgangston mit bloss, gar nie, sowas.
+
+Der Satz zum Nachkontrollieren im Alltag ist raus solange er nicht bestätigt ist.
 
 ## Ergebnis
 
