@@ -1,6 +1,6 @@
 # Post: Der Stapel, der nicht kleiner wird
 
-Datum: 2026-09-15 (Dienstag), 07:30
+Datum: 2026-09-17 (Donnerstag), 07:30. Verschoben vom 15.09., weil Florian fuer Dienstag ein Nachfass-Thema mit Statistik wollte.
 Format: Blick hinter die Kulissen (Format 6), Dialog-Hook, Szene beim Gipser
 Bild: keines. Reiner Text.
 Belegt durch: Gipser-Gespräch (Stapel auf dem Schreibtisch), Prozessanalyse kostenlos (Angebot), Freigabe-Winkel aus dem Themenspeicher

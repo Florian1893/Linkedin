@@ -103,6 +103,8 @@ Zweiter Punkt: Der 200er hatte ein Foto, der 250er nicht. Schwacher Beleg, deckt
 15. KEIN WERBEBLOCK AM SCHLUSS (Befund 14.09.2026): Kein Produktname, kein "genau das mache ich mit X" im letzten Drittel. Belege: 120 (Google-Bewertungen) und 100 (Offerten-Resultat), beide unter dem Median von 176. Erlaubt bleibt der nackte Satz "Die erste Stunde kostet nichts" mit dem ehrlichen Grund dahinter (Referenzaufbau), weil er ein Angebot ist und keine Marke. Praezisierung Florian 14.09.: der Nutzen GEHOERT rein, nur eben als Handlung statt als Marke. Also nicht "das automatisiere ich mit BetriebsFlow", sondern was konkret passiert: aufschreiben was ohne den Chef rausgehen kann, das so bauen dass es ohne ihn rausgeht, uebrig bleibt nur was wirklich ihn braucht. Ortsangaben (Glarnerland) sind ebenfalls raus, sie verengen das Publikum ohne Gegenwert.
 16. BILDER PAUSIEREN (Befund 14.09.2026): Die drei Posts mit Einzelbild liegen bei 65, 200 und 100. Alle drei unter oder knapp am Median. Bis auf Weiteres reiner Text, bis der Text-Median wieder stabil ueber 250 liegt.
 
+17. STATISTIK NUR ALS WENDEPUNKT (Regel ab 14.09.2026, Florian hat eine Statistik verlangt): Eine Zahl darf im Post stehen, aber nie im Hook. Ein Zahlen-Einstieg macht daraus einen Wissens-Post, und die liegen alle zwischen 91 und 184. Die Zahl gehoert in die Mitte, dort wo sie die Geschichte dreht. Bedingung: benannte Quelle, benannte Stichprobe, und Florian muss sie im Kommentarfeld verteidigen koennen. Belegte Zahlen stehen im Themenspeicher unter "Belegte Zahlen, die ich verwenden darf". Zahlen aus Agentur-Blogs ohne Studie dahinter kommen nicht in einen Post.
+
 ## Offene Tests
 
 - Posting-Zeit 07:30 gegen 08:30, beide Dienstag oder Donnerstag.
