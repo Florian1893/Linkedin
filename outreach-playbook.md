@@ -58,7 +58,7 @@ Ersetzt die Fassung vom 12.09. (weiter unten als Vorstufe dokumentiert). Ausloes
 >
 > Der Betrieb ist gewachsen aber die Ablaeufe im Buero sind gleich geblieben. Anfragen stapeln sich, Offerten brauchen Tage statt Minuten, und nachgefasst wird nur, wenn gerade Zeit ist.
 >
-> Urspruenglich habe ich Plattenleger gelernt und automatisiere heute genau solche Ablaeufe. Ein Gipser, mit dem ich gearbeitet habe, kommt vom Kundentermin oder vom Ausmessen und spricht ein, was er aufgenommen hat. Daraus entsteht die fertige Offerte.
+> Urspruenglich habe ich Plattenleger gelernt und automatisiere heute genau solche Ablaeufe. Bei einem Gipser habe ich zum Beispiel genau so ein System eingebaut. Er kommt vom Kundentermin oder vom Ausmessen und spricht ein, was er aufgenommen hat. Daraus entsteht die fertige Offerte.
 >
 > Mein Vorschlag, ohne Risiko fuer dich:
 >
@@ -80,7 +80,7 @@ Ersetzt die Fassung vom 12.09. (weiter unten als Vorstufe dokumentiert). Ausloes
 
 ### Vorstufe: Erstnachricht ab 12.09.2026 (erste Endfassung)
 
-Erster Lead damit: Besnik Velijaj #58. Florians Anweisung dazu: "so uebernehmen fuer weitere". Nur noch als Referenz, seit 15.09. ersetzt.
+Erster Lead damit: Besnik Velijaj #58. Florians Anweisung dazu: "so uebernehmen fuer weitere". Nur noch als Referenz, seit 15.09. ersetzt. Wortlaut unten wie tatsaechlich versandt (Gipser-Uebergang noch nicht ueberarbeitet, das kam erst am 15.09.).
 
 > Hallo [Name]
 >
