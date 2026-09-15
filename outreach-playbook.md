@@ -119,7 +119,7 @@ Erster Lead damit: Besnik Velijaj #58. Florians Anweisung dazu: "so uebernehmen 
 
 **Von Claude korrigierte Tippfehler in Florians Fassung:** "zuest" zu "zuerst", "Kostenlose" zu "kostenlose". Sonst woertlich uebernommen.
 
-**Wer bekommt welche Fassung:** Das grosse Freebie (Analyse plus erster Prozess gratis) nur an A-Leads, siehe Angebotsmodell unten. B- und C-Leads bekommen die Fuenfzehn-Minuten-Variante: identisch bis "Daraus entsteht die fertige Offerte.", danach:
+**Wer bekommt welche Fassung (korrigiert 15.09.2026):** Das grosse Freebie (Analyse plus erster Prozess gratis) geht an ALLE Leads, nicht nur an A-Leads. Florians Korrektur bei Alban Ramadani #65 (Prio B, von Claude faelschlich auf die Fuenfzehn-Minuten-Variante gesetzt): "nei halt dich ans playbook uebernimm die letzte nachricht mit dem gratis prozess ab ez kmmmer" — die vorherige Prio-basierte Aufteilung war Claudes eigene Ergaenzung vom 12.09., nie von Florian einzeln abgenommen (siehe Vermerk weiter unten), und ist hiermit aufgehoben. Die Fuenfzehn-Minuten-Variante bleibt nur fuer den Fall dokumentiert, dass Florian sie fuer einen einzelnen Lead ausdruecklich anordnet:
 
 > Mein Vorschlag:
 >
@@ -238,7 +238,7 @@ Die Nachricht darf nicht nach Maschine klingen. Der haeufigste Verraeter ist der
 
 **Preise gehoeren NIE in die Erstnachricht.** Sie kommen nach dem Gratis-Aufbau, wenn geliefert wurde.
 
-**Begrenzung:** Das grosse Freebie geht nur an A-Leads. Alle anderen bekommen die Fuenfzehn-Minuten-Variante. Sonst arbeitet Florian bei mehreren Zusagen wochenlang gratis.
+**Begrenzung (aufgehoben 15.09.2026):** Stand bis 15.09: Das grosse Freebie geht nur an A-Leads, alle anderen bekommen die Fuenfzehn-Minuten-Variante. Florian hat das bei Alban Ramadani #65 korrigiert: das grosse Freebie geht an alle Leads. Risiko wochenlanger Gratis-Arbeit bei mehreren Zusagen bleibt bestehen und sollte im Auge behalten werden, ist aber nicht mehr Grund fuer eine Zwei-Klassen-Nachricht.
 
 ## Der echte Referenzfall (seit 12.09.2026 verwendbar)
 
