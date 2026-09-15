@@ -108,6 +108,14 @@ Erster Lead damit: Besnik Velijaj #58. Florians Anweisung dazu: "so uebernehmen 
 
 **Nur der Ice Breaker wird pro Lead geschrieben.** Ein bis zwei Saetze aus seinem Profil, Regeln wie bisher (ACHTUNG 1 bis 6, erstes Wort nie "Ich", keine Zustandsdiagnose, keine Zeitangabe bei alten Posts). Alles ab "Ich weiss nicht" bleibt woertlich stehen. Der Ice Breaker muss so enden, dass "Ich weiss nicht, wie es bei dir aussieht" direkt anschliessen kann.
 
+**ACHTUNG 7 (Florian, 15.09.2026): Nicht einfach den Werdegang abliefern.** Florians Wortlaut: "die icebreaker muessen besser werden nicht einfach nur werdegang abeliiren". Werdegang (Ausbildung, Stationen, Jahre im Betrieb) ist die bequemste Quelle, weil sie fast immer in der Experience-Sektion steht, aber genau deshalb der schwaechste Ice Breaker: er liest sich wie ein Lebenslauf-Auszug, nicht wie echtes Interesse. Rangfolge, was zuerst probiert wird:
+1. Ein frischer eigener Post (wenige Wochen alt) mit einem konkreten Zitat oder Detail.
+2. Eine echte Interaktion (er hat einen Post von Florian geliked, kommentiert, ist ihm gefolgt).
+3. Ein eigenes Zitat aus dem About-Text oder ein wiederkehrender eigener Spruch/Slogan.
+4. Ein konkretes Firmenfaktum mit Farbe (ein Projekt, ein Kunde, eine Zahl, eine Maschine, ein Ort) statt einer reinen Ereignisliste.
+5. Werdegang nur, wenn nichts von 1 bis 4 vorhanden ist (duennes Profil) ODER wenn Florian ihn ausdruecklich anfordert (siehe Armin Gartmann #66, Robotics-Vergangenheit).
+Auch bei Werdegang gilt: nicht die Stationen aufzaehlen, sondern EINEN scharfen Haken daraus bauen (z.B. nicht "2011 X, 2017 Y, 2022 Z", sondern der eine Bruch oder die eine Ueberraschung darin).
+
 **Bewusste Entscheidungen von Florian, NICHT korrigieren:**
 - Kein Komma zwischen "Handwerksbetrieben" und "mit denen".
 - "gewachsen aber" ohne Komma.
