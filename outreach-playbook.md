@@ -46,9 +46,41 @@ Fuer gesprochene Formate und ueberall dort, wo es persoenlich werden soll, ist F
 
 **MERKE:** Ein geliehenes Warum hoert man beim Sprechen sofort. Wenn Claude eine Motivation formuliert, die Florian nicht selber so empfindet, muss das ausdruecklich gekennzeichnet und von Florian bestaetigt oder ersetzt werden.
 
-## Erstnachricht ab 12.09.2026 (Endfassung, von Florian abgenommen)
+## Erstnachricht ab 15.09.2026 (aktuelle Endfassung)
 
-Gilt fuer alle neuen Leads ab 12.09.2026 und ersetzt die 5-Baustein-Struktur. Erster Lead damit: Besnik Velijaj #58. Florians Anweisung dazu: "so uebernehmen fuer weitere".
+Ersetzt die Fassung vom 12.09. (weiter unten als Vorstufe dokumentiert). Ausloeser: Florian hat sein LinkedIn-Profil auf eine spitzigere Positionierung umgestellt (Banner "Dein Betrieb ist gewachsen. Dein System nicht.", Headline mit der Mechanik Anfragen gebuendelt, Offerten schnell raus, automatisch nachgefasst) und wollte diese Schaerfe auch in der Nachricht, dazu den No-Brainer-Charakter des Angebots deutlicher machen. Florians Anweisung: "habe jetzt ein spitzigeres angebot du musst noch den nobrainer reintun in die nachricht".
+
+> Hallo [Name]
+>
+> [Ice Breaker, ein bis zwei Saetze aus seinem Profil]
+>
+> Ich weiss nicht, wie es bei dir aussieht, aber bei den meisten Handwerksbetrieben mit denen ich spreche, passiert mit der Zeit dasselbe:
+>
+> Der Betrieb ist gewachsen aber die Ablaeufe im Buero sind gleich geblieben. Anfragen stapeln sich, Offerten brauchen Tage statt Minuten, und nachgefasst wird nur, wenn gerade Zeit ist.
+>
+> Urspruenglich habe ich Plattenleger gelernt und automatisiere heute genau solche Ablaeufe. Ein Gipser, mit dem ich gearbeitet habe, kommt vom Kundentermin oder vom Ausmessen und spricht ein, was er aufgenommen hat. Daraus entsteht die fertige Offerte.
+>
+> Mein Vorschlag, ohne Risiko fuer dich:
+>
+> Ich schaue mir eure Ablaeufe einmal kostenlos an und baue dir danach den ersten Prozess gratis und unverbindlich. Einen, der in einer Woche steht.
+>
+> Dann siehst du selber, ob sich das lohnt, und wenn nicht, wirfst du ihn weg :D
+>
+> Ob bei euch dasselbe Sinn macht wie beim Gipser, weiss ich nicht. Genau deshalb mache ich zuerst die kostenlose Analyse.
+>
+> Haettest du Lust, das auszuprobieren?
+>
+> Gruss Florian
+
+(Im Versand mit echten Umlauten, hier nur wegen der Datei-Konvention umschrieben.)
+
+**Was sich gegenueber der Fassung vom 12.09. geaendert hat:** Der Schmerz-Absatz spiegelt jetzt die drei Punkte aus Florians neuer Headline (Anfragen stapeln sich / Offerten dauern / Nachfassen nur wenn Zeit ist), aber als aktuellen Schmerz formuliert, nicht als Ergebnisversprechen. Die "10 Minuten" aus der Headline wurden bewusst NICHT an den Gipser-Fall gehaengt, weil dessen Zeitersparnis-Zahl weiterhin unbelegt ist (siehe unten). Vor dem Angebot steht neu "ohne Risiko fuer dich" als expliziter No-Brainer-Satz.
+
+**ENTWURF-Leads pruefen:** Andreas Alt #62 war beim Umstieg noch nicht bestaetigt gesendet, Vorschlag mit der neuen Fassung nachliefern falls noch offen.
+
+### Vorstufe: Erstnachricht ab 12.09.2026 (erste Endfassung)
+
+Erster Lead damit: Besnik Velijaj #58. Florians Anweisung dazu: "so uebernehmen fuer weitere". Nur noch als Referenz, seit 15.09. ersetzt.
 
 > Hallo [Name]
 >
