@@ -58,7 +58,9 @@ Ersetzt die Fassung vom 12.09. (weiter unten als Vorstufe dokumentiert). Ausloes
 >
 > Der Betrieb ist gewachsen aber die Ablaeufe im Buero sind gleich geblieben. Anfragen stapeln sich, Offerten brauchen Tage statt Minuten, und nachgefasst wird nur, wenn gerade Zeit ist.
 >
-> Urspruenglich habe ich Plattenleger gelernt und automatisiere heute genau solche Ablaeufe. Bei einem Gipser habe ich zum Beispiel genau so ein System eingebaut. Er kommt vom Kundentermin oder vom Ausmessen und spricht ein, was er aufgenommen hat. Daraus entsteht die fertige Offerte.
+> Urspruenglich habe ich Plattenleger gelernt und automatisiere heute genau solche Ablaeufe.
+>
+> Bei einem Gipser habe ich zum Beispiel genau so ein System eingebaut. Er kommt vom Kundentermin oder vom Ausmessen und spricht ein, was er aufgenommen hat. Daraus entsteht die fertige Offerte. Heute spart er damit messbar mehrere Stunden pro Woche.
 >
 > Mein Vorschlag, ohne Risiko fuer dich:
 >
@@ -254,7 +256,7 @@ Die Nachricht darf nicht nach Maschine klingen. Der haeufigste Verraeter ist der
 
 Echter umgesetzter Fall, kein erfundenes Beispiel. Ersetzt in den neuen Nachrichten den vagen Proof-Satz ("Solche Analysen habe ich bereits mit Betrieben in der Deutschschweiz gemacht"), weil er zeigt statt zu behaupten.
 
-**NOCH OFFEN und wichtig:** Wie viel Zeit spart der Gipser tatsaechlich? Eine Zahl von ihm ("vorher zwei Stunden am Abend, jetzt zwanzig Minuten") wuerde die ganze Nachricht tragen. Solange die Zahl fehlt, nur die Mechanik beschreiben und KEIN Ergebnis behaupten.
+**Ergebnis-Satz seit 15.09.2026 verwendbar:** Florian hat in der tatsaechlich versandten Nachricht an Mario Topalovic #67 selber ergaenzt: "Heute spart er damit messbar mehrere Stunden pro Woche." Damit ist die vorherige Sperre (kein Ergebnis behaupten, solange keine Zahl da ist) aufgehoben, ABER bewusst nur mit der runden, unspezifischen Formulierung "mehrere Stunden pro Woche", nicht mit einer exakten Zahl. Diese Formulierung ab sofort Teil der Endfassung (siehe unten). Eine praezisere Zahl vom Gipser bleibt trotzdem wertvoll und wuerde die Nachricht weiter staerken, ist aber nicht mehr Voraussetzung.
 
 **ACHTUNG ZIELGRUPPE:** Der Chef steht nicht auf der Baustelle, er kommt vom Aufmass oder aus dem Kundentermin. Mehrfach von Florian korrigiert.
 
