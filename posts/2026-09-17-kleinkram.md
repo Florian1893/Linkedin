@@ -2,7 +2,7 @@
 
 Datum: 2026-09-17 (Donnerstag), 07:30
 Format: Vorlage B. Harter Spiegel in Zeile eins, kurze Szene beim Leser, Wendepunkt, eine Zählfrage.
-Bild: KEINES. Vorregistrierte Entscheidung nach dem schwachen 15.09.
+Bild: fotos/bild-anrufe.png (Anrufstapel von halb sieben bis sieben, vier Fragen, Frage nach dem Fussblock). Auf Florians Wunsch am 17.09., gegen Regel 16.
 Content-Säule: Unbequeme Wahrheit, durchgehend Du
 
 ## Post
@@ -80,6 +80,18 @@ Der Satz "Der Betrieb ist gewachsen. Die Regel nicht." ist bewusst nah an Floria
 ## Thema
 
 Das Freigabe-Problem, stand seit Beginn unter "frische Winkel, noch offen" und war nie im Feed. Die Ich-Fassung davon (Gipser mit dem Stapel) liegt archiviert unter ARCHIV-2026-09-17-der-stapel-verworfen.md. Gleicher Gedanke, schwächere Form.
+
+## Bild
+
+Kein Foto und keine Skizze, sondern das, was der Post beschreibt: vier Nachrichten zwischen 06:34 und 06:52, alle vier an den Chef. Genau die Uhrzeiten und genau die Fragen aus dem Zielgruppen-Test (Steigzone, Hahnen für achtzig Franken, Regie oder drin, Teil nicht geliefert). Der Hahnen-Betrag ist derselbe wie im Hook, Bild und Text verstärken sich.
+
+Fussblock: "Eine davon gehört wirklich zu dir. Die anderen drei nicht."
+
+Die Regie-Frage ist die, die wirklich zum Chef gehört, weil sie den Preis bewegt. Ich habe sie bewusst NICHT farbig markiert. Wer sie sucht, liest alle vier nochmal, und genau das ist Verweildauer. Ausserdem sehen alle vier Karten gleich aus, und das ist der Punkt des Posts: für dich sehen sie gleich aus, sind sie aber nicht.
+
+Kein Gesicht, keine Zahlengrafik, keine Skizze. Das sind die drei Bildarten, die bisher gefloppt sind (200, 100, 65). Diese hier ist eine vierte Art, also ein echter neuer Test und keine Wiederholung.
+
+Rendern: node fotos/render-anrufe.js
 
 ## Ergebnis
 
