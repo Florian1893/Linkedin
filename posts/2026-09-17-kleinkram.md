@@ -7,23 +7,29 @@ Content-Säule: Unbequeme Wahrheit, durchgehend Du
 
 ## Post
 
-Der wichtigste Mann in deinem Betrieb macht den ganzen Tag Kleinkram.
+Deine Leute arbeiten. Du beantwortest Fragen.
 
-Du weisst genau, wer gemeint ist.
+Und das ist nicht der schlimme Teil.
 
 Halb acht sitzt du hin. Bis zehn geht die Tür nicht zu. Material ist teurer geworden. Der Kunde will den Termin schieben. Einer versteht seine Rechnung nicht. Jedes Mal zwei Minuten. Jedes Mal nur du.
 
 Um zehn hast du noch nicht angefangen, wofür du dich hingesetzt hast.
 
-Jetzt der Teil, den keiner gern hört. Deine Leute fragen nicht, weil sie zu dumm dafür wären. Die meisten wüssten die Antwort selber. Sie fragen, weil nie einer gesagt hat, was sie ohne dich entscheiden dürfen.
+Jetzt der schlimme Teil. Die meisten von denen wüssten die Antwort selber. Sie fragen nicht, weil sie es nicht könnten. Sie fragen, weil nie einer gesagt hat, was sie ohne dich entscheiden dürfen.
 
-Das ist keine Kontrolle. Das ist eine fehlende Regel.
+Das ist keine Vertrauensfrage. Da fehlt einfach eine Regel.
 
-Und die fehlt seit damals, als ihr noch klein wart und kurz rufen schneller ging als aufschreiben. Seither ist der Betrieb gewachsen. Die Regel nicht.
+Und die fehlt seit damals, als ihr noch klein wart und kurz rufen schneller ging als aufschreiben. Der Betrieb ist seither gewachsen. Die Regel nicht.
 
 Ich setze mich mit dem Inhaber hin und wir schreiben genau das auf. Was darf ohne ihn rausgehen. Mehr ist es am Anfang nicht.
 
 Wie viele von den Fragen heute hättest du gar nicht beantworten müssen?
+
+## Fassung 1 (ersetzt am 17.09., Florian: hookiger)
+
+Hook war "Der wichtigste Mann in deinem Betrieb macht den ganzen Tag Kleinkram. / Du weisst genau, wer gemeint ist."
+Zwei Probleme: der erste Satz lobt, bevor er trifft, und die Auflösung steht erst in Zeile zwei, also womöglich hinter "mehr anzeigen". Ausserdem ist "Kleinkram" abwertend gegenüber dem Leser.
+Neue Fassung: Umkehrung in Zeile eins (die anderen arbeiten, du antwortest) plus offene Schlaufe ("nicht der schlimme Teil"), die eingelöst wird.
 
 ## Alternative Hooks
 
