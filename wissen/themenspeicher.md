@@ -44,7 +44,7 @@ Weitere Werte aus derselben Studie, nachrecherchiert am 14.09.:
 - 68 Prozent verschicken Angebote digital, 62 Prozent Rechnungen.
 - Die Betriebe geben sich selbst im Schnitt die Note 3.0 fuer den eigenen Digitalisierungsstand.
 
-DIE 72 IST DIE WERTVOLLSTE ZAHL FUER FLORIAN. Sie sagt in seinen eigenen Worten, was seine Positionierung behauptet: der Schmerz ist zu viel, nicht zu wenig. Sie ist ausserdem aussagekraeftiger als die 97, weil sie nicht fast einstimmig ist. Reserviert fuer einen eigenen Post, nicht nebenbei verbrauchen.
+DIE 72 IST DIE WERTVOLLSTE ZAHL FUER FLORIAN. Sie sagt in seinen eigenen Worten, was seine Positionierung behauptet: der Schmerz ist zu viel, nicht zu wenig. Sie ist ausserdem aussagekraeftiger als die 97, weil sie nicht fast einstimmig ist. VERWENDET am 22.09. im Post "Dafuer haben wir keine Zeit", dort belegt die Zahl den Hook statt nur danebenzustehen.
 
 Bewertung der 97 (14.09.): methodisch sauber erhoben, inhaltlich aber schwach, weil fast einstimmig und weil sie eine Selbstauskunft ueber eine Erwartung misst, kein Verhalten. Taugt als Aufhaenger, nicht als Beweis. Im Post vom 15.09. genau so eingesetzt.
 
