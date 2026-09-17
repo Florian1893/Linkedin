@@ -2,7 +2,7 @@
 
 Datum: 2026-09-17 (Donnerstag), 07:30
 Format: Vorlage B. Harter Spiegel in Zeile eins, kurze Szene beim Leser, Wendepunkt, eine Zählfrage.
-Bild: fotos/bild-anrufe.png (Anrufstapel von halb sieben bis sieben, vier Fragen, Frage nach dem Fussblock). Auf Florians Wunsch am 17.09., gegen Regel 16.
+Bild: fotos/bild-whatsapp.png (Gruppenchat "Baustelle Mühlestrasse", fünf Fragen zwischen 06:34 und 06:58, keine davon beantwortet). Alternative: fotos/bild-anrufe.png, gleiche Idee als Nachrichtenstapel ohne Chat-Rahmen. Auf Florians Wunsch am 17.09., gegen Regel 16.
 Content-Säule: Unbequeme Wahrheit, durchgehend Du
 
 ## Post
@@ -83,15 +83,17 @@ Das Freigabe-Problem, stand seit Beginn unter "frische Winkel, noch offen" und w
 
 ## Bild
 
-Kein Foto und keine Skizze, sondern das, was der Post beschreibt: vier Nachrichten zwischen 06:34 und 06:52, alle vier an den Chef. Genau die Uhrzeiten und genau die Fragen aus dem Zielgruppen-Test (Steigzone, Hahnen für achtzig Franken, Regie oder drin, Teil nicht geliefert). Der Hahnen-Betrag ist derselbe wie im Hook, Bild und Text verstärken sich.
+WhatsApp-Layout auf Florians Wunsch. Kein Foto und keine Skizze, sondern das, was der Post beschreibt: ein Gruppenchat, fünf Nachrichten zwischen 06:34 und 06:58, alle an den Chef, keine einzige beantwortet. Das leere Eingabefeld unten ist der stille Teil der Aussage. Genau die Uhrzeiten und genau die Fragen aus dem Zielgruppen-Test (Steigzone, Hahnen für achtzig Franken, Regie oder drin, Teil nicht geliefert). Der Hahnen-Betrag ist derselbe wie im Hook, Bild und Text verstärken sich.
 
-Fussblock: "Eine davon gehört wirklich zu dir. Die anderen drei nicht."
+Fussblock: "Eine davon gehört wirklich zu dir. Die anderen vier nicht."
 
-Die Regie-Frage ist die, die wirklich zum Chef gehört, weil sie den Preis bewegt. Ich habe sie bewusst NICHT farbig markiert. Wer sie sucht, liest alle vier nochmal, und genau das ist Verweildauer. Ausserdem sehen alle vier Karten gleich aus, und das ist der Punkt des Posts: für dich sehen sie gleich aus, sind sie aber nicht.
+Die Regie-Frage ist die, die wirklich zum Chef gehört, weil sie den Preis bewegt. Sie ist bewusst NICHT markiert. Wer sie sucht, liest alle fünf nochmal, und genau das ist Verweildauer. Alle Blasen sehen gleich aus, und das ist der Punkt des Posts: für dich sehen sie gleich aus, sind sie aber nicht.
+
+Kein Logo, keine Markenzeichen, erfundene Vornamen. Es ist eine gestaltete Grafik im vertrauten Layout, kein echter Screenshot und keine echte Unterhaltung.
 
 Kein Gesicht, keine Zahlengrafik, keine Skizze. Das sind die drei Bildarten, die bisher gefloppt sind (200, 100, 65). Diese hier ist eine vierte Art, also ein echter neuer Test und keine Wiederholung.
 
-Rendern: node fotos/render-anrufe.js
+Rendern: node fotos/render-whatsapp.js (Alternative: node fotos/render-anrufe.js)
 
 ## Ergebnis
 
