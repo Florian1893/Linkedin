@@ -1,8 +1,8 @@
 # Post: Der wichtigste Mann macht Kleinkram
 
-Datum: 2026-09-17 (Donnerstag), 07:30
+Datum: verschoben auf den naechsten Slot (Vorschlag Dienstag 22.09.), 07:30. Am 17.09. laeuft stattdessen der Offerten-Wochen-Post, weil Florian das WhatsApp-Bild dazu wollte.
 Format: Vorlage B. Harter Spiegel in Zeile eins, kurze Szene beim Leser, Wendepunkt, eine Zählfrage.
-Bild: fotos/bild-whatsapp.png (Kundenchat über eine Woche, Montag zugesagt, Mittwoch vertröstet, Freitag verloren, Pointe rot unterstrichen). Alternative: fotos/bild-anrufe.png, gleiche Idee als Nachrichtenstapel ohne Chat-Rahmen. Auf Florians Wunsch am 17.09., gegen Regel 16.
+Bild: KEINES. Das WhatsApp-Bild gehoert zum Offerten-Wochen-Post vom 17.09.
 Content-Säule: Unbequeme Wahrheit, durchgehend Du
 
 ## Post
@@ -80,34 +80,6 @@ Der Satz "Der Betrieb ist gewachsen. Die Regel nicht." ist bewusst nah an Floria
 ## Thema
 
 Das Freigabe-Problem, stand seit Beginn unter "frische Winkel, noch offen" und war nie im Feed. Die Ich-Fassung davon (Gipser mit dem Stapel) liegt archiviert unter ARCHIV-2026-09-17-der-stapel-verworfen.md. Gleicher Gedanke, schwächere Form.
-
-## Bild
-
-fotos/bild-whatsapp.png, WhatsApp-Layout auf Florians Wunsch, nach zwei Vorbildern die er am 17.09. geschickt hat. Entscheidend an seinen Vorbildern war nicht das Layout, sondern der erzählte Verlauf mit Pointe und die rote Handmarkierung.
-
-Einzelchat mit dem Kunden, "Meier (Badumbau)", über eine ganze Woche:
-- Montag 07:41 "Machst du mir eine Offerte fürs Bad?", Antwort 07:52 "Klar. Bis Mittwoch hast du sie."
-- Mittwoch 16:12 "Und? Wir möchten langsam entscheiden.", Antwort 16:40 "Sorry, ging unter. Freitag sicher."
-- Freitag 09:14 "Wir haben gestern vergeben.", Antwort 09:15 "Im Ernst?? Sie war fast fertig"
-- Freitag 09:16, rot unterstrichen: "Die anderen hatten sie gleich. Zehn Minuten, sagt der Chef dort."
-
-Warum diese Geschichte und nicht die mit dem Vorarbeiter: die Wochenstruktur mit drei Datumstrennern zeigt das Verrinnen der Zeit ohne ein einziges erklärendes Wort. Montag zugesagt, Mittwoch vertröstet, Freitag verloren. Das liest sich in vier Sekunden und tut trotzdem weh.
-
-Der Inhaber steht nicht als faul da, sondern als jemand, der die Woche nicht in den Griff bekommt. Genau das ist die Zielgruppe. "Sorry, ging unter" ist der Satz, den jeder von ihnen schon geschrieben hat.
-
-Die Pointe nennt keine Software und keine KI. Sie sagt nur, dass es beim anderen zehn Minuten gedauert hat. Die Schlussfolgerung zieht der Leser selbst, und genau dafür ist der Kommentarbereich da.
-
-Kein Logo, keine Markenzeichen, erfundene Namen. Gestaltete Grafik im vertrauten Layout, kein echter Screenshot und keine echte Unterhaltung.
-
-Technik: die Koordinaten des roten Strichs werden erst nach document.fonts.ready gemessen. Vorher stehen die Werte der Ersatzschrift drin und der Strich landet quer über dem Text. Das war der Fehler in den ersten Durchläufen.
-
-Rendern: node fotos/render-whatsapp.js (Alternative ohne Chat-Rahmen: node fotos/render-anrufe.js)
-
-## Naht zwischen Bild und Text
-
-Das Bild erzählt jetzt eine eigene Geschichte: eine Offerte, die über eine Woche liegen bleibt, und ein verlorener Auftrag. Der Post erzählt, warum sie liegen bleibt, nämlich weil der Vormittag mit Fragen draufgeht, die nie jemand geregelt hat. Bild und Text greifen also ineinander, erzählen aber nicht dasselbe. Das kann funktionieren (das Bild stoppt, der Text erklärt) und es kann als Bruch gelesen werden.
-
-Falls die Naht stört, reicht eine Zeile im Post nach dem Faden-Satz, zum Beispiel: "Und irgendwann ruft der Kunde an und sagt ab." Noch nicht eingebaut, weil Florian den Text in dieser Form abgenommen hat.
 
 ## Ergebnis
 
