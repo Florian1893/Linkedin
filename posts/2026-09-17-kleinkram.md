@@ -2,7 +2,7 @@
 
 Datum: 2026-09-17 (Donnerstag), 07:30
 Format: Vorlage B. Harter Spiegel in Zeile eins, kurze Szene beim Leser, Wendepunkt, eine Zählfrage.
-Bild: fotos/bild-whatsapp.png (Einzelchat mit dem Vorarbeiter, vier Fragen ab 06:31, Pointe um 09:58 rot unterstrichen). Alternative: fotos/bild-anrufe.png, gleiche Idee als Nachrichtenstapel ohne Chat-Rahmen. Auf Florians Wunsch am 17.09., gegen Regel 16.
+Bild: fotos/bild-whatsapp.png (Einzelchat mit dem Vorarbeiter, drei Fragen ab 06:31, Absage um 09:58, Pointe um 10:01 rot unterstrichen). Alternative: fotos/bild-anrufe.png, gleiche Idee als Nachrichtenstapel ohne Chat-Rahmen. Auf Florians Wunsch am 17.09., gegen Regel 16.
 Content-Säule: Unbequeme Wahrheit, durchgehend Du
 
 ## Post
@@ -85,15 +85,17 @@ Das Freigabe-Problem, stand seit Beginn unter "frische Winkel, noch offen" und w
 
 fotos/bild-whatsapp.png, WhatsApp-Layout auf Florians Wunsch, nach zwei Vorbildern die er am 17.09. geschickt hat. Entscheidend an seinen Vorbildern war nicht das Layout, sondern dass ein echter Dialog mit Verlauf und Pointe erzählt wird und die Pointe von Hand rot unterstrichen ist.
 
-Einzelchat mit "Marco (Vorarbeiter)". Vier Fragen, drei sofort beantwortet:
+Einzelchat mit "Marco (Vorarbeiter)". Drei Fragen am frühen Morgen, alle sofort beantwortet:
 - 06:31 Steigzone liegt woanders als im Plan, Antwort 06:32
 - 06:34 Hahnen für 80 Franken, Antwort 06:35 ("Ja klar, mach")
-- 06:47 zweiter Containerschlüssel, Antwort 06:48
 - 07:12 Regie oder drin, Antwort 07:14 ("Das muss ich anschauen")
 
-Dann die Lücke bis 09:58 und die Pointe, rot unterstrichen: "Du, Meier hat angerufen. Fragt wo die Offerte bleibt."
+Dann die Lücke bis 09:58 und die Kette, die den Post trägt:
+- 09:58 "Du, Meier hat abgesagt."
+- 09:59 "Im Ernst? Die Offerte ist nicht mal fertig"
+- 10:01 rot unterstrichen: "Er hatte gestern Abend schon eine. In zehn Minuten gemacht, sagt er."
 
-Die Geschichte des Bildes ist die Geschichte des Posts. Drei Fragen, die er selber hätte entscheiden können, werden in einer Minute beantwortet. Die eine, die wirklich zum Chef gehört (Regie, weil sie den Preis bewegt), bleibt liegen. Und die Offerte ist um zehn immer noch nicht geschrieben. Das ist genau der Satz aus dem Post: du verlierst in der Offerte jedes Mal den Faden.
+Die Geschichte des Bildes ist die Geschichte des Posts, einen Schritt weitergedacht. Zwei der drei Fragen hätte der Vorarbeiter selber entscheiden können und sie werden in einer Minute beantwortet. Die eine, die wirklich zum Chef gehört (Regie, weil sie den Preis bewegt), bleibt liegen. Und während der Morgen mit Kleinkram vergeht, ist die Offerte nicht geschrieben und der Auftrag weg.
 
 Der Hahnen für achtzig Franken steht im Bild und im Hook, Text und Bild verstärken sich.
 
@@ -102,6 +104,12 @@ Kein Logo, keine Markenzeichen, erfundene Vornamen. Gestaltete Grafik im vertrau
 Technik: die Koordinaten des roten Strichs werden erst nach document.fonts.ready gemessen. Vorher stehen die Werte der Ersatzschrift drin und der Strich landet quer über dem Text. Das war der Fehler in den ersten drei Durchläufen.
 
 Rendern: node fotos/render-whatsapp.js (Alternative ohne Chat-Rahmen: node fotos/render-anrufe.js)
+
+## Naht zwischen Bild und Text
+
+Das Bild behauptet eine härtere Folge als der Text: der Auftrag ist weg. Im Post steht nur "Du verlierst in der Offerte jedes Mal den Faden und fängst von vorne an". Das widerspricht sich nicht, aber das Bild geht einen Schritt weiter.
+
+Falls die Naht stört, reicht eine Zeile im Post nach dem Faden-Satz, zum Beispiel: "Und irgendwann ruft der Kunde an und sagt ab." Noch nicht eingebaut, weil Florian den Text in dieser Form abgenommen hat.
 
 ## Ergebnis
 
