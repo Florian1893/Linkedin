@@ -2,7 +2,7 @@
 
 Datum: 2026-09-17 (Donnerstag), 07:30
 Format: Vorlage B. Harter Spiegel in Zeile eins, kurze Szene beim Leser, Wendepunkt, eine Zählfrage.
-Bild: fotos/bild-whatsapp.png (Einzelchat mit dem Vorarbeiter, drei Fragen ab 06:31, Absage um 09:58, Pointe um 10:01 rot unterstrichen). Alternative: fotos/bild-anrufe.png, gleiche Idee als Nachrichtenstapel ohne Chat-Rahmen. Auf Florians Wunsch am 17.09., gegen Regel 16.
+Bild: fotos/bild-whatsapp.png (Kundenchat über eine Woche, Montag zugesagt, Mittwoch vertröstet, Freitag verloren, Pointe rot unterstrichen). Alternative: fotos/bild-anrufe.png, gleiche Idee als Nachrichtenstapel ohne Chat-Rahmen. Auf Florians Wunsch am 17.09., gegen Regel 16.
 Content-Säule: Unbequeme Wahrheit, durchgehend Du
 
 ## Post
@@ -83,31 +83,29 @@ Das Freigabe-Problem, stand seit Beginn unter "frische Winkel, noch offen" und w
 
 ## Bild
 
-fotos/bild-whatsapp.png, WhatsApp-Layout auf Florians Wunsch, nach zwei Vorbildern die er am 17.09. geschickt hat. Entscheidend an seinen Vorbildern war nicht das Layout, sondern dass ein echter Dialog mit Verlauf und Pointe erzählt wird und die Pointe von Hand rot unterstrichen ist.
+fotos/bild-whatsapp.png, WhatsApp-Layout auf Florians Wunsch, nach zwei Vorbildern die er am 17.09. geschickt hat. Entscheidend an seinen Vorbildern war nicht das Layout, sondern der erzählte Verlauf mit Pointe und die rote Handmarkierung.
 
-Einzelchat mit "Marco (Vorarbeiter)". Drei Fragen am frühen Morgen, alle sofort beantwortet:
-- 06:31 Steigzone liegt woanders als im Plan, Antwort 06:32
-- 06:34 Hahnen für 80 Franken, Antwort 06:35 ("Ja klar, mach")
-- 07:12 Regie oder drin, Antwort 07:14 ("Das muss ich anschauen")
+Einzelchat mit dem Kunden, "Meier (Badumbau)", über eine ganze Woche:
+- Montag 07:41 "Machst du mir eine Offerte fürs Bad?", Antwort 07:52 "Klar. Bis Mittwoch hast du sie."
+- Mittwoch 16:12 "Und? Wir möchten langsam entscheiden.", Antwort 16:40 "Sorry, ging unter. Freitag sicher."
+- Freitag 09:14 "Wir haben gestern vergeben.", Antwort 09:15 "Im Ernst?? Sie war fast fertig"
+- Freitag 09:16, rot unterstrichen: "Die anderen hatten sie gleich. Zehn Minuten, sagt der Chef dort."
 
-Dann die Lücke bis 09:58 und die Kette, die den Post trägt:
-- 09:58 "Du, Meier hat abgesagt."
-- 09:59 "Im Ernst? Die Offerte ist nicht mal fertig"
-- 10:01 rot unterstrichen: "Er hatte gestern Abend schon eine. In zehn Minuten gemacht, sagt er."
+Warum diese Geschichte und nicht die mit dem Vorarbeiter: die Wochenstruktur mit drei Datumstrennern zeigt das Verrinnen der Zeit ohne ein einziges erklärendes Wort. Montag zugesagt, Mittwoch vertröstet, Freitag verloren. Das liest sich in vier Sekunden und tut trotzdem weh.
 
-Die Geschichte des Bildes ist die Geschichte des Posts, einen Schritt weitergedacht. Zwei der drei Fragen hätte der Vorarbeiter selber entscheiden können und sie werden in einer Minute beantwortet. Die eine, die wirklich zum Chef gehört (Regie, weil sie den Preis bewegt), bleibt liegen. Und während der Morgen mit Kleinkram vergeht, ist die Offerte nicht geschrieben und der Auftrag weg.
+Der Inhaber steht nicht als faul da, sondern als jemand, der die Woche nicht in den Griff bekommt. Genau das ist die Zielgruppe. "Sorry, ging unter" ist der Satz, den jeder von ihnen schon geschrieben hat.
 
-Der Hahnen für achtzig Franken steht im Bild und im Hook, Text und Bild verstärken sich.
+Die Pointe nennt keine Software und keine KI. Sie sagt nur, dass es beim anderen zehn Minuten gedauert hat. Die Schlussfolgerung zieht der Leser selbst, und genau dafür ist der Kommentarbereich da.
 
-Kein Logo, keine Markenzeichen, erfundene Vornamen. Gestaltete Grafik im vertrauten Layout, kein echter Screenshot und keine echte Unterhaltung.
+Kein Logo, keine Markenzeichen, erfundene Namen. Gestaltete Grafik im vertrauten Layout, kein echter Screenshot und keine echte Unterhaltung.
 
-Technik: die Koordinaten des roten Strichs werden erst nach document.fonts.ready gemessen. Vorher stehen die Werte der Ersatzschrift drin und der Strich landet quer über dem Text. Das war der Fehler in den ersten drei Durchläufen.
+Technik: die Koordinaten des roten Strichs werden erst nach document.fonts.ready gemessen. Vorher stehen die Werte der Ersatzschrift drin und der Strich landet quer über dem Text. Das war der Fehler in den ersten Durchläufen.
 
 Rendern: node fotos/render-whatsapp.js (Alternative ohne Chat-Rahmen: node fotos/render-anrufe.js)
 
 ## Naht zwischen Bild und Text
 
-Das Bild behauptet eine härtere Folge als der Text: der Auftrag ist weg. Im Post steht nur "Du verlierst in der Offerte jedes Mal den Faden und fängst von vorne an". Das widerspricht sich nicht, aber das Bild geht einen Schritt weiter.
+Das Bild erzählt jetzt eine eigene Geschichte: eine Offerte, die über eine Woche liegen bleibt, und ein verlorener Auftrag. Der Post erzählt, warum sie liegen bleibt, nämlich weil der Vormittag mit Fragen draufgeht, die nie jemand geregelt hat. Bild und Text greifen also ineinander, erzählen aber nicht dasselbe. Das kann funktionieren (das Bild stoppt, der Text erklärt) und es kann als Bruch gelesen werden.
 
 Falls die Naht stört, reicht eine Zeile im Post nach dem Faden-Satz, zum Beispiel: "Und irgendwann ruft der Kunde an und sagt ab." Noch nicht eingebaut, weil Florian den Text in dieser Form abgenommen hat.
 
