@@ -10,7 +10,7 @@
 
 ## Frische Winkel, noch offen
 
-**Das Freigabe-Problem.** Jede Offerte muss final durch den Chef. Nicht weil er misstraut, sondern weil nie definiert wurde, was ohne ihn rausgehen darf. Winkel: die Freigabe ist keine Kontrolle, sie ist eine fehlende Regel.
+**Das Freigabe-Problem. GESPIELT am 17.09.** als harter Spiegel ("Der wichtigste Mann in deinem Betrieb macht den ganzen Tag Kleinkram"), nicht als Ich-Story. Jede Offerte muss final durch den Chef. Nicht weil er misstraut, sondern weil nie definiert wurde, was ohne ihn rausgehen darf. Winkel: die Freigabe ist keine Kontrolle, sie ist eine fehlende Regel.
 
 **Der beste Mitarbeiter geht.** Was passiert, wenn der Vorarbeiter kuendigt, der als Einziger weiss, wie der Chef Dinge macht. Wissen im Kopf statt im System.
 

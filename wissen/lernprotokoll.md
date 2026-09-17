@@ -20,6 +20,7 @@ Alle Posts nach Impressions. Startbestand uebernommen aus dem Skill `betriebsflo
 | 120 | Google-Bewertungen | Frage | - | Frage selbst beantwortet, Werbeblock am Schluss |
 | 113 | KI im Handwerk (Wissens-Post, 27.08.) | These | - | Auch als Denkmodell statt Liste verpackt floppt Wissen. Vierter Beleg |
 | 100 | Offerten-Resultat (10.09., "15 Stunden pro Monat", mit Foto) | Zahl | - | Verbranntes Thema plus Produktname am Schluss plus Einzelbild, siehe Diagnose |
+| (schwach, Zahl nachtragen) | Nachfassen mit Bitkom-Zahl (15.09., mit Foto) | Dialog-Hook, Statistik in der Mitte | B | Florian am 17.09.: "leider auch schwach". Dritter Flop in Folge. Siehe Sammeldiagnose unten |
 | 109 | "Wir sind voll digitalisiert" | Ich-Anekdote | - | Ich-Einstieg, Leser urteilt ueber Dritte |
 | 109 | Griechenland-Reflexion | persoenlich | - | ohne Betriebsbezug, Zielgruppe nicht getroffen |
 | 109 | Mehrwert-Liste mit 3 Tipps | Liste | - | Format floppt |
@@ -27,6 +28,26 @@ Alle Posts nach Impressions. Startbestand uebernommen aus dem Skill `betriebsflo
 | 65 | Ruf-Post (03.09., "Dein Ruf als Sanitaer") | Spiegel mit Gewerks-Anrede, plus Einzelbild | B | SCHLECHTESTER WERT UEBERHAUPT. Drei Variablen gleichzeitig geaendert, siehe Diagnose unten |
 
 Median der echten Phase (ohne die zwei Kaltstart-Posts): rund 180. Stand 29.08. mit 113 dazu: rund 176. Das ist die Latte, gegen die neue Posts gemessen werden, nicht die 9374.
+
+## SAMMELDIAGNOSE 17.09.: drei Flops in Folge, und es lag nicht am Thema
+
+65 (Ruf), 100 (Offerten-Resultat), 15.09. (Nachfassen mit Statistik). Ich habe nach jedem einzeln nach der Ursache gesucht und jedes Mal eine Einzelursache gefunden: Gewerks-Anrede, verbranntes Thema, Bild. Das war zu kurz gegriffen. Alle drei teilen einen Fehler, der groesser ist als jede Einzelursache.
+
+**Die Gewinner handeln vom Leser. Meine September-Posts handeln von Florian.**
+
+Der 1014er laesst den Leser sich selbst ertappen. Der 662er sagt ihm ins Gesicht, dass er der teuerste Mitarbeiter im eigenen Betrieb ist. Beide klagen an, beide polstern nicht, beide brauchen keine Szene.
+
+Was ich im September gebaut habe: "Ich sitze neben dem Inhaber." "Ich schaue eine Stunde zu." "Ich schreibe auf, was ohne dich rausgehen kann." Sympathisch, ehrlich, und fuer den Leser eine Reportage ueber einen Berater bei der Arbeit. Er kommt darin nicht vor, also scrollt er weiter.
+
+Der Hook "Hast du nichts Besseres zu tun?" ist dafuer das beste Beispiel. Er klingt gut, aber die Frage gilt Florian, nicht dem Leser. Es steht nichts auf dem Spiel fuer den, der sie liest.
+
+**Zweiter gemeinsamer Fehler: Laenge und Aufbau.** Die Gewinner kommen sofort zum Punkt. Meine letzten Posts liegen bei 1100 bis 1250 Zeichen mit einer Szene als Vorlauf. Die Pointe steht erst im letzten Drittel, und so weit liest keiner.
+
+**Konsequenz ab 17.09.**, in dieser Reihenfolge:
+1. Zeile eins ist eine Aussage ueber den Leser, nie ueber Florian und nie ueber einen Dritten.
+2. Kein Ich im ersten Drittel. Am besten gar keins ausser im Angebotssatz am Schluss.
+3. Rund 950 Zeichen als Zielwert, nicht 1200.
+4. Kein Bild, bis ein reiner Textpost wieder ueber 250 liegt.
 
 ## Diagnose zum 100er (10.09., Offerten-Resultat)
 
@@ -101,9 +122,12 @@ Zweiter Punkt: Der 200er hatte ein Foto, der 250er nicht. Schwacher Beleg, deckt
 
 14. THEMEN-CHECK VOR DEM SCHREIBEN (Befund 14.09.2026): Erster Arbeitsschritt bei jedem Post ist `wissen/themenspeicher.md`, Abschnitt "schon bespielt". Ein Thema von dieser Liste wird nicht gespielt, auch nicht mit neuem Format, neuem Hook oder einem echten Resultat. Beleg: der 100er vom 10.09. war Offerten zum vierten Mal.
 15. KEIN WERBEBLOCK AM SCHLUSS (Befund 14.09.2026): Kein Produktname, kein "genau das mache ich mit X" im letzten Drittel. Belege: 120 (Google-Bewertungen) und 100 (Offerten-Resultat), beide unter dem Median von 176. Erlaubt bleibt der nackte Satz "Die erste Stunde kostet nichts" mit dem ehrlichen Grund dahinter (Referenzaufbau), weil er ein Angebot ist und keine Marke. Praezisierung Florian 14.09.: der Nutzen GEHOERT rein, nur eben als Handlung statt als Marke. Also nicht "das automatisiere ich mit BetriebsFlow", sondern was konkret passiert: aufschreiben was ohne den Chef rausgehen kann, das so bauen dass es ohne ihn rausgeht, uebrig bleibt nur was wirklich ihn braucht. Ortsangaben (Glarnerland) sind ebenfalls raus, sie verengen das Publikum ohne Gegenwert.
-16. BILDER PAUSIEREN (Befund 14.09.2026): Die drei Posts mit Einzelbild liegen bei 65, 200 und 100. Alle drei unter oder knapp am Median. Bis auf Weiteres reiner Text, bis der Text-Median wieder stabil ueber 250 liegt. AUSNAHME am 15.09.: Florian will fuer den Nachfass-Post ein Bild. Damit wird der Post zur Gegenprobe. Unterschreitet er den Median von 176, ist die Bildpause danach nicht mehr verhandelbar. Liegt er klar darueber, lag es nicht am Bild an sich, sondern an der Machart (Skizze, Post-it, Zahlenfoto ohne Gesicht), und die Regel wird zu: Gesicht ja, Grafik nein.
+16. BILDER SIND AUS (entschieden 17.09.2026): Vier Posts mit Einzelbild, vier Mal unter oder knapp am Median (65, 200, 100, 15.09.). Die Gegenprobe vom 15.09. ist gelaufen und negativ ausgefallen, damit ist die Bildpause nicht mehr verhandelbar. Reiner Text, bis ein Textpost wieder ueber 250 liegt. Historie der Ausnahme vom 15.09.: Florian will fuer den Nachfass-Post ein Bild. Damit wird der Post zur Gegenprobe. Unterschreitet er den Median von 176, ist die Bildpause danach nicht mehr verhandelbar. Liegt er klar darueber, lag es nicht am Bild an sich, sondern an der Machart (Skizze, Post-it, Zahlenfoto ohne Gesicht), und die Regel wird zu: Gesicht ja, Grafik nein.
 
 17. STATISTIK NUR ALS WENDEPUNKT (Regel ab 14.09.2026, Florian hat eine Statistik verlangt): Eine Zahl darf im Post stehen, aber nie im Hook. Ein Zahlen-Einstieg macht daraus einen Wissens-Post, und die liegen alle zwischen 91 und 184. Die Zahl gehoert in die Mitte, dort wo sie die Geschichte dreht. Bedingung: benannte Quelle, benannte Stichprobe, und Florian muss sie im Kommentarfeld verteidigen koennen. Belegte Zahlen stehen im Themenspeicher unter "Belegte Zahlen, die ich verwenden darf". Zahlen aus Agentur-Blogs ohne Studie dahinter kommen nicht in einen Post.
+
+18. DER POST GEHOERT DEM LESER (Kernregel ab 17.09.2026, aus der Sammeldiagnose): Zeile eins ist eine Aussage ueber ihn. Nicht ueber Florian, nicht ueber einen Gipser, nicht ueber eine Studie. Test vor dem Schreiben: Steht im ersten Satz etwas auf dem Spiel fuer den, der ihn liest? Wenn nein, ist es der falsche erste Satz. Kein Ich im ersten Drittel. Florian darf im Angebotssatz am Schluss vorkommen, sonst nirgends. Belege: die beiden besten Posts (1014, 662) machen genau das, die drei letzten Flops machen genau das Gegenteil.
+19. ZIELLAENGE RUND 950 ZEICHEN (ab 17.09.2026): Der 662er funktioniert nackt, ohne Szene und ohne Vorlauf. Meine Flops liegen bei 1100 bis 1250 mit Szene vorneweg, dadurch steht die Pointe im letzten Drittel. Szene ja, aber kurz und nach dem Spiegel, nie davor.
 
 ## Offene Tests
 
