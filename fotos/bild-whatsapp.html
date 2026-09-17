@@ -4,76 +4,108 @@
 @font-face{font-family:'Inter';font-weight:500;src:url(inter-3.ttf) format('truetype');}
 @font-face{font-family:'Inter';font-weight:800;src:url(inter-8.ttf) format('truetype');}
 *{margin:0;padding:0;box-sizing:border-box;}
-.s{width:1080px;height:1350px;position:relative;overflow:hidden;background:#0e1118;
+.s{width:1080px;height:1350px;position:relative;overflow:hidden;background:#E4DDD4;
    font-family:'Inter',Helvetica,Arial,sans-serif;display:flex;flex-direction:column;}
 
-.hd{height:132px;background:#075E54;display:flex;align-items:center;gap:22px;padding:0 30px;flex:0 0 auto;}
-.chev{width:22px;height:22px;border-left:5px solid rgba(255,255,255,.92);border-bottom:5px solid rgba(255,255,255,.92);
- transform:rotate(45deg);margin-right:2px;}
-.av{width:76px;height:76px;border-radius:50%;background:#cfd6d4;display:flex;align-items:center;justify-content:center;
- font-size:33px;font-weight:800;color:#5c6b68;flex:0 0 auto;}
-.nm{color:#fff;font-size:35px;font-weight:500;letter-spacing:-.3px;line-height:1.15;}
-.sub{color:rgba(255,255,255,.72);font-size:24px;font-weight:400;margin-top:5px;letter-spacing:-.1px;}
+.hd{height:136px;background:#F4F4F4;border-bottom:2px solid #cfcfcf;display:flex;align-items:center;
+ padding:0 28px;flex:0 0 auto;position:relative;}
+.back{display:flex;align-items:center;gap:10px;color:#1c7ef3;font-size:33px;font-weight:400;}
+.back i{width:17px;height:17px;border-left:5px solid #1c7ef3;border-bottom:5px solid #1c7ef3;
+ transform:rotate(45deg);display:block;font-style:normal;}
+.ctr{position:absolute;left:0;right:0;text-align:center;pointer-events:none;}
+.nm{font-size:35px;font-weight:800;color:#0f0f0f;letter-spacing:-.4px;}
+.on{font-size:24px;font-weight:400;color:#7b7b7b;margin-top:3px;}
+.av{margin-left:auto;width:78px;height:78px;border-radius:50%;background:#c9cdd1;
+ display:flex;align-items:center;justify-content:center;font-size:32px;font-weight:800;color:#6d747a;z-index:2;}
 
-.chat{flex:1 1 auto;background:#ECE5DD;padding:26px 28px 20px;display:flex;flex-direction:column;gap:20px;
- background-image:radial-gradient(rgba(0,0,0,.028) 1.6px,transparent 1.7px),radial-gradient(rgba(0,0,0,.022) 1.4px,transparent 1.5px);
- background-size:64px 64px,88px 88px;background-position:0 0,32px 44px;}
-.chip{align-self:center;background:#d7e2e0;color:#4a5d5a;font-size:23px;font-weight:500;letter-spacing:1.4px;
- text-transform:uppercase;padding:9px 24px;border-radius:9px;margin-bottom:2px;}
-.b{position:relative;align-self:flex-start;max-width:82%;background:#fff;border-radius:6px 16px 16px 16px;
- padding:17px 22px 13px;box-shadow:0 1px 1px rgba(0,0,0,.14);}
-.b:before{content:"";position:absolute;left:-13px;top:0;width:0;height:0;
- border-top:0 solid transparent;border-right:14px solid #fff;border-bottom:17px solid transparent;}
-.who{font-size:27px;font-weight:800;margin-bottom:6px;letter-spacing:-.2px;}
-.c1{color:#e0457b;} .c2{color:#1f7aec;} .c3{color:#c86a1c;} .c4{color:#00897b;}
-.tx{font-size:36px;font-weight:400;color:#111b21;line-height:1.32;letter-spacing:-.5px;padding-right:96px;}
-.tm{position:absolute;right:18px;bottom:11px;font-size:22px;color:#7d8a92;font-weight:400;}
+.chat{flex:1 1 auto;padding:24px 26px 12px;display:flex;flex-direction:column;gap:17px;
+ background-image:
+  radial-gradient(rgba(0,0,0,.030) 2px,transparent 2.1px),
+  radial-gradient(rgba(0,0,0,.024) 1.6px,transparent 1.7px),
+  radial-gradient(rgba(0,0,0,.020) 2.4px,transparent 2.5px);
+ background-size:70px 70px,104px 104px,150px 150px;
+ background-position:0 0,36px 50px,82px 18px;}
+.chip{align-self:center;background:rgba(225,245,254,.92);color:#54656f;font-size:22px;font-weight:500;
+ letter-spacing:1.3px;text-transform:uppercase;padding:8px 22px;border-radius:9px;}
 
-.inp{flex:0 0 auto;background:#ECE5DD;padding:8px 28px 26px;display:flex;align-items:center;gap:16px;}
-.field{flex:1;background:#fff;border-radius:34px;height:78px;display:flex;align-items:center;padding:0 28px;
- font-size:31px;color:#9aa5ab;box-shadow:0 1px 1px rgba(0,0,0,.1);}
-.snd{width:78px;height:78px;border-radius:50%;background:#075E54;flex:0 0 auto;}
+.b{position:relative;max-width:78%;padding:16px 20px 14px;border-radius:16px;
+ box-shadow:0 1px 1px rgba(0,0,0,.16);}
+.in{align-self:flex-start;background:#fff;border-top-left-radius:4px;}
+.out{align-self:flex-end;background:#DCF8C6;border-top-right-radius:4px;}
+.in:before{content:"";position:absolute;left:-12px;top:0;width:0;height:0;
+ border-right:13px solid #fff;border-bottom:16px solid transparent;}
+.out:before{content:"";position:absolute;right:-12px;top:0;width:0;height:0;
+ border-left:13px solid #DCF8C6;border-bottom:16px solid transparent;}
+.tx{font-size:37px;font-weight:400;color:#111b21;line-height:1.3;letter-spacing:-.5px;padding-right:120px;}
+.meta{position:absolute;right:17px;bottom:12px;display:flex;align-items:center;gap:7px;}
+.tm{font-size:22px;color:#7d8a92;}
+.ck{width:30px;height:16px;}
 
-.foot{flex:0 0 auto;background:#0e1118;padding:40px 56px 46px;}
-.bar{width:92px;height:9px;background:#8B7CF6;border-radius:5px;margin-bottom:26px;}
-.f1{font-size:44px;font-weight:400;color:rgba(255,255,255,.88);letter-spacing:-.4px;}
-.f2{font-size:52px;font-weight:800;color:#fff;letter-spacing:-1.4px;margin-top:7px;}
+.mark{position:absolute;pointer-events:none;overflow:visible;}
+.inp{flex:0 0 auto;background:#F4F4F4;border-top:2px solid #cfcfcf;padding:18px 28px 26px;
+ display:flex;align-items:center;gap:18px;}
+.clip{width:46px;height:46px;flex:0 0 auto;position:relative;}
+.clip:before,.clip:after{content:"";position:absolute;background:#8d9297;border-radius:3px;}
+.clip:before{left:0;top:19px;width:46px;height:7px;}
+.clip:after{left:19px;top:0;width:7px;height:46px;}
+.field{flex:1;background:#fff;border:2px solid #d6d6d6;border-radius:34px;height:74px;display:flex;
+ align-items:center;padding:0 26px;font-size:30px;color:#a2a2a2;}
+.mic{width:34px;height:52px;border-radius:17px;background:#8d9297;flex:0 0 auto;}
 </style></head><body>
 <div class="s">
   <div class="hd">
-    <div class="chev"></div>
-    <div class="av">BM</div>
-    <div>
-      <div class="nm">Baustelle Mühlestrasse</div>
-      <div class="sub">Marco, Reto, Sandro, Patrick</div>
-    </div>
+    <div class="back"><i></i>Chats</div>
+    <div class="ctr"><div class="nm">Marco (Vorarbeiter)</div><div class="on">online</div></div>
+    <div class="av">M</div>
   </div>
 
-  <div class="chat">
+  <div class="chat" id="chat">
     <div class="chip">Heute</div>
 
-    <div class="b"><div class="who c1">Marco</div>
-      <div class="tx">Steigzone liegt woanders als im Plan</div><div class="tm">06:34</div></div>
+    <div class="b in"><div class="tx">Steigzone liegt woanders als im Plan</div>
+      <div class="meta"><span class="tm">06:31</span></div></div>
 
-    <div class="b"><div class="who c2">Reto</div>
-      <div class="tx">Hahnen für 80 Franken, soll ich wechseln?</div><div class="tm">06:41</div></div>
+    <div class="b out"><div class="tx">Ruf den Bauleiter an</div>
+      <div class="meta"><span class="tm">06:32</span><svg class="ck" viewBox="0 0 30 16"><path d="M2 9l5 5 9-11M12 14l9-11" fill="none" stroke="#34B7F1" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></svg></div></div>
 
-    <div class="b"><div class="who c3">Sandro</div>
-      <div class="tx">Ist das jetzt Regie oder ist das drin?</div><div class="tm">06:47</div></div>
+    <div class="b in"><div class="tx">Hahnen für 80 Franken, soll ich wechseln?</div>
+      <div class="meta"><span class="tm">06:34</span></div></div>
 
-    <div class="b"><div class="who c4">Patrick</div>
-      <div class="tx">Teil ist nicht geliefert, hol ich es selber?</div><div class="tm">06:52</div></div>
+    <div class="b out"><div class="tx">Ja klar, mach</div>
+      <div class="meta"><span class="tm">06:35</span><svg class="ck" viewBox="0 0 30 16"><path d="M2 9l5 5 9-11M12 14l9-11" fill="none" stroke="#34B7F1" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></svg></div></div>
 
-    <div class="b"><div class="who c2">Reto</div>
-      <div class="tx">Wo ist der zweite Schlüssel für den Container?</div><div class="tm">06:58</div></div>
+    <div class="b in"><div class="tx">Wo ist der zweite Containerschlüssel?</div>
+      <div class="meta"><span class="tm">06:47</span></div></div>
+
+    <div class="b out"><div class="tx">Werkstatt, linke Schublade</div>
+      <div class="meta"><span class="tm">06:48</span><svg class="ck" viewBox="0 0 30 16"><path d="M2 9l5 5 9-11M12 14l9-11" fill="none" stroke="#34B7F1" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></svg></div></div>
+
+    <div class="b in"><div class="tx">Ist das jetzt Regie oder ist das drin?</div>
+      <div class="meta"><span class="tm">07:12</span></div></div>
+
+    <div class="b out"><div class="tx">Das muss ich anschauen</div>
+      <div class="meta"><span class="tm">07:14</span><svg class="ck" viewBox="0 0 30 16"><path d="M2 9l5 5 9-11M12 14l9-11" fill="none" stroke="#34B7F1" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></svg></div></div>
+
+    <div class="b in" id="last"><div class="tx" id="punch">Du, Meier hat angerufen.<br><span id="u">Fragt wo die Offerte bleibt.</span></div>
+      <div class="meta"><span class="tm">09:58</span></div></div>
   </div>
 
-  <div class="inp"><div class="field">Nachricht</div><div class="snd"></div></div>
-
-  <div class="foot">
-    <div class="bar"></div>
-    <div class="f1">Eine davon gehört wirklich zu dir.</div>
-    <div class="f2">Die anderen vier nicht.</div>
-  </div>
+  <div class="inp"><div class="clip"></div><div class="field">Nachricht</div><div class="mic"></div></div>
+  <svg class="mark" id="mk" width="1080" height="1350" viewBox="0 0 1080 1350" style="left:0;top:0;"></svg>
 </div>
+<script>
+document.fonts.ready.then(()=>{
+// Roter Strich von Hand unter die Pointe
+const u=document.getElementById('u');
+const L=u.getBoundingClientRect();
+const P=document.getElementById('punch').getBoundingClientRect();
+const x1=L.left-10, x2=L.right+8, y=P.bottom+7;
+const mid=(x1+x2)/2;
+const d=`M ${x1} ${y+3} Q ${mid-80} ${y+14} ${mid} ${y+8} T ${x2} ${y+1}`;
+const svg=document.getElementById('mk');
+svg.innerHTML=`<path d="${d}" fill="none" stroke="#d22c22" stroke-width="11" stroke-linecap="round" opacity=".93"/>`
+            +`<path d="M ${x1+18} ${y+15} Q ${mid+50} ${y+24} ${x2-26} ${y+12}" fill="none" stroke="#d22c22" stroke-width="5.5" stroke-linecap="round" opacity=".5"/>`;
+window.__mk={breite:Math.round(x2-x1),x1:Math.round(x1),y:Math.round(y)};
+});
+</script>
 </body></html>

@@ -2,7 +2,7 @@
 
 Datum: 2026-09-17 (Donnerstag), 07:30
 Format: Vorlage B. Harter Spiegel in Zeile eins, kurze Szene beim Leser, Wendepunkt, eine Zählfrage.
-Bild: fotos/bild-whatsapp.png (Gruppenchat "Baustelle Mühlestrasse", fünf Fragen zwischen 06:34 und 06:58, keine davon beantwortet). Alternative: fotos/bild-anrufe.png, gleiche Idee als Nachrichtenstapel ohne Chat-Rahmen. Auf Florians Wunsch am 17.09., gegen Regel 16.
+Bild: fotos/bild-whatsapp.png (Einzelchat mit dem Vorarbeiter, vier Fragen ab 06:31, Pointe um 09:58 rot unterstrichen). Alternative: fotos/bild-anrufe.png, gleiche Idee als Nachrichtenstapel ohne Chat-Rahmen. Auf Florians Wunsch am 17.09., gegen Regel 16.
 Content-Säule: Unbequeme Wahrheit, durchgehend Du
 
 ## Post
@@ -83,17 +83,25 @@ Das Freigabe-Problem, stand seit Beginn unter "frische Winkel, noch offen" und w
 
 ## Bild
 
-WhatsApp-Layout auf Florians Wunsch. Kein Foto und keine Skizze, sondern das, was der Post beschreibt: ein Gruppenchat, fünf Nachrichten zwischen 06:34 und 06:58, alle an den Chef, keine einzige beantwortet. Das leere Eingabefeld unten ist der stille Teil der Aussage. Genau die Uhrzeiten und genau die Fragen aus dem Zielgruppen-Test (Steigzone, Hahnen für achtzig Franken, Regie oder drin, Teil nicht geliefert). Der Hahnen-Betrag ist derselbe wie im Hook, Bild und Text verstärken sich.
+fotos/bild-whatsapp.png, WhatsApp-Layout auf Florians Wunsch, nach zwei Vorbildern die er am 17.09. geschickt hat. Entscheidend an seinen Vorbildern war nicht das Layout, sondern dass ein echter Dialog mit Verlauf und Pointe erzählt wird und die Pointe von Hand rot unterstrichen ist.
 
-Fussblock: "Eine davon gehört wirklich zu dir. Die anderen vier nicht."
+Einzelchat mit "Marco (Vorarbeiter)". Vier Fragen, drei sofort beantwortet:
+- 06:31 Steigzone liegt woanders als im Plan, Antwort 06:32
+- 06:34 Hahnen für 80 Franken, Antwort 06:35 ("Ja klar, mach")
+- 06:47 zweiter Containerschlüssel, Antwort 06:48
+- 07:12 Regie oder drin, Antwort 07:14 ("Das muss ich anschauen")
 
-Die Regie-Frage ist die, die wirklich zum Chef gehört, weil sie den Preis bewegt. Sie ist bewusst NICHT markiert. Wer sie sucht, liest alle fünf nochmal, und genau das ist Verweildauer. Alle Blasen sehen gleich aus, und das ist der Punkt des Posts: für dich sehen sie gleich aus, sind sie aber nicht.
+Dann die Lücke bis 09:58 und die Pointe, rot unterstrichen: "Du, Meier hat angerufen. Fragt wo die Offerte bleibt."
 
-Kein Logo, keine Markenzeichen, erfundene Vornamen. Es ist eine gestaltete Grafik im vertrauten Layout, kein echter Screenshot und keine echte Unterhaltung.
+Die Geschichte des Bildes ist die Geschichte des Posts. Drei Fragen, die er selber hätte entscheiden können, werden in einer Minute beantwortet. Die eine, die wirklich zum Chef gehört (Regie, weil sie den Preis bewegt), bleibt liegen. Und die Offerte ist um zehn immer noch nicht geschrieben. Das ist genau der Satz aus dem Post: du verlierst in der Offerte jedes Mal den Faden.
 
-Kein Gesicht, keine Zahlengrafik, keine Skizze. Das sind die drei Bildarten, die bisher gefloppt sind (200, 100, 65). Diese hier ist eine vierte Art, also ein echter neuer Test und keine Wiederholung.
+Der Hahnen für achtzig Franken steht im Bild und im Hook, Text und Bild verstärken sich.
 
-Rendern: node fotos/render-whatsapp.js (Alternative: node fotos/render-anrufe.js)
+Kein Logo, keine Markenzeichen, erfundene Vornamen. Gestaltete Grafik im vertrauten Layout, kein echter Screenshot und keine echte Unterhaltung.
+
+Technik: die Koordinaten des roten Strichs werden erst nach document.fonts.ready gemessen. Vorher stehen die Werte der Ersatzschrift drin und der Strich landet quer über dem Text. Das war der Fehler in den ersten drei Durchläufen.
+
+Rendern: node fotos/render-whatsapp.js (Alternative ohne Chat-Rahmen: node fotos/render-anrufe.js)
 
 ## Ergebnis
 
