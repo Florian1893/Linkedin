@@ -9,33 +9,29 @@ PDF dazu: pdf/liste/was-ohne-dich-rausgehen-darf.pdf, liegt im Profil unter Im F
 
 "Dafür haben wir gerade keine Zeit."
 
-Stimmt. Genau darum geht es.
+Das ist der teuerste Satz in deinem Betrieb.
 
-Der Handwerksbetrieb von heute drückt an allen Ecken gleichzeitig.
+Und er stimmt ja. Deine Woche ist voll. Und zwar mit Sachen, die nur du erledigen kannst.
 
-- Fachkräfte gibt es keine
-- Material wird jedes Quartal teurer
-- Kunden wollen am selben Tag eine Antwort
-- Bürokratie wird jedes Jahr mehr
-- Bezahlt wird nach der zweiten Mahnung
+- Preisfragen kommen direkt vom Bau
+- Offerten warten auf deinen Kopf
+- Freigaben darf sonst keiner geben
+- Reklamationen landen sowieso bei dir
+- Rapporte gehst du am Freitag selber durch
 
-Bitkom hat dazu 504 Handwerksbetriebe befragt. 72 Prozent sagen, sie seien schlicht zu beschäftigt, um sich ernsthaft mit Digitalisierung zu befassen.
+Bitkom hat 504 Handwerksbetriebe befragt. 72 Prozent sagen, sie seien schlicht zu beschäftigt, um sich ernsthaft mit Digitalisierung zu befassen.
 
-Das ist keine Ausrede. Das ist die Falle.
+Sieben von zehn. Und genau da schnappt es zu.
 
 Wer keine Zeit hat, ändert nichts. Wer nichts ändert, hat nächstes Jahr noch weniger Zeit.
 
-Von aussen sieht es weiter aus, als hätte das Handwerk goldenen Boden.
+Wer vorne ist, hat keinen längeren Tag als du. Bei ihm kommen einfach weniger Fragen an.
 
-Stimmt ja auch. Nur eben für die Betriebe, die auch ohne den Chef weiterlaufen.
+Und das fängt nicht bei einer Software an. Das fängt bei einer Grenze an.
 
-Und der Anfang davon ist keine Software. Der Anfang ist eine Grenze.
+Was darf bei euch ohne dich rausgehen. Und was nicht. Die meisten haben das nie aufgeschrieben. Darum landet am Schluss wieder alles auf demselben Tisch.
 
-Was darf in deinem Betrieb ohne dich rausgehen. Und was nicht. Die meisten Inhaber haben das nie aufgeschrieben. Darum kommt jede Frage zu ihnen zurück.
-
-Deshalb habe ich ein Dokument gemacht. "Was ohne dich rausgehen darf."
-
-Sechs Bereiche, in denen dein Betrieb jeden Tag auf dich wartet. Für jeden steht drin, wo die Grenze hingehört, was trotzdem immer zu dir muss und welchen einen Satz du dafür aufschreibst. Es liegt bei mir im Profil unter Im Fokus. Gratis und ohne Anmeldung.
+Genau diese Grenze habe ich auf sechs Seiten aufgeschrieben. Sechs Bereiche, für jeden die Grenze, die Ausnahme und ein fertiger Satz zum Abschreiben. Liegt bei mir im Profil. Gratis und ohne Anmeldung.
 
 Was landet bei dir jeden Tag auf dem Tisch, obwohl es dich gar nicht braucht?
 
@@ -57,6 +53,23 @@ Florian hat am 17.09. ausdrücklich verlangt, näher an die Vorlage zu gehen. Da
 Die Regel "genau eine Frage ganz am Schluss" bleibt dagegen erhalten. Sie wäre nur bei der Kommentar-Variante gefallen, und die ist raus. Der Post endet jetzt auf eine Frage, die niemanden blossstellt: man nennt einen Ärger, kein Versäumnis.
 
 Der Kommentar-Aufruf der Vorlage ist raus. Er wäre Engagement-Bait und das Authenticity Update vom März 2026 dämpft genau das. Dazu kommt Florians eigener Einwand vom 17.09.: bei zu wenig Kommentaren entlarvt sich der Aufruf selbst. Das PDF läuft deshalb über das Profil, und das funktioniert auch ohne Publikum.
+
+## Was von der Vorlage bleibt und was nicht
+
+Florian am 17.09.: hookiger und nicht eins zu eins kopiert. Die Vorlage gibt nur noch das Gerüst vor (Zitat, Widerlegung, Druck, belegte Zahl, Umdeutung, Dokument). Die Sprache ist raus.
+
+Gestrichen, weil wörtlich aus der Vorlage:
+- "Von aussen wirkt es, als hätte das Handwerk goldenen Boden" und "aber eben nur für die, die modern aufgestellt sind"
+- "kämpft an vielen Fronten gleichzeitig"
+- "Deshalb hab ich ein Dokument erstellt"
+
+Neu und eigen:
+- Der Hook widerlegt nicht mehr eine Behauptung von aussen, sondern zitiert den Leser selbst. "Das ist der teuerste Satz in deinem Betrieb" ist Florians eigene Figur, dieselbe wie im 662er.
+- Die Druckliste nennt nicht mehr die Branchenlage (Fachkräftemangel, Konjunktur, Bürokratie), die jeder Handwerks-Account postet, sondern das, was die Woche im Betrieb wirklich frisst. Preisfragen, Offerten, Freigaben, Reklamationen, Rapporte. Das ist Florians Thema und es führt direkt zum PDF.
+- Statt "goldener Boden" der eigene Merksatz: "Wer vorne ist, hat keinen längeren Tag als du. Bei ihm kommen einfach weniger Fragen an."
+- "Sieben von zehn" übersetzt die 72 Prozent in eine Zahl, die man sich merkt.
+
+Listenpunkte ohne Relativsätze gebaut, das spart neun Kommas und macht die Aufzählung härter.
 
 ## Warum dieses Thema und nicht das der Vorlage
 
