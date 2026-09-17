@@ -2,7 +2,7 @@
 
 Datum: Vorschlag Dienstag 22.09., 07:30
 Format: Nach der Vorlage, die Florian am 17.09. geschickt hat (Marvin Hochstrasser). Zitat als Hook, kurze Widerlegung, ABER-Wendung, Druckliste, belegte Zahl, Umdeutung, Dokument, Kommentar-Aufruf.
-Bild: keines
+Bild: fotos/bild-notiz.png (Notiz an sich selbst, dieselbe Aufgabe im Februar und heute)
 PDF dazu: pdf/liste/was-ohne-dich-rausgehen-darf.pdf, liegt im Profil unter Im Fokus. Kein Kommentar-Aufruf.
 
 ## Post
@@ -34,6 +34,28 @@ Was darf bei euch ohne dich rausgehen. Und was nicht. Die meisten haben das nie 
 Genau diese Grenze habe ich auf sechs Seiten aufgeschrieben. Sechs Bereiche, für jeden die Grenze, die Ausnahme und ein fertiger Satz zum Abschreiben. Liegt bei mir im Profil. Gratis und ohne Anmeldung.
 
 Was landet bei dir jeden Tag auf dem Tisch, obwohl es dich gar nicht braucht?
+
+## Bild
+
+fotos/bild-notiz.png, WhatsApp-Layout mit echter Tapete.
+
+Kein Gespräch mit jemand anderem, sondern der Chat, den ein Inhaber mit sich selbst führt. Fünf Notizen über acht Monate:
+
+- 12. Februar, 05:58: "Aufschreiben was ohne mich rausgehen darf"
+- 9. April, 12:22: "Die Regeln. Diese Woche wirklich."
+- 18. Juni, 17:41: "Freigaben endlich regeln. Sonst wird das nie."
+- 27. August, 06:44: "Keine Zeit gehabt. Nächsten Monat."
+- Heute, 06:07, rot unterstrichen: "Aufschreiben was ohne mich rausgehen darf"
+
+Die Pointe ist die Wiederholung. Der letzte Satz ist wörtlich derselbe wie der erste, acht Monate später. Der rote Strich zieht das Auge nach unten, dann erkennt der Leser den Satz von ganz oben wieder. Das braucht keine Erklärung.
+
+Damit bebildert das Bild exakt den Kernsatz des Posts: wer keine Zeit hat, ändert nichts, und wer nichts ändert, hat nächstes Jahr noch weniger Zeit.
+
+Alle Blasen sind grün, weil man sich selbst schreibt. Ein grauer Haken statt zwei blauen, weil eine Notiz an sich selbst nie gelesen wird. Die Uhrzeiten liegen bewusst früh am Morgen, in der Mittagspause und nach Feierabend, nie abends im Büro.
+
+Kein Logo, keine Markenzeichen. Gestaltete Grafik im vertrauten Layout, kein echter Screenshot.
+
+Rendern: node fotos/render-notiz.js
 
 ## Geparkt: Variante mit Kommentar-Aufruf
 
