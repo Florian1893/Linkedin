@@ -82,3 +82,35 @@ Das deckt sich mit der Skill-Regel: in kleinem Netzwerk entscheidet das aktive K
 - https://www.ecomghosts.com/blog/linkedin-engagement-bait-penalty-ecommerce-founders/
 - https://saylink.io/blog/linkedin-comment-to-dm
 - https://meet-lea.com/en/blog/viral-linkedin-posts
+
+
+## Nachrecherche 21.09.2026 (Florian: "recherchiere was zieht und was hookig ist")
+
+**Verteilfenster.** Rund vier Stunden nach dem Posten entscheidet sich die Verteilung. Jeder Klick auf "mehr anzeigen"
+zaehlt in diesem Fenster als Signal. Konsequenz: die Spannung gehoert in die ersten zwei Zeilen, nicht in die Mitte.
+Wer in diesem Fenster selber auf Kommentare antwortet, vervielfacht die Reichweite.
+
+**Hook-Formeln, die extern als wirksam gelten.**
+- Konkrete Handlung plus messbares Ergebnis ("X hat Y gemacht und Z erreicht"). Deckt sich exakt mit Florians
+  eigenen Spitzenposts, die alle eine Zahl enthalten, die der Leser selber ausrechnet.
+- Harte Wahrheit als direkte Ansprache. Entspricht dem 662er.
+- Mini-Story ohne Vorlauf, mitten in der Szene starten. Entspricht dem 700er.
+
+**Fragen und Aufrufe.** Posts mit einer direkten Frage bekommen deutlich mehr Kommentare, mit einem klaren
+Handlungsaufruf noch mehr. Die eine Frage am Schluss bleibt also gesetzt.
+
+**Links.** Externe Links im Post kosten rund sechzig Prozent Reichweite. Bestaetigt die bestehende Regel:
+kein Link im Post und keiner im ersten Kommentar.
+
+**Formate.** Extern liegen Video und Karussell vorne (Video mehrfaches Engagement, Karussell vielfache Interaktionen
+gegenueber Einzelbildern). Das steht im Konflikt mit Florians eigenen Zahlen, wo Listen und Kataloge floppen.
+Kein Blindtest. Falls Video, dann eine Szene und keine Aufzaehlung. Der eigene Befund vom 17.09. ist staerker:
+ein Chat-Bild mit erzaehltem Verlauf hat 700 geholt.
+
+**Was extern abgestraft wird.** Generische Inspirations-Posts, Umfragen als Selbstzweck, Clickbait und externe Links.
+
+Quellen:
+- https://linkedinpreview.com/blog/linkedin-hook-formulas-2026
+- https://skill-sprinters.de/blog/social-media/linkedin-algorithmus-2026/
+- https://metricool.com/linkedin-trends/
+- https://growmedia.ch/blog/linkedin-fuer-schweizer-kmus-2026
