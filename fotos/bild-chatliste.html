@@ -1,0 +1,101 @@
+<!doctype html><html lang="de"><head><meta charset="utf-8">
+<style>
+@font-face{font-family:'Inter';font-weight:400;src:url(inter-2.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:500;src:url(inter-3.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:800;src:url(inter-8.ttf) format('truetype');}
+*{margin:0;padding:0;box-sizing:border-box;}
+.s{width:1080px;height:1350px;position:relative;overflow:hidden;background:#fff;
+ font-family:'Inter',Helvetica,Arial,sans-serif;display:flex;flex-direction:column;}
+.top{padding:34px 30px 18px;flex:0 0 auto;}
+.t1{display:flex;align-items:center;gap:20px;}
+.t1 h1{font-size:62px;font-weight:800;letter-spacing:-2px;color:#0f0f0f;}
+.cnt{background:#25D366;color:#fff;font-size:30px;font-weight:800;padding:7px 20px;border-radius:24px;}
+.search{margin-top:22px;background:#f0f0f0;border-radius:26px;height:74px;display:flex;align-items:center;
+ padding:0 26px;gap:16px;font-size:30px;color:#9b9b9b;}
+.mag{width:28px;height:28px;border:4px solid #9b9b9b;border-radius:50%;position:relative;flex:0 0 auto;}
+.mag:after{content:"";position:absolute;right:-9px;bottom:-6px;width:14px;height:4px;background:#9b9b9b;
+ transform:rotate(45deg);border-radius:2px;}
+.list{flex:1 1 auto;overflow:hidden;}
+.row{display:flex;align-items:center;gap:22px;padding:14px 30px;border-bottom:1px solid #ededed;}
+.av2{width:92px;height:92px;border-radius:50%;background:#dfe3e6;color:#7b858d;flex:0 0 auto;
+ display:flex;align-items:center;justify-content:center;font-size:38px;font-weight:800;}
+.mid{flex:1 1 auto;min-width:0;}
+.nm2{font-size:35px;font-weight:800;color:#0f0f0f;letter-spacing:-.5px;margin-bottom:6px;
+ white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
+.pv{font-size:30px;color:#667781;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
+.rgt{flex:0 0 auto;text-align:right;}
+.tm2{font-size:25px;color:#25D366;font-weight:500;margin-bottom:10px;}
+.badge{display:inline-flex;align-items:center;justify-content:center;min-width:46px;height:46px;
+ border-radius:23px;background:#25D366;color:#fff;font-size:27px;font-weight:800;padding:0 13px;}
+svg.mark{position:absolute;left:0;top:0;width:1080px;height:1350px;pointer-events:none;}
+</style></head><body>
+<div class="s">
+  <div class="top">
+    <div class="t1"><h1>Chats</h1><span class="cnt" id="cnt">20</span></div>
+    <div class="search"><span class="mag"></span>Suchen</div>
+  </div>
+  <div class="list">
+    <div class="row">
+      <div class="av2">M</div>
+      <div class="mid"><div class="nm2">Marco (Vorarbeiter)</div><div class="pv">Darf ich das Rohr versetzen?</div></div>
+      <div class="rgt"><div class="tm2">07:51</div><div class="badge">3</div></div>
+    </div>
+    <div class="row">
+      <div class="av2">R</div>
+      <div class="mid"><div class="nm2">Reto</div><div class="pv">Material reicht nicht</div></div>
+      <div class="rgt"><div class="tm2">07:44</div><div class="badge">2</div></div>
+    </div>
+    <div class="row">
+      <div class="av2">B</div>
+      <div class="mid"><div class="nm2">Bauleitung Keller</div><div class="pv">Wann kommt ihr heute?</div></div>
+      <div class="rgt"><div class="tm2">07:39</div><div class="badge">1</div></div>
+    </div>
+    <div class="row">
+      <div class="av2">S</div>
+      <div class="mid"><div class="nm2">Sandro</div><div class="pv">Ist das Regie oder drin?</div></div>
+      <div class="rgt"><div class="tm2">07:31</div><div class="badge">4</div></div>
+    </div>
+    <div class="row">
+      <div class="av2">P</div>
+      <div class="mid"><div class="nm2">Patrick</div><div class="pv">Hol ich das Teil selber?</div></div>
+      <div class="rgt"><div class="tm2">07:22</div><div class="badge">1</div></div>
+    </div>
+    <div class="row">
+      <div class="av2">M</div>
+      <div class="mid"><div class="nm2">Meier (Badumbau)</div><div class="pv">Und die Offerte?</div></div>
+      <div class="rgt"><div class="tm2">07:14</div><div class="badge">1</div></div>
+    </div>
+    <div class="row">
+      <div class="av2">N</div>
+      <div class="mid"><div class="nm2">Nadine (Büro)</div><div class="pv">Rechnung Huber freigeben?</div></div>
+      <div class="rgt"><div class="tm2">06:58</div><div class="badge">2</div></div>
+    </div>
+    <div class="row">
+      <div class="av2">S</div>
+      <div class="mid"><div class="nm2">Sanitas Handel</div><div class="pv">Liefertermin bestätigen?</div></div>
+      <div class="rgt"><div class="tm2">06:47</div><div class="badge">1</div></div>
+    </div>
+    <div class="row">
+      <div class="av2">T</div>
+      <div class="mid"><div class="nm2">Team</div><div class="pv">Wer nimmt heute den Kombi?</div></div>
+      <div class="rgt"><div class="tm2">06:31</div><div class="badge">5</div></div>
+    </div>
+  </div>
+  <svg class="mark" id="mk" viewBox="0 0 1080 1350"></svg>
+</div>
+<script>
+document.fonts.ready.then(()=>{
+const c=document.getElementById('cnt').getBoundingClientRect();
+const cx=c.left+c.width/2, cy=c.top+c.height/2, rx=c.width/2+26, ry=c.height/2+20;
+const p=[];
+for(let i=0;i<=64;i++){
+  const a=(i/64)*Math.PI*2*1.07-0.6;
+  const w=1+0.035*Math.sin(a*2.1+0.9);
+  const x=(cx+Math.cos(a)*rx*w), y=(cy+Math.sin(a)*ry*w);
+  p.push((i?'L':'M')+x.toFixed(1)+' '+y.toFixed(1));
+}
+document.getElementById('mk').innerHTML=
+ `<path d="${p.join(' ')}" fill="none" stroke="#d22c22" stroke-width="9" stroke-linecap="round" opacity=".92"/>`;
+window.__mk={cx:Math.round(cx),cy:Math.round(cy),total:20};
+});
+</script></body></html>

@@ -153,6 +153,10 @@ Zweiter Punkt: Der 200er hatte ein Foto, der 250er nicht. Schwacher Beleg, deckt
 18. DER POST GEHOERT DEM LESER (Kernregel ab 17.09.2026, aus der Sammeldiagnose): Zeile eins ist eine Aussage ueber ihn. Nicht ueber Florian, nicht ueber einen Gipser, nicht ueber eine Studie. Test vor dem Schreiben: Steht im ersten Satz etwas auf dem Spiel fuer den, der ihn liest? Wenn nein, ist es der falsche erste Satz. Kein Ich im ersten Drittel. Florian darf im Angebotssatz am Schluss vorkommen, sonst nirgends. Belege: die beiden besten Posts (1014, 662) machen genau das, die drei letzten Flops machen genau das Gegenteil.
 19. ZIELLAENGE RUND 950 ZEICHEN (ab 17.09.2026): Der 662er funktioniert nackt, ohne Szene und ohne Vorlauf. Meine Flops liegen bei 1100 bis 1250 mit Szene vorneweg, dadurch steht die Pointe im letzten Drittel. Szene ja, aber kurz und nach dem Spiegel, nie davor.
 
+20. DER HOOK MUSS DIE 90 PROZENT AUSSORTIEREN (Florian, 21.09.2026): Zeile eins muss so eng sein, dass sich nur die Zielgruppe gemeint fuehlt. Der schaerfste Filter ist die BETRIEBSGROESSE, nicht das Gewerk. "Ab zwoelf Mitarbeitern" sortiert in einer Sekunde aus und trifft dabei genau die Richtigen. Ein Gewerk grenzt zwar auch aus, trifft aber die Falschen: der 65er ist genau daran gestorben.
+    Die Groesse steht als SCHWELLE, nie als Anrede. "Ab zwoelf Mitarbeitern" ist eine Bedingung. "Du mit deinen zwoelf Mitarbeitern" waere eine Anrede und damit derselbe Fehler wie beim 65er.
+    Zweiter brauchbarer Filter: eine Rolle, die es nur in dieser Groesse gibt (Vorarbeiter, Bauleitung, Buerokraft). Wer diese Rollen nicht hat, fuehlt sich nicht gemeint.
+
 ## Offene Tests
 
 - Posting-Zeit 07:30 gegen 08:30, beide Dienstag oder Donnerstag.
