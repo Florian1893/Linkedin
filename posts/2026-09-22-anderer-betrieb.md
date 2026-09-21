@@ -3,7 +3,7 @@
 Datum: 2026-09-22 (Dienstag), 07:30
 Format: Standardformel vom 700er, Hook zusätzlich mit hartem Zielgruppen-Filter in Wort eins bis drei.
 Wertzeile: BAUEN, nicht beraten, und die Abläufe beim Namen nennen (Florian, 21.09.). Siehe Regel 21 und 22.
-Bild: fotos/bild-chatliste.png (WhatsApp-Übersicht, neun ungelesene Chats vor acht Uhr, rot eingekringelt)
+Bild: fotos/bild-chatliste.png (WhatsApp-Übersicht, zwölf ungelesene Chats vor acht Uhr, die Zwölf rot eingekringelt)
 Content-Säule: Unbequeme Wahrheit, durchgehend Du
 
 ## Post
@@ -62,6 +62,23 @@ Das ist nachrechenbar und Florian kann es im Kommentarfeld in einer Zeile erklä
 Es ist die Positionierung selbst, zum ersten Mal direkt erzählt. "Dein Betrieb ist gewachsen. Dein System nicht." Bisher wurde immer ein Symptom erzählt (Offerte, Freigabe, Wartezeit). Dieser Post erzählt die Ursache.
 
 Geparkt liegen jetzt zwei fertige Posts: GEPARKT-zwei-tage-krank.md (Kranken-Winkel, ohne Rechnung) und GEPARKT-vier-mann-stehen.md (Wartezeit, mit Rechnung, aber ohne Zielgruppen-Filter im Hook). Der Wartezeit-Post ist gut und kann jederzeit laufen, sobald der Hook einen Filter bekommt.
+
+## Bild
+
+Nicht eine einzelne Unterhaltung, sondern die Chatliste. Zwölf ungelesene Chats, alle zwischen 06:31 und 07:51, zusammen dreiundzwanzig Nachrichten.
+
+Die Zwölf oben ist rot eingekringelt und spiegelt den Hook: zwölf Mitarbeiter, zwölf Chats, und alle wollen eine Entscheidung. Der Leser muss die Verbindung nicht erklärt bekommen, er sieht sie.
+
+Die Zeilen decken absichtlich genau die Abläufe ab, die der Post am Schluss beim Namen nennt:
+- Anfrage: "Neue Anfrage über die Website"
+- Offerte: "Und die Offerte?"
+- Nachfassen: "Wir warten noch auf euer Angebot"
+- Bürokram: "Belege für August?" und "Liefertermin bestätigen?"
+Dazwischen die Baustellenfragen, damit es nach einem echten Morgen aussieht und nicht nach einer Verkaufsliste.
+
+Kein Logo und keine Markenzeichen. Gestaltete Grafik im vertrauten Layout, kein echter Screenshot.
+
+Rendern: node fotos/render-chatliste.js
 
 ## Ergebnis
 
