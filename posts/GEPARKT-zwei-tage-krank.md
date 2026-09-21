@@ -23,7 +23,7 @@ Und das ist bei dir fast alles.
 
 Zwei Tage Grippe kosten dich darum keine zwei Tage. Sie kosten dich die Woche.
 
-Ich schaue mir an, welche Entscheidungen täglich bei dir landen. Und schreibe mit dir auf, welche davon gar nie zu dir gehört hätten.
+Ich baue Betrieben die Standardentscheidungen weg. Die laufen dann auch weiter, wenn du zwei Tage nicht ans Telefon gehst.
 
 Wie viele Tage warst du dieses Jahr krank und trotzdem am Telefon?
 

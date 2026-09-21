@@ -157,6 +157,11 @@ Zweiter Punkt: Der 200er hatte ein Foto, der 250er nicht. Schwacher Beleg, deckt
     Die Groesse steht als SCHWELLE, nie als Anrede. "Ab zwoelf Mitarbeitern" ist eine Bedingung. "Du mit deinen zwoelf Mitarbeitern" waere eine Anrede und damit derselbe Fehler wie beim 65er.
     Zweiter brauchbarer Filter: eine Rolle, die es nur in dieser Groesse gibt (Vorarbeiter, Bauleitung, Buerokraft). Wer diese Rollen nicht hat, fuehlt sich nicht gemeint.
 
+21. FLORIAN BAUT, ER BERAET NICHT (Florian, 21.09.2026, Korrektur eines Fehlers, der sich durch mehrere Posts zog): Die Wertzeile am Schluss darf nie klingen wie Coaching oder Organisationsberatung. Falsch waren Formulierungen wie "ich setze mich mit dem Inhaber hin und wir schreiben auf" oder "ich schaue mir an, welche Entscheidungen bei dir landen". Das beschreibt einen Berater, der Regeln aufschreibt. Florians Produkt ist ein gebauter Automatismus.
+    Richtig ist immer: was laeuft nachher VON SELBST. "Ich baue Betrieben genau diese Fragen weg. Der Standardfall laeuft durch, ohne dass jemand fragen muss. Bei dir landet nur noch die Ausnahme."
+    Pruefsatz vor dem Posten: Steht in der Wertzeile ein Ding, das nachher ohne Menschen laeuft? Wenn dort nur ein Gespraech, eine Liste oder eine Regel steht, ist es Beratung und muss umgeschrieben werden.
+    Die Analyse (eine Stunde zuschauen, Grenze finden) darf vorkommen, aber nur als Weg zum Gebauten, nie als das Angebot selbst.
+
 ## Offene Tests
 
 - Posting-Zeit 07:30 gegen 08:30, beide Dienstag oder Donnerstag.

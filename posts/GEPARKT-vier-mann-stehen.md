@@ -23,7 +23,7 @@ Marco war nicht unsicher. Ihm hat nur nie einer gesagt, bis zu welchem Betrag er
 
 Das Telefonat dauert länger als die Regel, die es überflüssig macht.
 
-Ich setze mich mit dem Inhaber hin und wir schreiben genau das auf. Was ohne ihn rausgehen darf und wo die Grenze liegt.
+Ich baue das so um, dass Marco bis zu einem Betrag selber bestellt und du es nur noch siehst. Ohne Anruf und ohne Wartezeit.
 
 Bis zu welchem Betrag darf bei dir einer entscheiden, ohne dich zu fragen?
 

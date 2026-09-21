@@ -2,6 +2,7 @@
 
 Datum: 2026-09-22 (Dienstag), 07:30
 Format: Standardformel vom 700er, Hook zusätzlich mit hartem Zielgruppen-Filter in Wort eins bis drei.
+Wertzeile: BAUEN, nicht beraten (Florian, 21.09.). Siehe Regel 21.
 Bild: fotos/bild-chatliste.png (WhatsApp-Übersicht, neun ungelesene Chats vor acht Uhr, rot eingekringelt)
 Content-Säule: Unbequeme Wahrheit, durchgehend Du
 
@@ -21,7 +22,7 @@ Du bist nicht schlechter geworden. Deine Methode ist für einen Betrieb gebaut, 
 
 Und keiner sagt dir, wann der Moment war. Es kommt kein Brief und es gibt keine Prüfung. Es fällt dir erst auf, wenn du am Freitag nicht weisst, was du die ganze Woche gemacht hast.
 
-Ich setze mich mit dem Inhaber hin und wir schreiben auf, was ohne ihn entschieden werden darf. Das ist die erste Regel, die den alten Betrieb vom neuen trennt.
+Ich baue Betrieben genau diese Fragen weg. Der Standardfall läuft durch, ohne dass jemand fragen muss. Bei dir landet nur noch die Ausnahme.
 
 Bei wie vielen Mitarbeitern hast du gemerkt, dass es so nicht mehr geht?
 

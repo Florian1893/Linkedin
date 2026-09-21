@@ -19,7 +19,7 @@ Ein Teil davon gehört zu dir. Alles was den Preis bewegt oder Regie auslöst, m
 
 Beim Rest rufen deine Mitarbeiter trotzdem an, weil ihnen nie einer gesagt hat, wo die Grenze liegt.
 
-Bei fünf Mann ging anrufen schneller als aufschreiben. Genau diese Grenze schreibe ich heute mit Inhabern auf.
+Bei fünf Mann ging anrufen schneller als aufschreiben. Heute baue ich Betrieben genau diese Fragen weg.
 
 Der Betrieb ist gewachsen. Die Grenze nie nachgezogen.
 
