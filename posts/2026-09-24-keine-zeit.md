@@ -1,6 +1,6 @@
 # Post: Dafür haben wir keine Zeit
 
-Datum: Vorschlag Dienstag 22.09., 07:30
+Datum: verschoben auf Donnerstag 24.09., 07:30. Am 22.09. laeuft stattdessen der Kranken-Post, weil die Formel vom 17.09. gerade beweisbar funktioniert und der Vorlagen-Post eine andere Gattung ist (Liste, PDF-Werbung, doppelte Laenge).
 Format: Nach der Vorlage, die Florian am 17.09. geschickt hat (Marvin Hochstrasser). Zitat als Hook, kurze Widerlegung, ABER-Wendung, Druckliste, belegte Zahl, Umdeutung, Dokument, Kommentar-Aufruf.
 Bild: fotos/bild-notiz.png (Notiz an sich selbst, dieselbe Aufgabe im Februar und heute)
 PDF dazu: pdf/liste/was-ohne-dich-rausgehen-darf.pdf, liegt im Profil unter Im Fokus. Kein Kommentar-Aufruf.

@@ -8,6 +8,7 @@ Alle Posts nach Impressions. Startbestand uebernommen aus dem Skill `betriebsflo
 |---|---|---|---|---|
 | 9374 | Erster Post | Kaltstart | keine | Erstverteilungs-Bonus, KEINE Benchmark |
 | 2221 | Zweiter Post | Kaltstart | keine | Erstverteilungs-Bonus, KEINE Benchmark |
+| (Treffer, Zahl nachtragen) | Offerte liegt eine Woche (17.09., WhatsApp-Bild mit rotem Strich) | Spiegel mit sofortigem Verlust | B | Florian am 21.09.: "Bombe gewesen". ERSTER TREFFER NACH DER SAMMELDIAGNOSE. Die Regeln 18 und 19 haben geliefert. Siehe Auswertung unten |
 | 1014 | Maler-Dialog "Eigentlich nie" plus Kostenrechnung | Dialog | A | Leser ertappt sich selbst |
 | 662 | "Du bist der teuerste Mitarbeiter" | direkte Ansprache | B | Spiegel ohne Szene, funktioniert nackt |
 | 359 | Nachfassen | Aussage | A | Hook gut, aber zwei Fragen am Schluss plus Hashtags |
@@ -28,6 +29,19 @@ Alle Posts nach Impressions. Startbestand uebernommen aus dem Skill `betriebsflo
 | 65 | Ruf-Post (03.09., "Dein Ruf als Sanitaer") | Spiegel mit Gewerks-Anrede, plus Einzelbild | B | SCHLECHTESTER WERT UEBERHAUPT. Drei Variablen gleichzeitig geaendert, siehe Diagnose unten |
 
 Median der echten Phase (ohne die zwei Kaltstart-Posts): rund 180. Stand 29.08. mit 113 dazu: rund 176. Das ist die Latte, gegen die neue Posts gemessen werden, nicht die 9374.
+
+## Auswertung zum Treffer vom 17.09.
+
+Erster Post nach der Sammeldiagnose, und der erste Treffer seit Wochen. Was ihn getragen hat, in dieser Reihenfolge:
+
+1. **Zeile eins nimmt dem Leser sofort etwas weg.** "Seit Montag liegt eine Offerte bei dir. Der Kunde hat laengst eine andere." Kein Ich, kein Dritter, kein Aufwaermen. Regel 18 hat funktioniert.
+2. **Die Wochenstruktur.** Montag, Mittwoch, Freitag als drei kurze Absaetze. Der Leser sieht die Zeit verrinnen, ohne dass ein Wort es erklaert. Dieselbe Struktur stand im Bild als Datumstrenner.
+3. **Die Entlastung in der Mitte.** "Du warst nicht faul." Ohne diesen Satz macht ein Inhaber dicht und liest nicht weiter. Der Zielgruppen-Test hatte genau das gefordert.
+4. **Kurz.** 936 Zeichen. Regel 19 bestaetigt.
+5. **Das Bild erzaehlt dieselbe Geschichte, nicht dieselben Worte.** Chat mit Verlauf und rotem Handstrich auf der Pointe. Damit ist auch Regel 16 (Bilder aus) widerlegt, aber nur fuer diese Machart: ein Chat, der eine Geschichte erzaehlt, schlaegt Gesicht, Skizze und Zahlengrafik.
+6. **Die Schlussfrage kostet kein Gesicht.** Man antwortet mit seiner besten Zeit und steht gut da.
+
+Konsequenz: das ist ab jetzt die Standardformel. Spiegel mit Verlust, Zeitbeats als kurze Absaetze, Entlastung, neuer Gedanke, Kosten, eine Zeile Angebot, gesichtswahrende Zaehlfrage, rund 950 Zeichen, dazu ein Chat-Bild mit rotem Strich.
 
 ## SAMMELDIAGNOSE 17.09.: drei Flops in Folge, und es lag nicht am Thema
 
@@ -122,9 +136,7 @@ Zweiter Punkt: Der 200er hatte ein Foto, der 250er nicht. Schwacher Beleg, deckt
 
 14. THEMEN-CHECK VOR DEM SCHREIBEN (Befund 14.09.2026): Erster Arbeitsschritt bei jedem Post ist `wissen/themenspeicher.md`, Abschnitt "schon bespielt". Ein Thema von dieser Liste wird nicht gespielt, auch nicht mit neuem Format, neuem Hook oder einem echten Resultat. Beleg: der 100er vom 10.09. war Offerten zum vierten Mal.
 15. KEIN WERBEBLOCK AM SCHLUSS (Befund 14.09.2026): Kein Produktname, kein "genau das mache ich mit X" im letzten Drittel. Belege: 120 (Google-Bewertungen) und 100 (Offerten-Resultat), beide unter dem Median von 176. Erlaubt bleibt der nackte Satz "Die erste Stunde kostet nichts" mit dem ehrlichen Grund dahinter (Referenzaufbau), weil er ein Angebot ist und keine Marke. Praezisierung Florian 14.09.: der Nutzen GEHOERT rein, nur eben als Handlung statt als Marke. Also nicht "das automatisiere ich mit BetriebsFlow", sondern was konkret passiert: aufschreiben was ohne den Chef rausgehen kann, das so bauen dass es ohne ihn rausgeht, uebrig bleibt nur was wirklich ihn braucht. Ortsangaben (Glarnerland) sind ebenfalls raus, sie verengen das Publikum ohne Gegenwert.
-16a. AUSNAHME 17.09.: Florian will zum Post ein Bild. Es ist bewusst eine vierte Bildart, die noch nie getestet wurde: kein Gesicht, keine Skizze, keine Zahlengrafik, sondern die Szene des Posts als Nachrichtenstapel. Die drei gefloppten Bildarten werden damit nicht wiederholt. Wenn auch das unter dem Median landet, ist die Bildfrage endgueltig geklaert und es gibt keine weitere Variante mehr zu testen.
-16. BILDER SIND AUS (entschieden 17.09.2026): Vier Posts mit Einzelbild, vier Mal unter oder knapp am Median (65, 200, 100, 15.09.). Die Gegenprobe vom 15.09. ist gelaufen und negativ ausgefallen, damit ist die Bildpause nicht mehr verhandelbar. Reiner Text, bis ein Textpost wieder ueber 250 liegt. Historie der Ausnahme vom 15.09.: Florian will fuer den Nachfass-Post ein Bild. Damit wird der Post zur Gegenprobe. Unterschreitet er den Median von 176, ist die Bildpause danach nicht mehr verhandelbar. Liegt er klar darueber, lag es nicht am Bild an sich, sondern an der Machart (Skizze, Post-it, Zahlenfoto ohne Gesicht), und die Regel wird zu: Gesicht ja, Grafik nein.
-
+16a. REGEL 16 IST WIDERLEGT (21.09.): Der Post vom 17.09. lief mit Bild und wurde ein Treffer. Damit gilt nicht mehr "Bilder aus", sondern: Chat-Bilder mit erzaehltem Verlauf und rotem Handstrich JA. Gesicht, Skizze und Zahlengrafik bleiben draussen, die liegen bei 200, 65 und 100. Das Bild muss dieselbe Geschichte erzaehlen wie der Text, aber nicht dieselben Worte.
 17. STATISTIK NUR ALS WENDEPUNKT (Regel ab 14.09.2026, Florian hat eine Statistik verlangt): Eine Zahl darf im Post stehen, aber nie im Hook. Ein Zahlen-Einstieg macht daraus einen Wissens-Post, und die liegen alle zwischen 91 und 184. Die Zahl gehoert in die Mitte, dort wo sie die Geschichte dreht. Bedingung: benannte Quelle, benannte Stichprobe, und Florian muss sie im Kommentarfeld verteidigen koennen. Belegte Zahlen stehen im Themenspeicher unter "Belegte Zahlen, die ich verwenden darf". Zahlen aus Agentur-Blogs ohne Studie dahinter kommen nicht in einen Post.
 
 18. DER POST GEHOERT DEM LESER (Kernregel ab 17.09.2026, aus der Sammeldiagnose): Zeile eins ist eine Aussage ueber ihn. Nicht ueber Florian, nicht ueber einen Gipser, nicht ueber eine Studie. Test vor dem Schreiben: Steht im ersten Satz etwas auf dem Spiel fuer den, der ihn liest? Wenn nein, ist es der falsche erste Satz. Kein Ich im ersten Drittel. Florian darf im Angebotssatz am Schluss vorkommen, sonst nirgends. Belege: die beiden besten Posts (1014, 662) machen genau das, die drei letzten Flops machen genau das Gegenteil.

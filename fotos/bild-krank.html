@@ -1,0 +1,105 @@
+<!doctype html><html lang="de"><head><meta charset="utf-8">
+<style>
+@font-face{font-family:'Inter';font-weight:400;src:url(inter-2.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:500;src:url(inter-3.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:800;src:url(inter-8.ttf) format('truetype');}
+*{margin:0;padding:0;box-sizing:border-box;}
+.s{width:1080px;height:1350px;position:relative;overflow:hidden;background:#E9E1D8;
+   font-family:'Inter',Helvetica,Arial,sans-serif;display:flex;flex-direction:column;}
+
+.hd{height:136px;background:#F4F4F4;border-bottom:2px solid #cfcfcf;display:flex;align-items:center;
+ padding:0 28px;flex:0 0 auto;position:relative;}
+.back{display:flex;align-items:center;gap:10px;color:#1c7ef3;font-size:33px;font-weight:400;}
+.back i{width:17px;height:17px;border-left:5px solid #1c7ef3;border-bottom:5px solid #1c7ef3;
+ transform:rotate(45deg);display:block;font-style:normal;}
+.ctr{position:absolute;left:0;right:0;text-align:center;pointer-events:none;}
+.nm{font-size:35px;font-weight:800;color:#0f0f0f;letter-spacing:-.4px;}
+.on{font-size:24px;font-weight:400;color:#7b7b7b;margin-top:3px;}
+.av{margin-left:auto;width:78px;height:78px;border-radius:50%;background:#c9cdd1;
+ display:flex;align-items:center;justify-content:center;font-size:32px;font-weight:800;color:#6d747a;z-index:2;}
+
+.chat{flex:1 1 auto;padding:24px 26px 12px;display:flex;flex-direction:column;gap:17px;
+ background-color:#E9E1D8;
+ background-image:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNjAiIGhlaWdodD0iMzYwIiB2aWV3Qm94PSIwIDAgMzYwIDM2MCI+PGcgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNkI1QjRBIiBzdHJva2Utb3BhY2l0eT0iMC4xMTUiIHN0cm9rZS13aWR0aD0iMS41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDI4LDM0KSByb3RhdGUoLTE0KSBzY2FsZSgxLjApIj48cGF0aCBkPSJNMTIgMjAuNUMxMiAyMC41IDMuNiAxNC40IDMuNiA5LjFBNC42IDQuNiAwIDAgMSAxMiA2LjRBNC42IDQuNiAwIDAgMSAyMC40IDkuMUMyMC40IDE0LjQgMTIgMjAuNSAxMiAyMC41WiIvPjwvZz48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxMjgsMjApIHJvdGF0ZSgxMikgc2NhbGUoMC45MikiPjxwYXRoIGQ9Ik0zIDguMmgxOHYxMUgzek0xNS43IDEzLjZBMy43IDMuNyAwIDEgMSA4LjMgMTMuNkEzLjcgMy43IDAgMSAxIDE1LjcgMTMuNk04LjggOC4ybDEuNS0yLjRoMy40bDEuNSAyLjQiLz48L2c+PGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMjMyLDQ0KSByb3RhdGUoLTgpIHNjYWxlKDEuMCkiPjxwYXRoIGQ9Ik0yLjUgMTIuMkwyMS41IDMuMkwxNC42IDIxTDExLjYgMTQuMlpNMTEuNiAxNC4yTDIxLjUgMy4yIi8+PC9nPjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDMxMiwxMjApIHJvdGF0ZSgxOCkgc2NhbGUoMC44OCkiPjxwYXRoIGQ9Ik0xMC42IDE3LjRWNC44bDguNC0ydjEyLjNNMTAuNiAxNy40YTIuOSAyLjkgMCAxIDEtNS44IDBhMi45IDIuOSAwIDEgMSA1LjggME0xOSAxNS4xYTIuOSAyLjkgMCAxIDEtNS44IDBhMi45IDIuOSAwIDEgMSA1LjggMCIvPjwvZz48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgzNiwxMzIpIHJvdGF0ZSg5KSBzY2FsZSgwLjk1KSI+PHBhdGggZD0iTTQuNiA3LjZoMTEuMnY3LjFhNS42IDUuNiAwIDAgMS0xMS4yIDBaTTE1LjggOS4yaDIuNGEyLjQgMi40IDAgMCAxIDAgNC44aC0yLjRNNCAyMGgxMyIvPjwvZz48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxNDAsMTE4KSByb3RhdGUoLTE2KSBzY2FsZSgxLjApIj48cGF0aCBkPSJNMjEgMTJBOSA5IDAgMSAxIDMgMTJBOSA5IDAgMSAxIDIxIDEyTTguNCAxNVExMiAxOC40IDE1LjYgMTVNOS4zIDkuOHYxLjJNMTQuNyA5Ljh2MS4yIi8+PC9nPjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDIzOCwxNDYpIHJvdGF0ZSgyMikgc2NhbGUoMC45KSI+PHBhdGggZD0iTTE4LjIgOS4xYTYuMiA2LjIgMCAxIDEtMTIuNCAwYTYuMiA2LjIgMCAxIDEgMTIuNCAwTTEyIDE1LjN2Mi42TTEwLjYgMTguOWwyLjggMS40Ii8+PC9nPjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDkwLDIyMikgcm90YXRlKC02KSBzY2FsZSgxLjApIj48cGF0aCBkPSJNMyA2LjZoMTh2MTEuMkgzek0zLjQgNy4yTDEyIDEzLjRMMjAuNiA3LjIiLz48L2c+PGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTk2LDIzNikgcm90YXRlKDE0KSBzY2FsZSgwLjk0KSI+PHBhdGggZD0iTTIxIDEyQTkgOSAwIDEgMSAzIDEyQTkgOSAwIDEgMSAyMSAxMk0xMiA2LjhWMTJsMy42IDIuMiIvPjwvZz48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgzMDAsMjI4KSByb3RhdGUoLTIwKSBzY2FsZSgwLjg4KSI+PHBhdGggZD0iTTEzLjQgMi40TDUuMiAxMy40aDQuOWwtMSA4LjJsOC4yLTExaC00Ljl6Ii8+PC9nPjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDIwLDMwMCkgcm90YXRlKDE2KSBzY2FsZSgwLjkyKSI+PHBhdGggZD0iTTEyIDMuMmwyLjcgNS42bDYuMSAwLjlsLTQuNCA0LjJsMS4xIDYuMUwxMiAxNy4xbC01LjUgMi45bDEuMS02LjFMMy4yIDkuN2w2LjEtMC45eiIvPjwvZz48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxNTAsMzE4KSByb3RhdGUoLTEwKSBzY2FsZSgwLjkpIj48cGF0aCBkPSJNMTYuNiAxMmE0LjYgNC42IDAgMSAxLTkuMiAwYTQuNiA0LjYgMCAxIDEgOS4yIDBNMTIgMi42djIuNE0xMiAxOXYyLjRNMi42IDEySDVNMTkgMTJoMi40TTUuMyA1LjNsMS43IDEuN00xNyAxN2wxLjcgMS43TTE4LjcgNS4zTDE3IDdNNyAxN2wtMS43IDEuNyIvPjwvZz48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgyNjgsMzIwKSByb3RhdGUoOCkgc2NhbGUoMC44NikiPjxwYXRoIGQ9Ik0xMiAyMC41QzEyIDIwLjUgMy42IDE0LjQgMy42IDkuMUE0LjYgNC42IDAgMCAxIDEyIDYuNEE0LjYgNC42IDAgMCAxIDIwLjQgOS4xQzIwLjQgMTQuNCAxMiAyMC41IDEyIDIwLjVaIi8+PC9nPjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDMzMCwyNjgpIHJvdGF0ZSgtMjQpIHNjYWxlKDAuOCkiPjxwYXRoIGQ9Ik0yMSAxMkE5IDkgMCAxIDEgMyAxMkE5IDkgMCAxIDEgMjEgMTJNOC40IDE1UTEyIDE4LjQgMTUuNiAxNU05LjMgOS44djEuMk0xNC43IDkuOHYxLjIiLz48L2c+PC9nPjwvc3ZnPg==);
+ background-size:360px 360px;background-repeat:repeat;}
+.chip{align-self:center;background:rgba(225,245,254,.92);color:#54656f;font-size:22px;font-weight:500;
+ letter-spacing:1.3px;text-transform:uppercase;padding:8px 22px;border-radius:9px;}
+
+.b{position:relative;max-width:78%;padding:16px 20px 14px;border-radius:16px;
+ box-shadow:0 1px 1px rgba(0,0,0,.16);}
+.in{align-self:flex-start;background:#fff;border-top-left-radius:4px;}
+.out{align-self:flex-end;background:#DCF8C6;border-top-right-radius:4px;}
+.in:before{content:"";position:absolute;left:-12px;top:0;width:0;height:0;
+ border-right:13px solid #fff;border-bottom:16px solid transparent;}
+.out:before{content:"";position:absolute;right:-12px;top:0;width:0;height:0;
+ border-left:13px solid #DCF8C6;border-bottom:16px solid transparent;}
+.tx{font-size:37px;font-weight:400;color:#111b21;line-height:1.3;letter-spacing:-.5px;padding-right:120px;}
+.meta{position:absolute;right:17px;bottom:12px;display:flex;align-items:center;gap:7px;}
+.tm{font-size:22px;color:#7d8a92;}
+.ck{width:30px;height:16px;}
+
+.mark{position:absolute;pointer-events:none;overflow:visible;}
+.inp{flex:0 0 auto;background:#F4F4F4;border-top:2px solid #cfcfcf;padding:18px 28px 26px;
+ display:flex;align-items:center;gap:18px;}
+.clip{width:46px;height:46px;flex:0 0 auto;position:relative;}
+.clip:before,.clip:after{content:"";position:absolute;background:#8d9297;border-radius:3px;}
+.clip:before{left:0;top:19px;width:46px;height:7px;}
+.clip:after{left:19px;top:0;width:7px;height:46px;}
+.field{flex:1;background:#fff;border:2px solid #d6d6d6;border-radius:34px;height:74px;display:flex;
+ align-items:center;padding:0 26px;font-size:30px;color:#a2a2a2;}
+.mic{width:34px;height:52px;border-radius:17px;background:#8d9297;flex:0 0 auto;}
+
+.who{font-size:27px;font-weight:800;margin-bottom:6px;letter-spacing:-.2px;}
+.c1{color:#e0457b;} .c2{color:#1f7aec;}
+</style></head><body>
+<div class="s">
+  <div class="hd">
+    <div class="back"><i></i>Chats</div>
+    <div class="ctr"><div class="nm">Team</div><div class="on">Marco, Reto, Sandro, Patrick</div></div>
+    <div class="av">T</div>
+  </div>
+
+  <div class="chat" id="chat">
+    <div class="chip">Montag</div>
+
+    <div class="b out"><div class="tx">Bin krank. Meldet euch heute bei Marco.</div>
+      <div class="meta"><span class="tm">06:12</span><svg class="ck" viewBox="0 0 30 16"><path d="M2 9l5 5 9-11M12 14l9-11" fill="none" stroke="#34B7F1" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></svg></div></div>
+
+    <div class="b in"><div class="who c2">Reto</div><div class="tx">Bauherr will einen Nachtrag. Wie viel verrechnen wir?</div>
+      <div class="meta"><span class="tm">07:41</span></div></div>
+
+    <div class="b in"><div class="who c1">Marco</div><div class="tx">Und Meier fragt wegen der Offerte</div>
+      <div class="meta"><span class="tm">11:20</span></div></div>
+
+    <div class="chip">Dienstag</div>
+
+    <div class="b in"><div class="who c1">Marco</div><div class="tx">Darf ich den Nachtrag freigeben?</div>
+      <div class="meta"><span class="tm">06:38</span></div></div>
+
+    <div class="b in"><div class="who c2">Reto</div><div class="tx">Bauherr wartet immer noch</div>
+      <div class="meta"><span class="tm">14:02</span></div></div>
+
+    <div class="chip">Mittwoch</div>
+
+    <div class="b in" id="last"><div class="who c1">Marco</div><div class="tx" id="punch">Alles noch offen.<br><span id="u">Wir haben auf dich gewartet.</span></div>
+      <div class="meta"><span class="tm">07:02</span></div></div>
+  </div>
+
+  <div class="inp"><div class="clip"></div><div class="field">Nachricht</div><div class="mic"></div></div>
+  <svg class="mark" id="mk" width="1080" height="1350" viewBox="0 0 1080 1350" style="left:0;top:0;"></svg>
+</div>
+<script>
+document.fonts.ready.then(()=>{
+const u=document.getElementById('u');
+const L=u.getBoundingClientRect();
+const P=document.getElementById('punch').getBoundingClientRect();
+const x1=L.left-10, x2=L.right+8, y=P.bottom+7;
+const mid=(x1+x2)/2;
+const d=`M ${x1} ${y+3} Q ${mid-80} ${y+14} ${mid} ${y+8} T ${x2} ${y+1}`;
+const svg=document.getElementById('mk');
+svg.innerHTML=`<path d="${d}" fill="none" stroke="#d22c22" stroke-width="11" stroke-linecap="round" opacity=".93"/>`
+            +`<path d="M ${x1+18} ${y+15} Q ${mid+50} ${y+24} ${x2-26} ${y+12}" fill="none" stroke="#d22c22" stroke-width="5.5" stroke-linecap="round" opacity=".5"/>`;
+window.__mk={breite:Math.round(x2-x1),x1:Math.round(x1),y:Math.round(y)};
+});
+</script>
+</body></html>
