@@ -1,7 +1,8 @@
 const {chromium}=require('playwright');
 const jobs=[['fmt-notiz-quadrat',1080,1080],['fmt-notiz-quer',1200,627],
             ['fmt-offerte-quadrat',1080,1080],['fmt-offerte-quer',1200,627],
-            ['fmt-krank-quadrat',1080,1080],['fmt-krank-quer',1200,627]];
+            ['fmt-krank-quadrat',1080,1080],['fmt-krank-quer',1200,627],
+            ['fmt-chatliste-quadrat',1080,1080],['fmt-chatliste-quer',1200,627]];
 (async()=>{
   const b=await chromium.launch({executablePath:'/opt/pw-browsers/chromium-1194/chrome-linux/chrome'});
   for(const [name,w,h] of jobs){
