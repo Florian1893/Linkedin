@@ -10,23 +10,25 @@ Content-Säule: Unbequeme Wahrheit, durchgehend Du
 
 Mit fünf Mann warst du der schnellste Weg. Mit zwölf bist du der langsamste.
 
-Den Tag dazwischen hat dir keiner gesagt.
+Nicht auf der Baustelle. Im Büro.
 
-Bei fünf wusstest du jede Baustelle, jeden Preis, jeden Kunden. Kurz anrufen ging schneller als aufschreiben.
+Draussen hast du längst verteilt. Marco führt seine Leute, Reto seine. Zwei Baustellen laufen ohne dich.
 
-Von fünf auf zwölf ist die Mannschaft gut doppelt so gross. Die Wege dazwischen sind mehr als sechsmal so viele.
+Drinnen läuft alles noch wie mit fünf Mann.
 
-Du hast doppelt so viel Arbeit und sechsmal so viele Fragen.
+Doppelt so viele Baustellen heisst doppelt so viele Offerten. Doppelt so viele Rechnungen. Doppelt so viele Anfragen, die jemand beantworten muss.
 
-Du bist nicht schlechter geworden. Deine Methode ist für einen Betrieb gebaut, den du nicht mehr hast.
+Und das machst immer noch du. Zwischen zwei Terminen.
 
-Es kommt kein Brief und es gibt keine Prüfung. Es fällt dir erst auf, wenn du am Freitag nicht weisst, was du die ganze Woche gemacht hast.
+Am Freitag um fünf sind die Baustellen sauber und dein Tisch ist voll.
 
-Es ist überall dasselbe. Die Offerte tippst du selber. Ans Nachfassen denkt keiner. Die Anfrage liegt drei Tage. Und der Bürokram läuft jede Woche genau gleich ab.
+Die Baustellen hast du verteilt. Das Büro nicht.
+
+Die Offerte tippst du selber. Ans Nachfassen denkt keiner. Die Anfrage liegt drei Tage. Und der Bürokram läuft jede Woche genau gleich ab.
 
 Genau das automatisiere ich. Dann denkt keiner mehr daran und es passiert trotzdem.
 
-Bei wie vielen Mitarbeitern hast du gemerkt, dass es so nicht mehr geht?
+Wie viele von deinen Leuten arbeiten draussen und wie viele im Büro?
 
 ## Alternative Hooks
 
@@ -49,13 +51,19 @@ Das ist der schärfste Filter, den es gibt, weil die Betriebsgrösse die Zielgru
 
 Wichtig: die Zahl steht als Schwelle da, nicht als Anrede. "Ab zwölf Mitarbeitern" ist eine Bedingung, "Du mit deinen zwölf Mitarbeitern" wäre eine Anrede und damit derselbe Fehler wie beim 65er.
 
-## Die Zahl im Post
+## Was an Fassung zwei falsch war
 
-Von fünf auf zwölf Mitarbeiter: die Mannschaft wächst um den Faktor 2,4, die Verbindungen zwischen den Leuten aber von zehn auf sechsundsechzig, also um den Faktor 6,6.
+Florian am 21.09.: der Text verfehlt das Thema.
 
-Rechnung: n mal (n minus 1) geteilt durch zwei. Bei fünf sind das zehn Wege, bei zwölf sechsundsechzig.
+Er hatte recht, und der Fehler war handwerklich. Der Körper handelte von Kommunikationswegen (fünf Leute gleich zehn Wege, zwölf Leute gleich sechsundsechzig Wege, also mehr Fragen an den Chef). Der Schluss verkaufte dann Offerten, Nachfassen, Anfragen und Bürokram. Das sind zwei verschiedene Probleme, aneinandergeklebt. Die Rechnung war zwar richtig, führte aber am Produkt vorbei.
 
-Das ist nachrechenbar und Florian kann es im Kommentarfeld in einer Zeile erklären. Genau diese Art Zahl trägt die Spitzenposts: der Leser rechnet mit und bleibt dabei hängen.
+Fassung drei baut den ganzen Körper auf dem auf, was Florian wirklich automatisiert: die Büroarbeit, die mit jedem Mitarbeiter mitwächst.
+
+Die Wendung steckt jetzt in Zeile zwei. "Nicht auf der Baustelle. Im Büro." Das grenzt sofort ein und überrascht, weil der Leser bei "langsamster Weg" zuerst an die Baustelle denkt.
+
+Der Merksatz trägt den ganzen Post und ist die Positionierung in sechs Wörtern: "Die Baustellen hast du verteilt. Das Büro nicht."
+
+Neue Schlussfrage. Sie ist zählbar, kostet kein Gesicht, und die Antwort beweist die These von selbst. Wer elf draussen und einen halben im Büro hat, hat den Post im eigenen Kopf zu Ende geschrieben.
 
 ## Warum dieses Thema
 
@@ -65,16 +73,15 @@ Geparkt liegen jetzt zwei fertige Posts: GEPARKT-zwei-tage-krank.md (Kranken-Win
 
 ## Bild
 
-Nicht eine einzelne Unterhaltung, sondern die Chatliste. Zwölf ungelesene Chats, alle zwischen 06:31 und 07:51, zusammen dreiundzwanzig Nachrichten.
+fotos/bild-chatliste.png. Nicht eine einzelne Unterhaltung, sondern die Chatliste. Zwölf ungelesene Chats zwischen 06:31 und 07:51.
 
-Die Zwölf oben ist rot eingekringelt und spiegelt den Hook: zwölf Mitarbeiter, zwölf Chats, und alle wollen eine Entscheidung. Der Leser muss die Verbindung nicht erklärt bekommen, er sieht sie.
+Die Zwölf oben ist rot eingekringelt und spiegelt den Hook: zwölf Mitarbeiter, zwölf Chats. Der Leser muss die Verbindung nicht erklärt bekommen, er sieht sie.
 
-Die Zeilen decken absichtlich genau die Abläufe ab, die der Post am Schluss beim Namen nennt:
-- Anfrage: "Neue Anfrage über die Website"
-- Offerte: "Und die Offerte?"
-- Nachfassen: "Wir warten noch auf euer Angebot"
-- Bürokram: "Belege für August?" und "Liefertermin bestätigen?"
-Dazwischen die Baustellenfragen, damit es nach einem echten Morgen aussieht und nicht nach einer Verkaufsliste.
+Entscheidend ist die Reihenfolge. Die oberen zehn Zeilen sind alle Büro: neue Anfrage über die Website, und die Offerte, wir warten noch auf euer Angebot, Belege für August, Liefertermin bestätigen, können Sie mir ein Angebot machen, Nachtrag bitte schriftlich, Formular fehlt noch, habt ihr meine Mail bekommen, Unterlagen bis Freitag.
+
+Die letzten zwei Zeilen sind die Baustelle, und die melden nur: "Rapport von gestern ist drin" und "Stunden eingetragen, alles gut". Draussen läuft es. Drinnen brennt es. Genau das sagt der Post.
+
+Frühere Fassung des Bildes zeigte Baustellenfragen an den Chef (Rohr versetzen, Regie oder drin). Das widersprach dem neuen Text, der sagt, draussen sei längst verteilt.
 
 Kein Logo und keine Markenzeichen. Gestaltete Grafik im vertrauten Layout, kein echter Screenshot.
 
