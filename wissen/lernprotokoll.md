@@ -8,7 +8,7 @@ Alle Posts nach Impressions. Startbestand uebernommen aus dem Skill `betriebsflo
 |---|---|---|---|---|
 | 9374 | Erster Post | Kaltstart | keine | Erstverteilungs-Bonus, KEINE Benchmark |
 | 2221 | Zweiter Post | Kaltstart | keine | Erstverteilungs-Bonus, KEINE Benchmark |
-| (Treffer, Zahl nachtragen) | Offerte liegt eine Woche (17.09., WhatsApp-Bild mit rotem Strich) | Spiegel mit sofortigem Verlust | B | Florian am 21.09.: "Bombe gewesen". ERSTER TREFFER NACH DER SAMMELDIAGNOSE. Die Regeln 18 und 19 haben geliefert. Siehe Auswertung unten |
+| 700 | Offerte liegt eine Woche (17.09., WhatsApp-Bild mit rotem Strich) | Spiegel mit sofortigem Verlust | B | ZWEITBESTER POST DER ECHTEN PHASE, knapp das Vierfache des Medians. Erster Treffer nach der Sammeldiagnose, die Formel aus den Regeln 18 und 19 hat geliefert. Siehe Auswertung unten |
 | 1014 | Maler-Dialog "Eigentlich nie" plus Kostenrechnung | Dialog | A | Leser ertappt sich selbst |
 | 662 | "Du bist der teuerste Mitarbeiter" | direkte Ansprache | B | Spiegel ohne Szene, funktioniert nackt |
 | 359 | Nachfassen | Aussage | A | Hook gut, aber zwei Fragen am Schluss plus Hashtags |
@@ -28,9 +28,13 @@ Alle Posts nach Impressions. Startbestand uebernommen aus dem Skill `betriebsflo
 | 91 | "Zu viele Auftraege koennen killen" | Paradox | - | Behauptung ueber die Branche statt ueber den Leser |
 | 65 | Ruf-Post (03.09., "Dein Ruf als Sanitaer") | Spiegel mit Gewerks-Anrede, plus Einzelbild | B | SCHLECHTESTER WERT UEBERHAUPT. Drei Variablen gleichzeitig geaendert, siehe Diagnose unten |
 
-Median der echten Phase (ohne die zwei Kaltstart-Posts): rund 180. Stand 29.08. mit 113 dazu: rund 176. Das ist die Latte, gegen die neue Posts gemessen werden, nicht die 9374.
+Median der echten Phase (ohne die zwei Kaltstart-Posts): rund 180. Das ist die Latte fuer neue Themen und neue Formate, nicht die 9374.
+
+ZWEITE LATTE seit dem 21.09.: Posts nach der Standardformel werden nicht mehr am Median gemessen, sondern an den 700 vom 17.09. Ein Formel-Post, der unter 350 landet, hat einen Fehler in der Ausfuehrung, nicht im Format.
 
 ## Auswertung zum Treffer vom 17.09.
+
+700 Impressions (Florian am 21.09.). Damit der zweitbeste Post der echten Phase, hinter den 1014 und vor den 662. Knapp das Vierfache des Medians von 180, und mehr als das Zehnfache des schlechtesten Posts (65) aus demselben Monat.
 
 Erster Post nach der Sammeldiagnose, und der erste Treffer seit Wochen. Was ihn getragen hat, in dieser Reihenfolge:
 
@@ -40,6 +44,13 @@ Erster Post nach der Sammeldiagnose, und der erste Treffer seit Wochen. Was ihn 
 4. **Kurz.** 936 Zeichen. Regel 19 bestaetigt.
 5. **Das Bild erzaehlt dieselbe Geschichte, nicht dieselben Worte.** Chat mit Verlauf und rotem Handstrich auf der Pointe. Damit ist auch Regel 16 (Bilder aus) widerlegt, aber nur fuer diese Machart: ein Chat, der eine Geschichte erzaehlt, schlaegt Gesicht, Skizze und Zahlengrafik.
 6. **Die Schlussfrage kostet kein Gesicht.** Man antwortet mit seiner besten Zeit und steht gut da.
+
+Was die 700 zusaetzlich beweisen:
+- Die Bildfrage ist entschieden. Nicht "Bilder kosten Reichweite", sondern "die falschen Bilder kosten Reichweite". Ein Chat mit erzaehltem Verlauf und rotem Handstrich traegt den Post mit.
+- Der Leser braucht keine Statistik und keinen Beweis. Er braucht eine Szene, in der er sich erkennt, und eine Rechnung, die er selber aufmacht.
+- Die drei September-Flops lagen nicht am Thema. Dasselbe Offerten-Thema, das am 10.09. bei 100 lag, hat am 17.09. 700 geholt. Der Unterschied war ausschliesslich die Bauweise.
+
+Offener Test fuer spaeter, nicht fuer den naechsten Post: der 1014er hatte einen DIALOG-Hook, der 700er einen Aussage-Hook. Beide Male dieselbe Formel dahinter. Ein Formel-Post mit Dialog-Hook koennte die 1014 angreifen. Erst testen, wenn die Formel zwei Mal in Folge bestaetigt ist, sonst werden zwei Variablen auf einmal geaendert.
 
 Konsequenz: das ist ab jetzt die Standardformel. Spiegel mit Verlust, Zeitbeats als kurze Absaetze, Entlastung, neuer Gedanke, Kosten, eine Zeile Angebot, gesichtswahrende Zaehlfrage, rund 950 Zeichen, dazu ein Chat-Bild mit rotem Strich.
 
