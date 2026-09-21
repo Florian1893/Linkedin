@@ -8,11 +8,11 @@ Content-Säule: Unbequeme Wahrheit, durchgehend Du
 
 ## Post
 
-Ab zwölf Mitarbeitern führst du einen anderen Betrieb. Nur hat es dir keiner gesagt.
+Mit fünf Mann warst du der schnellste Weg. Mit zwölf bist du der langsamste.
 
-Bei fünf Mann war alles über dich der schnellste Weg. Du wusstest jede Baustelle, jeden Preis, jeden Kunden. Kurz anrufen ging schneller als aufschreiben.
+Den Tag dazwischen hat dir keiner gesagt.
 
-Bei zwölf ist genau das der langsamste Weg.
+Bei fünf wusstest du jede Baustelle, jeden Preis, jeden Kunden. Kurz anrufen ging schneller als aufschreiben.
 
 Von fünf auf zwölf ist die Mannschaft gut doppelt so gross. Die Wege dazwischen sind mehr als sechsmal so viele.
 
@@ -20,7 +20,7 @@ Du hast doppelt so viel Arbeit und sechsmal so viele Fragen.
 
 Du bist nicht schlechter geworden. Deine Methode ist für einen Betrieb gebaut, den du nicht mehr hast.
 
-Und keiner sagt dir, wann der Moment war. Es kommt kein Brief und es gibt keine Prüfung. Es fällt dir erst auf, wenn du am Freitag nicht weisst, was du die ganze Woche gemacht hast.
+Es kommt kein Brief und es gibt keine Prüfung. Es fällt dir erst auf, wenn du am Freitag nicht weisst, was du die ganze Woche gemacht hast.
 
 Ich baue Betrieben genau diese Fragen weg. Der Standardfall läuft durch, ohne dass jemand fragen muss. Bei dir landet nur noch die Ausnahme.
 
@@ -35,7 +35,13 @@ Bei wie vielen Mitarbeitern hast du gemerkt, dass es so nicht mehr geht?
 
 Florian am 21.09.: der Hook soll die zehn Prozent ansprechen.
 
-"Ab zwölf Mitarbeitern" steht in Wort eins bis drei und sortiert in einer Sekunde aus. Wer alleine oder zu dritt arbeitet, fühlt sich nicht gemeint und scrollt weiter, und das ist gewollt. Wer zehn bis zwanzig Leute hat, liest "zwölf" und denkt sofort an die eigene Zahl.
+Fassung eins hiess "Ab zwölf Mitarbeitern führst du einen anderen Betrieb". Die filterte zwar, tat aber nicht weh. Der Leser stimmt zu und scrollt weiter, weil nichts auf dem Spiel steht.
+
+Die neue Fassung filtert mit zwei Zahlen und kehrt gleichzeitig die Rolle um: "Mit fünf Mann warst du der schnellste Weg. Mit zwölf bist du der langsamste."
+
+Beide Zahlen stehen in Zeile eins. Wer zu dritt arbeitet, ist raus. Wer zwischen zehn und zwanzig Leute hat, erkennt den eigenen Weg von damals bis heute. Und er liest sich selbst als Bremse, nicht als Chef. Das ist dieselbe Umkehrung wie im 662er ("Du bist der teuerste Mitarbeiter"), und die hat 662 geholt.
+
+Der stärkste Satz des Posts stand vorher in der Mitte begraben. Jetzt steht er vorne, genau da wo in den ersten zwei Zeilen entschieden wird, ob jemand auf "mehr anzeigen" klickt.
 
 Das ist der schärfste Filter, den es gibt, weil die Betriebsgrösse die Zielgruppe genau definiert. Schärfer als ein Gewerk, denn ein Gewerk grenzt vier von fünf aus, ohne die Richtigen zu treffen. Genau daran ist der 65er gescheitert.
 
