@@ -168,7 +168,8 @@ Zweiter Punkt: Der 200er hatte ein Foto, der 250er nicht. Schwacher Beleg, deckt
     - die Anfrage, die tagelang liegt
     - der Buerokram, der jede Woche gleich ablaeuft
     Form: kurze Saetze ohne Relativsaetze, im Stakkato, Fliesstext statt Liste. "Die Offerte tippst du selber. Ans Nachfassen denkt keiner. Die Anfrage liegt drei Tage. Und der Buerokram laeuft jede Woche genau gleich ab."
-    Danach genau ein Satz, der sagt was gebaut wird: "Genau das baue ich weg. Danach laeuft es ohne dich."
+    Danach genau ein Satz, der sagt was gebaut wird: "Genau das automatisiere ich. Dann denkt keiner mehr daran und es passiert trotzdem."
+    Sprachwarnung (Florian, 21.09.): "wegbauen" ist kein Deutsch. Man baut keinen Ablauf weg. Ebenso raus: "Es faengt bei allen beim Gleichen an" (zweimal bei). Der Schlusssatz muss ein Satz sein, den ein Schweizer Handwerksberater so am Tisch sagen wuerde, und er muss den Schmerz aus der Aufzaehlung direkt aufloesen. Hier loest "dann denkt keiner mehr daran" genau das "ans Nachfassen denkt keiner" von zwei Zeilen vorher auf.
     Achtung: Das ist kein Widerspruch zur Themen-Regel 14. Offerten und Nachfassen sind als POST-THEMA verbrannt, als Aufzaehlung am Schluss sind sie das Produkt und gehoeren dort hin.
 
 ## Offene Tests

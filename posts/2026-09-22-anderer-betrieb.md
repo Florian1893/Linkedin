@@ -22,9 +22,9 @@ Du bist nicht schlechter geworden. Deine Methode ist für einen Betrieb gebaut, 
 
 Es kommt kein Brief und es gibt keine Prüfung. Es fällt dir erst auf, wenn du am Freitag nicht weisst, was du die ganze Woche gemacht hast.
 
-Es fängt bei allen beim Gleichen an. Die Offerte tippst du selber. Ans Nachfassen denkt keiner. Die Anfrage liegt drei Tage. Und der Bürokram läuft jede Woche genau gleich ab.
+Es ist überall dasselbe. Die Offerte tippst du selber. Ans Nachfassen denkt keiner. Die Anfrage liegt drei Tage. Und der Bürokram läuft jede Woche genau gleich ab.
 
-Genau das baue ich weg. Danach läuft es ohne dich.
+Genau das automatisiere ich. Dann denkt keiner mehr daran und es passiert trotzdem.
 
 Bei wie vielen Mitarbeitern hast du gemerkt, dass es so nicht mehr geht?
 
