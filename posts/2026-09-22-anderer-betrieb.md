@@ -2,7 +2,7 @@
 
 Datum: 2026-09-22 (Dienstag), 07:30
 Format: Standardformel vom 700er, Hook zusätzlich mit hartem Zielgruppen-Filter in Wort eins bis drei.
-Wertzeile: BAUEN, nicht beraten (Florian, 21.09.). Siehe Regel 21.
+Wertzeile: BAUEN, nicht beraten, und die Abläufe beim Namen nennen (Florian, 21.09.). Siehe Regel 21 und 22.
 Bild: fotos/bild-chatliste.png (WhatsApp-Übersicht, neun ungelesene Chats vor acht Uhr, rot eingekringelt)
 Content-Säule: Unbequeme Wahrheit, durchgehend Du
 
@@ -22,7 +22,9 @@ Du bist nicht schlechter geworden. Deine Methode ist für einen Betrieb gebaut, 
 
 Es kommt kein Brief und es gibt keine Prüfung. Es fällt dir erst auf, wenn du am Freitag nicht weisst, was du die ganze Woche gemacht hast.
 
-Ich baue Betrieben genau diese Fragen weg. Der Standardfall läuft durch, ohne dass jemand fragen muss. Bei dir landet nur noch die Ausnahme.
+Es fängt bei allen beim Gleichen an. Die Offerte tippst du selber. Ans Nachfassen denkt keiner. Die Anfrage liegt drei Tage. Und der Bürokram läuft jede Woche genau gleich ab.
+
+Genau das baue ich weg. Danach läuft es ohne dich.
 
 Bei wie vielen Mitarbeitern hast du gemerkt, dass es so nicht mehr geht?
 

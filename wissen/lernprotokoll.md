@@ -162,6 +162,15 @@ Zweiter Punkt: Der 200er hatte ein Foto, der 250er nicht. Schwacher Beleg, deckt
     Pruefsatz vor dem Posten: Steht in der Wertzeile ein Ding, das nachher ohne Menschen laeuft? Wenn dort nur ein Gespraech, eine Liste oder eine Regel steht, ist es Beratung und muss umgeschrieben werden.
     Die Analyse (eine Stunde zuschauen, Grenze finden) darf vorkommen, aber nur als Weg zum Gebauten, nie als das Angebot selbst.
 
+22. DIE ABLAEUFE BEIM NAMEN NENNEN (Florian, 21.09.2026): Der Schluss darf nicht abstrakt bleiben. "Ich baue die Fragen weg" sagt niemandem, was er kaufen kann. Am Schluss stehen die konkreten Ablaeufe, die Florian wirklich automatisiert, und die ein Inhaber sofort wiedererkennt:
+    - die Offerte, die der Chef selber tippt
+    - das Nachfassen, an das keiner denkt
+    - die Anfrage, die tagelang liegt
+    - der Buerokram, der jede Woche gleich ablaeuft
+    Form: kurze Saetze ohne Relativsaetze, im Stakkato, Fliesstext statt Liste. "Die Offerte tippst du selber. Ans Nachfassen denkt keiner. Die Anfrage liegt drei Tage. Und der Buerokram laeuft jede Woche genau gleich ab."
+    Danach genau ein Satz, der sagt was gebaut wird: "Genau das baue ich weg. Danach laeuft es ohne dich."
+    Achtung: Das ist kein Widerspruch zur Themen-Regel 14. Offerten und Nachfassen sind als POST-THEMA verbrannt, als Aufzaehlung am Schluss sind sie das Produkt und gehoeren dort hin.
+
 ## Offene Tests
 
 - Posting-Zeit 07:30 gegen 08:30, beide Dienstag oder Donnerstag.
