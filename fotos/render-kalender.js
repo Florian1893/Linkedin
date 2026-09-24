@@ -6,13 +6,13 @@ const {chromium}=require('playwright');
   await p.evaluate(()=>document.fonts.ready);
   await p.waitForTimeout(900);
   const o=await p.evaluate(()=>{
-    const g=document.querySelector('.grid').getBoundingClientRect();
+    const g=document.querySelector('.leg').getBoundingClientRect();
     const f=document.querySelector('.foot').getBoundingClientRect();
     return {kringel:!!window.__ok, zellen:document.querySelectorAll('.c').length,
-            rot:document.querySelectorAll('.c.rot').length,
+            rot:document.querySelectorAll('.c.rot').length, amb:document.querySelectorAll('.c.amb').length,
             luft:Math.round(f.top-g.bottom)};
   });
-  console.log('Kringel:',o.kringel,'| Zellen:',o.zellen,'davon rot:',o.rot,'| Luft Raster zu Fuss:',o.luft+'px');
+  console.log('Kringel:',o.kringel,'| Zellen:',o.zellen,'| rot:',o.rot,'| amber:',o.amb,'| Luft Raster zu Fuss:',o.luft+'px');
   await (await p.$('.s')).screenshot({path:__dirname+'/bild-kalender.png'});
   await b.close(); console.log('ok');
 })();

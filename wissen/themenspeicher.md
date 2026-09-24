@@ -55,3 +55,19 @@ Bewertung der 97 (14.09.): methodisch sauber erhoben, inhaltlich aber schwach, w
 - Gratis-Mehrwert (vorsichtig, Listen floppen)
 - Persoenlich (bisher schwach, nur mit Betriebsbezug)
 - Resultat und Beweis (noch gesperrt, braucht echte Zahlen aus den Pilotprojekten)
+
+## Aus der Expertenrunde vom 24.09. (Zielgruppen-Test, Sanitaer mit 15 Mitarbeitern)
+
+Was bei dieser Groesse NICHT als Schmerz funktioniert:
+- 7 Wochen bis zum Geld sind nicht schlimm. Wer fuer einen Generalunternehmer arbeitet, wartet 3 bis 4 Monate auf die Schlussrechnung, dazu kommt der Rueckbehalt. Die Zahl muss also aus dem Direktgeschaeft mit Privatkunden kommen, sonst zuckt er nur mit den Schultern.
+- Eine einzige Rechnung am Schluss gibt es bei Neubau und grossem Umbau nicht. Dort laeuft es ueber Akontorechnungen nach Ausmass, meist monatlich, mit rund 10 Prozent Rueckbehalt. Das Geld kommt waehrend der Arbeit. Rapport als Ausloeser der Rechnung stimmt nur im Service und beim Privatumbau.
+- Zinsverlust als Schaden rechnen. Siehe Regel 31, die Zahl wird klein und der Post verliert.
+
+Was bei dieser Groesse SEHR WOHL trifft (noch nicht gespielt):
+- DER REGIERAPPORT OHNE VISUM. Ohne Unterschrift der Bauleitung ist ein Regierapport wertlos, und bei der Schlussrechnung streicht die Bauleitung die Positionen. Hook-Ansatz: "Drei Regierapporte ohne Visum, und die Bauleitung streicht dir die Positionen aus der Schlussrechnung." Wichtig und ehrlich: eine Automation holt keine Unterschrift. Sie kann nur erinnern, bis sie da ist. Genau so muss es im Post stehen.
+- DIE SCHLUSSRECHNUNG IN DER PRUEFUNG. "Deine Schlussrechnung liegt seit 6 Wochen beim GU in der Pruefung. Dein Material ist seit 8 Wochen bezahlt."
+- DIE FREIGABE AUF DEM PULT. Am 24.09. gespielt, das ist der Kern von Regel 25.
+
+Sachliches, das in keinem Post falsch stehen darf:
+- Eine WhatsApp vom Vorarbeiter ist keine Abnahme. Nach SIA 118 braucht es eine gemeinsame Begehung und ein Protokoll mit Maengelliste.
+- "Ab Rechnungsdatum laufen 30 Tage" gilt beim Direktkunden. Nach SIA 118 hat die Bauleitung zuerst rund einen Monat Pruefzeit, GU-Vertraege nennen oft 45 bis 60 Tage nach gepruefter Rechnung. Also nie als Gesetz verkaufen, wenn im Post ein GU vorkommt.
