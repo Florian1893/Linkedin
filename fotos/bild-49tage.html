@@ -1,0 +1,48 @@
+<!doctype html><html lang="de"><head><meta charset="utf-8">
+<style>
+@font-face{font-family:'Inter';font-weight:300;src:url(inter-1.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:400;src:url(inter-2.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:500;src:url(inter-3.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:800;src:url(inter-8.ttf) format('truetype');}
+*{margin:0;padding:0;box-sizing:border-box;}
+.s{width:1080px;height:1350px;position:relative;overflow:hidden;
+ background:radial-gradient(120% 85% at 22% 4%,#1d2434 0%,#111620 58%,#0b0e14 100%);
+ font-family:'Inter',Helvetica,Arial,sans-serif;color:#fff;padding:78px 64px 0;}
+.kick{font-size:30px;font-weight:500;letter-spacing:2.4px;text-transform:uppercase;opacity:.55;}
+.alt{margin-top:40px;position:relative;display:inline-block;}
+.alt span{font-size:86px;font-weight:500;letter-spacing:-2px;opacity:.62;}
+.big{margin-top:34px;display:flex;align-items:baseline;gap:58px;line-height:.88;}
+.big .n{font-size:392px;font-weight:800;letter-spacing:-22px;color:#ef4444;padding-right:16px;}
+.big .u{font-size:132px;font-weight:800;letter-spacing:-4px;}
+.sub{font-size:70px;font-weight:400;margin-top:26px;letter-spacing:-1.4px;opacity:.94;}
+.foot{position:absolute;left:64px;right:64px;bottom:82px;}
+.bar{width:100px;height:10px;background:#8B7CF6;border-radius:5px;margin-bottom:30px;}
+.f1{font-size:56px;font-weight:800;letter-spacing:-1.6px;line-height:1.16;}
+.f2{font-size:32px;font-weight:400;opacity:.62;margin-top:18px;}
+svg.mk{position:absolute;left:0;top:0;width:1080px;height:1350px;pointer-events:none;}
+</style></head><body>
+<div class="s">
+  <div class="kick">Baustelle fertig am 12. September</div>
+
+  <div class="alt" id="alt"><span>30 Tage Zahlungsfrist</span></div>
+
+  <div class="big"><span class="n">49</span><span class="u">Tage</span></div>
+  <div class="sub">hat es gedauert, bis das Geld da war.</div>
+
+  <div class="foot">
+    <div class="bar"></div>
+    <div class="f1">19 Tage davon hast du<br>selber dazugelegt.</div>
+    <div class="f2">Die Rechnung ging erst am 1. Oktober raus.</div>
+  </div>
+  <svg class="mk" id="mk" viewBox="0 0 1080 1350"></svg>
+</div>
+<script>
+document.fonts.ready.then(()=>{
+  const r=document.getElementById('alt').getBoundingClientRect();
+  const y=r.top+r.height*0.56, x1=r.left-14, x2=r.right+14, mid=(x1+x2)/2;
+  document.getElementById('mk').innerHTML=
+   `<path d="M ${x1} ${y+6} Q ${mid-80} ${y-9} ${mid} ${y-2} T ${x2} ${y-7}" fill="none" stroke="#ef4444" stroke-width="12" stroke-linecap="round" opacity=".95"/>`
+  +`<path d="M ${x1+22} ${y+16} Q ${mid+60} ${y+3} ${x2-26} ${y+9}" fill="none" stroke="#ef4444" stroke-width="6" stroke-linecap="round" opacity=".5"/>`;
+  window.__ok=true;
+});
+</script></body></html>

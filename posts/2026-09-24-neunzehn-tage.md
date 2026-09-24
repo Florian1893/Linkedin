@@ -2,7 +2,7 @@
 
 Datum: 2026-09-24 (Donnerstag), 07:30
 Format: Standardformel vom 700er, streng als Geschichte. Ein Ereignis, benannte Tage, ein messbarer Verlust.
-Bild: fotos/bild-kalender.png (zwei Monatskalender, die 19 Tage rot flächig). Alternative: fotos/bild-rechnung.png (Chatverlauf).
+Bild: fotos/bild-49tage.png (Scrollstopper, die 49 riesig, 30 Tage durchgestrichen). Alternativen: fotos/bild-kalender.png (Kalender), fotos/bild-rechnung.png (Chatverlauf).
 Content-Säule: Unbequeme Wahrheit, durchgehend Du
 
 ## Post
@@ -67,25 +67,26 @@ Rechnungslauf und Liquidität. Steht im Produktkern (manuelle Büroabläufe), wa
 
 ## Bild
 
-fotos/bild-kalender.png. Kein Chat, auf Florians Wunsch vom 24.09. ("nicht immer ein Chatverlauf"). Vier Chat-Bilder hintereinander nutzen sich ab.
+fotos/bild-49tage.png. Scrollstopper, nicht Infografik.
 
-Zwei Monatsraster, September und Oktober, mit vier Markierungen:
-- 12. September grün, "fertig"
-- 20. September gelb, "Rapport"
-- 1. Oktober violett, "Rechnung", zusätzlich rot von Hand eingekringelt
-- 31. Oktober grün, "Geld da"
+Der Kalender davor war korrekt und informativ, aber im Feed liest man ihn erst beim Reinzoomen. Zwei graue Raster sehen im Daumenkino aus wie eine Tabelle. Florian am 24.09.: sollte ein Scrollstopper sein.
 
-Die 18 Tage zwischen dem 12. und dem 30. September sind flächig rot eingefärbt. Damit werden die 19 Tage aus der Überschrift zu einer Fläche, die man sieht, statt zu einer Zahl, die man liest. Das ist der ganze Trick an diesem Bild.
+Diese Fassung hat ein einziges grosses Element. Die 49 füllt ein Drittel des Bildes und ist auch als Vorschaubild unübersehbar.
 
-Der Oktober ist bewusst neutral. Die 30 Tage Zahlungsfrist sind vereinbart und in Ordnung, nur der rote Block davor ist selbst gemacht.
+Aufbau von oben nach unten:
+- Kontextzeile klein: "Baustelle fertig am 12. September"
+- "30 Tage Zahlungsfrist", von Hand rot durchgestrichen
+- 49 in Rot, 392 Pixel hoch, daneben "Tage"
+- "hat es gedauert, bis das Geld da war."
+- Fussblock mit violettem Balken: "19 Tage davon hast du selber dazugelegt." und darunter der Grund
 
-Fussblock nennt die Zahl und die Erklärung in zwei Zeilen, damit das Bild auch ohne Text funktioniert.
+Dunkler Grund, weil der LinkedIn-Feed hell ist. Ein dunkles Bild sticht beim Scrollen heraus, bevor man überhaupt liest.
 
-Offener Test: erste Infografik in diesem System. Bisher haben Chat-Bilder geliefert (700) und Zahlengrafiken nicht (100). Der Unterschied zur alten Zahlengrafik: hier steht kein Betrag auf einem Foto, sondern ein Kalender, den jeder Inhaber sofort liest. Wenn dieser Post über 350 landet, ist der Kalender als zweite Bildart bestätigt.
+Die Machart ist dieselbe wie beim Offerten-Bild vom 10.09. (durchgestrichener alter Wert, riesige neue Zahl), das Florian damals ausdrücklich so wollte. Neu ist, dass sie rein typografisch ist und ohne Foto auskommt.
 
-Der Chatverlauf bleibt als Alternative liegen unter fotos/bild-rechnung.png.
+Kalender und Chatverlauf liegen als Alternativen im Repo.
 
-Rendern: node fotos/render-kalender.js
+Rendern: node fotos/render-49tage.js
 
 ## Ergebnis
 
