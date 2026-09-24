@@ -17,7 +17,7 @@ Ab dem 1. laufen die 30 Tage. Nicht ab dem 12.
 
 19 Tage hast du selber dazugelegt. Bei jeder Baustelle.
 
-Du bist nicht schlecht organisiert. Die Rechnung ist einfach das Einzige, das keiner anmahnt, solange sie nicht draussen ist.
+Du bist nicht schlecht organisiert. Bei der Rechnung ruft einfach keiner an und fragt, wo sie bleibt.
 
 Auf der Baustelle zählt jede Stunde. Im Büro zählt keiner die Tage.
 
