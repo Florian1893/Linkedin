@@ -13,6 +13,7 @@ Alle Posts nach Impressions. Startbestand uebernommen aus dem Skill `betriebsflo
 | 662 | "Du bist der teuerste Mitarbeiter" | direkte Ansprache | B | Spiegel ohne Szene, funktioniert nackt |
 | 359 | Nachfassen | Aussage | A | Hook gut, aber zwei Fragen am Schluss plus Hashtags |
 | 313 | Gipser spricht Offerte ein | Szene | C | Fenster statt Spiegel, Handlung eines Dritten |
+| 250 | "Mit fuenf Mann warst du der schnellste Weg" (22.09., mit Chatlisten-Bild) | Spiegel ohne Szene | B | Ueber dem Median, aber weit unter den 700. Formel-Post unter 350, also Ausfuehrungsfehler. Diagnose unten: Argument statt Geschichte |
 | 250 | Naturgesetz-Post (01.09., Millionaer als Wendepunkt) | Spiegel-Hook, dann Fenster-Szene | A | Ueber Median, aber die Gipser-Szene bleibt Fenster. Dritter Beleg: erzaehlte Dritte deckeln bei 250 bis 313, volle Du-Posts holen 662 plus |
 | 243 | Verlorene Anfrage | Tautologie | - | Hook loest nichts auf, nichts zu erfahren |
 | 200 | Folge 1 "Laeuft dein Betrieb einen Tag ohne dich" (08.09., mit Foto) | Dialog-Hook | A | Dreimal der 65er, knapp ueber Median. Struktur des 1014ers allein reicht nicht, siehe Zaehlbarkeits-Befund |
@@ -53,6 +54,22 @@ Was die 700 zusaetzlich beweisen:
 Offener Test fuer spaeter, nicht fuer den naechsten Post: der 1014er hatte einen DIALOG-Hook, der 700er einen Aussage-Hook. Beide Male dieselbe Formel dahinter. Ein Formel-Post mit Dialog-Hook koennte die 1014 angreifen. Erst testen, wenn die Formel zwei Mal in Folge bestaetigt ist, sonst werden zwei Variablen auf einmal geaendert.
 
 Konsequenz: das ist ab jetzt die Standardformel. Spiegel mit Verlust, Zeitbeats als kurze Absaetze, Entlastung, neuer Gedanke, Kosten, eine Zeile Angebot, gesichtswahrende Zaehlfrage, rund 950 Zeichen, dazu ein Chat-Bild mit rotem Strich.
+
+## Diagnose zum 250er (22.09.) gegen den 700er
+
+Beide nach derselben Formel gebaut, Faktor 2,8 Unterschied. Der Grund ist ein einziger und er steht seit dem 29.08. als Regel 13 im Repo: NUR STORYS.
+
+Der 700er ist eine Geschichte. Ein Kunde fragt am Montag, wird am Mittwoch vertroestet, vergibt am Freitag. Es passiert etwas, jemand verliert etwas, und zwar jetzt.
+
+Der 250er ist ein Argument. "Mit fuenf Mann warst du der schnellste Weg, mit zwoelf der langsamste" beschreibt eine Entwicklung ueber Jahre. Kein Tag, kein Kunde, kein Vorfall. Der Leser nickt und scrollt weiter, weil nichts passiert.
+
+Vier konkrete Unterschiede:
+1. **Szene.** 700: benannter Kunde, drei Wochentage, ein Ereignis. 250: keine Szene, nur ein Vorher-Nachher ueber Jahre.
+2. **Verlust.** 700: der Auftrag ist weg, messbar und sofort. 250: nichts geht verloren, es ist nur ungeschickt.
+3. **Das Bild.** 700: ein Chat mit Verlauf und Pointe. 250: eine Chatliste, also ein Zustand ohne Handlung. Ein Zustand erzeugt keine Verweildauer.
+4. **Der Hook.** Ich habe auf den Zielgruppen-Filter optimiert und dabei die Schaerfe verloren. Filtern und wehtun sind zwei Anforderungen, die beide erfuellt sein muessen. Der 700er filtert ueber die Situation (wer Offerten schreibt) statt ueber eine Zahl, und tut trotzdem weh.
+
+Konsequenz, ab 24.09. verbindlich: Jeder Post braucht EIN Ereignis an EINEM benannten Tag, bei dem jemand etwas verliert. Kein Post ueber eine Entwicklung. Regel 13 gilt auch dann, wenn der Aufbau formal stimmt.
 
 ## SAMMELDIAGNOSE 17.09.: drei Flops in Folge, und es lag nicht am Thema
 
@@ -171,6 +188,10 @@ Zweiter Punkt: Der 200er hatte ein Foto, der 250er nicht. Schwacher Beleg, deckt
     Danach genau ein Satz, der sagt was gebaut wird: "Genau das automatisiere ich. Dann denkt keiner mehr daran und es passiert trotzdem."
     Sprachwarnung (Florian, 21.09.): "wegbauen" ist kein Deutsch. Man baut keinen Ablauf weg. Ebenso raus: "Es faengt bei allen beim Gleichen an" (zweimal bei). Der Schlusssatz muss ein Satz sein, den ein Schweizer Handwerksberater so am Tisch sagen wuerde, und er muss den Schmerz aus der Aufzaehlung direkt aufloesen. Hier loest "dann denkt keiner mehr daran" genau das "ans Nachfassen denkt keiner" von zwei Zeilen vorher auf.
     Achtung: Das ist kein Widerspruch zur Themen-Regel 14. Offerten und Nachfassen sind als POST-THEMA verbrannt, als Aufzaehlung am Schluss sind sie das Produkt und gehoeren dort hin.
+
+23. ARGUMENT IST KEINE GESCHICHTE (Befund 24.09.2026, aus dem Vergleich 700 gegen 250): Ein Post, der eine Entwicklung beschreibt ("frueher war es so, heute ist es anders"), ist ein Argument und liegt bei 250. Ein Post, in dem an einem benannten Tag etwas passiert und jemand etwas verliert, ist eine Geschichte und liegt bei 700.
+    Pruefsatz vor dem Schreiben: An welchem Tag passiert es, wer ist beteiligt, und was genau ist danach weg? Wenn eine der drei Antworten fehlt, ist es noch ein Argument.
+    Gilt auch fuers Bild: ein Chat mit Verlauf und Pointe schlaegt eine Liste. Eine Liste zeigt einen Zustand, und ein Zustand erzeugt keine Verweildauer.
 
 ## Offene Tests
 
