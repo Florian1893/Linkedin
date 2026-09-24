@@ -24,7 +24,7 @@ Und keiner hat etwas falsch gemacht.
 
 Kommst du einen Tag zu spät, ruft der Kunde am Morgen an. Nach deiner Rechnung fragt nie jemand.
 
-Ich hänge die Rechnung an den Rapport. Kommt der rein, geht sie raus, und du gibst sie auf dem Handy frei. Dasselbe läuft bei der Offerte, beim Nachfassen und bei den Anfragen.
+Ich hänge die Rechnung an den Rapport. Reto füllt ihn auf dem Handy aus, du gibst die Rechnung frei und sie ist am selben Abend beim Kunden. Offerte, Nachfassen und Anfragen laufen genau gleich.
 
 Wie viele Tage liegen bei dir zwischen dem letzten Tag auf der Baustelle und der Rechnung?
 
