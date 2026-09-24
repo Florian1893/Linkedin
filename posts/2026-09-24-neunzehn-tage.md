@@ -57,6 +57,16 @@ Wie viele Tage liegen bei dir zwischen dem letzten Tag auf der Baustelle und der
 - plus 30 Tage Zahlungsfrist = 49 Tage = 7 Wochen, Geld am 31.10.
 - September hat 30 Tage, darum stimmen die 19 auf den Tag
 
+## Rechtlich geprueft am 24.09.
+
+Die Aussage "ab dem 1. Oktober laufen die 30 Tage" stimmt, weil die 30 Tage eine Vereinbarung auf der eigenen Rechnung sind und nicht ein Gesetz. Eine Rechnung vom 1. Oktober mit "zahlbar innert 30 Tagen" ist am 31. Oktober faellig. Der Kunde kann vorher gar nicht zahlen, weil er keine Rechnung hat.
+
+Gesetzlich ist die Lage sogar noch schaerfer zugunsten des Betriebs. Nach Art. 372 OR ist die Verguetung beim Werkvertrag bei der ABLIEFERUNG des Werkes zu zahlen, also am 12. September. Wer 30 Tage auf die Rechnung schreibt, verschenkt diese 30 Tage freiwillig, und wer die Rechnung 19 Tage spaeter schickt, verschenkt 49. Das ist ein Argument fuer den Post, nicht gegen ihn.
+
+Grenze: Bei Arbeit fuer einen Generalunternehmer oder unter SIA 118 stimmt der Satz nicht. Dort hat die Bauleitung zuerst eine Pruefzeit, und die Vertraege nennen oft 45 oder 60 Tage nach geprueter Rechnung. Im Post kommt kein GU vor, es ist Direktgeschaeft, darum passt es.
+
+Nebenpunkt fuer Kommentare: "Zahlbar innert 30 Tagen" ist eine Frist und kein Verfalltag. Der Kunde ist damit nicht automatisch in Verzug, dafuer braucht es nach Art. 102 Abs. 1 OR eine Mahnung. Eine Rechnung allein ist keine Mahnung.
+
 ## Bild
 
 fotos/bild-kalender.png — 20 Tage als Kacheln, 8 in Gelb fuer den Rapport, 11 in Rot fuer das Pult, letzte Kachel violett mit rotem Ring.

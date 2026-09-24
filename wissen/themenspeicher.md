@@ -70,4 +70,6 @@ Was bei dieser Groesse SEHR WOHL trifft (noch nicht gespielt):
 
 Sachliches, das in keinem Post falsch stehen darf:
 - Eine WhatsApp vom Vorarbeiter ist keine Abnahme. Nach SIA 118 braucht es eine gemeinsame Begehung und ein Protokoll mit Maengelliste.
+- Nach Art. 372 OR ist der Werklohn beim Werkvertrag bei der ABLIEFERUNG faellig, nicht bei Rechnungsstellung. Wer 30 Tage auf die Rechnung schreibt, verschenkt sie freiwillig. Das ist ein Argument FUER die Buero-Posts und darf in Kommentaren so verwendet werden.
+- "Zahlbar innert 30 Tagen" ist eine Frist und kein Verfalltag. Fuer den Verzug braucht es nach Art. 102 Abs. 1 OR eine Mahnung, eine Rechnung allein genuegt nicht.
 - "Ab Rechnungsdatum laufen 30 Tage" gilt beim Direktkunden. Nach SIA 118 hat die Bauleitung zuerst rund einen Monat Pruefzeit, GU-Vertraege nennen oft 45 bis 60 Tage nach gepruefter Rechnung. Also nie als Gesetz verkaufen, wenn im Post ein GU vorkommt.
