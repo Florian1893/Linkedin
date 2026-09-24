@@ -193,6 +193,10 @@ Zweiter Punkt: Der 200er hatte ein Foto, der 250er nicht. Schwacher Beleg, deckt
     Pruefsatz vor dem Schreiben: An welchem Tag passiert es, wer ist beteiligt, und was genau ist danach weg? Wenn eine der drei Antworten fehlt, ist es noch ein Argument.
     Gilt auch fuers Bild: ein Chat mit Verlauf und Pointe schlaegt eine Liste. Eine Liste zeigt einen Zustand, und ein Zustand erzeugt keine Verweildauer.
 
+24. ZAHLEN ALS ZAHLEN, MITARBEITER STATT LEUTE (Florian, 24.09.2026): Zwei Sprachregeln, die ab sofort fuer jeden Post und jedes Bild gelten.
+    Mengen und Daten werden als ZIFFERN geschrieben, nicht ausgeschrieben. Also "49 Tage" und nicht "neunundvierzig Tage", "am 12." und nicht "am zwoelften", "30 Tage" und nicht "dreissig Tage". Ziffern springen beim Scrollen ins Auge, ausgeschriebene Zahlen verschwinden im Fliesstext. Bei einem Post, der von einer Rechnung lebt, ist das der Unterschied zwischen gesehen und ueberlesen.
+    Fuer die Belegschaft heisst es MITARBEITER, nie "Leute". Gilt auch in Wendungen wie "deine Leute" und "vier Mann". Ausnahme: woertliche Rede im Bild darf umgangssprachlich bleiben.
+
 ## Offene Tests
 
 - Posting-Zeit 07:30 gegen 08:30, beide Dienstag oder Donnerstag.

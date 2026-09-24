@@ -7,21 +7,21 @@ Content-Säule: Unbequeme Wahrheit, durchgehend Du
 
 ## Post
 
-Deine Leute waren am zwölften fertig. Dein Geld kam neunundvierzig Tage später.
+Deine Mitarbeiter waren am 12. fertig. Dein Geld kam 49 Tage später.
 
-Nicht weil der Kunde schlecht zahlt. Er hat seine dreissig Tage sogar eingehalten.
+Nicht weil der Kunde schlecht zahlt. Er hat seine 30 Tage sogar eingehalten.
 
-Die Rapporte lagen bis zum zwanzigsten bei dir. Die Rechnung hast du geschrieben, als du Zeit hattest. Das war am ersten.
+Die Rapporte lagen bis zum 20. bei dir. Die Rechnung hast du geschrieben, als du Zeit hattest. Das war am 1.
 
-Ab dem ersten laufen die dreissig Tage. Nicht ab dem zwölften.
+Ab dem 1. laufen die 30 Tage. Nicht ab dem 12.
 
-Neunzehn Tage hast du selber dazugelegt. Bei jeder Baustelle.
+19 Tage hast du selber dazugelegt. Bei jeder Baustelle.
 
 Du bist nicht schlecht organisiert. Die Rechnung ist einfach das Einzige, das keiner anmahnt, solange sie nicht draussen ist.
 
 Auf der Baustelle zählt jede Stunde. Im Büro zählt keiner die Tage.
 
-Die Offerte tippst du selber. Ans Nachfassen denkt keiner. Die Anfrage liegt drei Tage. Und die Rechnung wartet, bis du Zeit hast.
+Die Offerte tippst du selber. Ans Nachfassen denkt keiner. Die Anfrage liegt 3 Tage. Und die Rechnung wartet, bis du Zeit hast.
 
 Genau das automatisiere ich. Dann geht die Rechnung raus, sobald der Rapport drin ist.
 
@@ -29,8 +29,8 @@ Wie viele Tage liegen bei dir zwischen dem letzten Arbeitstag und der Rechnung?
 
 ## Alternative Hooks
 
-1. Am zwölften war die Baustelle fertig. Die Rechnung ging am ersten raus. Rate mal, wer die neunzehn Tage bezahlt hat.
-2. Dein Kunde zahlt nach dreissig Tagen. Gerechnet ab dem Tag, an dem du die Rechnung schreibst, nicht ab dem Tag, an dem die Arbeit fertig ist.
+1. Am 12. war die Baustelle fertig. Die Rechnung ging am 1. raus. Rate mal, wer die 19 Tage bezahlt hat.
+2. Dein Kunde zahlt nach 30 Tagen. Gerechnet ab dem Tag, an dem du die Rechnung schreibst, nicht ab dem Tag, an dem die Arbeit fertig ist.
 
 ## Warum diese Fassung nach dem 250er
 
