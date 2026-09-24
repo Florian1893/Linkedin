@@ -2,7 +2,7 @@
 
 Datum: 2026-09-24 (Donnerstag), 07:30
 Format: Standardformel vom 700er, streng als Geschichte. Ein Ereignis, benannte Tage, ein messbarer Verlust.
-Bild: fotos/bild-49tage.png (Scrollstopper, die 49 riesig, 30 Tage durchgestrichen). Alternativen: fotos/bild-kalender.png (Kalender), fotos/bild-rechnung.png (Chatverlauf).
+Bild: fotos/bild-kalender.png (20 Tageskacheln, 18 davon rot). Alternativen: fotos/bild-49tage.png (grosse Zahl), fotos/bild-rechnung.png (Chatverlauf).
 Content-Säule: Unbequeme Wahrheit, durchgehend Du
 
 ## Post
@@ -67,26 +67,25 @@ Rechnungslauf und Liquidität. Steht im Produktkern (manuelle Büroabläufe), wa
 
 ## Bild
 
-fotos/bild-49tage.png. Scrollstopper, nicht Infografik.
+fotos/bild-kalender.png. Kalender, aber als Scrollstopper gebaut.
 
-Der Kalender davor war korrekt und informativ, aber im Feed liest man ihn erst beim Reinzoomen. Zwei graue Raster sehen im Daumenkino aus wie eine Tabelle. Florian am 24.09.: sollte ein Scrollstopper sein.
+Erste Kalenderfassung zeigte zwei komplette Monatsraster auf hellem Grund. Korrekt, aber im Feed liest man das als Tabelle und scrollt weiter. Sechzig kleine Kacheln konkurrieren miteinander, keine dominiert.
 
-Diese Fassung hat ein einziges grosses Element. Die 49 füllt ein Drittel des Bildes und ist auch als Vorschaubild unübersehbar.
+Diese Fassung zeigt nur die Strecke, um die es geht: den 12. September bis zum 1. Oktober. Zwanzig Kacheln statt sechzig, dafür jede 172 Pixel hoch.
 
-Aufbau von oben nach unten:
-- Kontextzeile klein: "Baustelle fertig am 12. September"
-- "30 Tage Zahlungsfrist", von Hand rot durchgestrichen
-- 49 in Rot, 392 Pixel hoch, daneben "Tage"
-- "hat es gedauert, bis das Geld da war."
-- Fussblock mit violettem Balken: "19 Tage davon hast du selber dazugelegt." und darunter der Grund
+- 12. September grün, "fertig"
+- 13. bis 30. September rot, achtzehn Kacheln am Stück
+- 1. Oktober violett, "Rechnung", rot von Hand eingekringelt
 
-Dunkler Grund, weil der LinkedIn-Feed hell ist. Ein dunkles Bild sticht beim Scrollen heraus, bevor man überhaupt liest.
+Die achtzehn roten Kacheln füllen zwei Drittel des Bildes. Das sieht man als Vorschaubild auf dem Handy, ohne ein Wort zu lesen. Grün, dann eine Wand aus Rot, dann violett. Die Geschichte in zwei Sekunden.
 
-Die Machart ist dieselbe wie beim Offerten-Bild vom 10.09. (durchgestrichener alter Wert, riesige neue Zahl), das Florian damals ausdrücklich so wollte. Neu ist, dass sie rein typografisch ist und ohne Foto auskommt.
+Dunkler Grund, weil der Feed hell ist.
 
-Kalender und Chatverlauf liegen als Alternativen im Repo.
+Die Überschrift nennt die Zahl, der Fussblock die Erklärung. Damit funktioniert das Bild auch allein, wenn jemand den Text nicht aufklappt.
 
-Rendern: node fotos/render-49tage.js
+Alternativen im Repo: bild-49tage.png (eine grosse Zahl, noch härter, aber ohne Kalenderlogik) und bild-rechnung.png (Chatverlauf).
+
+Rendern: node fotos/render-kalender.js
 
 ## Ergebnis
 

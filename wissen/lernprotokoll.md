@@ -199,7 +199,8 @@ Zweiter Punkt: Der 200er hatte ein Foto, der 250er nicht. Schwacher Beleg, deckt
 
 ## Offene Tests
 
-**Kalender als zweite Bildart (24.09.).** Florian: nicht immer ein Chatverlauf. Vier Chat-Bilder hintereinander nutzen sich ab. Der Post vom 24.09. laeuft darum mit zwei Monatsrastern, in denen die 19 verlorenen Tage flaechig rot eingefaerbt sind. Unterschied zur gefloppten Zahlengrafik (100): dort stand ein Betrag auf einem Foto, hier ist es ein Kalender, den jeder Inhaber sofort liest, und die Zahl wird zu einer Flaeche statt zu einer Ziffer. Ueber 350 heisst: Kalender ist als zweite Bildart bestaetigt und die Chats bekommen eine Pause.
+**Kalender als zweite Bildart (24.09.).** Zweite Lektion aus derselben Runde: eine Infografik muss genauso ein Scrollstopper sein wie ein Foto. Die erste Kalenderfassung zeigte zwei komplette Monate auf hellem Grund, also sechzig kleine Kacheln, von denen keine dominiert. Im Feed liest man das als Tabelle. Die zweite Fassung zeigt nur die Strecke, um die es geht (20 Kacheln statt 60, jede 172 Pixel hoch, achtzehn davon rot am Stueck, dunkler Grund). Merksatz: EIN Element muss das Bild beherrschen, und es muss ohne Text funktionieren.
+ Florian: nicht immer ein Chatverlauf. Vier Chat-Bilder hintereinander nutzen sich ab. Der Post vom 24.09. laeuft darum mit zwei Monatsrastern, in denen die 19 verlorenen Tage flaechig rot eingefaerbt sind. Unterschied zur gefloppten Zahlengrafik (100): dort stand ein Betrag auf einem Foto, hier ist es ein Kalender, den jeder Inhaber sofort liest, und die Zahl wird zu einer Flaeche statt zu einer Ziffer. Ueber 350 heisst: Kalender ist als zweite Bildart bestaetigt und die Chats bekommen eine Pause.
 
 - Posting-Zeit 07:30 gegen 08:30, beide Dienstag oder Donnerstag.
 - Laenge Richtung 1300 Zeichen statt 1100, ob die Verweildauer das traegt.

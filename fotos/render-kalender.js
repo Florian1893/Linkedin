@@ -6,15 +6,13 @@ const {chromium}=require('playwright');
   await p.evaluate(()=>document.fonts.ready);
   await p.waitForTimeout(900);
   const o=await p.evaluate(()=>{
-    const s=document.querySelector('.s').getBoundingClientRect();
+    const g=document.querySelector('.grid').getBoundingClientRect();
     const f=document.querySelector('.foot').getBoundingClientRect();
-    const last=[...document.querySelectorAll('.wk')].pop().getBoundingClientRect();
-    const labs=[...document.querySelectorAll('.lab')].map(e=>{const r=e.getBoundingClientRect();
-      return (r.left<4||r.right>1076)?'RAGT RAUS: '+e.textContent:null;}).filter(Boolean);
-    return {kringel:!!window.__ok, luft:Math.round(f.top-last.bottom), labels:labs};
+    return {kringel:!!window.__ok, zellen:document.querySelectorAll('.c').length,
+            rot:document.querySelectorAll('.c.rot').length,
+            luft:Math.round(f.top-g.bottom)};
   });
-  console.log('Kringel gezeichnet:',o.kringel,'| Luft zwischen Kalender und Fuss:',o.luft+'px');
-  console.log('Beschriftungen:',o.labels.length?o.labels.join(' | '):'alle im Rahmen');
+  console.log('Kringel:',o.kringel,'| Zellen:',o.zellen,'davon rot:',o.rot,'| Luft Raster zu Fuss:',o.luft+'px');
   await (await p.$('.s')).screenshot({path:__dirname+'/bild-kalender.png'});
   await b.close(); console.log('ok');
 })();
