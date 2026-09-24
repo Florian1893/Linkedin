@@ -2,7 +2,7 @@
 
 Datum: 2026-09-24 (Donnerstag), 07:30
 Format: Standardformel vom 700er, streng als Geschichte. Ein Ereignis, benannte Tage, ein messbarer Verlust.
-Bild: fotos/bild-rechnung.png (Chat über sieben Wochen, Pointe rot unterstrichen)
+Bild: fotos/bild-kalender.png (zwei Monatskalender, die 19 Tage rot flächig). Alternative: fotos/bild-rechnung.png (Chatverlauf).
 Content-Säule: Unbequeme Wahrheit, durchgehend Du
 
 ## Post
@@ -67,18 +67,25 @@ Rechnungslauf und Liquidität. Steht im Produktkern (manuelle Büroabläufe), wa
 
 ## Bild
 
-fotos/bild-rechnung.png. Gruppenchat mit drei Datumstrennern über sieben Wochen. Wieder ein Verlauf, keine Liste. Genau das war der Unterschied zwischen 700 und 250.
+fotos/bild-kalender.png. Kein Chat, auf Florians Wunsch vom 24.09. ("nicht immer ein Chatverlauf"). Vier Chat-Bilder hintereinander nutzen sich ab.
 
-Der Ablauf im Bild ist derselbe wie im Text:
-- 12. September, Marco: "Meier ist fertig. Sauber übergeben." Reto gleich danach: "Rapport mache ich morgen."
-- 1. Oktober, der Chef: "Rechnung Meier ist draussen." Marco: "Die war noch nicht raus?" Der Chef: "Rapporte kamen erst am zwanzigsten."
-- 31. Oktober, Nadine, rot unterstrichen: "Zahlung Meier ist da. Sieben Wochen nach Abschluss."
+Zwei Monatsraster, September und Oktober, mit vier Markierungen:
+- 12. September grün, "fertig"
+- 20. September gelb, "Rapport"
+- 1. Oktober violett, "Rechnung", zusätzlich rot von Hand eingekringelt
+- 31. Oktober grün, "Geld da"
 
-Der Satz "Rapport mache ich morgen" ist der Zündfunke der ganzen Geschichte und steht ganz oben. Wer das Bild zweimal anschaut, sieht wo die neunzehn Tage anfangen.
+Die 18 Tage zwischen dem 12. und dem 30. September sind flächig rot eingefärbt. Damit werden die 19 Tage aus der Überschrift zu einer Fläche, die man sieht, statt zu einer Zahl, die man liest. Das ist der ganze Trick an diesem Bild.
 
-Niemand im Chat macht etwas falsch. Genau das ist der Punkt.
+Der Oktober ist bewusst neutral. Die 30 Tage Zahlungsfrist sind vereinbart und in Ordnung, nur der rote Block davor ist selbst gemacht.
 
-Rendern: node fotos/render-rechnung.js
+Fussblock nennt die Zahl und die Erklärung in zwei Zeilen, damit das Bild auch ohne Text funktioniert.
+
+Offener Test: erste Infografik in diesem System. Bisher haben Chat-Bilder geliefert (700) und Zahlengrafiken nicht (100). Der Unterschied zur alten Zahlengrafik: hier steht kein Betrag auf einem Foto, sondern ein Kalender, den jeder Inhaber sofort liest. Wenn dieser Post über 350 landet, ist der Kalender als zweite Bildart bestätigt.
+
+Der Chatverlauf bleibt als Alternative liegen unter fotos/bild-rechnung.png.
+
+Rendern: node fotos/render-kalender.js
 
 ## Ergebnis
 
