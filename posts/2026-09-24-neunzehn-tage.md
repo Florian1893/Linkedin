@@ -7,17 +7,19 @@ Content-Säule: Unbequeme Wahrheit, durchgehend Du
 
 ## Post
 
-Deine Mitarbeiter waren am 12. fertig. Dein Geld kam 49 Tage später.
+Der Kunde hat pünktlich gezahlt. Trotzdem hast du 7 Wochen auf dein Geld gewartet.
 
-Nicht weil der Kunde schlecht zahlt. Er hat seine 30 Tage sogar eingehalten.
+Am 12. schreibt Marco in die Gruppe, die Baustelle sei fertig und sauber übergeben. Du schreibst zurück, top, danke euch.
 
-Die Rapporte lagen bis zum 20. bei dir. Die Rechnung hast du geschrieben, als du Zeit hattest. Das war am 1.
+Reto sagt, den Rapport mache er morgen. Aus morgen wird der 20.
+
+Die Rechnung hast du geschrieben, als du Zeit hattest. Das war am 1.
 
 Ab dem 1. laufen die 30 Tage. Nicht ab dem 12.
 
-19 Tage hast du selber dazugelegt. Bei jeder Baustelle.
+19 Tage hast du selber dazugelegt. Und keiner hat etwas falsch gemacht.
 
-Du bist nicht schlecht organisiert. Bei der Rechnung ruft einfach keiner an und fragt, wo sie bleibt.
+Bei der Rechnung ruft ja auch keiner an und fragt, wo sie bleibt.
 
 Auf der Baustelle zählt jede Stunde. Im Büro zählt keiner die Tage.
 
@@ -29,8 +31,8 @@ Wie viele Tage liegen bei dir zwischen dem letzten Arbeitstag und der Rechnung?
 
 ## Alternative Hooks
 
-1. Am 12. war die Baustelle fertig. Die Rechnung ging am 1. raus. Rate mal, wer die 19 Tage bezahlt hat.
-2. Dein Kunde zahlt nach 30 Tagen. Gerechnet ab dem Tag, an dem du die Rechnung schreibst, nicht ab dem Tag, an dem die Arbeit fertig ist.
+1. Deine Mitarbeiter waren am 12. fertig. Dein Geld kam 49 Tage später.
+2. Reto sagt, den Rapport mache er morgen. Aus morgen wird der 20. Und aus dem 20. wird der 1.
 
 ## Warum diese Fassung nach dem 250er
 
@@ -43,7 +45,15 @@ Dieser Post ist streng eine Geschichte:
 
 Die Rechnung ist nachrechenbar. Fertig am 12. September, Rechnung am 1. Oktober, das sind exakt neunzehn Tage. Dazu die dreissig Tage Zahlungsfrist ab Rechnungsdatum, Zahlung also am 31. Oktober, das sind neunundvierzig Tage nach Abschluss statt dreissig. Nachgerechnet und korrekt. Florian kann das im Kommentarfeld in zwei Zeilen erklären.
 
-Der zweite Satz nimmt sofort die naheliegende Ausrede weg. Es liegt nicht am Kunden, der hat sich an die Frist gehalten.
+Fassung eins rechnete, statt zu erzählen. Sie war korrekt und kalt. Florian am 24.09.: menschlicher und hookiger.
+
+Der Hook ist jetzt ein Widerspruch, den der Leser aufgelöst haben will. Der Kunde zahlt pünktlich, und trotzdem wartest du 7 Wochen. Wie soll das gehen. Ausserdem nimmt der erste Satz sofort den Schuldigen weg, den jeder erwartet.
+
+Menschlich wird der Körper durch echte Sätze statt Daten. Marco schreibt in die Gruppe, die Baustelle sei fertig und sauber übergeben. Du schreibst zurück, top, danke euch. Reto sagt, den Rapport mache er morgen.
+
+"Aus morgen wird der 20." ist der Satz, den jeder Inhaber kennt. Er erklärt die halbe Verzögerung und klagt trotzdem niemanden an.
+
+"Und keiner hat etwas falsch gemacht" ersetzt die frühere Entlastungszeile. Sie sagt dasselbe, aber als Feststellung statt als Beruhigung.
 
 Merksatz und Positionierung in einem: "Auf der Baustelle zählt jede Stunde. Im Büro zählt keiner die Tage."
 
