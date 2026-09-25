@@ -141,7 +141,7 @@ Auch bei Werdegang gilt: nicht die Stationen aufzaehlen, sondern EINEN scharfen 
 
 (Fuenfzehn-Minuten-Variante ist Claudes Vorschlag vom 12.09., an die Endfassung angepasst, von Florian noch nicht einzeln abgenommen.)
 
-**Follow-ups zum neuen Format:** Vorlagen unten, mit zwei Anpassungen: FU1 sagt "Falls die kostenlose Analyse gerade nichts fuer dich ist", FU2 sagt "fuenfzehn Minuten am Telefon statt Analyse und Aufbau". Bei der Fuenfzehn-Minuten-Variante ist FU2 nur noch "letzter kurzer Ping" plus individueller Satz plus die Viertelstunden-Frage, weil es nichts Kleineres mehr gibt.
+**Follow-ups zum neuen Format:** Ab 25.09.2026 nur noch FU1, Text siehe unten ("Falls die gratis Automatisierung gerade nichts fuer dich ist"). FU2 ist abgeschafft (Florian: "ich mach nur 1 fu habe ich beschlossen"), der Rest dieses Abschnitts (FU2-Vorlage, Fuenfzehn-Minuten-Variante) ist nur noch historische Referenz.
 
 ## Struktur der Pitch-Message (5 Bausteine, feste Reihenfolge, Fassung bis 11.09.2026)
 
@@ -186,7 +186,9 @@ Gilt fuer die 5-Baustein-Fassung bis 11.09.2026. Fuer die Endfassung ab 12.09. z
 
 Ab 12.09.2026: "Falls die kostenlose Analyse gerade nichts fuer dich ist" statt "Falls die Prozessanalyse". Ab 25.09.2026 (Florian): erst zu "gratis Prozess", dann direkt zu "gratis Automatisierung" korrigiert, passend zum No-Brainer-Format (Analyse gratis plus erster Prozess gratis).
 
-**Follow-up 2 (weitere 4 bis 5 Tage spaeter, letzter Ping) — NEUE FASSUNG ab 08.09.2026:**
+**Follow-up 2 — ABGESCHAFFT (Florian, 25.09.2026): "ich mach nur 1 fu habe ich beschlossen".** Ab sofort nur noch FU1, danach ist die Sequenz durch, keine weitere Nachricht mehr. Vorlage unten bleibt nur als historische Referenz stehen (galt bis 24.09.2026).
+
+**Follow-up 2 (weitere 4 bis 5 Tage spaeter, letzter Ping) — NEUE FASSUNG ab 08.09.2026, GUELTIG BIS 24.09.2026:**
 > Hallo [Name], letzter kurzer Ping, danach lasse ich dich in Ruhe. [Ein individueller Satz zum Lead.] Machen wir es kleiner: fuenfzehn Minuten am Telefon statt einer halben Stunde vor Ort, und du hoerst, wo ich bei euch Zeit liegen sehe. Waere dir das eine Viertelstunde wert?
 
 Ab 12.09.2026 (Endfassung): "fuenfzehn Minuten am Telefon statt Analyse und Aufbau" statt "statt einer halben Stunde vor Ort".
