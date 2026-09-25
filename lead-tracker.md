@@ -8,7 +8,9 @@ Stand: 2026-09-12. 51 Erstnachrichten plus 69 Follow-ups. Neu ab 12.09.: No-Brai
 
 **NUR NOCH 1 FOLLOW-UP (Florian, 25.09.2026):** Kein FU2 mehr. Nach FU1 ohne Antwort ist die Sequenz durch, keine weitere Nachricht. Bestehende FU2-Faelligkeiten, die noch nicht tatsaechlich versendet waren, wurden geloescht (Spalte auf "-"). Bereits historisch versendete FU2 (Status FU2, "FU2 raus ...") bleiben als Fakt stehen, das war vor dem Entscheid.
 
-**Status-Codes:** ENTWURF (Nachricht bereit, noch nicht gesendet) | PENDENT (Vernetzungsanfrage offen) | GESENDET | FU1 | FU2 (nur noch historisch, ab 25.09. keine neuen FU2 mehr) | ANTWORT | TERMIN | GEWONNEN | VERLOREN (nachgefasst, keine Antwort — nicht mehr anschreiben; bis 24.09. nach 2x nachfassen, ab 25.09. nach 1x FU1) | ABGELEHNT | NICHT ANSCHREIBEN (bewusst zu, z.B. zweite Person derselben Firma)
+**AUTOMATIK VERLOREN (Florian, 25.09.2026): "mach nach einer Woche ohne Antwort nach FU1 kannst du auf verloren setzen".** Jeder Lead mit Status FU1, dessen FU1-Datum 7 Tage oder laenger zurueckliegt und der weiterhin keine Antwort hat (Antwort-Spalte "-"), wird automatisch auf VERLOREN gesetzt — ohne Rueckfrage bei Florian. Das passiert selbststaendig im taeglichen Notion-Sync-Trigger (inkl. Commit/Push von lead-tracker.md).
+
+**Status-Codes:** ENTWURF (Nachricht bereit, noch nicht gesendet) | PENDENT (Vernetzungsanfrage offen) | GESENDET | FU1 | FU2 (nur noch historisch, ab 25.09. keine neuen FU2 mehr) | ANTWORT | TERMIN | GEWONNEN | VERLOREN (nachgefasst, keine Antwort — nicht mehr anschreiben; bis 24.09. nach 2x nachfassen, ab 25.09. automatisch 7 Tage nach FU1 ohne Antwort) | ABGELEHNT | NICHT ANSCHREIBEN (bewusst zu, z.B. zweite Person derselben Firma)
 
 ## KPI-Kette (kumuliert)
 
