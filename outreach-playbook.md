@@ -182,9 +182,9 @@ Gilt fuer die 5-Baustein-Fassung bis 11.09.2026. Fuer die Endfassung ab 12.09. z
 ## Follow-up-Vorlagen
 
 **Follow-up 1 (Tag 3 bis 4):**
-> Hallo [Name], wollte kurz nachhaken, so eine Nachricht geht im Tagesgeschaeft schnell unter. Falls die Prozessanalyse gerade nichts fuer dich ist, voellig okay, kurzes Nein reicht.
+> Hallo [Name], wollte kurz nachhaken, so eine Nachricht geht im Tagesgeschaeft schnell unter. Falls der gratis Prozess gerade nichts fuer dich ist, voellig okay, kurzes Nein reicht.
 
-Ab 12.09.2026 (Endfassung): "Falls die kostenlose Analyse gerade nichts fuer dich ist" statt "Falls die Prozessanalyse".
+Ab 12.09.2026: "Falls die kostenlose Analyse gerade nichts fuer dich ist" statt "Falls die Prozessanalyse". Ab 25.09.2026 (Florian): "kostenlose Analyse" durch "gratis Prozess" ersetzt, passend zum No-Brainer-Format (Analyse gratis plus erster Prozess gratis).
 
 **Follow-up 2 (weitere 4 bis 5 Tage spaeter, letzter Ping) — NEUE FASSUNG ab 08.09.2026:**
 > Hallo [Name], letzter kurzer Ping, danach lasse ich dich in Ruhe. [Ein individueller Satz zum Lead.] Machen wir es kleiner: fuenfzehn Minuten am Telefon statt einer halben Stunde vor Ort, und du hoerst, wo ich bei euch Zeit liegen sehe. Waere dir das eine Viertelstunde wert?
