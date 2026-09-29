@@ -217,6 +217,10 @@ Zweiter Punkt: Der 200er hatte ein Foto, der 250er nicht. Schwacher Beleg, deckt
 31. DER VERLUST IST LIQUIDITAET, NICHT ZINS (Expertenrunde 24.09.2026): Verlockend war, den Schaden in Franken zu rechnen. 19 Tage auf 80'000 Franken zu 5 Prozent sind rund 200 Franken, und die frisst das Zahlungsziel beim Lieferanten fast wieder auf. Eine Zahl, die bei naeherem Hinsehen klein wird, schadet mehr als keine Zahl.
     Der echte Schmerz bei 15 Mitarbeitern ist nicht der Zins, sondern dass Loehne und Material laengst bezahlt sind, waehrend das Geld noch unterwegs ist. Merksatz: bei Buero-Posts nie den Zinsverlust rechnen, sondern zeigen, was schon rausgegangen ist.
 
+35. CHAT-BILDER IM DU UND PRAEZISE (Florian, 29.09.2026): "duzen kennen sich meistens und praeziser". Architekt, Bauleiter, Lieferant und Handwerker kennen sich in der Regel und duzen sich. Ein "Sie" im Chat verraet sofort, dass der Absender die Branche nicht von innen kennt, und dann glaubt der Leser auch dem Rest nicht.
+    Dazu Schweizer Ton in der Chat-Sprache: Hoi, Merci, Sorry. Und Details, die nur ein Insider so schreibt: Objektart (MFH), Anzahl Wohnungen, "Plaene hast du per Mail", der Bauherr, der diese Woche entscheiden will. Lieber drei kurze Nachrichten hintereinander als eine lange, so schreibt man wirklich, und es bricht die Zeilen sauber.
+    Grenze: Nie Details aus einem echten Kundengespraech ins Bild, also keine Adresse, keine echte Wohnungszahl, keine Betraege. Die Praezision muss erfunden-typisch sein, nicht zurueckverfolgbar.
+
 ## Diagnose 120 (Post vom 29.09., "90 Stunden im Excel")
 
 Florian am 29.09.: "schlecht 120". Unter dem Median von 180, ein Sechstel der 700. Bitter, weil es der erste Post aus einer eigenen belegten Quelle war. Die Quelle war gut, der Post hat sie falsch benutzt. Vier Ursachen, nach Schadenswirkung:
