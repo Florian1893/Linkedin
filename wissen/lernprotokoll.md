@@ -19,6 +19,7 @@ Alle Posts nach Impressions. Startbestand uebernommen aus dem Skill `betriebsflo
 | 200 | Folge 1 "Laeuft dein Betrieb einen Tag ohne dich" (08.09., mit Foto) | Dialog-Hook | A | Dreimal der 65er, knapp ueber Median. Struktur des 1014ers allein reicht nicht, siehe Zaehlbarkeits-Befund |
 | 184 | Millionaer-Zitat | Zitat | - | Zitat braucht erst Kontext, wirkt nicht kalt |
 | 176 | KI-Feature-Katalog mit Pfeilen | Liste | - | Format floppt bei dieser Zielgruppe |
+| 120 | 90 Stunden im Excel (29.09., mit Balkengrafik) | Zahl ohne Leser | B | Unter dem Median. Erster Post aus einer eigenen belegten Quelle und trotzdem Flop. In Zeile eins kommt der Leser nicht vor, und der Schmerz gehoert der Buerokraft. Diagnose unten |
 | 120 | Google-Bewertungen | Frage | - | Frage selbst beantwortet, Werbeblock am Schluss |
 | 113 | KI im Handwerk (Wissens-Post, 27.08.) | These | - | Auch als Denkmodell statt Liste verpackt floppt Wissen. Vierter Beleg |
 | 100 | Offerten-Resultat (10.09., "15 Stunden pro Monat", mit Foto) | Zahl | - | Verbranntes Thema plus Produktname am Schluss plus Einzelbild, siehe Diagnose |
@@ -215,6 +216,26 @@ Zweiter Punkt: Der 200er hatte ein Foto, der 250er nicht. Schwacher Beleg, deckt
 
 31. DER VERLUST IST LIQUIDITAET, NICHT ZINS (Expertenrunde 24.09.2026): Verlockend war, den Schaden in Franken zu rechnen. 19 Tage auf 80'000 Franken zu 5 Prozent sind rund 200 Franken, und die frisst das Zahlungsziel beim Lieferanten fast wieder auf. Eine Zahl, die bei naeherem Hinsehen klein wird, schadet mehr als keine Zahl.
     Der echte Schmerz bei 15 Mitarbeitern ist nicht der Zins, sondern dass Loehne und Material laengst bezahlt sind, waehrend das Geld noch unterwegs ist. Merksatz: bei Buero-Posts nie den Zinsverlust rechnen, sondern zeigen, was schon rausgegangen ist.
+
+## Diagnose 120 (Post vom 29.09., "90 Stunden im Excel")
+
+Florian am 29.09.: "schlecht 120". Unter dem Median von 180, ein Sechstel der 700. Bitter, weil es der erste Post aus einer eigenen belegten Quelle war. Die Quelle war gut, der Post hat sie falsch benutzt. Vier Ursachen, nach Schadenswirkung:
+
+**1. In den ersten zwei Zeilen kommt der Leser nicht vor.** "90 Stunden zu viel auf einem Stundenkonto. 6 Monate lang hat es niemand gemerkt." Kein Du, kein Dein, nichts. LinkedIn zeigt rund zwei Zeilen vor "mehr anzeigen", und in diesen zwei Zeilen stand eine fremde Zahl. Der 700er begann mit "Der Kunde hat puenktlich gezahlt. Trotzdem hast DU 7 Wochen gewartet", der 662er mit "Du bist der teuerste Mitarbeiter". Das ist Regel 18, und ich habe sie gebrochen, weil die Zahl so stark aussah. Eine Zahl ersetzt den Leser nicht.
+
+**2. Der Schmerz gehoert der Buerokraft, nicht dem Inhaber.** Spalten aus der Zeiterfassung ins Excel abtippen macht er nicht selber. Ein falsch erfasstes Stundenkonto ist ein Lohnbuchhaltungsfehler. Das bedroht ihn nicht, das aergert jemand anderen. Regel 9a sagt es seit Wochen: bei 10 bis 20 Mitarbeitern ist der Schmerz nie "zu viel Bueroarbeit", sondern "das kann sonst niemand". Ich habe ein Buerothema gewaehlt, das er delegiert hat.
+
+**3. Keine Person im Post.** Die drei besten Posts haben alle einen Menschen drin: der Maler im 1014er, der Leser selbst im 700er und im 662er. Im 120er kommen vor: ein Excel, eine Zeiterfassung, eine Monatsuebersicht. "Ein Mitarbeiter" bleibt namenlos und stumm. Ueber eine Tabelle empoert sich niemand.
+
+**4. Der Verlust ist weich.** "Die werden irgendwann ausbezahlt oder abgefeiert." Das war ehrlich, weil im Protokoll kein Betrag steht, aber es ist kein Verlust, es ist eine Verschiebung. Regel 23 fragt: welcher Tag, wer, was ist weg. Auf die dritte Frage gibt es hier keine Antwort.
+
+Was NICHT die Ursache war: die Quelle. Das Protokoll ist das beste Material im ganzen Repo. Und auch nicht die Laenge oder die Kommas, die waren sauber.
+
+32. DIE ERSTEN 140 ZEICHEN ENTSCHEIDEN, UND SIE GEHOEREN DEM LESER (aus der 120er-Diagnose, 29.09.2026): Regel 18 wird verschaerft. Es genuegt nicht, dass der Post dem Leser gehoert. Ein "du" oder "dein" muss im SICHTBAREN Teil stehen, also in den ersten rund 140 Zeichen vor "mehr anzeigen". Test vor dem Abschicken: die ersten zwei Zeilen abdecken und fragen, ob dort ein Wort steht, das den Leser meint. Wenn nein, umschreiben, auch wenn die Zahl dadurch spaeter kommt.
+
+33. EINE ZAHL IM HOOK IST KEIN HOOK (aus der 120er-Diagnose, 29.09.2026): Der 100er hatte "15 Stunden pro Monat" im Hook, der 120er "90 Stunden". Beide floppten. Der 700er hat seine Zahl erst in der Mitte. Eine Zahl beweist etwas, aber sie zieht niemanden rein, weil sie erst mit Kontext weh tut. Zahlen gehoeren in die Mitte oder ins Bild, in Zeile eins gehoert der Leser.
+
+34. BILDART, STAND 29.09.2026: Belegt ist bisher nur, dass Dialog-Bilder tragen. Der 700er lief mit einem WhatsApp-Verlauf mit rotem Strich, der 1014er mit einem Dialog im Text. Der 120er lief mit einer Balkengrafik. Damit steht eine Zahlen- bzw. Datengrafik zum zweiten Mal in einem Flop (nach dem 100er mit Zahl auf Foto). Der Kalender vom 24.09. ist noch ohne Zahl und damit ungeklaert. Vorgehen bis zur naechsten Zahl: zurueck zum Dialog-Bild, auch wenn Florian Abwechslung will. Abwechslung kostet gerade Reichweite, und Reichweite ist knapper als Abwechslung.
 
 ## Offene Tests
 
