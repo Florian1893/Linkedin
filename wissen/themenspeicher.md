@@ -73,3 +73,21 @@ Sachliches, das in keinem Post falsch stehen darf:
 - Nach Art. 372 OR ist der Werklohn beim Werkvertrag bei der ABLIEFERUNG faellig, nicht bei Rechnungsstellung. Wer 30 Tage auf die Rechnung schreibt, verschenkt sie freiwillig. Das ist ein Argument FUER die Buero-Posts und darf in Kommentaren so verwendet werden.
 - "Zahlbar innert 30 Tagen" ist eine Frist und kein Verfalltag. Fuer den Verzug braucht es nach Art. 102 Abs. 1 OR eine Mahnung, eine Rechnung allein genuegt nicht.
 - "Ab Rechnungsdatum laufen 30 Tage" gilt beim Direktkunden. Nach SIA 118 hat die Bauleitung zuerst rund einen Monat Pruefzeit, GU-Vertraege nennen oft 45 bis 60 Tage nach gepruefter Rechnung. Also nie als Gesetz verkaufen, wenn im Post ein GU vorkommt.
+
+## BELEGTES MATERIAL aus der Prozessanalyse vom 28.09.2026
+
+Quelle: eigene Gespraechsaufnahme, 42 Minuten, Sanitaer und Gebaeudetechnik, rund 12 Mitarbeitende. Das ist die erste eigene, dokumentierte Quelle im Speicher und damit wertvoller als jede Studie. Alles hier darf verwendet werden, aber IMMER anonymisiert: kein Firmenname, keine Adresse, keine Software-Namen, keine Preise, keine Stundensaetze. Das Dokument traegt den Vermerk vertraulich.
+
+GESPIELT am 29.09.: die 90 Stunden. "Falsch geschriebene Stunden fallen spaet auf, Beispiel ein Mitarbeiter mit ca. 90 Std. zu viel innert sechs Monaten." Dazu die Doppelerfassung, Spalten aus der Zeiterfassung werden von Hand ins Excel abgetippt.
+
+NOCH FREI, alles woertlich aus dem Protokoll:
+- Reaktionszeit auf Anfragen teils bis 72 Stunden. "Rueckmeldung teils erst nach drei Tagen, bis dann hat der Kunde anders entschieden."
+- "Konkret verloren: ein Architekt und mehrere Familien, weil die Offerte nicht rechtzeitig rausging." Das ist der bisher haerteste belegte Verlust im ganzen Speicher.
+- "Das Geld liegt bei den Privatkunden, genau dort geht am meisten verloren."
+- "Kein Wiedervorlage-System; ob nachgefasst wird, haengt an der freien Zeit des Inhabers."
+- Nachkalkulation: 12 Stunden offeriert, 19 gebraucht. Mehrstunden nur mit Begruendung verrechenbar.
+- Ueberfaellige Rechnungen werden nur rot angezeigt, keine Benachrichtigung, keine automatische Mahnung, Zahlungseingaenge werden von Hand kontrolliert.
+- "Ablaeufe sind nicht dokumentiert, fuer jeden Neuen muss alles neu erklaert werden."
+- Preisdruck: grosse Firmen offerieren teils unter Kosten, um ihre Leute auszulasten. Heikel, weil es ueber Dritte urteilt. Nur als Zitat des Inhabers verwendbar, nie als eigene Behauptung.
+
+WARNUNG ZUR EHRLICHKEIT: Im Protokoll steht "falsch geschriebene Stunden". Das ist ein Fehler beim Abtippen, kein Betrug. Nie zu einem Vorwurf gegen Mitarbeitende machen. Und nie einen Frankenbetrag daraus rechnen, der Verrechnungssatz ist nicht der Lohn.

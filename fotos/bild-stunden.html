@@ -1,0 +1,61 @@
+<!doctype html><html lang="de"><head><meta charset="utf-8">
+<style>
+@font-face{font-family:'Inter';font-weight:400;src:url(inter-2.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:500;src:url(inter-3.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:800;src:url(inter-8.ttf) format('truetype');}
+*{margin:0;padding:0;box-sizing:border-box;}
+.s{width:1080px;height:1350px;position:relative;overflow:hidden;
+ background:radial-gradient(120% 85% at 20% 2%,#1d2434 0%,#111620 58%,#0b0e14 100%);
+ font-family:'Inter',Helvetica,Arial,sans-serif;color:#fff;padding:60px 64px 0;}
+.kick{font-size:27px;font-weight:500;letter-spacing:2.4px;text-transform:uppercase;opacity:.52;}
+h1{font-size:74px;font-weight:800;letter-spacing:-2.6px;line-height:1.05;margin-top:14px;}
+h1 em{font-style:normal;color:#ef4444;}
+.tbl{margin-top:40px;display:flex;flex-direction:column;gap:12px;}
+.r{height:110px;position:relative;display:flex;align-items:center;border-radius:18px;
+ background:#171d2a;overflow:hidden;}
+.bar{position:absolute;left:0;top:0;bottom:0;background:#ef4444;opacity:.30;}
+.r.last .bar{opacity:1;}
+.mo{position:relative;font-size:34px;font-weight:500;letter-spacing:-.3px;margin-left:34px;opacity:.9;}
+.r.last .mo{font-weight:800;opacity:1;}
+.v{position:relative;margin-left:auto;margin-right:40px;font-size:54px;font-weight:800;
+ letter-spacing:-2px;color:#fff;}
+.r.last .v{font-size:66px;}
+.foot{position:absolute;left:64px;right:64px;bottom:58px;}
+.bar2{width:96px;height:9px;background:#8B7CF6;border-radius:5px;margin-bottom:22px;}
+.f1{font-size:41px;font-weight:800;letter-spacing:-1.2px;line-height:1.2;}
+.f2{font-size:29px;font-weight:400;opacity:.58;margin-top:13px;}
+svg.mk{position:absolute;left:0;top:0;width:1080px;height:1350px;pointer-events:none;}
+</style></head><body>
+<div class="s">
+  <div class="kick">&#220;berstunden, ein Mitarbeiter</div>
+  <h1>6 Monate lang hat<br>niemand <em>nachgerechnet</em>.</h1>
+  <div class="tbl">
+    <div class="r"><div class="bar" style="width:15.6%"></div><span class="mo">April</span><span class="v">+14</span></div>
+    <div class="r"><div class="bar" style="width:34.4%"></div><span class="mo">Mai</span><span class="v">+31</span></div>
+    <div class="r"><div class="bar" style="width:48.9%"></div><span class="mo">Juni</span><span class="v">+44</span></div>
+    <div class="r"><div class="bar" style="width:68.9%"></div><span class="mo">Juli</span><span class="v">+62</span></div>
+    <div class="r"><div class="bar" style="width:84.4%"></div><span class="mo">August</span><span class="v">+76</span></div>
+    <div class="r last"><div class="bar" style="width:100%"></div><span class="mo">September</span><span class="v">+90</span></div>
+  </div>
+  <div class="foot">
+    <div class="bar2"></div>
+    <div class="f1">Jeden Monat nur ein paar<br>Stunden daneben.</div>
+    <div class="f2">Im Excel sieht eine falsche Zahl aus wie eine richtige.</div>
+  </div>
+  <svg class="mk" id="mk" viewBox="0 0 1080 1350"></svg>
+</div>
+<script>
+document.fonts.ready.then(()=>{
+  const r=document.querySelector('.r.last .v').getBoundingClientRect();
+  const cx=r.left+r.width/2, cy=r.top+r.height/2, rx=r.width/2+34, ry=r.height/2+18;
+  const p=[];
+  for(let i=0;i<=64;i++){
+    const a=(i/64)*Math.PI*2*1.07-0.6;
+    const w=1+0.035*Math.sin(a*2.1+0.9);
+    p.push((i?'L':'M')+(cx+Math.cos(a)*rx*w).toFixed(1)+' '+(cy+Math.sin(a)*ry*w).toFixed(1));
+  }
+  document.getElementById('mk').innerHTML=
+   `<path d="${p.join(' ')}" fill="none" stroke="#fff" stroke-width="8" stroke-linecap="round" opacity=".95"/>`;
+  window.__ok=true;
+});
+</script></body></html>
