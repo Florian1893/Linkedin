@@ -7,6 +7,7 @@ Alle Posts nach Impressions. Startbestand uebernommen aus dem Skill `betriebsflo
 | Impressions | Thema | Hook-Typ | Vorlage | Warum |
 |---|---|---|---|---|
 | 9374 | Erster Post | Kaltstart | keine | Erstverteilungs-Bonus, KEINE Benchmark |
+| 8000 | "Merci. Ist aber schon vergeben." (30.09., Architekt Beat, WhatsApp-Bild mit drei leeren Tagen) | Absage als Zitat, dann Ausrede weggenommen | B | BESTER POST DER ECHTEN PHASE UND NEUE LATTE. 8-mal der alte Bestwert, rund 44-mal der Median. Erster Post, der klar aus dem eigenen Netzwerk ausgebrochen ist. Auswertung direkt unter der Tabelle |
 | 2221 | Zweiter Post | Kaltstart | keine | Erstverteilungs-Bonus, KEINE Benchmark |
 | 1014 | Maler-Dialog "Eigentlich nie" plus Kostenrechnung | Dialog | A | Leser ertappt sich selbst |
 | 700 | Offerte liegt eine Woche (17.09., WhatsApp-Bild mit rotem Strich) | Spiegel mit sofortigem Verlust | B | ZWEITBESTER POST DER ECHTEN PHASE, knapp das Vierfache des Medians. Erster Treffer nach der Sammeldiagnose, die Formel aus den Regeln 18 und 19 hat geliefert. Siehe Auswertung unten |
@@ -33,6 +34,45 @@ Alle Posts nach Impressions. Startbestand uebernommen aus dem Skill `betriebsflo
 Median der echten Phase (ohne die zwei Kaltstart-Posts): rund 180. Das ist die Latte fuer neue Themen und neue Formate, nicht die 9374.
 
 ZWEITE LATTE seit dem 21.09.: Posts nach der Standardformel werden nicht mehr am Median gemessen, sondern an den 700 vom 17.09. Ein Formel-Post, der unter 350 landet, hat einen Fehler in der Ausfuehrung, nicht im Format.
+
+## Auswertung zum Rekord vom 30.09. (8000)
+
+Florian am 30.09.: "letzter Post top 8k Impressions". Der Architekten-Post, Fassung mit der Absage als Zeile eins, dazu bild-architekt.png im Du. Was anders war als bei allen Posts davor, nach vermuteter Wirkung:
+
+1. **Zeile eins ist der Moment des Verlusts, als Zitat.** «Merci. Ist aber schon vergeben.» Nicht ein Satz UEBER den Leser, sondern der Satz, den er selber schon bekommen hat. Jeder, der offeriert, kennt ihn, auch ausserhalb des Handwerks. Der 1014er hatte einen Dialog-Hook, der 700er einen Aussage-Hook. Der 8000er verbindet beides: ein Zitat, das ein Urteil ueber den Leser ist. Damit ist der offene Test aus der 700er-Auswertung beantwortet.
+2. **Zeile zwei nimmt die Ausrede weg, mit der sich alle troesten.** "Du warst nicht zu teuer. Du warst zu spät." Jeder Handwerker erklaert sich einen verlorenen Auftrag mit dem Preis. Der Satz dreht das um, und er ist so allgemein, dass ihn auch Verkaeufer, Agenturen und Planer teilen. Vermutlich der Grund, warum der Post aus der Nische ausgebrochen ist.
+3. **Eine Gegenfigur mit Namen und Beziehung.** "Beat ist Architekt. Ihr kennt euch seit Jahren." Verloren ist damit nicht ein Auftrag, sondern ein Mensch. Beim 700er war der Kunde namenlos.
+4. **Bild und Zeile eins sind derselbe Satz.** Im Bild steht die Absage rot unterstrichen. Wer zuerst aufs Bild schaut, liest den Hook, wer zuerst den Text liest, findet ihn im Bild bestaetigt. Dazu drei leere Tagestrenner, die die Stille zeigen, ohne dass man lesen muss.
+5. **Das Bild war echt im Ton.** Du statt Sie, Hoi, Merci, Sorry, Objekt, Plaene per Mail, ein Bauherr, der draengt. Florians eigene Korrektur, siehe Regel 35. Wer aus der Branche ist, glaubt es sofort.
+6. **Die Mitte zeigt zurueck auf Zeile eins.** "Seine Antwort kennst du schon." Der Leser schliesst die Schleife selber.
+7. **Der Verlust waechst ueber den Auftrag hinaus.** "Beat merkt sich das. Beim nächsten Objekt fragt er zuerst den, der schneller war."
+8. **Entlastung als Szene, nicht als Behauptung.** "Du bist im Keller auf der Baustelle. Kein Empfang." Beim 700er stand "Du warst nicht faul". Hier zeigt ein Detail, dass er arbeitet.
+9. **Die Quelle war echt.** Der verlorene Architekt steht im Protokoll vom 28.09. Die Szene ist erfunden, der Schmerz nicht.
+
+Formal: 931 Zeichen, 7 Kommas, eine Zaehlfrage am Schluss, Angebot in einer allgemeinen Zeile, Gewerke als Aufzaehlung, Groessenfilter ueber "Architekt" und "12 Mitarbeitern".
+
+VORSICHT BEIM DEUTEN:
+- Ein einziger Datenpunkt. Welches der neun Elemente den Ausschlag gab, laesst sich nicht trennen.
+- 8000 aus einem kleinen Netzwerk heisst: der Post wurde weitergetragen, ueber Reaktionen, Kommentare oder Reposts von Leuten mit groesserem Netzwerk. Das hat einen Gluecksanteil.
+- Reichweite ist nicht Kundschaft. Wenn Punkt 2 der Treiber war, haben viele Verkaeufer und Agenturen mitgelesen, die nie Kunde werden. Das Ziel bleiben Inhaber mit 10 bis 20 Mitarbeitern in der Schweiz.
+- OFFEN, bei Florian nachfragen: Reaktionen, Kommentare, Reposts, Profilaufrufe aus dem Post, neue Follower, die haeufigsten Berufsbezeichnungen und Standorte in der Post-Statistik, und ob Anfragen von Handwerkern kamen.
+
+FORMEL 8000, ab jetzt Standard fuer Story-Posts. Sie ersetzt die Formel aus der 700er-Auswertung und baut auf ihr auf:
+1. Zeile eins: der Satz, mit dem der Verlust passiert, als Zitat.
+2. Zeile zwei: die Ausrede wegnehmen, mit du.
+3. Zeile drei: Gegenfigur mit Namen und Beziehung.
+4. Zeitbeats mit Uhrzeiten und Wochentagen, Entlastung als Szene.
+5. Die Mitte zeigt auf Zeile eins zurueck.
+6. Der Verlust waechst ueber den einen Fall hinaus.
+7. Gewerke als Aufzaehlung, Groessenfilter als Schwelle.
+8. Eine Zeile Angebot, allgemein ("Genau das automatisiere ich." plus die Ablaeufe).
+9. Zaehlfrage.
+10. Rund 950 Zeichen, hoechstens 7 Kommas.
+11. Bild: Chat im Du und Schweizer Ton, der Satz aus Zeile eins rot unterstrichen, die Zeit als Tagestrenner sichtbar.
+
+LATTEN: Der Median bleibt 180, die Formel-Latte bleibt vorerst 700. Ein einzelner Ausreisser setzt keine neue Latte. Landet der naechste Post nach Formel 8000 ueber 1000, ist die Formel bestaetigt und 1000 wird die neue Latte.
+
+NICHT DIESELBE POINTE NOCHMALS: Wer ueber den 8000er neu folgt, sieht als Naechstes den naechsten Post. Wiederholt der "nicht zu teuer, sondern zu spaet", wirkt er wie eine Kopie. Formel ja, Pointe neu. Und den naechsten Post erst bringen, wenn der 8000er nicht mehr merklich waechst, damit sich die beiden nicht die Verteilung wegnehmen.
 
 ## Auswertung zum Treffer vom 17.09.
 

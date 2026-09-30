@@ -78,6 +78,12 @@ Sachliches, das in keinem Post falsch stehen darf:
 
 Quelle: eigene Gespraechsaufnahme, 42 Minuten, Sanitaer und Gebaeudetechnik, rund 12 Mitarbeitende. Das ist die erste eigene, dokumentierte Quelle im Speicher und damit wertvoller als jede Studie. Alles hier darf verwendet werden, aber IMMER anonymisiert: kein Firmenname, keine Adresse, keine Software-Namen, keine Preise, keine Stundensaetze. Das Dokument traegt den Vermerk vertraulich.
 
+GESPIELT am 30.09.: der verlorene Architekt, 3 Tage bis zur Antwort. 8000 IMPRESSIONS, bester Post der echten Phase. Pointe "nicht zu teuer, sondern zu spaet" ist damit fuer die naechsten Wochen besetzt, nicht wiederholen.
+
+ALS NAECHSTES GEPLANT (Entwurf in posts/2026-10-02-regierapport.md): die Mehrstunden ohne Regierapport. Belegt: "12 Std. offeriert, 19 gebraucht" und "Mehrstunden nur mit Begruendung (Regierapport) verrechenbar", dazu der Ansatz "Rapporte einsprechen statt tippen". Neue Pointe: nicht der Bauleiter ist schuld, sondern das fehlende Papier. Und ohne Rapport lernt die Nachkalkulation nichts, also offeriert man beim naechsten Objekt wieder zu knapp.
+
+RESERVE nach demselben Muster: die Familien. "Mehrere Familien verloren, weil die Offerte nicht rechtzeitig rausging" und "Das Geld liegt bei den Privatkunden". Aber erst in ein paar Wochen, die Pointe liegt zu nah am 8000er.
+
 GESPIELT am 29.09.: die 90 Stunden. "Falsch geschriebene Stunden fallen spaet auf, Beispiel ein Mitarbeiter mit ca. 90 Std. zu viel innert sechs Monaten." Dazu die Doppelerfassung, Spalten aus der Zeiterfassung werden von Hand ins Excel abgetippt.
 
 NOCH FREI, alles woertlich aus dem Protokoll:
