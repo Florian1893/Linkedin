@@ -76,6 +76,8 @@ Ersetzt die Fassung vom 12.09. (weiter unten als Vorstufe dokumentiert). Ausloes
 
 (Im Versand mit echten Umlauten, hier nur wegen der Datei-Konvention umschrieben.)
 
+**Beobachtetes Florian-Muster seit 01.10.2026 (Posteingang-Abgleich):** Beim tatsaechlichen Versand ergaenzt Florian bei den meisten Leads direkt nach dem Ice-Breaker einen kurzen, handschriftlich wirkenden Zusatz wie "Tönt/Sieht auf jedenfall nach guter Arbeit aus 👏" oder "sehr vorbildlich 😊" (Wortlaut variiert pro Lead, von Florian selbst beim Versenden ergaenzt, nicht Teil des Entwurfs). Claude muss das nicht selbst in den Entwurf einbauen, aber beim Abgleich mit dem tatsaechlichen Versand damit rechnen. Bei einzelnen Leads (z.B. Fabian Willi #94, René Fähndrich #99) ersetzt Florian den Ice-Breaker stattdessen komplett durch den generischen Opener "Cool das wir jetzt connected sind 😊" (analog zum fruehreren Muster bei Raphael Disler #86).
+
 **Was sich gegenueber der Fassung vom 12.09. geaendert hat:** Der Schmerz-Absatz spiegelt jetzt die drei Punkte aus Florians neuer Headline (Anfragen stapeln sich / Offerten dauern / Nachfassen nur wenn Zeit ist), aber als aktuellen Schmerz formuliert, nicht als Ergebnisversprechen. Die "10 Minuten" aus der Headline wurden bewusst NICHT an den Gipser-Fall gehaengt, weil dessen Zeitersparnis-Zahl weiterhin unbelegt ist (siehe unten). Vor dem Angebot steht neu "ohne Risiko fuer dich" als expliziter No-Brainer-Satz.
 
 **ENTWURF-Leads pruefen:** Andreas Alt #62 war beim Umstieg noch nicht bestaetigt gesendet, Vorschlag mit der neuen Fassung nachliefern falls noch offen.
