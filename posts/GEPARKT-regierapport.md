@@ -1,4 +1,4 @@
-# ENTWURF 02.10.2026 — Ohne Rapport zahlen wir das nicht
+# GEPARKT (Florian am 01.10.: "nein anderer Post") — Ohne Rapport zahlen wir das nicht
 
 Erster Post nach FORMEL 8000 (Lernprotokoll, Auswertung zum Rekord vom 30.09.). Formel gleich, Pointe neu: beim 8000er war es "nicht zu teuer, sondern zu spaet", hier ist es "nicht der Bauleiter ist schuld, sondern das fehlende Papier".
 

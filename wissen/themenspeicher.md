@@ -80,7 +80,9 @@ Quelle: eigene Gespraechsaufnahme, 42 Minuten, Sanitaer und Gebaeudetechnik, run
 
 GESPIELT am 30.09.: der verlorene Architekt, 3 Tage bis zur Antwort. 8000 IMPRESSIONS, bester Post der echten Phase. Pointe "nicht zu teuer, sondern zu spaet" ist damit fuer die naechsten Wochen besetzt, nicht wiederholen.
 
-ALS NAECHSTES GEPLANT (Entwurf in posts/2026-10-02-regierapport.md): die Mehrstunden ohne Regierapport. Belegt: "12 Std. offeriert, 19 gebraucht" und "Mehrstunden nur mit Begruendung (Regierapport) verrechenbar", dazu der Ansatz "Rapporte einsprechen statt tippen". Neue Pointe: nicht der Bauleiter ist schuld, sondern das fehlende Papier. Und ohne Rapport lernt die Nachkalkulation nichts, also offeriert man beim naechsten Objekt wieder zu knapp.
+ALS NAECHSTES GEPLANT (posts/2026-10-02-kuendigung.md): die Buerokraft kuendigt, und alle Bueroablaeufe stecken in ihrem Kopf. Belegt: "Ablaeufe sind nicht dokumentiert, fuer jeden Neuen muss alles neu erklaert werden", dazu die Ablaeufe von Hand (Stunden ins Excel, Zahlungen von Hand verfolgen). Bild: die Kuendigung als Papier auf dem Schreibtisch.
+
+GEPARKT (posts/GEPARKT-regierapport.md, Florian am 01.10.: "nein anderer Post"): die Mehrstunden ohne Regierapport. Belegt: "12 Std. offeriert, 19 gebraucht" und "Mehrstunden nur mit Begruendung (Regierapport) verrechenbar", dazu der Ansatz "Rapporte einsprechen statt tippen". Neue Pointe: nicht der Bauleiter ist schuld, sondern das fehlende Papier. Und ohne Rapport lernt die Nachkalkulation nichts, also offeriert man beim naechsten Objekt wieder zu knapp.
 
 RESERVE nach demselben Muster: die Familien. "Mehrere Familien verloren, weil die Offerte nicht rechtzeitig rausging" und "Das Geld liegt bei den Privatkunden". Aber erst in ein paar Wochen, die Pointe liegt zu nah am 8000er.
 

@@ -1,0 +1,68 @@
+<!doctype html><html lang="de"><head><meta charset="utf-8">
+<style>
+@font-face{font-family:'Inter';font-weight:400;src:url(inter-2.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:500;src:url(inter-3.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:800;src:url(inter-8.ttf) format('truetype');}
+*{margin:0;padding:0;box-sizing:border-box;}
+.s{width:1080px;height:1350px;position:relative;overflow:hidden;
+ background:radial-gradient(120% 95% at 28% 0%,#4a3b30 0%,#2c231c 52%,#1a1410 100%);
+ font-family:'Inter',Helvetica,Arial,sans-serif;}
+svg.grain{position:absolute;left:0;top:0;width:1080px;height:1350px;mix-blend-mode:soft-light;opacity:.55;}
+.paper{position:absolute;left:70px;top:96px;width:940px;height:1420px;
+ background:linear-gradient(172deg,#fdfcf8 0%,#f6f3ec 100%);
+ transform-origin:50% 0;
+ box-shadow:0 46px 90px rgba(0,0,0,.55),0 8px 18px rgba(0,0,0,.35);
+ padding:84px 86px;color:#1b1b1b;}
+.from{font-size:31px;font-weight:800;letter-spacing:-.3px;}
+.to{font-size:30px;font-weight:400;margin-top:62px;color:#2a2a2a;}
+.date{font-size:28px;font-weight:400;margin-top:62px;color:#6b6b6b;}
+.betreff{font-size:68px;font-weight:800;letter-spacing:-2px;margin-top:52px;}
+.p{font-size:40px;font-weight:400;line-height:1.58;letter-spacing:-.4px;margin-top:34px;}
+#frist{white-space:nowrap;}
+.gruss{font-size:40px;font-weight:400;margin-top:56px;letter-spacing:-.4px;}
+.sig{display:block;margin-top:8px;}
+.name{font-size:34px;font-weight:500;margin-top:2px;letter-spacing:-.3px;}
+svg.mk{position:absolute;left:0;top:0;width:940px;height:1420px;overflow:visible;pointer-events:none;}
+</style></head><body>
+<div class="s">
+  <svg class="grain" viewBox="0 0 1080 1350">
+    <filter id="g"><feTurbulence type="fractalNoise" baseFrequency="0.006 0.21" numOctaves="3" seed="11"/>
+      <feColorMatrix type="saturate" values="0"/></filter>
+    <rect width="1080" height="1350" filter="url(#g)"/>
+  </svg>
+
+  <div class="paper" id="paper">
+    <div class="from">Monika Keller</div>
+    <div class="to">An die Gesch&#228;ftsleitung</div>
+    <div class="date">30. September 2026</div>
+    <div class="betreff">K&#252;ndigung</div>
+    <p class="p">Hiermit k&#252;ndige ich mein Arbeitsverh&#228;ltnis fristgerecht <span id="frist">per 31. Dezember 2026</span>.</p>
+    <p class="p">Danke f&#252;r 11 sch&#246;ne Jahre.</p>
+    <div class="gruss">Freundliche Gr&#252;sse</div>
+    <svg class="sig" width="330" height="112" viewBox="0 0 330 112">
+      <path d="M14 78 C 22 30, 40 18, 46 40 C 52 62, 30 92, 40 88 C 52 84, 60 34, 72 30 C 80 28, 74 74, 84 76 C 94 78, 98 44, 108 46 C 118 48, 106 80, 120 78 C 140 75, 150 40, 162 42 C 172 44, 160 76, 176 74 C 196 71, 206 36, 214 22 C 220 12, 214 70, 226 72 C 238 74, 244 52, 256 54 C 270 56, 262 76, 284 70 C 298 66, 308 60, 318 58"
+        fill="none" stroke="#1d3a8a" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M60 96 C 130 88, 210 90, 300 84" fill="none" stroke="#1d3a8a" stroke-width="3" stroke-linecap="round" opacity=".8"/>
+    </svg>
+    <div class="name">Monika Keller</div>
+    <svg class="mk" id="mk" viewBox="0 0 940 1420"></svg>
+  </div>
+</div>
+<script>
+document.fonts.ready.then(()=>{
+  // Messen ohne Drehung, relativ zum Papier, dann drehen. Der Kringel liegt im Papier und dreht mit.
+  const paper=document.getElementById('paper');
+  const f=document.getElementById('frist');
+  const P=paper.getBoundingClientRect(), R=f.getBoundingClientRect();
+  // Roter Handstrich unter der Frist, wie im 8000er-Bild: ein kraeftiger Strich, darunter ein duenner.
+  const x1=R.left-P.left-8, x2=R.right-P.left+22, y=R.bottom-P.top+6;
+  const mid=(x1+x2)/2;
+  const d1=`M ${x1} ${y+2} Q ${mid-90} ${y+12} ${mid} ${y+7} T ${x2} ${y}`;
+  const d2=`M ${x1+26} ${y+16} Q ${mid-60} ${y+22} ${mid+10} ${y+19} T ${x2-30} ${y+14}`;
+  document.getElementById('mk').innerHTML=
+   `<path d="${d1}" fill="none" stroke="#d22c22" stroke-width="9" stroke-linecap="round" opacity=".93"/>`+
+   `<path d="${d2}" fill="none" stroke="#d22c22" stroke-width="4" stroke-linecap="round" opacity=".55"/>`;
+  paper.style.transform='rotate(-2deg)';
+  window.__ok=true;
+});
+</script></body></html>
