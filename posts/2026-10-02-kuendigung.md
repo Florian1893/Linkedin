@@ -89,3 +89,11 @@ Teamlead Fleet Management (flaschenpost): «10 Jahre Erfahrung ... an einen jung
 
 Jörg Kaufmann (Pflegefachkraft): «Wenn Monika clever ist macht sie einen tollen Übergang ... Man sieht sich manchmal zweimal im Leben.»
 > Schön gesagt. Die meisten Monikas machen das genau so. Das Problem ist selten der Wille. Es ist, dass 11 Jahre nicht in 3 Monate passen.
+
+## Kommentarantworten, dritte Runde (02.10.)
+
+Marta Rybalka (SEO, 2nd): «Typisches Problem: Alles hängt an einem Mitarbeiter. Niemand möchte zusätzliches Personal, wie zum Beispiel Assistenten, einstellen. Und nach der Kündigung merkt man erst, was für ein großer Fehler es war.»
+> Ein zweiter Kopf hilft, wenn man ihn sich leisten kann. Bei 10 bis 20 Mitarbeitern liegt das oft nicht drin. Dann muss das Wissen wenigstens aus dem einen Kopf raus und ins System, bevor jemand kündigt.
+
+Andreas Janicher (Kundenberatung, 3rd+), Antwort an Marta: «bei 10 Mitarbeitern lässt sich das oft nicht vermeiden. Hier kommt es immer noch auf jeden einzelnen an. Erstaunlich finde ich das es trotzdem immer weiter geht.»
+> Stimmt, und genau das macht kleine Betriebe stark. Jeder trägt viel. Und es geht immer weiter, weil am Schluss der Chef einspringt. Die Frage ist nur, wie lange er das noch mitmacht.
