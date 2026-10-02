@@ -6,10 +6,10 @@ Alle Posts nach Impressions. Startbestand uebernommen aus dem Skill `betriebsflo
 
 | Impressions | Thema | Hook-Typ | Vorlage | Warum |
 |---|---|---|---|---|
+| 215908+ | «Ich höre per Ende Dezember auf.» (Kuendigung der Buerokraft Monika, Bild: Kuendigung auf Papier) | Zitat des Verlustmoments, Ausrede Fachkraeftemangel weggenommen | B | Verlauf am 02.10.: 4515 (05:18), 94515 (09:20), 215908 (19:33), laeuft noch. Dazu 80 Reaktionen und 24 Kommentare, also nur rund 0,04 Prozent Reaktionen pro Impression: sehr breit, sehr duenn. Dazu 100 PROFILBESUCHE, erste gemessene Stufe hinter den Impressions, siehe wissen/profil.md. ZWEITER VIRALER POST IN FOLGE. Formel 8000 damit bestaetigt, neue Formel-Latte 1000. Erstes Bild ohne Chat, traegt genauso. Auswertung unten |
 | 9374 | Erster Post | Kaltstart | keine | Erstverteilungs-Bonus, KEINE Benchmark |
 | 8000 | "Merci. Ist aber schon vergeben." (30.09., Architekt Beat, WhatsApp-Bild mit drei leeren Tagen) | Absage als Zitat, dann Ausrede weggenommen | B | BESTER POST DER ECHTEN PHASE UND NEUE LATTE. 8-mal der alte Bestwert, rund 44-mal der Median. Erster Post, der klar aus dem eigenen Netzwerk ausgebrochen ist. Auswertung direkt unter der Tabelle |
 | 2221 | Zweiter Post | Kaltstart | keine | Erstverteilungs-Bonus, KEINE Benchmark |
-| 4515+ | «Ich höre per Ende Dezember auf.» (Kuendigung der Buerokraft Monika, Bild: Kuendigung auf Papier) | Zitat des Verlustmoments, Ausrede Fachkraeftemangel weggenommen | B | Stand 02.10. frueh, laeuft noch. Dazu 100 PROFILBESUCHE, erste gemessene Stufe hinter den Impressions, siehe wissen/profil.md. ZWEITER VIRALER POST IN FOLGE. Formel 8000 damit bestaetigt, neue Formel-Latte 1000. Erstes Bild ohne Chat, traegt genauso. Auswertung unten |
 | 1014 | Maler-Dialog "Eigentlich nie" plus Kostenrechnung | Dialog | A | Leser ertappt sich selbst |
 | 700 | Offerte liegt eine Woche (17.09., WhatsApp-Bild mit rotem Strich) | Spiegel mit sofortigem Verlust | B | ZWEITBESTER POST DER ECHTEN PHASE, knapp das Vierfache des Medians. Erster Treffer nach der Sammeldiagnose, die Formel aus den Regeln 18 und 19 hat geliefert. Siehe Auswertung unten |
 | 662 | "Du bist der teuerste Mitarbeiter" | direkte Ansprache | B | Spiegel ohne Szene, funktioniert nackt |
@@ -302,6 +302,9 @@ Zweiter Punkt: Der 200er hatte ein Foto, der 250er nicht. Schwacher Beleg, deckt
 35. CHAT-BILDER IM DU UND PRAEZISE (Florian, 29.09.2026): "duzen kennen sich meistens und praeziser". Architekt, Bauleiter, Lieferant und Handwerker kennen sich in der Regel und duzen sich. Ein "Sie" im Chat verraet sofort, dass der Absender die Branche nicht von innen kennt, und dann glaubt der Leser auch dem Rest nicht.
     Dazu Schweizer Ton in der Chat-Sprache: Hoi, Merci, Sorry. Und Details, die nur ein Insider so schreibt: Objektart (MFH), Anzahl Wohnungen, "Plaene hast du per Mail", der Bauherr, der diese Woche entscheiden will. Lieber drei kurze Nachrichten hintereinander als eine lange, so schreibt man wirklich, und es bricht die Zeilen sauber.
     Grenze: Nie Details aus einem echten Kundengespraech ins Bild, also keine Adresse, keine echte Wohnungszahl, keine Betraege. Die Praezision muss erfunden-typisch sein, nicht zurueckverfolgbar.
+
+39. DIE AUTOMATION ENTLASTET DIE FIGUR, SIE ERSETZT SIE NICHT (Kommentar 02.10.2026): Ein Leser schrieb unter den Monika-Post: "Witzig, wie du die Monika erst als Protagonistin etablierst und sie dann mit dem Satz 'Genau das automatisiere ich' komplett zum austauschbaren Wegwerfartikel machst." Das ist die gefaehrlichste Lesart, die ein Post von Florian haben kann. Der Inhaber haengt an seiner treuen Buerokraft, und die Buerokraft liest mit. Wer den Eindruck erweckt, Menschen wegzuautomatisieren, verliert beide.
+    Regel: Wenn eine Figur mit Namen im Post vorkommt, sagt die Angebotszeile ausdruecklich, was automatisiert wird und was bleibt. Muster: "Ich automatisiere, was Monika von Hand tippt. Nicht Monika." Gilt fuer jede Figur: Monteur, Buerokraft, Lehrling, Bauleiter.
 
 ## Diagnose 120 (Post vom 29.09., "90 Stunden im Excel")
 

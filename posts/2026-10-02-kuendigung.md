@@ -105,3 +105,15 @@ Entscheid: nicht in den Antworten an andere pitchen, aber EINMAL einen eigenen K
 > Ein Test für 10 Minuten: Schreib auf, welche Abläufe in deinem Büro nur eine Person kann. Bei jedem Ablauf, bei dem nur ein Name steht, hast du eine Monika.
 >
 > Bei Schweizer Handwerksbetrieben baue ich genau diese Abläufe so, dass sie nicht mehr an einem Kopf hängen. Wer wissen will, wie das bei ihm aussehen würde, schreibt mir einfach eine Nachricht.
+
+## Stand 02.10., 19:33
+
+215'908 Impressions, 80 Reaktionen, 24 Kommentare. Verlauf: 4'515 (05:18), 94'515 (09:20), 215'908 (19:33). Die 94'515 waren also kein Anzeigefehler.
+
+## Kommentarantworten, vierte Runde (02.10., 19:33)
+
+Bastian Carpantier (Software Engineer Automation, 3rd+): «Witzig, wie du die Monika erst als Protagonistin deiner kleinen Geschichte etablierst und sie dann mit dem Satz "Genau das automatisiere ich" komplett zum austauschbaren Wegwerfartikel machst...»
+> Stimmt, so kann man es lesen. Gemeint ist das Gegenteil. Monika ist nicht austauschbar. Austauschbar ist, was sie jeden Tag von Hand abtippt und nachfragt. Das automatisiere ich, damit sie Zeit für das hat, was nur sie kann. Und damit ihr Wissen nicht mit ihr geht, wenn sie geht.
+
+Enrico Pannicke (Founder, 3rd+): nur ein Link auf das eigene Produkt, kein Text.
+> Keine Antwort. Empfehlung: loeschen. Ein reiner Werbelink unter dem eigenen Post fuehrt Leser zu einem fremden Angebot.
