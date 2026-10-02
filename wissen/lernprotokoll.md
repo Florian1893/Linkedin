@@ -36,6 +36,23 @@ Median der echten Phase (ohne die zwei Kaltstart-Posts): rund 180. Das ist die L
 
 ZWEITE LATTE seit dem 21.09.: Posts nach der Standardformel werden nicht mehr am Median gemessen, sondern an den 700 vom 17.09. Ein Formel-Post, der unter 350 landet, hat einen Fehler in der Ausfuehrung, nicht im Format.
 
+## Ernuechterung am 02.10.: viral, aber nicht in der Zielgruppe
+
+Florian am 02.10.: "nur 1 Anfrage, halt alle nicht in Zielgruppe". Zwei virale Posts, zusammen ueber 12'500 Impressions, 100 Profilbesuche, 1 Anfrage. Kommentiert und angeschaut haben Berater, Finanzdienstleister, KI-Firmen, COOs aus Deutschland. Keine Schweizer Handwerks-Inhaber mit 10 bis 20 Mitarbeitern.
+
+Warum, nach Gewicht:
+1. **Viral wurden die Posts, WEIL ihre Pointe universell war.** "Nicht zu teuer, sondern zu spaet" und "das Buero haengt an einer Person" gelten fuer jedes KMU, jeden Verkaeufer, jedes Buero. Genau das hat die Reichweite gebracht und genau das hat die falschen Leute gebracht. Die 8000er-Auswertung hatte das als Risiko notiert.
+2. **Der Verteiler ist das Netzwerk und das Themensignal.** LinkedIn zeigt einen Post zuerst dem eigenen Netzwerk, dann den Netzwerken derer, die reagieren, und dann Leuten, die sich fuer das Thema interessieren. Florians Netzwerk enthaelt wenige Handwerks-Inhaber, die Reagierenden waren Berater, und das Themensignal von Monika war "Buero, Kuendigung, Wissen". Also lief die Welle durch Berater-Netzwerke.
+3. **Die Zielgruppe liest still oder gar nicht.** Inhaber mit 10 bis 20 Mitarbeitern sind auf LinkedIn selten aktiv und kommentieren fast nie. Ein Teil hat vermutlich gelesen, ohne Spuren zu hinterlassen. Belegen laesst sich das erst mit der Demografie in der Post-Statistik.
+
+36. REICHWEITE IST NICHT DIE ZIELGROESSE (ab 02.10.2026): Ab jetzt wird jeder Post an zwei Zahlen gemessen. Impressions zeigen, ob die Bauweise traegt. Der ANTEIL DER ZIELGRUPPE (Standort Schweiz, Branche Bau und Handwerk, Funktion Inhaber oder Geschaeftsfuehrer, aus der Post-Statistik) zeigt, ob er die Richtigen erreicht. 2000 Impressions mit 20 Prozent Zielgruppe schlagen 8000 mit 1 Prozent.
+
+37. DAS NETZWERK GEZIELT FUELLEN (ab 02.10.2026): Bevor die naechste Welle kommt, muessen Handwerks-Inhaber im Netzwerk sein, sonst laeuft jede Welle wieder durch Berater. Jeden Werktag 10 bis 15 Vernetzungsanfragen an Inhaber und Geschaeftsfuehrer von Schweizer Handwerksbetrieben (Sanitaer, Heizung, Elektro, Schreiner, Maler, Gipser, Spengler, Dachdecker). Ohne Notiz. LinkedIn begrenzt das auf ungefaehr 100 Anfragen pro Woche. Nach 6 Wochen sind 300 bis 500 Leute aus der Zielgruppe im Netzwerk, und jeder Post landet zuerst bei ihnen.
+
+38. HANDWERKS-SZENE, NICHT BUERO-SZENE (Test ab 02.10.2026, noch nicht belegt): Der Hook darf universell sein, das bringt die Verteilung. Die Szene muss aber aus der Baustelle kommen, mit Woertern, die nur Handwerker kennen: Regierapport, Bauleiter, Ausmass, Monteur, Lehrling, Kolonne, Schlussrechnung, Abnahme. Dann sendet der Post ein Bau-Themensignal, und Berater koennen mitlesen, fuehlen sich aber nicht gemeint. Ob das die Zielgruppe tatsaechlich erreicht, zeigt erst die Demografie nach dem naechsten Post.
+
+Offen bei Florian: Woher kam der Sanitaer vom 28.09. (Prozessanalyse)? Ueber LinkedIn, ueber Empfehlung oder direkt? Das zeigt, welcher Kanal bei dieser Zielgruppe wirklich Kunden bringt. Und: die Demografie der beiden viralen Posts als Screenshot.
+
 ## Bestaetigung am 02.10. (Kuendigungs-Post, 4515 und laufend)
 
 Florian am 02.10. um 05:18 mit Screenshot: 4515 Impressions, "geht wieder viral". Damit ist eingetreten, was die 8000er-Auswertung als Test gesetzt hatte:

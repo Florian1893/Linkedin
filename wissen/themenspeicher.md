@@ -80,6 +80,8 @@ Quelle: eigene Gespraechsaufnahme, 42 Minuten, Sanitaer und Gebaeudetechnik, run
 
 GESPIELT am 30.09.: der verlorene Architekt, 3 Tage bis zur Antwort. 8000 IMPRESSIONS, bester Post der echten Phase. Pointe "nicht zu teuer, sondern zu spaet" ist damit fuer die naechsten Wochen besetzt, nicht wiederholen.
 
+KURSKORREKTUR 02.10.: Zwei virale Posts, aber fast nur Leute ausserhalb der Zielgruppe (Regeln 36 bis 38 im Lernprotokoll). Die naechsten Themen muessen eine Baustellen-Szene haben, die nur Handwerker ganz verstehen. Damit steigt der GEPARKTE REGIERAPPORT (posts/GEPARKT-regierapport.md) wieder nach oben: Regierapport, Bauleiter, Schlussrechnung, Monteur sind reine Handwerkswoerter. Er braucht nur einen haerteren Hook und kein WhatsApp-Bild, zum Beispiel den Regierapport selbst als Papier mit den gestrichenen 7 Stunden.
+
 NEUE IDEE aus den Kommentaren vom 02.10.: DIE PENSIONIERUNG. Ein Leser hat Monikas Kuendigung als Pensionierung gelesen. Das ist ein eigener, planbarer Schmerz: Die Buerokraft, die seit 25 Jahren da ist, geht in 2 Jahren in Pension, und alle wissen es. Anders als bei der Kuendigung hat man Zeit und nutzt sie trotzdem nicht. Hook-Richtung: «Noch 2 Jahre, dann bin ich weg.» Keine Statistik in den Hook (Regel 17). Fruehestens in ein paar Wochen, zu nah an Monika.
 
 GESPIELT am 01.10. (posts/2026-10-02-kuendigung.md), 4515 Impressions am Morgen danach, laeuft noch: die Buerokraft kuendigt, und alle Bueroablaeufe stecken in ihrem Kopf. Belegt: "Ablaeufe sind nicht dokumentiert, fuer jeden Neuen muss alles neu erklaert werden", dazu die Ablaeufe von Hand (Stunden ins Excel, Zahlungen von Hand verfolgen). Bild: die Kuendigung als Papier auf dem Schreibtisch.
