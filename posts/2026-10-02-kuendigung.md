@@ -97,3 +97,11 @@ Marta Rybalka (SEO, 2nd): «Typisches Problem: Alles hängt an einem Mitarbeiter
 
 Andreas Janicher (Kundenberatung, 3rd+), Antwort an Marta: «bei 10 Mitarbeitern lässt sich das oft nicht vermeiden. Hier kommt es immer noch auf jeden einzelnen an. Erstaunlich finde ich das es trotzdem immer weiter geht.»
 > Stimmt, und genau das macht kleine Betriebe stark. Jeder trägt viel. Und es geht immer weiter, weil am Schluss der Chef einspringt. Die Frage ist nur, wie lange er das noch mitmacht.
+
+## Eigener Kommentar (02.10., Florians Frage: "soll ich selber pitchen in den Kommentaren?")
+
+Entscheid: nicht in den Antworten an andere pitchen, aber EINMAL einen eigenen Kommentar unter den Post setzen, der zuerst etwas Brauchbares gibt und dann in einem Satz sagt, fuer wen Florian da ist. Kein Link, keine Aufforderung zu kommentieren.
+
+> Ein Test für 10 Minuten: Schreib auf, welche Abläufe in deinem Büro nur eine Person kann. Bei jedem Ablauf, bei dem nur ein Name steht, hast du eine Monika.
+>
+> Bei Schweizer Handwerksbetrieben baue ich genau diese Abläufe so, dass sie nicht mehr an einem Kopf hängen. Wer wissen will, wie das bei ihm aussehen würde, schreibt mir einfach eine Nachricht.

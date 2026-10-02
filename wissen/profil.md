@@ -53,6 +53,11 @@ Erste Nachricht im Sie:
 
 Warum so: keine Erwaehnung des Profilbesuchs (wirkt ueberwacht), kein Angebot in der ersten Nachricht, eine einzige Frage, die sich mit Ja oder einer Geschichte beantworten laesst. Monika ist inzwischen eine Figur, die die Leute kennen. Wer den Post gesehen hat, versteht die Frage sofort.
 
+## Pitchen in den Kommentaren (Entscheid 02.10.2026)
+
+Nie in den Antworten an andere. Wer kommentiert, ist meist nicht die Zielgruppe, und ein Angebot unter seinem Kommentar wirkt aufdringlich. Das Angebot steht schon im Post ("Genau das automatisiere ich").
+Einmal pro viralem Post ein eigener Kommentar: zuerst ein Nutzen (ein Test, ein Kniff), dann ein Satz, fuer wen Florian baut, und dass man ihm eine Nachricht schreiben kann. Kein Link, kein "kommentiere", keine Rabatte. Der eigentliche Pitch ist das Profil (Titel, Info, Im Fokus), und der Weg zum Gespraech ist die Direktnachricht. Beleg: Der erste Inhaber aus der Zielgruppe hat sich am 02.10. ohne jeden Pitch von selbst per Nachricht gemeldet.
+
 ## Kennzahlen, die ab jetzt zaehlen
 
 Impressions sind die erste Stufe. Was Kunden bringt, ist die Kette dahinter:
