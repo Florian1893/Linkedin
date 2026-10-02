@@ -52,4 +52,4 @@ Warum so: keine Erwaehnung des Profilbesuchs (wirkt ueberwacht), kein Angebot in
 Impressions sind die erste Stufe. Was Kunden bringt, ist die Kette dahinter:
 Impressions → Profilbesuche → Vernetzungen mit passenden Inhabern → Gespraeche → Prozessanalysen → Auftraege.
 
-Stand 02.10.: Kuendigungs-Post 4515+ Impressions, 100 Profilbesuche. Rest noch offen, bei Florian nachfragen.
+Stand 02.10.: Kuendigungs-Post 4515+ Impressions, 100 Profilbesuche, 1 Direktnachricht aus der Zielgruppe (Geschaeftsfuehrer einer Schreinerei in Basel-Land, will ein Kennenlernen). Rest noch offen.

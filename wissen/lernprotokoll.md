@@ -51,6 +51,9 @@ Warum, nach Gewicht:
 
 38. HANDWERKS-SZENE, NICHT BUERO-SZENE (Test ab 02.10.2026, noch nicht belegt): Der Hook darf universell sein, das bringt die Verteilung. Die Szene muss aber aus der Baustelle kommen, mit Woertern, die nur Handwerker kennen: Regierapport, Bauleiter, Ausmass, Monteur, Lehrling, Kolonne, Schlussrechnung, Abnahme. Dann sendet der Post ein Bau-Themensignal, und Berater koennen mitlesen, fuehlen sich aber nicht gemeint. Ob das die Zielgruppe tatsaechlich erreicht, zeigt erst die Demografie nach dem naechsten Post.
 
+NACHTRAG 02.10., 09:39: Der erste Treffer aus der Zielgruppe ist da. Geschaeftsfuehrer einer Schreinerei in Basel-Land (Innenausbau, GmbH seit 2014, Mitglied im Schreinerverband) schreibt Florian per Direktnachricht, der Beitrag toene spannend, er wolle ihn kennenlernen, mit Telefonnummer. Er hat NICHT kommentiert, sondern still gelesen und dann direkt geschrieben. Das bestaetigt Punkt 3 oben: die Zielgruppe hinterlaesst keine Spuren in den Kommentaren, sie meldet sich direkt. Folge fuer die Messung: Kommentare und Reaktionen sagen nichts ueber die Zielgruppe. Gezaehlt werden Direktnachrichten und Gespraeche.
+Panne dabei: Die Nachricht samt Nummer war nach dem Bestaetigen der Vernetzung nicht mehr auffindbar. Regel fuer die Zukunft: Bei einer Anfrage mit Nummer zuerst die Nummer notieren, dann die Vernetzung bestaetigen.
+
 Offen bei Florian: Woher kam der Sanitaer vom 28.09. (Prozessanalyse)? Ueber LinkedIn, ueber Empfehlung oder direkt? Das zeigt, welcher Kanal bei dieser Zielgruppe wirklich Kunden bringt. Und: die Demografie der beiden viralen Posts als Screenshot.
 
 ## Bestaetigung am 02.10. (Kuendigungs-Post, 4515 und laufend)
