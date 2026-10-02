@@ -9,6 +9,7 @@ Alle Posts nach Impressions. Startbestand uebernommen aus dem Skill `betriebsflo
 | 9374 | Erster Post | Kaltstart | keine | Erstverteilungs-Bonus, KEINE Benchmark |
 | 8000 | "Merci. Ist aber schon vergeben." (30.09., Architekt Beat, WhatsApp-Bild mit drei leeren Tagen) | Absage als Zitat, dann Ausrede weggenommen | B | BESTER POST DER ECHTEN PHASE UND NEUE LATTE. 8-mal der alte Bestwert, rund 44-mal der Median. Erster Post, der klar aus dem eigenen Netzwerk ausgebrochen ist. Auswertung direkt unter der Tabelle |
 | 2221 | Zweiter Post | Kaltstart | keine | Erstverteilungs-Bonus, KEINE Benchmark |
+| 4515+ | «Ich höre per Ende Dezember auf.» (Kuendigung der Buerokraft Monika, Bild: Kuendigung auf Papier) | Zitat des Verlustmoments, Ausrede Fachkraeftemangel weggenommen | B | Stand 02.10. frueh, laeuft noch. ZWEITER VIRALER POST IN FOLGE. Formel 8000 damit bestaetigt, neue Formel-Latte 1000. Erstes Bild ohne Chat, traegt genauso. Auswertung unten |
 | 1014 | Maler-Dialog "Eigentlich nie" plus Kostenrechnung | Dialog | A | Leser ertappt sich selbst |
 | 700 | Offerte liegt eine Woche (17.09., WhatsApp-Bild mit rotem Strich) | Spiegel mit sofortigem Verlust | B | ZWEITBESTER POST DER ECHTEN PHASE, knapp das Vierfache des Medians. Erster Treffer nach der Sammeldiagnose, die Formel aus den Regeln 18 und 19 hat geliefert. Siehe Auswertung unten |
 | 662 | "Du bist der teuerste Mitarbeiter" | direkte Ansprache | B | Spiegel ohne Szene, funktioniert nackt |
@@ -34,6 +35,26 @@ Alle Posts nach Impressions. Startbestand uebernommen aus dem Skill `betriebsflo
 Median der echten Phase (ohne die zwei Kaltstart-Posts): rund 180. Das ist die Latte fuer neue Themen und neue Formate, nicht die 9374.
 
 ZWEITE LATTE seit dem 21.09.: Posts nach der Standardformel werden nicht mehr am Median gemessen, sondern an den 700 vom 17.09. Ein Formel-Post, der unter 350 landet, hat einen Fehler in der Ausfuehrung, nicht im Format.
+
+## Bestaetigung am 02.10. (Kuendigungs-Post, 4515 und laufend)
+
+Florian am 02.10. um 05:18 mit Screenshot: 4515 Impressions, "geht wieder viral". Damit ist eingetreten, was die 8000er-Auswertung als Test gesetzt hatte:
+- FORMEL 8000 BESTAETIGT. Zweiter Post nach der Formel, zweiter viraler Post. Neue Formel-Latte ist 1000. Der Median von 180 bleibt die Latte fuer neue Formate.
+- REGEL 34 AUFGEHOBEN. Das Kuendigungsschreiben auf Papier traegt genauso wie der Chat. Entscheidend war nicht das Medium, sondern: ein echtes Ding aus dem Alltag, der Satz aus Zeile eins steht drauf, ein roter Handstrich liegt auf dem Verlust. Die Bildart darf ab jetzt rotieren (Chat, Brief, Zettel, Mail, Rechnung), solange diese drei Punkte gelten.
+- DIE WARTEREGEL WAR UNNOETIG. Der Post ging spaetestens am 01.10. abends raus, also waehrend der 8000er noch lief. Beide haben getragen. Ein Datenpunkt, aber die Sorge, dass sich zwei Posts die Verteilung wegnehmen, hat sich hier nicht bestaetigt.
+
+Was die Kommentare zeigen:
+- Die Leute reden ueber MONIKA wie ueber eine echte Person. Eine Figur mit Namen erzeugt Diskussion, ein Prinzip nicht.
+- Ein Leser hat "Ich höre auf" als Pensionierung gelesen (Frank Collatz: "mit Monika ueber Aktivrente sprechen"). Die Mehrdeutigkeit hat dem Post genuetzt, weil er so zwei Aengste gleichzeitig trifft: Kuendigung und Pensionierung.
+- Die ersten Kommentatoren sind 3rd+ und eher aus Deutschland (Aktivrente ist deutsches Recht, gilt nicht in der Schweiz). Die virale Reichweite geht also vermutlich ueber die Zielgruppe hinaus. Bei Florian nachfragen: Standorte und Berufe in der Post-Statistik.
+- Der schaerfste Kommentar ist ein Einwand ("Und wenn Monika genau darauf keine Lust hat?", 2 Likes). Einwaende sind Gold, sie werden mit einer klaren Antwort zu einem zweiten Mini-Post im Kommentarbereich.
+
+Kommentar-Regeln fuer Florian, ab jetzt bei jedem viralen Post:
+1. Jeden Kommentar in den ersten Stunden beantworten. Jede Antwort ist Interaktion und haelt den Post in der Verteilung.
+2. Nie nur "Danke". Immer ein neues Detail oder einen neuen Gedanken, damit die Antwort selber gelesen wird.
+3. Kurz, Schweizer Ton, keine Gedankenstriche, kein Verkauf, kein Link.
+4. Bei einem Einwand nicht verteidigen, sondern zustimmen und weiterdrehen ("Realistisch. Darum ...").
+5. Neutral formulieren, wenn unklar ist, ob der andere Du oder Sie erwartet.
 
 ## Auswertung zum Rekord vom 30.09. (8000)
 

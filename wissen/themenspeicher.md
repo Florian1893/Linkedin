@@ -80,7 +80,9 @@ Quelle: eigene Gespraechsaufnahme, 42 Minuten, Sanitaer und Gebaeudetechnik, run
 
 GESPIELT am 30.09.: der verlorene Architekt, 3 Tage bis zur Antwort. 8000 IMPRESSIONS, bester Post der echten Phase. Pointe "nicht zu teuer, sondern zu spaet" ist damit fuer die naechsten Wochen besetzt, nicht wiederholen.
 
-ALS NAECHSTES GEPLANT (posts/2026-10-02-kuendigung.md): die Buerokraft kuendigt, und alle Bueroablaeufe stecken in ihrem Kopf. Belegt: "Ablaeufe sind nicht dokumentiert, fuer jeden Neuen muss alles neu erklaert werden", dazu die Ablaeufe von Hand (Stunden ins Excel, Zahlungen von Hand verfolgen). Bild: die Kuendigung als Papier auf dem Schreibtisch.
+NEUE IDEE aus den Kommentaren vom 02.10.: DIE PENSIONIERUNG. Ein Leser hat Monikas Kuendigung als Pensionierung gelesen. Das ist ein eigener, planbarer Schmerz: Die Buerokraft, die seit 25 Jahren da ist, geht in 2 Jahren in Pension, und alle wissen es. Anders als bei der Kuendigung hat man Zeit und nutzt sie trotzdem nicht. Hook-Richtung: «Noch 2 Jahre, dann bin ich weg.» Keine Statistik in den Hook (Regel 17). Fruehestens in ein paar Wochen, zu nah an Monika.
+
+GESPIELT am 01.10. (posts/2026-10-02-kuendigung.md), 4515 Impressions am Morgen danach, laeuft noch: die Buerokraft kuendigt, und alle Bueroablaeufe stecken in ihrem Kopf. Belegt: "Ablaeufe sind nicht dokumentiert, fuer jeden Neuen muss alles neu erklaert werden", dazu die Ablaeufe von Hand (Stunden ins Excel, Zahlungen von Hand verfolgen). Bild: die Kuendigung als Papier auf dem Schreibtisch.
 
 GEPARKT (posts/GEPARKT-regierapport.md, Florian am 01.10.: "nein anderer Post"): die Mehrstunden ohne Regierapport. Belegt: "12 Std. offeriert, 19 gebraucht" und "Mehrstunden nur mit Begruendung (Regierapport) verrechenbar", dazu der Ansatz "Rapporte einsprechen statt tippen". Neue Pointe: nicht der Bauleiter ist schuld, sondern das fehlende Papier. Und ohne Rapport lernt die Nachkalkulation nichts, also offeriert man beim naechsten Objekt wieder zu knapp.
 

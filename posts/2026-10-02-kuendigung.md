@@ -1,5 +1,7 @@
 # 02.10.2026 — «Ich höre per Ende Dezember auf.»
 
+ERGEBNIS: 4515 Impressions am 02.10. um 05:18, laeuft noch (Florian: "geht wieder viral"). Zweiter viraler Post in Folge. Kommentarantworten unten.
+
 Nach FORMEL 8000, aber mit neuem Thema und neuer Bildart. Florian am 01.10.: "anderer Post, hookiger, und anderes Bild als immer WhatsApp".
 
 Quelle: Prozessanalyse vom 28.09.2026:
@@ -65,3 +67,14 @@ Wie viele Abläufe in deinem Betrieb kennt nur eine Person?
 ## Bild
 
 fotos/bild-kuendigung.png — Eine Kuendigung auf dem Schreibtisch, leicht schraeg, Betreff "Kündigung", "fristgerecht per 31. Dezember 2026" rot eingekreist, darunter "Danke für 11 schöne Jahre." und eine Unterschrift. Kein Chat.
+
+## Kommentarantworten (02.10.)
+
+Algent: «Für die Übergabe hilft eine echte Offerte mehr als eine lange Prozessbeschreibung ... So werden auch die Ausnahmen sichtbar, die später im System fehlen würden.»
+> Ja. Die Ausnahmen sind das eigentliche Wissen. Welcher Kunde immer Skonto abzieht. Welcher Architekt nur aufs Mail reagiert. Das steht in keiner Prozessbeschreibung und fehlt später jeder Automation, wenn man es nicht vorher abholt.
+
+Stephan Lampel: «Und wenn Monika genau darauf keine Lust hat?»
+> Realistisch. 3 Monate sind lang, wenn man innerlich schon weg ist. Darum ist die Kündigung der schlechteste Moment, um damit anzufangen. Was nur in einem Kopf steckt, gehört raus, solange noch alle gern da sind.
+
+Frank Collatz: «Eventuell sollte man mit Monika über Aktivrente sprechen»
+> Gute Idee, falls sie in Pension geht. Ein kleines Pensum danach ist oft für beide Seiten das Beste. Nur verschiebt es das Problem um ein paar Jahre. Irgendwann geht Monika ganz, und bis dann sollte ihr Wissen nicht mehr nur in ihrem Kopf sein.
