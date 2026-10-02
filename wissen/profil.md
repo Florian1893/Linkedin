@@ -45,6 +45,12 @@ Ablauf:
 
 5. Wenn nein oder keine Antwort: nicht nachhaken. Er sieht die naechsten Posts ohnehin.
 
+DU ODER SIE (Befund 02.10.): Der erste Inhaber aus der Zielgruppe, der sich gemeldet hat (Geschaeftsfuehrer einer Schreinerei, eher jung), hat Florian im ersten Kontakt gesiezt: "Guten Tag Herr Röthlisberger". Die Posts duerfen im Du bleiben, die Chat-Bilder auch (dort kennen sich die Leute). Aber in der ERSTEN Nachricht an einen unbekannten Inhaber gilt: Sie, bis er duzt. Wer zuerst schreibt, gibt den Ton vor, und Florian spiegelt ihn.
+
+Erste Nachricht im Sie:
+
+> Guten Tag Herr [Nachname], danke fürs Vernetzen. Kurze Frage aus Neugier: Gibt es bei Ihnen auch eine Monika, an der das halbe Büro hängt?
+
 Warum so: keine Erwaehnung des Profilbesuchs (wirkt ueberwacht), kein Angebot in der ersten Nachricht, eine einzige Frage, die sich mit Ja oder einer Geschichte beantworten laesst. Monika ist inzwischen eine Figur, die die Leute kennen. Wer den Post gesehen hat, versteht die Frage sofort.
 
 ## Kennzahlen, die ab jetzt zaehlen
