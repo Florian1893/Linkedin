@@ -1,6 +1,6 @@
-# 02.10.2026 — «Ich höre per Ende Dezember auf.»
+# ABGELEGT — 02.10.2026 — «Ich höre per Ende Dezember auf.»
 
-ERGEBNIS: 4515 Impressions am 02.10. um 05:18, laeuft noch (Florian: "geht wieder viral"). Zweiter viraler Post in Folge. Kommentarantworten unten.
+ERGEBNIS BEIM ABLEGEN (02.10., 19:33): 215'908 Impressions, 80 Reaktionen, 24 Kommentare, rund 100 Profilbesuche am Morgen, 1 Direktnachricht aus der Zielgruppe (Geschaeftsfuehrer einer Schreinerei in Basel-Land). Bester Post seit Beginn, aber sehr breit und sehr duenn (0,04 Prozent Reaktionen). Lehren: Regeln 36 bis 39 im Lernprotokoll.
 
 Nach FORMEL 8000, aber mit neuem Thema und neuer Bildart. Florian am 01.10.: "anderer Post, hookiger, und anderes Bild als immer WhatsApp".
 

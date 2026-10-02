@@ -1,0 +1,102 @@
+<!doctype html><html lang="de"><head><meta charset="utf-8">
+<style>
+@font-face{font-family:'Inter';font-weight:400;src:url(inter-2.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:500;src:url(inter-3.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:800;src:url(inter-8.ttf) format('truetype');}
+@font-face{font-family:'Caveat';font-weight:700;src:url(caveat-700.ttf) format('truetype');}
+*{margin:0;padding:0;box-sizing:border-box;}
+.s{width:1080px;height:1350px;position:relative;overflow:hidden;
+ background:radial-gradient(120% 95% at 28% 0%,#4a3b30 0%,#2c231c 52%,#1a1410 100%);
+ font-family:'Inter',Helvetica,Arial,sans-serif;}
+svg.grain{position:absolute;left:0;top:0;width:1080px;height:1350px;mix-blend-mode:soft-light;opacity:.55;}
+.paper{position:absolute;left:70px;top:96px;width:940px;height:1420px;
+ background:linear-gradient(172deg,#fdfcf8 0%,#f6f3ec 100%);
+ transform-origin:50% 0;
+ box-shadow:0 46px 90px rgba(0,0,0,.55),0 8px 18px rgba(0,0,0,.35);
+ padding:80px 86px;color:#1b1b1b;}
+.beil{font-size:26px;font-weight:500;letter-spacing:1.6px;text-transform:uppercase;color:#7a7a7a;}
+.titel{font-size:64px;font-weight:800;letter-spacing:-2px;margin-top:20px;}
+.meta{font-size:30px;font-weight:400;color:#3a3a3a;margin-top:26px;line-height:1.5;}
+table{width:100%;border-collapse:collapse;margin-top:54px;}
+th{font-size:24px;font-weight:500;letter-spacing:1.4px;text-transform:uppercase;color:#8a8a8a;
+ text-align:left;padding:0 0 16px;border-bottom:2px solid #d8d4cb;}
+th.h,td.h{text-align:right;width:120px;}
+td{font-size:34px;font-weight:400;letter-spacing:-.3px;padding:30px 0;border-bottom:2px solid #e4e0d7;}
+td.h{font-weight:500;}
+tr.tot td{font-weight:800;border-bottom:none;border-top:4px solid #1b1b1b;}
+.stamp{position:absolute;right:78px;top:238px;transform:rotate(8deg);
+ border:5px solid rgba(29,58,138,.62);border-radius:10px;padding:12px 22px 10px;text-align:center;
+ color:rgba(29,58,138,.66);}
+.stamp .a{font-size:30px;font-weight:800;letter-spacing:4px;}
+.stamp .b{font-size:20px;font-weight:500;letter-spacing:2px;margin-top:2px;}
+.note{position:absolute;font-family:'Caveat',cursive;font-weight:700;color:#c62828;
+ transform-origin:0 0;transform:rotate(-4deg);line-height:1.05;}
+#n1{font-size:66px;}
+#n2{font-size:64px;}
+svg.mk{position:absolute;left:0;top:0;width:940px;height:1420px;overflow:visible;pointer-events:none;}
+</style></head><body>
+<div class="s">
+  <svg class="grain" viewBox="0 0 1080 1350">
+    <filter id="g"><feTurbulence type="fractalNoise" baseFrequency="0.006 0.21" numOctaves="3" seed="11"/>
+      <feColorMatrix type="saturate" values="0"/></filter>
+    <rect width="1080" height="1350" filter="url(#g)"/>
+  </svg>
+
+  <div class="paper" id="paper">
+    <div class="beil">Beilage zur Schlussrechnung</div>
+    <div class="titel">Stundenaufstellung</div>
+    <div class="meta">Objekt: MFH Lindenhof<br>Sanit&#228;rinstallation</div>
+    <table>
+      <tr><th>Position</th><th class="h">Std.</th></tr>
+      <tr><td>Montage Leitungen gem&#228;ss Offerte</td><td class="h">12</td></tr>
+      <tr id="r2"><td id="r2t">Regie: Leitung anders als Plan</td><td class="h" id="r2h">7</td></tr>
+      <tr class="tot"><td>Total</td><td class="h"><span id="tot">19</span></td></tr>
+    </table>
+    <div class="stamp"><div class="a">GEPR&#220;FT</div><div class="b">BAULEITUNG &#183; 29.09.2026</div></div>
+    <div class="note" id="n1">Ohne Rapport<br>zahlen wir das nicht.</div>
+    <div class="note" id="n3" style="font-size:58px">K.</div>
+    <div class="note" id="n2">12</div>
+    <svg class="mk" id="mk" viewBox="0 0 940 1420"></svg>
+  </div>
+</div>
+<script>
+document.fonts.ready.then(()=>{
+  // Alles relativ zum Papier messen, solange es noch nicht gedreht ist. Die Rotstift-Spuren liegen im Papier und drehen mit.
+  const paper=document.getElementById('paper');
+  const P=paper.getBoundingClientRect();
+  const rel=el=>{const r=el.getBoundingClientRect();return {l:r.left-P.left,t:r.top-P.top,r:r.right-P.left,b:r.bottom-P.top,w:r.width,h:r.height};};
+  const row=rel(document.getElementById('r2t')), hrs=rel(document.getElementById('r2h'));
+  const tot=rel(document.getElementById('tot'));
+
+  // 1. Regiezeile von Hand durchgestrichen, zwei leicht versetzte Striche
+  const y=row.t+row.h/2+3, x1=row.l-14, x2=hrs.r+10, mid=(x1+x2)/2;
+  const s1=`M ${x1} ${y+4} Q ${mid-120} ${y-6} ${mid} ${y+1} T ${x2} ${y-5}`;
+  const s2=`M ${x1+30} ${y+13} Q ${mid-60} ${y+5} ${mid+30} ${y+10} T ${x2-24} ${y+5}`;
+
+  // 2. Total 19 schraeg durchgestrichen
+  const t1=`M ${tot.l-10} ${tot.b-6} L ${tot.r+10} ${tot.t+8}`;
+
+  // 3. Notiz und Kuerzel unter die Tabelle setzen, die 12 links neben das gestrichene Total
+  const n1=document.getElementById('n1'), n2=document.getElementById('n2'), n3=document.getElementById('n3');
+  const tableB=rel(document.querySelector('table')).b;
+  n1.style.left='300px'; n1.style.top=(tableB+70)+'px';
+  const N1=rel(n1);
+  n3.style.left=(N1.r-60)+'px'; n3.style.top=(N1.b+6)+'px';
+  n2.style.left=(tot.l-92)+'px'; n2.style.top=(tot.t-30)+'px';
+
+  // 4. Pfeil von der Notiz hoch zur gestrichenen Zeile
+  const ax=N1.l+40, ay=N1.t-10, bx=row.l+row.w*0.55, by=y+34;
+  const arrow=`M ${ax} ${ay} Q ${ax-70} ${(ay+by)/2+20} ${bx} ${by}`;
+  const head=`M ${bx-26} ${by+8} L ${bx} ${by} L ${bx-8} ${by+26}`;
+
+  const red='#c62828';
+  document.getElementById('mk').innerHTML=
+   `<path d="${s1}" fill="none" stroke="${red}" stroke-width="7" stroke-linecap="round" opacity=".92"/>`+
+   `<path d="${s2}" fill="none" stroke="${red}" stroke-width="4" stroke-linecap="round" opacity=".6"/>`+
+   `<path d="${t1}" fill="none" stroke="${red}" stroke-width="6" stroke-linecap="round" opacity=".92"/>`+
+   `<path d="${arrow}" fill="none" stroke="${red}" stroke-width="5" stroke-linecap="round" opacity=".9"/>`+
+   `<path d="${head}" fill="none" stroke="${red}" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" opacity=".9"/>`;
+  paper.style.transform='rotate(-2deg)';
+  window.__ok=true;
+});
+</script></body></html>
