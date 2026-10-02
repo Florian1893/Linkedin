@@ -78,3 +78,14 @@ Stephan Lampel: «Und wenn Monika genau darauf keine Lust hat?»
 
 Frank Collatz: «Eventuell sollte man mit Monika über Aktivrente sprechen»
 > Gute Idee, falls sie in Pension geht. Ein kleines Pensum danach ist oft für beide Seiten das Beste. Nur verschiebt es das Problem um ein paar Jahre. Irgendwann geht Monika ganz, und bis dann sollte ihr Wissen nicht mehr nur in ihrem Kopf sein.
+
+## Kommentarantworten, zweite Runde (02.10., 09:23)
+
+Karl C. (Geschaeftsfuehrer, Business Development): «Es lässt sich vieles automatisieren ... Nur den persönlichen Draht zum Lieferanten oder Kunden kann keine KI übernehmen.»
+> Einverstanden, und das soll sie auch nicht. Der Draht zum Kunden bleibt bei Monika. Die Automation nimmt ihr das Abtippen, Erinnern und Nachfragen ab, damit sie genau dafür mehr Zeit hat.
+
+Teamlead Fleet Management (flaschenpost): «10 Jahre Erfahrung ... an einen jungen Mann übertragen ... Für die Übergabe hatten wir 1,5 Wochen Zeit. Das war brutal!»
+> 10 Jahre in 1,5 Wochen. Brutal ist noch freundlich gesagt. Und genau das ist der Punkt: Erst beim Erklären merkt man, wie viel man nebenbei einfach weiss. Was hat dem Neuen am Schluss am meisten gefehlt?
+
+Jörg Kaufmann (Pflegefachkraft): «Wenn Monika clever ist macht sie einen tollen Übergang ... Man sieht sich manchmal zweimal im Leben.»
+> Schön gesagt. Die meisten Monikas machen das genau so. Das Problem ist selten der Wille. Es ist, dass 11 Jahre nicht in 3 Monate passen.
