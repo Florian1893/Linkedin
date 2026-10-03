@@ -312,6 +312,8 @@ Zweiter Punkt: Der 200er hatte ein Foto, der 250er nicht. Schwacher Beleg, deckt
 
 42. WIE KOMMT ES ZUM KUNDEN (Sanitaer-Inhaber 03.10.2026): Bei einem Post, der ein konkretes Papier betrifft, schreibt der Inhaber nur, wenn er liest, WIE es ohne Mehraufwand fuer seine Leute laeuft. Dort ist die konkrete Angebotszeile staerker als die allgemeine. Florians Vorliebe fuer die allgemeine Zeile ("ich automatisiere das") gilt fuer Themen ohne klaren Ablauf.
 
+43. DIE HEADLINE IST DIE NOTIZ DER VERNETZUNGSANFRAGE (Hypothese vom 03.10.2026, noch nicht gemessen): Inhaber haben Florians Profil nach der Anfrage angeschaut und nicht angenommen. Die alte Headline begann mit "KI-Systeme fürs Handwerk", hatte Pfeile und ein Versprechen mit Zahl. Neu steht vorne der Vertrauensanker (gelernter Plattenleger aus Näfels GL), dann was er automatisiert und für wen, ohne KI, ohne Pfeile, ohne Zahl. Prüfen über die Annahmequote: alte Headline gegen die nächsten 50 Anfragen mit der neuen.
+
 ## Diagnose 120 (Post vom 29.09., "90 Stunden im Excel")
 
 Florian am 29.09.: "schlecht 120". Unter dem Median von 180, ein Sechstel der 700. Bitter, weil es der erste Post aus einer eigenen belegten Quelle war. Die Quelle war gut, der Post hat sie falsch benutzt. Vier Ursachen, nach Schadenswirkung:

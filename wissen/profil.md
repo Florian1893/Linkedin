@@ -4,9 +4,25 @@ Angelegt am 02.10.2026, als der Kuendigungs-Post viral ging und 100 Leute das Pr
 
 ## Titel (Headline)
 
-Damit dein Büro nicht an einer Person hängt. Ich automatisiere Offerte, Nachfassen und Rechnung für Schweizer Handwerksbetriebe mit 10 bis 20 Mitarbeitern.
+AKTUELL EMPFOHLEN (03.10.2026):
 
-Warum so: Unter jedem Kommentar, den Florian gerade beantwortet, steht der Titel gekuerzt auf rund 45 Zeichen. Der erste Satz hat 43 Zeichen und wiederholt das Versprechen aus dem viralen Post. Wer von Monika kommt, findet sofort dieselbe Geschichte. Der zweite Satz sagt, was er baut (Regel 21), welche Ablaeufe (Regel 22) und fuer wen (Regel 20, Schwelle statt Anrede). "Schweizer" filtert die deutschen Leser aus, die nie Kunde werden.
+Gelernter Plattenleger aus Näfels GL. Ich automatisiere Offerten, Nachfassen und Anfragen in Schweizer Handwerksbetrieben mit 10 bis 20 Mitarbeitern, damit kein Auftrag mehr auf dem Schreibtisch verschimmelt.
+
+(208 von 220 Zeichen. In Einladungen und unter Kommentaren sieht man nur den Anfang: "Gelernter Plattenleger aus Näfels GL. Ich automati...")
+
+Anlass: Florian hatte bis dahin "KI-Systeme fürs Handwerk → Anfragen gebündelt, Offerten in 10 Minuten versendet, automatisch nachgefasst, damit kein Auftrag mehr auf dem Schreibtisch verschimmelt → Mindestens 10 Stunden Büro pro Woche gespart." Befund von Florian: Inhaber schauen nach der Vernetzungsanfrage aufs Profil und nehmen trotzdem nicht an. Er vermutet, dass "KI" abschreckt.
+
+Warum so:
+- Die Anfragen gehen ohne Notiz raus. Darum ist die Headline die Notiz. Ein fremder Inhaber entscheidet in 2 Sekunden, ob da einer von ihnen anfragt oder einer, der ihm etwas verkaufen will.
+- "Gelernter Plattenleger" ist der stärkste Vertrauensanker und steht darum vorne, wo man ihn auch in der Einladung sieht. "Näfels GL" macht ihn zum Schweizer mit Ort statt zu einer Agentur.
+- Kein "KI", keine Pfeile, keine Versprechen-Zahlen. Die alte Headline hatte die Form des Feature-Katalogs mit Pfeilen, der als Post nur 176 Impressions geholt hat. "KI" klingt nach Technik, die man erklären muss, "automatisiere" nach dem, was am Ende im Büro passiert.
+- "Offerten in 10 Minuten" und "mindestens 10 Stunden pro Woche" nur zurück, wenn ein Pilotkunde das wirklich gemessen hat. Dann gehört die Zahl mit Beleg in die Info, nicht als Versprechen in die Headline.
+- Florians eigenes Bild "damit kein Auftrag mehr auf dem Schreibtisch verschimmelt" bleibt. Es ist bildhaft, klingt nach Handwerk und nicht nach Berater.
+- Kein du in der Headline. Fremde Inhaber siezen oft im ersten Kontakt (Befund vom 02.10.), die Headline bleibt darum neutral.
+
+Messen: Unter "Meine Einladungen verwalten, Gesendet" zählen, wie viele Anfragen der letzten 2 Wochen angenommen wurden (Basis alte Headline). Ab der Umstellung dieselbe Zahl für die nächsten 50 Anfragen. Nur das zeigt, ob es an der Headline lag.
+
+Frühere Empfehlung vom 02.10. (gebaut für Besucher aus dem viralen Monika-Post, nie live gegangen): "Damit dein Büro nicht an einer Person hängt. Ich automatisiere Offerte, Nachfassen und Rechnung für Schweizer Handwerksbetriebe mit 10 bis 20 Mitarbeitern."
 
 ## Info (Über mich)
 
