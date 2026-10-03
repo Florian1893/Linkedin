@@ -11,60 +11,80 @@ Dazu der Zielgruppen-Test vom 24.09.: "Drei Regierapporte ohne Visum, und die Ba
 
 «Ohne Rapport zahlen wir das nicht.»
 
-Der Bauleiter ist nicht kleinlich. Dir fehlt nur das Papier.
+Bezahlt hast du die 7 Stunden trotzdem. Deinem Monteur.
 
-Er heisst Kurt. Er visiert jeden Regierapport. Nur keinen, den es nicht gibt.
+Kurt ist Bauleiter und nicht kleinlich. Er visiert jeden Regierapport, den er bekommt.
 
-Am Dienstag merkt dein Monteur, dass die Leitung anders liegt als im Plan. Er löst es und arbeitet weiter.
+An einem Dienstag spitzt dein Monteur eine Wand auf. Die alte Leitung liegt anders als im Plan. Er löst es und arbeitet weiter.
 
-Den Rapport will er am Freitag schreiben. Am Freitag ist er schon auf der nächsten Baustelle.
+Den Rapport will er am Freitag schreiben. Da ist er schon auf der nächsten Baustelle.
 
-Offeriert waren 12 Stunden. Gebraucht hat er 19.
+Statt der kalkulierten 12 Stunden hat er 19 gebraucht.
 
-3 Wochen später kommt die Schlussrechnung zurück. Die 7 Stunden Regie sind rot durchgestrichen.
+3 Wochen später kommt die Schlussrechnung zurück. Die 7 Stunden Regie sind rot gestrichen. Die Wand ist zu. Prüfen kann Kurt nichts mehr.
 
-Du rufst Kurt an. Er ist freundlich. Und er bleibt beim Satz von oben.
+Du rufst ihn an. Er ist freundlich und bleibt bei seinem Satz.
 
-Beim nächsten Objekt offerierst du wieder 12 Stunden. Weil nirgends steht, dass es 19 waren.
+Ob Sanitär, Elektro oder Heizung. Ab der 2. Kolonne stehst du nicht mehr daneben.
 
-Ob Sanitär, Elektro oder Heizung. Ab der zweiten Kolonne stehst du nicht mehr daneben.
+Genau diesen Papierkram automatisiere ich. Dein Monteur arbeitet wie bisher und spricht danach ins Handy, was anders war. Mit Foto. Am selben Abend hat Kurt den Rapport zum Visieren.
 
-Genau das automatisiere ich. Den Rapport, die Offerte, das Nachfassen und die Rechnung. Die Arbeit bleibt beim Monteur. Das Papier nicht.
+Nach wie vielen Tagen ist ein Regierapport bei dir nichts mehr wert?
 
-Wie viele Tage liegen bei dir zwischen Regiearbeit und Rapport?
+## Expertenrunde 03.10. (Florian: "es soll wieder durch die Decke")
 
-## Formel-Check
+Drei Gutachten: Reichweite, Sanitaer-Inhaber mit 15 Mitarbeitenden, Lektorat. Alle drei waren sich in drei Punkten einig, die erste Fassung hatte sie falsch:
+1. DER VERLUST IST DER BEZAHLTE LOHN. "Beim naechsten Objekt offerierst du wieder 12 Stunden, weil nirgends steht, dass es 19 waren" war doppelt falsch: Die 19 stehen im Wochenrapport, und eine unvorhergesehene Abweichung gehoert nicht in die naechste Offerte. Neu steht der Lohn schon in Zeile zwei.
+2. DIE ANGEBOTSZEILE MUSS SAGEN, WIE DER RAPPORT ZUM BAULEITER KOMMT. Der Inhaber: "Florian schreibe ich, wenn drinsteht, wie der Rapport vom Handy zu Kurt kommt, ohne dass mein Monteur Neues lernen muss." Die Viererliste "klingt nach Prospekt". Darum diesmal konkret statt allgemein.
+3. "Beim Satz von oben" klang nach Chefetage. Jetzt "bei seinem Satz".
 
-1. Zeile eins, der Satz, mit dem der Verlust passiert: «Ohne Rapport zahlen wir das nicht.» Jeder Handwerker hat ihn schon gehoert. Universell genug fuer die Verteilung, jeder mit Stundenabrechnung versteht ihn.
-2. Ausrede weg, mit du: Jeder schimpft zuerst auf den Bauleiter. "Der Bauleiter ist nicht kleinlich. Dir fehlt nur das Papier."
-3. Gegenfigur mit Namen: Kurt. "Er visiert jeden Regierapport. Nur keinen, den es nicht gibt." Nicht dieselbe Beziehungszeile wie beim Architekten ("Ihr kennt euch seit Jahren"), damit es nicht nach Kopie aussieht.
-4. Zeitbeats: Dienstag, Freitag, 3 Wochen spaeter. Entlastung als Szene: "Er löst es und arbeitet weiter." Der Monteur hat alles richtig gemacht, nur das Papier fehlt.
-5. Rueckbezug: "Und er bleibt beim Satz von oben."
-6. Verlust waechst: ohne Rapport lernt die Nachkalkulation nichts, die naechste Offerte ist wieder zu knapp.
-7. Gewerke als Aufzaehlung, Groessenfilter "zweite Kolonne" (Regel 29).
-8. Angebot allgemein, wie Florian es am 24.09. wollte, mit Regel 39: was automatisiert wird (das Papier) und was bleibt (die Arbeit beim Monteur). Regel 22 in einem Satz.
-9. Zaehlfrage, gesichtswahrend: Man kann stolz "am selben Abend" antworten.
+Fachliche Korrekturen vom Sanitaer-Inhaber:
+- Mit Bauleiter offeriert man nach Ausmass oder pauschal, die Stunden sind die eigene Kalkulation. Darum "kalkuliert" statt "offeriert".
+- Ein ganzes MFH in 12 Stunden ist absurd, und der Werkvertrag steht nie in Stunden auf der Rechnung. Darum Badumbau im 2. OG und im Bild nur die Regieliste.
+- "Leitung anders als im Plan" glaubt man im Umbau, nicht im Neubau. Darum spitzt der Monteur eine Wand auf.
+- Kurt streicht nicht aus Prinzip: Nach 3 Wochen ist die Wand zu, pruefen kann er nichts mehr. Das macht ihn glaubwuerdig und erklaert, warum das Foto im Angebot zaehlt.
+- Visiert wird laufend, meist innert einer Woche. Beim kleinen Umbau wird Regie mit der Schlussrechnung verrechnet. Der Stempel passt.
 
-Regel 38 (Handwerks-Szene): In den ersten 140 Zeichen stehen Rapport, Bauleiter und Regierapport. Ein Berater liest mit, fuehlt sich aber nicht gemeint. Genau das ist gewollt.
+Vom Reichweiten-Experten:
+- Prognose fuer die alte Fassung: 1'000 bis 5'000 Impressions, viral nur mit rund 10 Prozent Wahrscheinlichkeit. Die viralen Posts lebten von Pointen, die jedes KMU teilt, und Berater haben sie weitergetragen. Regierapport, visieren und Kolonne sperren genau diese Verteiler aus.
+- Groesster Hebel: die Bauleitung mitreden lassen. Bauleiter, Projektleiter und Planer sind auf LinkedIn viel aktiver als Inhaber, und ihre Netzwerke sind voller Schweizer Handwerksbetriebe. Die neue Schlussfrage koennen beide Seiten mit einer Zahl beantworten, und die Zahlen gehen auseinander.
+- Bild: 7 von 10. Der fette Titel dominierte, die rote Notiz war duenn, das untere Fuenftel leer. Jetzt ist die Notiz doppelt so gross und das staerkste Element.
+
+Vom Lektorat:
+- 4 polierte Gegensaetze statt einem. Gebrochen: "Nur keinen, den es nicht gibt", "Offeriert/Gebraucht", "Die Arbeit bleibt beim Monteur. Das Papier nicht."
+- "Am Dienstag" haette am Posttag wie heute geklungen. Jetzt "An einem Dienstag".
+- "Das Papier nicht" versprach zu viel, einsprechen muss der Monteur trotzdem. Jetzt "arbeitet wie bisher und spricht danach ins Handy, was anders war".
+- Natuerlichkeit der alten Fassung: 55 von 100.
+
+## Formel-Check (neue Fassung)
+
+1. Zeile eins, der Satz des Verlusts: «Ohne Rapport zahlen wir das nicht.» Steht auch im Bild.
+2. Zeile zwei macht den Verlust groesser statt kleiner, mit du: "Bezahlt hast du die 7 Stunden trotzdem. Deinem Monteur."
+3. Gegenfigur mit Namen, Ausrede weg: "Kurt ist Bauleiter und nicht kleinlich."
+4. Zeitbeats: an einem Dienstag, am Freitag, 3 Wochen spaeter. Entlastung als Szene: "Er löst es und arbeitet weiter."
+5. Rueckbezug: "bleibt bei seinem Satz".
+6. Der Verlust ist doppelt: Lohn bezahlt, Regie gestrichen, und pruefen kann niemand mehr.
+7. Gewerke als Aufzaehlung, Schwelle "Ab der 2. Kolonne".
+8. Angebot konkret, mit Regel 39: der Monteur arbeitet wie bisher, das Papier entsteht nebenbei, Kurt hat es am selben Abend zum Visieren.
+9. Schlussfrage fuer beide Seiten, Handwerker und Bauleitung.
 
 ## Ehrlichkeit
 
-- 12 offeriert, 19 gebraucht: steht so im Protokoll. Die 7 Stunden sind die Differenz.
-- "Mehrstunden nur mit Regierapport verrechenbar": steht so im Protokoll. Darum stimmt "Dir fehlt nur das Papier".
-- Kurt, die Leitung, Dienstag, Freitag, die 3 Wochen und das Streichen sind erfundene Szene in der Du-Form. Der Post behauptet nicht, dass es beim Kunden vom 28.09. so passiert ist.
-- Eine Automation holt keine Unterschrift. Der Post verspricht darum nur, das Papier zu automatisieren, nicht das Visum. Was sie kann: der Rapport ist am selben Tag erfasst und beim Bauleiter, und es wird nachgefragt, bis er visiert ist.
-- "Zweite Kolonne" ist eine Schwelle, keine Zahl aus dem Protokoll.
+- 12 kalkuliert, 19 gebraucht: steht so im Protokoll vom 28.09. Die 7 Stunden sind die Differenz.
+- "Mehrstunden nur mit Regierapport verrechenbar": steht so im Protokoll.
+- Kurt, die Wand, Dienstag, Freitag, die 3 Wochen und das Streichen sind erfundene Szene in der Du-Form. Die Daten im Bild passen zur Szene: Regie am Dienstag 08.09., Rapport geplant fuer Freitag 11.09., Stempel am Dienstag 29.09., genau 3 Wochen.
+- Eine Automation holt keine Unterschrift. Der Post verspricht nur, dass Kurt den Rapport am selben Abend zum Visieren hat, nicht dass er ihn visiert.
 - Im Bild keine Frankenbetraege und keine Stundensaetze. Die Saetze aus dem Protokoll sind vertraulich.
 
-## Alternative Hooks
+## Alternative Hooks (vom Reichweiten-Experten)
 
-- «Die Regie streiche ich.»
-- «Hast du dafür einen Rapport?»
+- «Die 7 Stunden Regie streiche ich.» / Kurt ist nicht kleinlich. Deinen Rapport dazu hat er nie gesehen.
+- «Davon weiss ich nichts.» / Kurt lügt nicht. Deinen Regierapport dazu hat er nie bekommen. (am breitesten, Bild muesste neu)
 
 ## Bild
 
-fotos/bild-schlussrechnung.png — Stundenaufstellung zur Schlussrechnung auf dem Schreibtisch, leicht schraeg wie das Kuendigungsschreiben. Die Zeile "Regie: Leitung abweichend vom Plan, 7 Std." rot von Hand durchgestrichen, das Total 19 gestrichen und durch 12 ersetzt, daneben in roter Handschrift der Satz aus Zeile eins: "Ohne Rapport zahlen wir das nicht. K."
+fotos/bild-schlussrechnung.png — "Regiearbeiten, Beilage zur Schlussrechnung", MFH Lindenhof, Badumbau 2. OG. Eine Zeile: 08.09.2026, Rapport Nr. leer, "Alte Leitung umgelegt", 7 Std. Die Zeile rot gestrichen, das leere Rapportfeld rot eingekreist, ein Pfeil von der Notiz zum leeren Feld, Total 7 auf 0. Grosse rote Handschrift: "Ohne Rapport zahlen wir das nicht. K." Pruefstempel der Bauleitung neben dem Titel.
 
 ## Timing
 
-Dienstag, 06.10. Zwischen dem Monika-Post (01.10.) und diesem liegen 5 Tage. Das genuegt, auch wenn der Monika-Post noch waechst.
+Dienstag, 06.10.

@@ -13,26 +13,28 @@ svg.grain{position:absolute;left:0;top:0;width:1080px;height:1350px;mix-blend-mo
  background:linear-gradient(172deg,#fdfcf8 0%,#f6f3ec 100%);
  transform-origin:50% 0;
  box-shadow:0 46px 90px rgba(0,0,0,.55),0 8px 18px rgba(0,0,0,.35);
- padding:80px 86px;color:#1b1b1b;}
-.beil{font-size:26px;font-weight:500;letter-spacing:1.6px;text-transform:uppercase;color:#7a7a7a;}
-.titel{font-size:64px;font-weight:800;letter-spacing:-2px;margin-top:20px;}
-.meta{font-size:30px;font-weight:400;color:#3a3a3a;margin-top:26px;line-height:1.5;}
-table{width:100%;border-collapse:collapse;margin-top:54px;}
-th{font-size:24px;font-weight:500;letter-spacing:1.4px;text-transform:uppercase;color:#8a8a8a;
- text-align:left;padding:0 0 16px;border-bottom:2px solid #d8d4cb;}
-th.h,td.h{text-align:right;width:120px;}
-td{font-size:34px;font-weight:400;letter-spacing:-.3px;padding:30px 0;border-bottom:2px solid #e4e0d7;}
-td.h{font-weight:500;}
-tr.tot td{font-weight:800;border-bottom:none;border-top:4px solid #1b1b1b;}
-.stamp{position:absolute;right:78px;top:238px;transform:rotate(8deg);
- border:5px solid rgba(29,58,138,.62);border-radius:10px;padding:12px 22px 10px;text-align:center;
+ padding:76px 80px;color:#1b1b1b;}
+.beil{font-size:25px;font-weight:500;letter-spacing:1.6px;text-transform:uppercase;color:#7a7a7a;}
+.titel{font-size:62px;font-weight:800;letter-spacing:-2px;margin-top:16px;}
+.meta{font-size:29px;font-weight:400;color:#3a3a3a;margin-top:22px;line-height:1.5;}
+table{width:100%;border-collapse:collapse;margin-top:50px;}
+th{font-size:21px;font-weight:500;letter-spacing:1.3px;text-transform:uppercase;color:#8a8a8a;
+ text-align:left;padding:0 0 14px;border-bottom:2px solid #d8d4cb;white-space:nowrap;}
+td{font-size:30px;font-weight:400;letter-spacing:-.3px;padding:38px 0;border-bottom:2px solid #e4e0d7;vertical-align:middle;}
+.c1{width:190px;} .c2{width:180px;} .c4{width:70px;text-align:right;}
+td.c4{font-weight:500;}
+tr.tot td{font-weight:800;border-bottom:none;border-top:4px solid #1b1b1b;padding:26px 0;}
+.leer{display:inline-block;width:120px;height:4px;}
+.stamp{position:absolute;right:66px;top:132px;transform:rotate(8deg);
+ border:5px solid rgba(29,58,138,.62);border-radius:10px;padding:10px 18px 8px;text-align:center;
  color:rgba(29,58,138,.66);}
-.stamp .a{font-size:30px;font-weight:800;letter-spacing:4px;}
-.stamp .b{font-size:20px;font-weight:500;letter-spacing:2px;margin-top:2px;}
+.stamp .a{font-size:27px;font-weight:800;letter-spacing:4px;}
+.stamp .b{font-size:18px;font-weight:500;letter-spacing:2px;margin-top:2px;}
 .note{position:absolute;font-family:'Caveat',cursive;font-weight:700;color:#c62828;
- transform-origin:0 0;transform:rotate(-4deg);line-height:1.05;}
-#n1{font-size:66px;}
-#n2{font-size:64px;}
+ transform-origin:0 0;line-height:.98;}
+#n1{font-size:112px;transform:rotate(-4deg);}
+#n3{font-size:76px;transform:rotate(-4deg);}
+#n2{font-size:70px;}
 svg.mk{position:absolute;left:0;top:0;width:940px;height:1420px;overflow:visible;pointer-events:none;}
 </style></head><body>
 <div class="s">
@@ -44,18 +46,17 @@ svg.mk{position:absolute;left:0;top:0;width:940px;height:1420px;overflow:visible
 
   <div class="paper" id="paper">
     <div class="beil">Beilage zur Schlussrechnung</div>
-    <div class="titel">Stundenaufstellung</div>
-    <div class="meta">Objekt: MFH Lindenhof<br>Sanit&#228;rinstallation</div>
+    <div class="titel">Regiearbeiten</div>
+    <div class="meta">MFH Lindenhof, Badumbau 2. OG<br>Sanit&#228;rinstallation</div>
     <table>
-      <tr><th>Position</th><th class="h">Std.</th></tr>
-      <tr><td>Montage Leitungen gem&#228;ss Offerte</td><td class="h">12</td></tr>
-      <tr id="r2"><td id="r2t">Regie: Leitung anders als Plan</td><td class="h" id="r2h">7</td></tr>
-      <tr class="tot"><td>Total</td><td class="h"><span id="tot">19</span></td></tr>
+      <tr><th class="c1">Datum</th><th class="c2">Rapport Nr.</th><th>Arbeit</th><th class="c4">Std.</th></tr>
+      <tr><td class="c1" id="d">08.09.2026</td><td class="c2"><span class="leer" id="leer"></span></td><td id="arb">Alte Leitung umgelegt</td><td class="c4" id="h">7</td></tr>
+      <tr class="tot"><td class="c1">Total</td><td></td><td></td><td class="c4"><span id="tot">7</span></td></tr>
     </table>
     <div class="stamp"><div class="a">GEPR&#220;FT</div><div class="b">BAULEITUNG &#183; 29.09.2026</div></div>
-    <div class="note" id="n1">Ohne Rapport<br>zahlen wir das nicht.</div>
-    <div class="note" id="n3" style="font-size:58px">K.</div>
-    <div class="note" id="n2">12</div>
+    <div class="note" id="n1">Ohne Rapport<br>zahlen wir<br>das nicht.</div>
+    <div class="note" id="n3">K.</div>
+    <div class="note" id="n2">0</div>
     <svg class="mk" id="mk" viewBox="0 0 940 1420"></svg>
   </div>
 </div>
@@ -65,37 +66,45 @@ document.fonts.ready.then(()=>{
   const paper=document.getElementById('paper');
   const P=paper.getBoundingClientRect();
   const rel=el=>{const r=el.getBoundingClientRect();return {l:r.left-P.left,t:r.top-P.top,r:r.right-P.left,b:r.bottom-P.top,w:r.width,h:r.height};};
-  const row=rel(document.getElementById('r2t')), hrs=rel(document.getElementById('r2h'));
+  const d=rel(document.getElementById('d')), leer=rel(document.getElementById('leer')).l, h=rel(document.getElementById('h'));
+  const leerCell=rel(document.getElementById('leer').parentElement);
   const tot=rel(document.getElementById('tot'));
-
-  // 1. Regiezeile von Hand durchgestrichen, zwei leicht versetzte Striche
-  const y=row.t+row.h/2+3, x1=row.l-14, x2=hrs.r+10, mid=(x1+x2)/2;
-  const s1=`M ${x1} ${y+4} Q ${mid-120} ${y-6} ${mid} ${y+1} T ${x2} ${y-5}`;
-  const s2=`M ${x1+30} ${y+13} Q ${mid-60} ${y+5} ${mid+30} ${y+10} T ${x2-24} ${y+5}`;
-
-  // 2. Total 19 schraeg durchgestrichen
-  const t1=`M ${tot.l-10} ${tot.b-6} L ${tot.r+10} ${tot.t+8}`;
-
-  // 3. Notiz und Kuerzel unter die Tabelle setzen, die 12 links neben das gestrichene Total
-  const n1=document.getElementById('n1'), n2=document.getElementById('n2'), n3=document.getElementById('n3');
-  const tableB=rel(document.querySelector('table')).b;
-  n1.style.left='300px'; n1.style.top=(tableB+70)+'px';
-  const N1=rel(n1);
-  n3.style.left=(N1.r-60)+'px'; n3.style.top=(N1.b+6)+'px';
-  n2.style.left=(tot.l-92)+'px'; n2.style.top=(tot.t-30)+'px';
-
-  // 4. Pfeil von der Notiz hoch zur gestrichenen Zeile
-  const ax=N1.l+40, ay=N1.t-10, bx=row.l+row.w*0.55, by=y+34;
-  const arrow=`M ${ax} ${ay} Q ${ax-70} ${(ay+by)/2+20} ${bx} ${by}`;
-  const head=`M ${bx-26} ${by+8} L ${bx} ${by} L ${bx-8} ${by+26}`;
-
   const red='#c62828';
-  document.getElementById('mk').innerHTML=
-   `<path d="${s1}" fill="none" stroke="${red}" stroke-width="7" stroke-linecap="round" opacity=".92"/>`+
-   `<path d="${s2}" fill="none" stroke="${red}" stroke-width="4" stroke-linecap="round" opacity=".6"/>`+
-   `<path d="${t1}" fill="none" stroke="${red}" stroke-width="6" stroke-linecap="round" opacity=".92"/>`+
-   `<path d="${arrow}" fill="none" stroke="${red}" stroke-width="5" stroke-linecap="round" opacity=".9"/>`+
-   `<path d="${head}" fill="none" stroke="${red}" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" opacity=".9"/>`;
+  let svg='';
+
+  // 1. Die Regiezeile von Hand durchgestrichen
+  const y=d.t+d.h/2+2, x1=d.l-14, x2=h.r+10, mid=(x1+x2)/2;
+  svg+=`<path d="M ${x1} ${y+4} Q ${mid-140} ${y-7} ${mid} ${y+1} T ${x2} ${y-5}" fill="none" stroke="${red}" stroke-width="7" stroke-linecap="round" opacity=".92"/>`;
+  svg+=`<path d="M ${x1+30} ${y+14} Q ${mid-70} ${y+6} ${mid+30} ${y+11} T ${x2-24} ${y+6}" fill="none" stroke="${red}" stroke-width="4" stroke-linecap="round" opacity=".6"/>`;
+
+  // 2. Das leere Feld "Rapport Nr." rot eingekreist
+  const cx=leerCell.l+leerCell.w*0.42, cy=leerCell.t+leerCell.h/2, rx=leerCell.w*0.52, ry=leerCell.h*0.40;
+  const pts=[];
+  for(let i=0;i<=64;i++){
+    const a=-2.2+(i/64)*Math.PI*2*1.08;
+    const w=1+0.04*Math.sin(a*2.3+0.7);
+    pts.push((i?'L':'M')+(cx+Math.cos(a)*rx*w).toFixed(1)+' '+(cy+Math.sin(a)*ry*w).toFixed(1));
+  }
+  svg+=`<path d="${pts.join(' ')}" fill="none" stroke="${red}" stroke-width="6" stroke-linecap="round" opacity=".92"/>`;
+
+  // 3. Total 7 schraeg gestrichen, daneben die 0
+  svg+=`<path d="M ${tot.l-10} ${tot.b-6} L ${tot.r+10} ${tot.t+8}" fill="none" stroke="${red}" stroke-width="6" stroke-linecap="round" opacity=".92"/>`;
+  const n2=document.getElementById('n2');
+  n2.style.left=(tot.l-70)+'px'; n2.style.top=(tot.t-26)+'px';
+
+  // 4. Notiz gross ins untere Drittel, Kuerzel darunter rechts
+  const n1=document.getElementById('n1'), n3=document.getElementById('n3');
+  const tableB=rel(document.querySelector('table')).b;
+  n1.style.left='250px'; n1.style.top=(tableB+92)+'px';
+  const N1=rel(n1);
+  n3.style.left=(N1.r-40)+'px'; n3.style.top=(N1.b-6)+'px';
+
+  // 5. Pfeil von der Notiz hoch zum leeren Rapportfeld
+  const ax=N1.l+10, ay=N1.t+20, bx=cx-10, by=cy+ry+10;
+  svg+=`<path d="M ${ax} ${ay} Q ${ax-150} ${(ay+by)/2+30} ${bx} ${by}" fill="none" stroke="${red}" stroke-width="5" stroke-linecap="round" opacity=".9"/>`;
+  svg+=`<path d="M ${bx-24} ${by+14} L ${bx} ${by} L ${bx+4} ${by+28}" fill="none" stroke="${red}" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" opacity=".9"/>`;
+
+  document.getElementById('mk').innerHTML=svg;
   paper.style.transform='rotate(-2deg)';
   window.__ok=true;
 });
