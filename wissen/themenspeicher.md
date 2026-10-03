@@ -90,15 +90,19 @@ Am 01.10. geparkt ("nein anderer Post"), am 02.10. neu gebaut fuer den 06.10.: d
 
 RESERVE nach demselben Muster: die Familien. "Mehrere Familien verloren, weil die Offerte nicht rechtzeitig rausging" und "Das Geld liegt bei den Privatkunden". Aber erst in ein paar Wochen, die Pointe liegt zu nah am 8000er.
 
+GEPLANT FUER MITTWOCH 07.10. (posts/2026-10-07-mahnen.md, Bild fotos/bild-offene-posten.png): das Mahnwesen. Belegt: "Ueberfaellige Rechnungen werden nur rot angezeigt, keine Benachrichtigung, keine automatische Mahnung" und "Zahlungseingaenge werden von Hand kontrolliert". Hook «Den mahne ich nicht. Der ist ein guter Kunde.» Zielgruppen-Post: Verwaltung als Kunde, 13. Monatslohn im Dezember, Buerokraft fragt "Erinnern?".
+
+GEPLANT FUER DONNERSTAG 08.10. (posts/2026-10-08-wir-melden-uns.md, Bild fotos/bild-aufnahme.png): die Familien, frueher als oben vorgesehen, weil ab 06.10. dreimal pro Woche gepostet wird. Damit es nicht den 8000er wiederholt, ist die Pointe gedreht: nicht "zu spaet", sondern "nie nachgefragt". Belegt dazu: "Kein Wiedervorlage-System; ob nachgefasst wird, haengt an der freien Zeit des Inhabers." Hook «Wir melden uns.», Reichweiten-Post.
+
 GESPIELT am 29.09.: die 90 Stunden. "Falsch geschriebene Stunden fallen spaet auf, Beispiel ein Mitarbeiter mit ca. 90 Std. zu viel innert sechs Monaten." Dazu die Doppelerfassung, Spalten aus der Zeiterfassung werden von Hand ins Excel abgetippt.
 
 NOCH FREI, alles woertlich aus dem Protokoll:
 - Reaktionszeit auf Anfragen teils bis 72 Stunden. "Rueckmeldung teils erst nach drei Tagen, bis dann hat der Kunde anders entschieden."
 - "Konkret verloren: ein Architekt und mehrere Familien, weil die Offerte nicht rechtzeitig rausging." Das ist der bisher haerteste belegte Verlust im ganzen Speicher.
 - "Das Geld liegt bei den Privatkunden, genau dort geht am meisten verloren."
-- "Kein Wiedervorlage-System; ob nachgefasst wird, haengt an der freien Zeit des Inhabers."
+- "Kein Wiedervorlage-System; ob nachgefasst wird, haengt an der freien Zeit des Inhabers." (GEPLANT 08.10.)
 - Nachkalkulation: 12 Stunden offeriert, 19 gebraucht. Mehrstunden nur mit Begruendung verrechenbar.
-- Ueberfaellige Rechnungen werden nur rot angezeigt, keine Benachrichtigung, keine automatische Mahnung, Zahlungseingaenge werden von Hand kontrolliert.
+- Ueberfaellige Rechnungen werden nur rot angezeigt, keine Benachrichtigung, keine automatische Mahnung, Zahlungseingaenge werden von Hand kontrolliert. (GEPLANT 07.10.)
 - "Ablaeufe sind nicht dokumentiert, fuer jeden Neuen muss alles neu erklaert werden."
 - Preisdruck: grosse Firmen offerieren teils unter Kosten, um ihre Leute auszulasten. Heikel, weil es ueber Dritte urteilt. Nur als Zitat des Inhabers verwendbar, nie als eigene Behauptung.
 

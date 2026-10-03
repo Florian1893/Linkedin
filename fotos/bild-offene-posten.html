@@ -1,0 +1,105 @@
+<!doctype html><html lang="de"><head><meta charset="utf-8">
+<style>
+@font-face{font-family:'Inter';font-weight:400;src:url(inter-2.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:500;src:url(inter-3.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:800;src:url(inter-8.ttf) format('truetype');}
+@font-face{font-family:'Caveat';font-weight:700;src:url(caveat-700.ttf) format('truetype');}
+*{margin:0;padding:0;box-sizing:border-box;}
+.s{width:1080px;height:1350px;position:relative;overflow:hidden;
+ background:radial-gradient(120% 95% at 72% 0%,#646b73 0%,#3b4046 50%,#212428 100%);
+ font-family:'Inter',Helvetica,Arial,sans-serif;}
+svg.grain{position:absolute;left:0;top:0;width:1080px;height:1350px;mix-blend-mode:soft-light;opacity:.5;}
+.paper{position:absolute;left:62px;top:80px;width:956px;height:1420px;
+ background:linear-gradient(170deg,#fdfdfb 0%,#f3f2ee 100%);
+ transform-origin:50% 0;
+ box-shadow:0 46px 90px rgba(0,0,0,.5),0 8px 18px rgba(0,0,0,.32);
+ padding:70px 74px;color:#1b1b1b;}
+.kopf{font-size:24px;font-weight:500;letter-spacing:1.6px;text-transform:uppercase;color:#7a7a7a;display:flex;justify-content:space-between;}
+.kopf span{letter-spacing:0;text-transform:none;color:#9a9a9a;font-weight:400;}
+.titel{font-size:64px;font-weight:800;letter-spacing:-2px;margin-top:12px;}
+.meta{font-size:29px;font-weight:400;color:#3a3a3a;margin-top:18px;line-height:1.5;}
+table{width:100%;border-collapse:collapse;margin-top:44px;}
+th{font-size:20px;font-weight:500;letter-spacing:1.2px;text-transform:uppercase;color:#8a8a8a;
+ text-align:left;padding:0 0 14px;border-bottom:2px solid #d9d8d2;white-space:nowrap;}
+td{font-size:27px;font-weight:400;letter-spacing:-.3px;padding:27px 0;border-bottom:2px solid #e6e5df;
+ white-space:nowrap;vertical-align:middle;}
+.c1{width:96px;} .c2{width:172px;} .c4{width:156px;text-align:right;} .c5{width:96px;text-align:right;}
+th.c4,th.c5{text-align:right;}
+td.c4{font-weight:500;}
+td.c5{color:#c0392b;font-weight:500;}
+tr.tot td{font-weight:800;border-bottom:none;border-top:4px solid #1b1b1b;padding:24px 0;}
+.note{position:absolute;font-family:'Caveat',cursive;font-weight:700;color:#c62828;
+ transform-origin:0 0;line-height:.98;white-space:nowrap;}
+#n1{font-size:96px;transform:rotate(-5deg);}
+svg.mk{position:absolute;left:0;top:0;width:956px;height:1420px;overflow:visible;pointer-events:none;}
+/* Post-it: oben angeklebt, unten leicht abgehoben */
+.postit{position:absolute;left:58px;top:888px;width:500px;height:472px;transform:rotate(-5deg);
+ transform-origin:50% 0;
+ background:linear-gradient(178deg,#fff38a 0%,#fde767 18%,#f9dc4f 100%);
+ box-shadow:0 2px 3px rgba(0,0,0,.18),0 26px 40px rgba(0,0,0,.42);
+ padding:58px 46px 0 50px;}
+.postit:before{content:"";position:absolute;left:0;top:0;right:0;height:74px;
+ background:linear-gradient(180deg,rgba(0,0,0,.05),rgba(0,0,0,0));}
+.postit .h{font-family:'Caveat',cursive;font-weight:700;font-size:92px;line-height:.98;color:#1d2a63;
+ letter-spacing:-.5px;}
+</style></head><body>
+<div class="s">
+  <svg class="grain" viewBox="0 0 1080 1350">
+    <filter id="g"><feTurbulence type="fractalNoise" baseFrequency="0.55" numOctaves="2" seed="4"/>
+      <feColorMatrix type="saturate" values="0"/></filter>
+    <rect width="1080" height="1350" filter="url(#g)"/>
+  </svg>
+
+  <div class="paper" id="paper">
+    <div class="kopf">Debitoren &#183; Auszug<span>Seite 1 von 1</span></div>
+    <div class="titel">Offene Posten</div>
+    <div class="meta">Kunde: Verwaltung Brunner<br>Stand 30.09.2025</div>
+    <table>
+      <tr><th class="c1">Beleg</th><th class="c2">Datum</th><th>Text</th><th class="c4">CHF</th><th class="c5">Tage</th></tr>
+      <tr><td class="c1">1041</td><td class="c2">03.06.2025</td><td>Boiler ersetzt</td><td class="c4">3'960.00</td><td class="c5">119</td></tr>
+      <tr><td class="c1">1046</td><td class="c2">10.06.2025</td><td>Rohrbruch Keller</td><td class="c4">1'480.00</td><td class="c5">112</td></tr>
+      <tr><td class="c1">1052</td><td class="c2">17.06.2025</td><td>WC-Anlage ersetzt</td><td class="c4">2'150.00</td><td class="c5">105</td></tr>
+      <tr><td class="c1">1058</td><td class="c2">24.06.2025</td><td>Steigleitung saniert</td><td class="c4">11'640.00</td><td class="c5">98</td></tr>
+      <tr class="tot"><td class="c1" colspan="3">Total offen</td><td class="c4"><span id="tot">19'230.00</span></td><td class="c5"></td></tr>
+    </table>
+    <div class="note" id="n1">Erinnern?</div>
+    <svg class="mk" id="mk" viewBox="0 0 956 1420"></svg>
+  </div>
+
+  <div class="postit" id="postit"><div class="h">Den mahne<br>ich nicht.<br>Der ist ein<br>guter Kunde.</div></div>
+</div>
+<script>
+document.fonts.ready.then(()=>{
+  // Relativ zum ungedrehten Papier messen. Der Rotstift der Buerokraft liegt im Papier und dreht mit.
+  const paper=document.getElementById('paper');
+  const P=paper.getBoundingClientRect();
+  const rel=el=>{const r=el.getBoundingClientRect();return {l:r.left-P.left,t:r.top-P.top,r:r.right-P.left,b:r.bottom-P.top,w:r.width,h:r.height};};
+  const tot=rel(document.getElementById('tot'));
+  const red='#c62828';
+  let svg='';
+
+  // 1. Total von Hand rot eingekreist, nicht ganz geschlossen
+  const cx=tot.l+tot.w/2, cy=tot.t+tot.h/2+2, rx=tot.w/2+30, ry=tot.h/2+22;
+  const pts=[];
+  for(let i=0;i<=64;i++){
+    const a=-2.6+(i/64)*Math.PI*2*1.1;
+    const w=1+0.05*Math.sin(a*2.1+0.4);
+    pts.push((i?'L':'M')+(cx+Math.cos(a)*rx*w).toFixed(1)+' '+(cy+Math.sin(a)*ry*w).toFixed(1));
+  }
+  svg+=`<path d="${pts.join(' ')}" fill="none" stroke="${red}" stroke-width="6" stroke-linecap="round" opacity=".92"/>`;
+
+  // 2. Frage der Buerokraft unter dem Total, Pfeil hoch zum Kreis
+  const n1=document.getElementById('n1');
+  // Rechts vom Post-it halten, sonst deckt es das E zu
+  n1.style.left=(cx-152)+'px'; n1.style.top=(cy+ry+118)+'px';
+  const N1=rel(n1);
+  // Pfeil vom Anfang der Notiz fast gerade hoch an den Kreis, Spitze zeigt nach oben
+  const ax=N1.l+N1.w*0.36, ay=N1.t+30, bx=cx-4, by=cy+ry+12;
+  svg+=`<path d="M ${ax} ${ay} Q ${ax-22} ${(ay+by)/2} ${bx} ${by}" fill="none" stroke="${red}" stroke-width="5" stroke-linecap="round" opacity=".9"/>`;
+  svg+=`<path d="M ${bx-19} ${by+20} L ${bx} ${by} L ${bx+17} ${by+22}" fill="none" stroke="${red}" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" opacity=".9"/>`;
+
+  document.getElementById('mk').innerHTML=svg;
+  paper.style.transform='rotate(1.3deg)';
+  window.__ok={tot_b:Math.round(tot.b+80), note_b:Math.round(N1.b+80), note_l:Math.round(N1.l+62)};
+});
+</script></body></html>

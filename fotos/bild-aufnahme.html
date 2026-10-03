@@ -1,0 +1,130 @@
+<!doctype html><html lang="de"><head><meta charset="utf-8">
+<style>
+@font-face{font-family:'Inter';font-weight:400;src:url(inter-2.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:500;src:url(inter-3.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:800;src:url(inter-8.ttf) format('truetype');}
+@font-face{font-family:'Caveat';font-weight:700;src:url(caveat-700.ttf) format('truetype');}
+*{margin:0;padding:0;box-sizing:border-box;}
+/* Beifahrersitz im Bus: dunkler Stoff */
+.s{width:1080px;height:1350px;position:relative;overflow:hidden;
+ background:radial-gradient(130% 100% at 30% 0%,#4c4e52 0%,#2c2d30 55%,#18191b 100%);
+ font-family:'Inter',Helvetica,Arial,sans-serif;}
+svg.grain{position:absolute;left:0;top:0;width:1080px;height:1350px;mix-blend-mode:soft-light;opacity:.6;}
+.board{position:absolute;left:78px;top:38px;width:924px;height:1440px;border-radius:28px;
+ background:linear-gradient(165deg,#a8754a 0%,#8f5f37 45%,#7a4e2c 100%);
+ box-shadow:0 44px 90px rgba(0,0,0,.62),0 8px 18px rgba(0,0,0,.4),inset 0 0 0 2px rgba(255,255,255,.07);
+ transform-origin:50% 0;}
+svg.bgrain{position:absolute;left:0;top:0;width:924px;height:1440px;border-radius:28px;mix-blend-mode:multiply;opacity:.28;}
+.paper{position:absolute;left:34px;top:96px;width:856px;height:1400px;
+ background:linear-gradient(172deg,#fcfbf7 0%,#f4f1e8 100%);
+ box-shadow:0 2px 6px rgba(0,0,0,.28);
+ padding:124px 64px 0;color:#1b1b1b;}
+.titel{font-size:50px;font-weight:800;letter-spacing:-1.5px;}
+.sub{font-size:22px;font-weight:400;color:#8a8a8a;margin-top:8px;letter-spacing:.2px;}
+.f{display:flex;align-items:flex-end;height:96px;border-bottom:2px solid #d4cfc2;}
+.f:first-of-type{margin-top:26px;}
+.lab{width:196px;flex:none;font-size:19px;font-weight:500;letter-spacing:1.3px;text-transform:uppercase;color:#8a8a8a;padding-bottom:16px;}
+.val{font-family:'Caveat',cursive;font-weight:700;color:#22408f;font-size:60px;line-height:1;padding-bottom:4px;
+ transform:rotate(-1deg);transform-origin:0 100%;white-space:nowrap;}
+.bem{margin-top:34px;}
+.bem .lab{padding-bottom:0;}
+.bem .zeile{height:150px;border-bottom:2px solid #d4cfc2;position:relative;}
+.bem .val{position:absolute;left:0;bottom:4px;font-size:106px;transform:rotate(-2deg);}
+.off{margin-top:44px;border:2px solid #cfcabd;border-radius:10px;padding:8px 28px 22px;}
+.off .k{font-size:19px;font-weight:500;letter-spacing:1.3px;text-transform:uppercase;color:#8a8a8a;margin-top:14px;}
+.of{display:flex;align-items:flex-end;height:92px;}
+.of .lab2{width:300px;flex:none;font-size:30px;font-weight:500;color:#333;padding-bottom:14px;letter-spacing:-.3px;}
+.of .linie{flex:1;height:2px;background:#bdb7a8;margin-bottom:18px;position:relative;}
+.of .linie .val{position:absolute;left:8px;bottom:-4px;font-size:62px;}
+svg.mk{position:absolute;left:0;top:0;width:856px;height:1400px;overflow:visible;pointer-events:none;}
+svg.clip{position:absolute;left:272px;top:14px;width:380px;height:150px;overflow:visible;
+ filter:drop-shadow(0 10px 10px rgba(0,0,0,.45));}
+</style></head><body>
+<div class="s">
+  <svg class="grain" viewBox="0 0 1080 1350">
+    <filter id="g"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="7"/>
+      <feColorMatrix type="saturate" values="0"/></filter>
+    <rect width="1080" height="1350" filter="url(#g)"/>
+  </svg>
+
+  <div class="board" id="board">
+    <svg class="bgrain" viewBox="0 0 924 1440">
+      <filter id="bg"><feTurbulence type="fractalNoise" baseFrequency="0.02 0.6" numOctaves="3" seed="3"/>
+        <feColorMatrix type="saturate" values="0"/></filter>
+      <rect width="924" height="1440" rx="28" filter="url(#bg)"/>
+    </svg>
+
+    <div class="paper" id="paper">
+      <div class="titel">Aufnahme Besichtigung</div>
+      <div class="sub">Bitte vollst&#228;ndig ausf&#252;llen</div>
+
+      <div class="f"><div class="lab">Kunde</div><div class="val">Familie Gerber</div></div>
+      <div class="f"><div class="lab">Objekt</div><div class="val">EFH, Bad 1. OG</div></div>
+      <div class="f"><div class="lab">Datum</div><div class="val">Sa 13.9.25, 9 Uhr</div></div>
+      <div class="f"><div class="lab">Wunsch</div><div class="val">Wanne raus, Dusche rein</div></div>
+
+      <div class="bem">
+        <div class="lab">Bemerkungen</div>
+        <div class="zeile"><div class="val" id="hook">&#171;Wir melden uns.&#187;</div></div>
+      </div>
+
+      <div class="off">
+        <div class="k">Offerte</div>
+        <div class="of"><div class="lab2">Versandt am</div><div class="linie"><div class="val">22.9.</div></div></div>
+        <div class="of"><div class="lab2">Nachgefasst am</div><div class="linie" id="leer"></div></div>
+      </div>
+
+      <svg class="mk" id="mk" viewBox="0 0 856 1400"></svg>
+    </div>
+
+    <svg class="clip" viewBox="0 0 380 150">
+      <defs>
+        <linearGradient id="metal" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0" stop-color="#f6f7f9"/><stop offset=".45" stop-color="#c6cbd1"/><stop offset="1" stop-color="#8b9299"/>
+        </linearGradient>
+        <linearGradient id="wire" x1="0" y1="0" x2="1" y2="0">
+          <stop offset="0" stop-color="#9aa1a8"/><stop offset=".5" stop-color="#eef0f2"/><stop offset="1" stop-color="#8f969d"/>
+        </linearGradient>
+        <radialGradient id="niet" cx=".35" cy=".35" r=".7">
+          <stop offset="0" stop-color="#ffffff"/><stop offset=".6" stop-color="#b9bec4"/><stop offset="1" stop-color="#7d848b"/>
+        </radialGradient>
+      </defs>
+      <path d="M 96 74 L 96 30 Q 96 10 118 10 L 262 10 Q 284 10 284 30 L 284 74" fill="none" stroke="url(#wire)" stroke-width="13" stroke-linecap="round"/>
+      <rect x="0" y="54" width="380" height="88" rx="16" fill="url(#metal)" stroke="#7b8289" stroke-width="1.5"/>
+      <rect x="10" y="60" width="360" height="5" rx="2.5" fill="#ffffff" opacity=".65"/>
+      <rect x="70" y="64" width="240" height="20" rx="10" fill="#aab0b6" opacity=".55"/>
+      <circle cx="40" cy="104" r="10" fill="url(#niet)"/>
+      <circle cx="340" cy="104" r="10" fill="url(#niet)"/>
+    </svg>
+  </div>
+</div>
+<script>
+document.fonts.ready.then(()=>{
+  // Relativ zum Papier messen, solange das Klemmbrett noch gerade liegt. Der Rotstift liegt im Papier und dreht mit.
+  const paper=document.getElementById('paper');
+  const P=paper.getBoundingClientRect();
+  const rel=el=>{const r=el.getBoundingClientRect();return {l:r.left-P.left,t:r.top-P.top,r:r.right-P.left,b:r.bottom-P.top,w:r.width,h:r.height};};
+  const leer=rel(document.getElementById('leer'));
+  const hook=rel(document.getElementById('hook'));
+  const red='#c62828';
+  let svg='';
+
+  // Das leere Feld "Nachgefasst am" rot eingekreist, zweimal angesetzt wie von Hand
+  const cx=leer.l+leer.w*0.5, cy=leer.t-20, rx=leer.w*0.5+22, ry=44;
+  const ring=(start,turn,wob,sw,op)=>{
+    const pts=[];
+    for(let i=0;i<=72;i++){
+      const a=start+(i/72)*Math.PI*2*turn;
+      const w=1+wob*Math.sin(a*2.3+0.6);
+      pts.push((i?'L':'M')+(cx+Math.cos(a)*rx*w).toFixed(1)+' '+(cy+Math.sin(a)*ry*w).toFixed(1));
+    }
+    return `<path d="${pts.join(' ')}" fill="none" stroke="${red}" stroke-width="${sw}" stroke-linecap="round" opacity="${op}"/>`;
+  };
+  // Start oben rechts, das Ende schiesst ein Stueck ueber den Anfang hinaus
+  svg+=ring(-0.9,1.09,0.035,6,.92);
+
+  document.getElementById('mk').innerHTML=svg;
+  document.getElementById('board').style.transform='rotate(-2deg)';
+  window.__ok={hook_r:Math.round(hook.r), papier_b:Math.round(P.height), feld_b:Math.round(cy+ry)};
+});
+</script></body></html>
