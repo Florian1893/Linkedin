@@ -9,11 +9,11 @@ Dazu der Zielgruppen-Test vom 24.09.: "Drei Regierapporte ohne Visum, und die Ba
 
 ## Post
 
-«Ohne Rapport zahlen wir das nicht.»
+«Davon weiss ich nichts.»
 
-Bezahlt hast du die 7 Stunden trotzdem. Deinem Monteur.
+Kurt lügt nicht. Deinen Rapport dazu hat er nie gesehen.
 
-Kurt ist Bauleiter und nicht kleinlich. Er visiert jeden Regierapport, den er bekommt.
+Er ist Bauleiter. Was nicht auf Papier steht, ist nie passiert.
 
 An einem Dienstag spitzt dein Monteur eine Wand auf. Die alte Leitung liegt anders als im Plan. Er löst es und arbeitet weiter.
 
@@ -23,13 +23,43 @@ Statt der kalkulierten 12 Stunden hat er 19 gebraucht.
 
 3 Wochen später kommt die Schlussrechnung zurück. Die 7 Stunden Regie sind rot gestrichen. Die Wand ist zu. Prüfen kann Kurt nichts mehr.
 
-Du rufst ihn an. Er ist freundlich und bleibt bei seinem Satz.
+Du rufst ihn an. Seine Antwort steht ganz oben.
+
+Den Lohn für die 7 Stunden hast du längst bezahlt.
 
 Ob Sanitär, Elektro oder Heizung. Ab der 2. Kolonne stehst du nicht mehr daneben.
 
 Genau diesen Papierkram automatisiere ich. Dein Monteur arbeitet wie bisher und spricht danach ins Handy, was anders war. Mit Foto. Am selben Abend hat Kurt den Rapport zum Visieren.
 
-Nach wie vielen Tagen ist ein Regierapport bei dir nichts mehr wert?
+Nach wie vielen Tagen ist ein Rapport bei dir nichts mehr wert?
+
+## Entscheid 03.10.: Reichweite vor Zielgruppe
+
+Florian: "Reichweite wichtiger". Darum der breiteste Hook des Reichweiten-Experten, «Davon weiss ich nichts.», und ein teilbarer Satz, den jeder mit Stundenabrechnung kennt: "Was nicht auf Papier steht, ist nie passiert." Berater, Agenturen und Anwaelte verrechnen auch Stunden, sie sollen den Satz weitertragen. Die Baustellen-Geschichte bleibt fuer die Handwerker. "Regierapport" ist in den ersten Zeilen zu "Rapport" geworden, das versteht jeder. Gemessen wird trotzdem beides: Impressions und Anteil der Zielgruppe in der Demografie.
+
+Fassung fuer die Zielgruppe (vor dem Entscheid, falls Florian zurueck will):
+
+> «Ohne Rapport zahlen wir das nicht.»
+>
+> Bezahlt hast du die 7 Stunden trotzdem. Deinem Monteur.
+>
+> Kurt ist Bauleiter und nicht kleinlich. Er visiert jeden Regierapport, den er bekommt.
+>
+> An einem Dienstag spitzt dein Monteur eine Wand auf. Die alte Leitung liegt anders als im Plan. Er löst es und arbeitet weiter.
+>
+> Den Rapport will er am Freitag schreiben. Da ist er schon auf der nächsten Baustelle.
+>
+> Statt der kalkulierten 12 Stunden hat er 19 gebraucht.
+>
+> 3 Wochen später kommt die Schlussrechnung zurück. Die 7 Stunden Regie sind rot gestrichen. Die Wand ist zu. Prüfen kann Kurt nichts mehr.
+>
+> Du rufst ihn an. Er ist freundlich und bleibt bei seinem Satz.
+>
+> Ob Sanitär, Elektro oder Heizung. Ab der 2. Kolonne stehst du nicht mehr daneben.
+>
+> Genau diesen Papierkram automatisiere ich. Dein Monteur arbeitet wie bisher und spricht danach ins Handy, was anders war. Mit Foto. Am selben Abend hat Kurt den Rapport zum Visieren.
+>
+> Nach wie vielen Tagen ist ein Regierapport bei dir nichts mehr wert?
 
 ## Expertenrunde 03.10. (Florian: "es soll wieder durch die Decke")
 
@@ -83,7 +113,7 @@ Vom Lektorat:
 
 ## Bild
 
-fotos/bild-schlussrechnung.png — "Regiearbeiten, Beilage zur Schlussrechnung", MFH Lindenhof, Badumbau 2. OG. Eine Zeile: 08.09.2026, Rapport Nr. leer, "Alte Leitung umgelegt", 7 Std. Die Zeile rot gestrichen, das leere Rapportfeld rot eingekreist, ein Pfeil von der Notiz zum leeren Feld, Total 7 auf 0. Grosse rote Handschrift: "Ohne Rapport zahlen wir das nicht. K." Pruefstempel der Bauleitung neben dem Titel.
+fotos/bild-schlussrechnung.png — (Handschrift ab 03.10.: "Davon weiss ich nichts. K.") "Regiearbeiten, Beilage zur Schlussrechnung", MFH Lindenhof, Badumbau 2. OG. Eine Zeile: 08.09.2026, Rapport Nr. leer, "Alte Leitung umgelegt", 7 Std. Die Zeile rot gestrichen, das leere Rapportfeld rot eingekreist, ein Pfeil von der Notiz zum leeren Feld, Total 7 auf 0. Grosse rote Handschrift: "Ohne Rapport zahlen wir das nicht. K." Pruefstempel der Bauleitung neben dem Titel.
 
 ## Timing
 
