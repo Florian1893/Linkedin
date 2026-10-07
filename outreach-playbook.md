@@ -252,6 +252,10 @@ Die Nachricht darf nicht nach Maschine klingen. Der haeufigste Verraeter ist der
 
 **Preise gehoeren NIE in die Erstnachricht.** Sie kommen nach dem Gratis-Aufbau, wenn geliefert wurde.
 
+**Laufende Kosten (so an Valon Denjali #112 am 07.10.2026 kommuniziert):** Der Aufbau eines Prozesses kostet einmalig, es gibt keine jaehrliche Gebuehr von Florian. Toolkosten, die im Hintergrund monatlich anfallen koennen, werden vor dem Bau transparent genannt. Kuenftige Antworten auf die Frage "jaehrlich oder einmalig" muessen dazu passen.
+
+**Erstes Gespraech per Videocall (07.10.2026):** Analyse-Gespraech ca. 30 Minuten per Video statt vor Ort, der Lead zeigt am Bildschirm, wie heute gearbeitet wird. Spart Fahrten bei weit entfernten Leads (Valon #112 in Bern).
+
 **Begrenzung (aufgehoben 15.09.2026):** Stand bis 15.09: Das grosse Freebie geht nur an A-Leads, alle anderen bekommen die Fuenfzehn-Minuten-Variante. Florian hat das bei Alban Ramadani #65 korrigiert: das grosse Freebie geht an alle Leads. Risiko wochenlanger Gratis-Arbeit bei mehreren Zusagen bleibt bestehen und sollte im Auge behalten werden, ist aber nicht mehr Grund fuer eine Zwei-Klassen-Nachricht.
 
 ## Der echte Referenzfall (seit 12.09.2026 verwendbar)
