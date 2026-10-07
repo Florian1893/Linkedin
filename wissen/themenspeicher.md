@@ -92,7 +92,7 @@ RESERVE nach demselben Muster: die Familien. "Mehrere Familien verloren, weil di
 
 GEPLANT FUER MITTWOCH 07.10. (posts/2026-10-07-mahnen.md, Bild fotos/bild-offene-posten.png): das Mahnwesen. Belegt: "Ueberfaellige Rechnungen werden nur rot angezeigt, keine Benachrichtigung, keine automatische Mahnung" und "Zahlungseingaenge werden von Hand kontrolliert". Hook «Den mahne ich nicht. Der ist ein guter Kunde.» Zielgruppen-Post: Verwaltung als Kunde, 13. Monatslohn im Dezember, Buerokraft fragt "Erinnern?".
 
-GEPLANT FUER DONNERSTAG 08.10. (posts/2026-10-08-wir-melden-uns.md, Bild fotos/bild-aufnahme.png): die Familien, frueher als oben vorgesehen, weil ab 06.10. dreimal pro Woche gepostet wird. Damit es nicht den 8000er wiederholt, ist die Pointe gedreht: nicht "zu spaet", sondern "nie nachgefragt". Belegt dazu: "Kein Wiedervorlage-System; ob nachgefasst wird, haengt an der freien Zeit des Inhabers." Hook «Wir melden uns.», Reichweiten-Post.
+GESPIELT, 389 IMPRESSIONS (gemeldet 07.10.), statt wie geplant am 08.10. (posts/2026-10-08-wir-melden-uns.md, Bild fotos/bild-aufnahme.png). Offerte und Nachfassen sind damit bis Mitte November gesperrt (Regel 44). Urspruenglich: die Familien, frueher als oben vorgesehen, weil ab 06.10. dreimal pro Woche gepostet wird. Damit es nicht den 8000er wiederholt, ist die Pointe gedreht: nicht "zu spaet", sondern "nie nachgefragt". Belegt dazu: "Kein Wiedervorlage-System; ob nachgefasst wird, haengt an der freien Zeit des Inhabers." Hook «Wir melden uns.», Reichweiten-Post.
 
 GESPIELT am 29.09.: die 90 Stunden. "Falsch geschriebene Stunden fallen spaet auf, Beispiel ein Mitarbeiter mit ca. 90 Std. zu viel innert sechs Monaten." Dazu die Doppelerfassung, Spalten aus der Zeiterfassung werden von Hand ins Excel abgetippt.
 

@@ -1,5 +1,7 @@
 # 08.10.2026 (Donnerstag) — «Wir melden uns.»
 
+ERGEBNIS (gemeldet 07.10.2026): 389 Impressions. Florian: "Katastrophe". Postzeit, Reaktionen, Kommentare und Demografie noch offen. Vorlaeufige Diagnose im Lernprotokoll, Regel 44: verbranntes Thema, die 5. Geschichte zu Offerte und Nachfassen.
+
 Wochenplan ab 06.10.: Dienstag, Mittwoch, Donnerstag, je 07:00. Donnerstag ist wieder auf Reichweite: «Wir melden uns.» hat jeder schon gehoert, der irgendetwas offeriert.
 
 Neue Pointe, nicht "zu spaet" wie beim Architekten: Die meisten Auftraege gehen nicht mit einem Nein verloren, sondern in der Stille. Abgesagt hat niemand, nachgefragt auch niemand.

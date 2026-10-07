@@ -13,6 +13,7 @@ Alle Posts nach Impressions. Startbestand uebernommen aus dem Skill `betriebsflo
 | 1014 | Maler-Dialog "Eigentlich nie" plus Kostenrechnung | Dialog | A | Leser ertappt sich selbst |
 | 700 | Offerte liegt eine Woche (17.09., WhatsApp-Bild mit rotem Strich) | Spiegel mit sofortigem Verlust | B | ZWEITBESTER POST DER ECHTEN PHASE, knapp das Vierfache des Medians. Erster Treffer nach der Sammeldiagnose, die Formel aus den Regeln 18 und 19 hat geliefert. Siehe Auswertung unten |
 | 662 | "Du bist der teuerste Mitarbeiter" | direkte Ansprache | B | Spiegel ohne Szene, funktioniert nackt |
+| 389 | «Wir melden uns.» (Familie Gerber, Aufnahmeblatt auf dem Klemmbrett) | Zitat des Verlustmoments, Ausrede weggenommen | B | Gemeldet am 07.10., Stand und Postzeit noch offen. Weit unter der Latte von 1000. Vorlaeufige Diagnose: verbranntes Thema, die 5. Geschichte zu Offerte und Nachfassen (359, schwach, 700, 8000). Siehe Regel 44 |
 | 359 | Nachfassen | Aussage | A | Hook gut, aber zwei Fragen am Schluss plus Hashtags |
 | 313 | Gipser spricht Offerte ein | Szene | C | Fenster statt Spiegel, Handlung eines Dritten |
 | 250 | "Mit fuenf Mann warst du der schnellste Weg" (22.09., mit Chatlisten-Bild) | Spiegel ohne Szene | B | Ueber dem Median, aber weit unter den 700. Formel-Post unter 350, also Ausfuehrungsfehler. Diagnose unten: Argument statt Geschichte |
@@ -313,6 +314,8 @@ Zweiter Punkt: Der 200er hatte ein Foto, der 250er nicht. Schwacher Beleg, deckt
 42. WIE KOMMT ES ZUM KUNDEN (Sanitaer-Inhaber 03.10.2026): Bei einem Post, der ein konkretes Papier betrifft, schreibt der Inhaber nur, wenn er liest, WIE es ohne Mehraufwand fuer seine Leute laeuft. Dort ist die konkrete Angebotszeile staerker als die allgemeine. Florians Vorliebe fuer die allgemeine Zeile ("ich automatisiere das") gilt fuer Themen ohne klaren Ablauf.
 
 43. DIE HEADLINE IST DIE NOTIZ DER VERNETZUNGSANFRAGE (Hypothese vom 03.10.2026, noch nicht gemessen): Inhaber haben Florians Profil nach der Anfrage angeschaut und nicht angenommen. Die Headline begann mit "KI-Systeme fürs Handwerk". Florian ersetzt nur das Wort KI, neu "Entlastung fürs Handwerksbüro", der Rest bleibt (Plattenleger vorne hat er abgelehnt). Prüfen über die Annahmequote: die letzten 2 Wochen mit KI gegen die nächsten 50 Anfragen ohne.
+
+44. VERBRANNT HEISST VERBRANNT (07.10.2026, vorlaeufig, Zahlen zu Postzeit und Demografie fehlen noch): «Wir melden uns.» holte 389, obwohl er nach der Formel 8000 gebaut war. Es war die 5. Geschichte zu Offerte und Nachfassen nach 359, dem schwachen Bitkom-Post, 700 und 8000. Der Themenspeicher hatte die Familien ausdruecklich auf "erst in ein paar Wochen" gesetzt, sie wurden fuer den vollen Wochenplan trotzdem vorgezogen. Eine neue Pointe rettet ein verbranntes Thema nicht, wer den Architekten gesehen hat, kennt die Geschichte schon. Darum: Offerte und Nachfassen bis Mitte November sperren. Eine Reserve, die warten soll, wird nie vorgezogen, um einen Slot zu fuellen. Lieber einen Slot auslassen.
 
 ## Diagnose 120 (Post vom 29.09., "90 Stunden im Excel")
 
