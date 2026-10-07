@@ -117,4 +117,4 @@ fotos/bild-schlussrechnung.png — (Handschrift ab 03.10.: "Davon weiss ich nich
 
 ## Timing
 
-Dienstag, 06.10.
+Urspruenglich Dienstag, 06.10. Florian hat an dem Tag «Wir melden uns.» gepostet (389 Impressions). Neu: Donnerstag, 08.10., 07:00.
