@@ -200,6 +200,36 @@ Ab 12.09.2026 (Endfassung): "fuenfzehn Minuten am Telefon statt Analyse und Aufb
 **Merke fuer beide Follow-ups:** Sie sind kein zweiter Pitch. Keine Rechnung wiederholen, kein Proof-Satz, kein Angebotsblock. Ein individueller Satz, der kleinere Schritt, fertig.
 
 
+## Einwand "Bei uns laeuft schon alles" (Vorlage ab 07.10.2026)
+
+Bis 07.10. dreimal gekommen: Rico Marty #59 und Daniele Canadea #101 ("Prozesse schon optimiert"), Daniel Galantucci #106 ("nutzen bereits Sorba"). Bisher hat Florian nur mit "freut mich zu hoeren" abgeschlossen, damit war das Gespraech zu. Ziel der Vorlage: Einwand respektieren, eine neugierige Frage stellen, Tuer offen lassen. Nur EINE solche Antwort, bei erneutem Nein dabei belassen.
+
+**Variante A: "Prozesse schon optimiert"**
+
+> Hallo [Name]
+>
+> Danke fuer die Rueckmeldung, das freut mich zu hoeren! Dann seid ihr weiter als die meisten Betriebe, mit denen ich spreche.
+>
+> Darf ich kurz fragen, was ihr optimiert habt? Mich interessiert, was bei euch am meisten gebracht hat.
+>
+> Falls irgendwann doch noch etwas von Hand laeuft, das nervt, meld dich gerne.
+>
+> Gruss Florian
+
+**Variante B: "Wir haben schon Software X"**
+
+> Hallo [Name]
+>
+> Danke dir, mit [Software] seid ihr schon gut aufgestellt.
+>
+> Eine Frage aus Neugier: Gibt es trotzdem etwas, das neben [Software] noch von Hand laeuft, zum Beispiel Anfragen aus E-Mails oder das Nachfassen bei Offerten? Genau dort koennte ich ansetzen, ohne dass ihr an eurer Software etwas aendern muesst.
+>
+> Falls nicht, alles gut, dann wuensche ich euch weiterhin viel Erfolg.
+>
+> Gruss Florian
+
+(Im Versand mit echten Umlauten.) Nur direkt als Antwort auf den Einwand verwenden, nicht Wochen spaeter bei bereits abgeschlossenen Verlaeufen nachschieben.
+
 ## Formatierung (Florians Vorgabe 03.09.2026)
 
 - Viele Zeilenabstaende, kurze Bloecke. Kein Textblock ueber drei Zeilen.
