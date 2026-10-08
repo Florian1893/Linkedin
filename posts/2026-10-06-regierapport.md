@@ -115,6 +115,10 @@ Vom Lektorat:
 
 fotos/bild-schlussrechnung.png — (Handschrift ab 03.10.: "Davon weiss ich nichts. K.") "Regiearbeiten, Beilage zur Schlussrechnung", MFH Lindenhof, Badumbau 2. OG. Eine Zeile: 08.09.2026, Rapport Nr. leer, "Alte Leitung umgelegt", 7 Std. Die Zeile rot gestrichen, das leere Rapportfeld rot eingekreist, ein Pfeil von der Notiz zum leeren Feld, Total 7 auf 0. Grosse rote Handschrift: "Ohne Rapport zahlen wir das nicht. K." Pruefstempel der Bauleitung neben dem Titel.
 
+## Abgleich mit Regel 44 (08.10.)
+
+Florian: "Rapport-Post nicht schon mal gehabt?" Ja, einmal am Rand: Am 24.09. ("7 Wochen auf das eigene Geld") kam Retos Rapport 8 Tage zu spät, darum ging die Rechnung zu spät raus. Thema war dort das Geld, das später kommt. Hier ist der Rapport selbst das Thema, die 7 Stunden sind ganz verloren, und mit Kurt kommt der Bauleiter neu dazu. Eine Berührung statt 5 wie bei Offerte und Nachfassen, darum nicht gesperrt. Das Ergebnis vom 24.09. ist nirgends eingetragen und fehlt für den Vergleich.
+
 ## Timing
 
 Urspruenglich Dienstag, 06.10. Florian hat an dem Tag «Wir melden uns.» gepostet (389 Impressions). Neu: Donnerstag, 08.10., 07:00.
