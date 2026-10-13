@@ -1,0 +1,69 @@
+<!doctype html><html lang="de"><head><meta charset="utf-8">
+<style>
+@font-face{font-family:'Inter';font-weight:400;src:url(inter-2.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:500;src:url(inter-3.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:800;src:url(inter-8.ttf) format('truetype');}
+@font-face{font-family:'Caveat';font-weight:700;src:url(caveat-700.ttf) format('truetype');}
+*{margin:0;padding:0;box-sizing:border-box;}
+.s{width:1080px;height:1350px;position:relative;overflow:hidden;
+ background:radial-gradient(110% 80% at 50% 0%,#e9edf2 0%,#d5dbe3 55%,#c3cad4 100%);
+ font-family:'Inter',Helvetica,Arial,sans-serif;color:#1b1f24;}
+.win{position:absolute;left:60px;top:110px;width:960px;height:1130px;border-radius:22px;background:#fff;
+ box-shadow:0 40px 90px rgba(30,40,60,.28),0 6px 16px rgba(30,40,60,.14);overflow:hidden;}
+.bar{height:84px;background:#f3f5f8;border-bottom:2px solid #e3e7ec;display:flex;align-items:center;padding:0 34px;}
+.dot{width:20px;height:20px;border-radius:50%;margin-right:12px;background:#d0d5dc;}
+.bar .t{margin-left:22px;font-size:28px;font-weight:500;color:#4a5260;}
+.inh{padding:46px 56px;}
+.zeile{display:flex;align-items:center;justify-content:space-between;font-size:30px;font-weight:500;}
+.toggle{width:96px;height:52px;border-radius:26px;background:#2f6fde;position:relative;}
+.toggle:after{content:"";position:absolute;right:6px;top:6px;width:40px;height:40px;border-radius:50%;background:#fff;}
+.zr{margin-top:34px;font-size:27px;color:#5a6270;}
+.zr b{color:#1b1f24;font-weight:500;}
+.box{margin-top:40px;border:2px solid #d9dee5;border-radius:14px;padding:40px 42px;height:690px;position:relative;}
+.box p{font-size:36px;line-height:1.45;font-weight:400;}
+.box p+p{margin-top:30px;}
+.letzte{font-weight:500;font-size:48px !important;line-height:1.3 !important;margin-top:44px !important;}
+.cur{display:inline-block;width:5px;height:56px;background:#1b1f24;vertical-align:-8px;margin-left:8px;}
+.note{position:absolute;font-family:'Caveat',cursive;font-weight:700;color:#c62828;transform-origin:0 0;line-height:1;white-space:nowrap;}
+#n1{font-size:120px;transform:rotate(-6deg);}
+svg.mk{position:absolute;left:0;top:0;width:1080px;height:1350px;overflow:visible;pointer-events:none;}
+</style></head><body>
+<div class="s" id="s">
+  <div class="win">
+    <div class="bar"><span class="dot"></span><span class="dot"></span><span class="dot"></span><span class="t">Automatische Antworten</span></div>
+    <div class="inh">
+      <div class="zeile"><span>Automatische Antworten senden</span><span class="toggle"></span></div>
+      <div class="zr">Zeitraum: <b>Mi 14.10.2026</b> bis <b>Fr 23.10.2026</b></div>
+      <div class="box">
+        <p>Guten Tag</p>
+        <p>Vielen Dank für Ihre Nachricht. Ich bin vom 14. bis 23. Oktober in den Ferien und lese meine Mails erst danach wieder.</p>
+        <p class="letzte">In dringenden Fällen<br><span style="white-space:nowrap">wenden Sie sich an:<span class="cur" id="cur"></span><span id="leer" style="display:inline-block;width:250px;height:10px;"></span></span></p>
+      </div>
+    </div>
+  </div>
+  <div class="note" id="n1">wer?</div>
+  <svg class="mk" id="mk" viewBox="0 0 1080 1350"></svg>
+</div>
+<script>
+document.fonts.ready.then(()=>{
+  const S=document.getElementById('s').getBoundingClientRect();
+  const rel=el=>{const r=el.getBoundingClientRect();return {l:r.left-S.left,t:r.top-S.top,r:r.right-S.left,b:r.bottom-S.top,w:r.width,h:r.height};};
+  const c=rel(document.getElementById('cur')), e=rel(document.getElementById('leer'));
+  const red='#c62828';
+  // Roter Kreis um die leere Stelle hinter dem Doppelpunkt
+  const cx=(c.l+e.r)/2+22, cy=c.t+c.h/2, rx=(e.r-c.l)/2+14, ry=58;
+  const pts=[];
+  for(let i=0;i<=72;i++){const a=-0.9+(i/72)*Math.PI*2*1.09;const w=1+0.04*Math.sin(a*2.2+0.5);
+    pts.push((i?'L':'M')+(cx+Math.cos(a)*rx*w).toFixed(1)+' '+(cy+Math.sin(a)*ry*w).toFixed(1));}
+  let svg=`<path d="${pts.join(' ')}" fill="none" stroke="${red}" stroke-width="7" stroke-linecap="round" opacity=".92"/>`;
+  // "wer?" darunter, Pfeil hoch zum Kreis
+  const n1=document.getElementById('n1');
+  n1.style.left=(cx-90)+'px'; n1.style.top=(cy+ry+110)+'px';
+  const N=rel(n1);
+  const ax=N.l+70, ay=N.t+10, bx=cx-20, by=cy+ry+10;
+  svg+=`<path d="M ${ax} ${ay} Q ${ax-30} ${(ay+by)/2} ${bx} ${by}" fill="none" stroke="${red}" stroke-width="6" stroke-linecap="round" opacity=".9"/>`;
+  svg+=`<path d="M ${bx-20} ${by+22} L ${bx} ${by} L ${bx+20} ${by+20}" fill="none" stroke="${red}" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" opacity=".9"/>`;
+  document.getElementById('mk').innerHTML=svg;
+  window.__ok={kreis:[Math.round(cx-rx),Math.round(cx+rx)], note:[Math.round(N.l),Math.round(N.r),Math.round(N.b)]};
+});
+</script></body></html>

@@ -111,7 +111,7 @@ WARNUNG ZUR EHRLICHKEIT: Im Protokoll steht "falsch geschriebene Stunden". Das i
 
 ## Runde vom 13.10.2026 (17 Agenten, Florian: "etwas Originelles, wo abgeht")
 
-GESPIELT 13.10.: NACHFOLGE, «So wie du will ich nicht leben.» (posts/2026-10-13-nachfolge.md, Bild fotos/bild-gespraechsnotiz.png). Der Chefmonteur lehnt die Übernahme ab, weil er sieht, wie oft das Handy des Chefs klingelt.
+VERWORFEN 13.10. (Florian: "Katastrophe"), NICHT gespielt: NACHFOLGE, «So wie du will ich nicht leben.» (posts/2026-10-13-nachfolge.md, Bild fotos/bild-gespraechsnotiz.png). Der Chefmonteur lehnt die Übernahme ab, weil er sieht, wie oft das Handy des Chefs klingelt.
 
 RESERVE, frühestens 3 Wochen danach (gleiches Thema): «Mehr als die Lieferwagen zahle ich dir nicht.» (posts/RESERVE-lieferwagen.md, fertig geprüft, Bild noch nicht gebaut). Bei der Begehung zum Verkauf hakt der Käufer nur die Lieferwagen ab.
 
@@ -119,3 +119,4 @@ Weitere Konzepte der Runde (nur Idee, nicht ausgeschrieben):
 - «Das habe ich doch extra gesagt.» Eine Kundin auf Empfehlung, eine Zusage am Telefon, die nirgends notiert wurde. Telefonnotiz als Bild. 21.5 Punkte.
 - Die Abwesenheitsnotiz «In dringenden Fällen wenden Sie sich an:», die mit dem Doppelpunkt aufhört, weil es niemanden gibt. 20 Punkte. Passt zu den Sommer- oder Weihnachtsferien.
 - Der Übergabezettel «…, nur das Wichtigste.» Der Chef schreibt vor den Ferien einen Zettel und wird nie fertig. 19.5 Punkte.
+Statt dessen am 13.10.: die Abwesenheitsnotiz «In dringenden Fällen wenden Sie sich an:» (posts/2026-10-13-abwesenheitsnotiz.md, Bild fotos/bild-abwesenheit.png).

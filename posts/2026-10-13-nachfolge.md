@@ -1,5 +1,7 @@
 # 13.10.2026 (Dienstag) — «So wie du will ich nicht leben.»
 
+VERWORFEN von Florian am 13.10. ("Katastrophe, so poste ich ihn nicht"). Ersetzt durch posts/2026-10-13-abwesenheitsnotiz.md. Nicht posten.
+
 Florian: "Post für heute, etwas Originelles, wo abgeht". Neues Thema Nachfolge, noch nie gespielt. Gebaut in einer Runde mit 17 Agenten: 4 Ideengeber (Eigenformat, Reichweite, Elektro-Inhaber, Musterbruch) mit je 2 Konzepten, 3 Juroren (Reichweite, Sanitär-Inhaber, Lektorat und Ehrlichkeit), die 2 besten voll ausgeschrieben und von je 3 Prüfern zerlegt.
 
 Rangliste der Jury (Summe aus 3 Juroren, je 1 bis 10):
