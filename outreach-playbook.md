@@ -13,6 +13,7 @@ Verbindliche Struktur fuer jede Cold-Outreach-Erstnachricht. Von Florian freigeg
 - KPI-Kette tracken: Anfragen raus, angenommen, kontaktiert, geantwortet, Termin gebucht, erschienen, abgeschlossen.
 - **Reihenfolge bei neuem Profil (Florian 13.10.2026):** ZUERST die fertige Nachricht zum Kopieren schicken, ohne vorherige Tool-Arbeit, ohne Panel-Pruefung. Tracker, Notion und Kampagnen-Uebersicht erst DANACH nachtraeglich nachziehen. Florians Wortlaut: "nein jeweils in notion nachtraeglich eintragen zuerst mir den text schicken zum senden" und "nicht pruefen muss schneller gehen". Bei duennem Profil ohne brauchbares Material direkt den Opener "Cool das wir jetzt connected sind 😊".
 - **Beobachtung Posteingang 13.10.2026 Abend:** Florian schliesst jede Erstnachricht mit "Gruss Florian" (in die Kopiervorlage immer mit aufnehmen). Ab 19:15 hat er alle Erstnachrichten mit "Schoen das wir jetzt connected sind 😄" eroeffnet, auch dort, wo ein Icebreaker vorgeschlagen war (Miftar #131, Sasa #132). Tracker immer nach dem echten Posteingang fuehren, nicht nach dem Entwurf.
+- **Kein eigener Betrieb (Florian 13.10.2026, Fall René Widmer #137):** Hat der Kontakt keinen eigenen Betrieb (Berater, Angestellter, Stellensuchender), NICHT die Pitch-Erstnachricht schicken. Stattdessen eine kurze freundliche Nachricht mit echtem Interesse an seiner Arbeit, einer konkreten Frage dazu und einem Satz, was Florian macht. Kein Angebot, kein FU1-Template. Ziel: Beziehung und Empfehlungen.
 
 ## Das Offer in einem Satz
 
