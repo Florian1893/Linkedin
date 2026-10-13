@@ -107,3 +107,15 @@ NOCH FREI, alles woertlich aus dem Protokoll:
 - Preisdruck: grosse Firmen offerieren teils unter Kosten, um ihre Leute auszulasten. Heikel, weil es ueber Dritte urteilt. Nur als Zitat des Inhabers verwendbar, nie als eigene Behauptung.
 
 WARNUNG ZUR EHRLICHKEIT: Im Protokoll steht "falsch geschriebene Stunden". Das ist ein Fehler beim Abtippen, kein Betrug. Nie zu einem Vorwurf gegen Mitarbeitende machen. Und nie einen Frankenbetrag daraus rechnen, der Verrechnungssatz ist nicht der Lohn.
+
+
+## Runde vom 13.10.2026 (17 Agenten, Florian: "etwas Originelles, wo abgeht")
+
+GESPIELT 13.10.: NACHFOLGE, «So wie du will ich nicht leben.» (posts/2026-10-13-nachfolge.md, Bild fotos/bild-gespraechsnotiz.png). Der Chefmonteur lehnt die Übernahme ab, weil er sieht, wie oft das Handy des Chefs klingelt.
+
+RESERVE, frühestens 3 Wochen danach (gleiches Thema): «Mehr als die Lieferwagen zahle ich dir nicht.» (posts/RESERVE-lieferwagen.md, fertig geprüft, Bild noch nicht gebaut). Bei der Begehung zum Verkauf hakt der Käufer nur die Lieferwagen ab.
+
+Weitere Konzepte der Runde (nur Idee, nicht ausgeschrieben):
+- «Das habe ich doch extra gesagt.» Eine Kundin auf Empfehlung, eine Zusage am Telefon, die nirgends notiert wurde. Telefonnotiz als Bild. 21.5 Punkte.
+- Die Abwesenheitsnotiz «In dringenden Fällen wenden Sie sich an:», die mit dem Doppelpunkt aufhört, weil es niemanden gibt. 20 Punkte. Passt zu den Sommer- oder Weihnachtsferien.
+- Der Übergabezettel «…, nur das Wichtigste.» Der Chef schreibt vor den Ferien einen Zettel und wird nie fertig. 19.5 Punkte.

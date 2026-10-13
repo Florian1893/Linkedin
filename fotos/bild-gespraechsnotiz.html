@@ -1,0 +1,97 @@
+<!doctype html><html lang="de"><head><meta charset="utf-8">
+<style>
+@font-face{font-family:'Inter';font-weight:400;src:url(inter-2.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:500;src:url(inter-3.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:800;src:url(inter-8.ttf) format('truetype');}
+@font-face{font-family:'Caveat';font-weight:700;src:url(caveat-700.ttf) format('truetype');}
+*{margin:0;padding:0;box-sizing:border-box;}
+/* Heller Holztisch im Buero */
+.s{width:1080px;height:1350px;position:relative;overflow:hidden;
+ background:radial-gradient(120% 90% at 20% 0%,#d9b98f 0%,#c39b6c 50%,#a57d52 100%);
+ font-family:'Inter',Helvetica,Arial,sans-serif;}
+svg.holz{position:absolute;left:0;top:0;width:1080px;height:1350px;mix-blend-mode:multiply;opacity:.32;}
+.block{position:absolute;left:78px;top:64px;width:840px;height:1190px;
+ background-color:#fdfdfb;
+ background-image:linear-gradient(#d6dde6 1px,transparent 1px),linear-gradient(90deg,#d6dde6 1px,transparent 1px);
+ background-size:40px 40px;background-position:0 18px;
+ transform-origin:50% 0;
+ box-shadow:0 34px 70px rgba(60,35,10,.45),0 6px 14px rgba(60,35,10,.3);
+ padding:150px 70px 0 76px;}
+/* Abrisskante vom Spiralblock */
+.block:before{content:"";position:absolute;left:0;top:0;right:0;height:46px;
+ background:#fdfdfb;
+ -webkit-mask:radial-gradient(circle at 14px 0,transparent 9px,#000 10px) 0 0/28px 46px repeat-x;}
+.loecher{position:absolute;left:30px;right:30px;top:22px;height:18px;
+ background:radial-gradient(circle,#b48c60 0 7px,transparent 8px) 0 0/34px 18px repeat-x;opacity:.9;}
+.kuli{font-family:'Caveat',cursive;font-weight:700;color:#1f3f9a;opacity:.94;}
+.kopf{font-size:60px;line-height:1;transform:rotate(-1deg);}
+.pkt{font-size:54px;line-height:1;margin-top:26px;padding-left:34px;position:relative;transform:rotate(-1deg);}
+.pkt:before{content:"";position:absolute;left:4px;top:24px;width:11px;height:11px;border-radius:50%;background:#1f3f9a;}
+.pkt:first-of-type{margin-top:44px;}
+.filz{font-family:'Caveat',cursive;font-weight:700;color:#141414;-webkit-text-stroke:1.6px #141414;}
+.satz{font-size:112px;line-height:1.02;margin-top:96px;transform:rotate(-4deg);transform-origin:0 50%;}
+.zeit{font-size:56px;margin-top:22px;margin-left:200px;transform:rotate(-3deg);}
+svg.mk{position:absolute;left:0;top:0;width:840px;height:1190px;overflow:visible;pointer-events:none;}
+/* Filzstift ohne Kappe */
+.stift{position:absolute;left:890px;top:130px;width:38px;height:360px;border-radius:10px;
+ background:linear-gradient(90deg,#2b2b2b 0%,#4a4a4a 35%,#1c1c1c 100%);
+ transform:rotate(14deg);box-shadow:6px 14px 18px rgba(60,35,10,.4);}
+.stift:before{content:"";position:absolute;left:9px;top:-34px;width:20px;height:38px;border-radius:6px 6px 2px 2px;
+ background:linear-gradient(90deg,#d9d9d9,#ffffff 45%,#bdbdbd);}
+.stift:after{content:"";position:absolute;left:13px;top:-52px;width:12px;height:22px;border-radius:6px 6px 3px 3px;background:#111;}
+/* Handy, angeschnitten */
+.handy{position:absolute;left:652px;top:915px;width:360px;height:740px;border-radius:54px;
+ background:#0d0d0f;padding:14px;transform:rotate(-12deg);transform-origin:0 0;
+ box-shadow:0 30px 60px rgba(40,20,5,.55);}
+.screen{width:100%;height:100%;border-radius:42px;overflow:hidden;
+ background:radial-gradient(120% 80% at 30% 0%,#2b3444 0%,#151a22 60%,#0b0d11 100%);
+ color:#fff;text-align:center;padding-top:58px;}
+.tag{font-size:26px;font-weight:500;opacity:.85;}
+.uhr{font-size:98px;font-weight:800;letter-spacing:-3px;margin-top:2px;}
+.mitt{margin:30px 16px 0;padding:22px 18px;border-radius:24px;background:rgba(255,255,255,.16);
+ font-size:31px;font-weight:500;text-align:left;line-height:1.25;}
+</style></head><body>
+<div class="s">
+  <svg class="holz" viewBox="0 0 1080 1350">
+    <filter id="h"><feTurbulence type="fractalNoise" baseFrequency="0.004 0.09" numOctaves="4" seed="21"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 .42  0 0 0 0 .27  0 0 0 0 .12  0 0 0 1.2 -.15"/></filter>
+    <rect width="1080" height="1350" filter="url(#h)"/>
+  </svg>
+
+  <div class="stift"></div>
+
+  <div class="block" id="block">
+    <div class="loecher"></div>
+    <div class="kuli kopf">Gespr&#228;ch Sandro, Fr 9.10.</div>
+    <div class="kuli pkt"><span id="ziel">Nachfolge 2029?</span></div>
+    <div class="kuli pkt">Meister: hat er</div>
+    <div class="kuli pkt">Kunden kennen ihn</div>
+    <div class="kuli pkt">Bank anfragen</div>
+    <div class="filz satz" id="satz">So wie du will ich<br>nicht leben.</div>
+    <div class="filz zeit">Mo 7.20</div>
+    <svg class="mk" id="mk" viewBox="0 0 840 1190"></svg>
+  </div>
+
+  <div class="handy"><div class="screen">
+    <div class="tag">Montag, 12. Oktober</div>
+    <div class="uhr">07:24</div>
+    <div class="mitt">2 verpasste Anrufe</div>
+  </div></div>
+</div>
+<script>
+document.fonts.ready.then(()=>{
+  // Relativ zum ungedrehten Block messen, der rote Strich liegt im Block und dreht mit.
+  const block=document.getElementById('block');
+  const B=block.getBoundingClientRect();
+  const rel=el=>{const r=el.getBoundingClientRect();return {l:r.left-B.left,t:r.top-B.top,r:r.right-B.left,b:r.bottom-B.top,w:r.width,h:r.height};};
+  const z=rel(document.getElementById('ziel'));
+  const red='#c62828';
+  // Ein kraeftiger roter Filzstiftstrich durch "Nachfolge 2029?", leicht schraeg, Wort bleibt lesbar
+  const y=z.t+z.h*0.56, x1=z.l-16, x2=z.r+18;
+  const svg=`<path d="M ${x1} ${y+7} C ${x1+120} ${y+2}, ${x2-160} ${y-3}, ${x2} ${y-9}" fill="none" stroke="${red}" stroke-width="12" stroke-linecap="round" opacity=".82"/>`;
+  document.getElementById('mk').innerHTML=svg;
+  block.style.transform='rotate(-2.5deg)';
+  const S=rel(document.getElementById('satz'));
+  window.__ok={strich:[Math.round(x1),Math.round(x2)], satz_r:Math.round(S.r), satz_b:Math.round(S.b+64)};
+});
+</script></body></html>
