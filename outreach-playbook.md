@@ -11,6 +11,7 @@ Verbindliche Struktur fuer jede Cold-Outreach-Erstnachricht. Von Florian freigeg
 - Immer freundlich und korrekt, egal ob Kauf, Absage oder Ghosting.
 - Schlagzahl: 15 bis 20 Vernetzungsanfragen plus 15 bis 20 Kontakte pro Tag, 15 bis 30 Min taeglich, konsequent.
 - KPI-Kette tracken: Anfragen raus, angenommen, kontaktiert, geantwortet, Termin gebucht, erschienen, abgeschlossen.
+- **Reihenfolge bei neuem Profil (Florian 13.10.2026):** ZUERST die fertige Nachricht zum Kopieren schicken, ohne vorherige Tool-Arbeit, ohne Panel-Pruefung. Tracker, Notion und Kampagnen-Uebersicht erst DANACH nachtraeglich nachziehen. Florians Wortlaut: "nein jeweils in notion nachtraeglich eintragen zuerst mir den text schicken zum senden" und "nicht pruefen muss schneller gehen". Bei duennem Profil ohne brauchbares Material direkt den Opener "Cool das wir jetzt connected sind 😊".
 
 ## Das Offer in einem Satz
 
