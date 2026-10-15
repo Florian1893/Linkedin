@@ -1,0 +1,65 @@
+<!doctype html><html lang="de"><head><meta charset="utf-8">
+<style>
+@font-face{font-family:'Inter';font-weight:400;src:url(inter-2.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:500;src:url(inter-3.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:800;src:url(inter-8.ttf) format('truetype');}
+@font-face{font-family:'Caveat';font-weight:700;src:url(caveat-700.ttf) format('truetype');}
+*{margin:0;padding:0;box-sizing:border-box;}
+.s{width:1080px;height:1350px;position:relative;overflow:hidden;
+ background:radial-gradient(120% 95% at 70% 0%,#5a6b5e 0%,#37443b 52%,#1f2822 100%);
+ font-family:'Inter',Helvetica,Arial,sans-serif;}
+svg.grain{position:absolute;left:0;top:0;width:1080px;height:1350px;mix-blend-mode:soft-light;opacity:.5;}
+.paper{position:absolute;left:66px;top:88px;width:948px;height:1420px;
+ background:linear-gradient(172deg,#fdfcf8 0%,#f5f2ea 100%);transform-origin:50% 0;
+ box-shadow:0 46px 90px rgba(0,0,0,.55),0 8px 18px rgba(0,0,0,.35);padding:72px 78px;color:#1b1b1b;}
+.kopf{font-size:24px;font-weight:500;letter-spacing:1.6px;text-transform:uppercase;color:#7a7a7a;}
+.titel{font-size:62px;font-weight:800;letter-spacing:-2px;margin-top:12px;}
+.meta{font-size:29px;color:#3a3a3a;margin-top:18px;line-height:1.5;}
+table{width:100%;border-collapse:collapse;margin-top:44px;}
+th{font-size:20px;font-weight:500;letter-spacing:1.2px;text-transform:uppercase;color:#8a8a8a;text-align:left;padding:0 0 14px;border-bottom:2px solid #d8d4cb;}
+td{font-size:30px;padding:28px 0;border-bottom:2px solid #e4e0d7;white-space:nowrap;}
+td.a{font-weight:500;} th:first-child,td:first-child{width:330px;}
+.note{position:absolute;font-family:'Caveat',cursive;font-weight:700;color:#c62828;transform-origin:0 0;line-height:.98;white-space:nowrap;}
+#n1{font-size:118px;transform:rotate(-4deg);}
+#n2{font-size:58px;transform:rotate(-5deg);}
+#n3{font-size:58px;transform:rotate(-5deg);}
+svg.mk{position:absolute;left:0;top:0;width:948px;height:1420px;overflow:visible;pointer-events:none;}
+</style></head><body>
+<div class="s">
+  <svg class="grain" viewBox="0 0 1080 1350"><filter id="g"><feTurbulence type="fractalNoise" baseFrequency="0.006 0.21" numOctaves="3" seed="5"/><feColorMatrix type="saturate" values="0"/></filter><rect width="1080" height="1350" filter="url(#g)"/></svg>
+  <div class="paper" id="paper">
+    <div class="kopf">Arbeitsauftrag Nr. 2611</div>
+    <div class="titel">Badumbau Keller</div>
+    <div class="meta">Montage: Di 13.10.2026, 07:00<br>Monteur: gem. Einsatzplan</div>
+    <table>
+      <tr><th>Position</th><th>Ausf&#252;hrung</th></tr>
+      <tr><td>WC wandh&#228;ngend</td><td class="a">weiss</td></tr>
+      <tr><td>Lavabo-Armatur</td><td class="a"><span id="c1">Chrom</span></td></tr>
+      <tr><td>Dusch-Armatur</td><td class="a"><span id="c2">Chrom</span></td></tr>
+      <tr><td>Duschrinne 80 cm</td><td class="a">Edelstahl</td></tr>
+    </table>
+    <div class="note" id="n2">schwarz matt!</div>
+    <div class="note" id="n3">schwarz matt!</div>
+    <div class="note" id="n1">Das habe ich doch<br>extra gesagt.</div>
+    <svg class="mk" id="mk" viewBox="0 0 948 1420"></svg>
+  </div>
+</div>
+<script>
+document.fonts.ready.then(()=>{
+  const paper=document.getElementById('paper');const P=paper.getBoundingClientRect();
+  const rel=el=>{const r=el.getBoundingClientRect();return {l:r.left-P.left,t:r.top-P.top,r:r.right-P.left,b:r.bottom-P.top,w:r.width,h:r.height};};
+  const red='#c62828';let svg='';
+  ['c1','c2'].forEach((id,i)=>{
+    const c=rel(document.getElementById(id));const y=c.t+c.h*0.55;
+    svg+=`<path d="M ${c.l-10} ${y+5} Q ${(c.l+c.r)/2} ${y-4} ${c.r+12} ${y-3}" fill="none" stroke="${red}" stroke-width="7" stroke-linecap="round" opacity=".92"/>`;
+    const n=document.getElementById(i?'n3':'n2');n.style.left=(c.r+34)+'px';n.style.top=(c.t-14)+'px';
+  });
+  const tb=rel(document.querySelector('table')).b;
+  const n1=document.getElementById('n1');n1.style.left='70px';n1.style.top=(tb+120)+'px';
+  const N=rel(n1);
+  svg+=`<path d="M ${N.l+10} ${N.b+22} Q ${(N.l+N.r)/2} ${N.b+8} ${N.r-60} ${N.b+16}" fill="none" stroke="${red}" stroke-width="6" stroke-linecap="round" opacity=".85"/>`;
+  document.getElementById('mk').innerHTML=svg;
+  paper.style.transform='rotate(-1.8deg)';
+  window.__ok={n1:[Math.round(N.r),Math.round(N.b+88)]};
+});
+</script></body></html>

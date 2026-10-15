@@ -120,3 +120,4 @@ Weitere Konzepte der Runde (nur Idee, nicht ausgeschrieben):
 - Die Abwesenheitsnotiz «In dringenden Fällen wenden Sie sich an:», die mit dem Doppelpunkt aufhört, weil es niemanden gibt. 20 Punkte. Passt zu den Sommer- oder Weihnachtsferien.
 - Der Übergabezettel «…, nur das Wichtigste.» Der Chef schreibt vor den Ferien einen Zettel und wird nie fertig. 19.5 Punkte.
 Statt dessen am 13.10.: die Abwesenheitsnotiz «In dringenden Fällen wenden Sie sich an:» (posts/2026-10-13-abwesenheitsnotiz.md, Bild fotos/bild-abwesenheit.png).
+Am 15.10.: Mahnen von Florian abgelehnt ("schon mal gehabt"). Gepostet stattdessen «Das habe ich doch extra gesagt.» (posts/2026-10-15-extra-gesagt.md).
