@@ -1,5 +1,7 @@
 # 20.10.2026 (Dienstag) — «Ich habe mir extra frei genommen.»
 
+ERSETZT am 19.10. durch posts/2026-10-20-bewertungen.md (Florian: "ganz anderer"). Nicht posten.
+
 Florian am 19.10.: "letzter Post gut, mach ihn für morgen". Gleiches Rezept wie «Das habe ich doch extra gesagt.» vom 15.10.: ein Satz der Kundin, den jeder kennt, eine Info, die zwischen Büro und Kunde verloren geht, ein Arbeitsdokument mit Korrekturen von Hand. Neues Thema: Terminverschiebung, die dem Kunden niemand sagt.
 
 ## Post

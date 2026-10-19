@@ -1,0 +1,62 @@
+<!doctype html><html lang="de"><head><meta charset="utf-8">
+<style>
+@font-face{font-family:'Inter';font-weight:400;src:url(inter-2.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:500;src:url(inter-3.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:800;src:url(inter-8.ttf) format('truetype');}
+@font-face{font-family:'Caveat';font-weight:700;src:url(caveat-700.ttf) format('truetype');}
+*{margin:0;padding:0;box-sizing:border-box;}
+.s{width:1080px;height:1350px;position:relative;overflow:hidden;
+ background:radial-gradient(110% 80% at 50% 0%,#eef1f5 0%,#dde2e9 55%,#c9d0da 100%);
+ font-family:'Inter',Helvetica,Arial,sans-serif;color:#1d2127;}
+.suche{position:absolute;left:70px;top:90px;width:940px;height:110px;border-radius:55px;background:#fff;
+ box-shadow:0 10px 30px rgba(30,40,60,.14);display:flex;align-items:center;padding:0 44px;font-size:38px;color:#2a2f37;}
+.lupe{width:34px;height:34px;border:5px solid #7a8290;border-radius:50%;position:relative;margin-right:30px;}
+.lupe:after{content:"";position:absolute;width:5px;height:18px;background:#7a8290;right:-9px;bottom:-14px;transform:rotate(-45deg);border-radius:3px;}
+.karte{position:absolute;left:70px;width:940px;border-radius:28px;background:#fff;padding:44px 50px;
+ box-shadow:0 18px 50px rgba(30,40,60,.16);}
+#k1{top:260px;} #k2{top:640px;}
+.name{font-size:52px;font-weight:800;letter-spacing:-1px;}
+.zeile{margin-top:20px;font-size:36px;display:flex;align-items:center;gap:14px;}
+.note-z{font-weight:500;}
+.sterne{color:#f4b400;font-size:38px;letter-spacing:2px;}
+.sterne .leer{color:#d5d9df;}
+.anz{color:#5c6470;}
+.info{margin-top:18px;font-size:30px;color:#5c6470;}
+.info b{color:#1d2127;font-weight:500;}
+.hand{position:absolute;font-family:'Caveat',cursive;font-weight:700;color:#c62828;transform-origin:0 0;line-height:1;white-space:nowrap;}
+#n1{font-size:104px;transform:rotate(-4deg);}
+svg.mk{position:absolute;left:0;top:0;width:1080px;height:1350px;overflow:visible;pointer-events:none;}
+</style></head><body>
+<div class="s" id="s">
+  <div class="suche"><span class="lupe"></span>Sanit&#228;r in der N&#228;he</div>
+  <div class="karte" id="k1">
+    <div class="name">Dein Betrieb</div>
+    <div class="zeile"><span class="note-z">4,0</span><span class="sterne">&#9733;&#9733;&#9733;&#9733;<span class="leer">&#9733;</span></span><span class="anz" id="a1">(4)</span></div>
+    <div class="info">Sanit&#228;r &#183; seit 1998 &#183; letzte Bewertung: <b id="j">2019</b></div>
+  </div>
+  <div class="karte" id="k2">
+    <div class="name">Der Neue im Dorf</div>
+    <div class="zeile"><span class="note-z">4,9</span><span class="sterne">&#9733;&#9733;&#9733;&#9733;&#9733;</span><span class="anz">(61)</span></div>
+    <div class="info">Sanit&#228;r &#183; seit 2023 &#183; letzte Bewertung: <b>vor 6 Tagen</b></div>
+  </div>
+  <div class="hand" id="n1">28 Jahre gute B&#228;der.<br>Und keiner weiss es.</div>
+  <svg class="mk" id="mk" viewBox="0 0 1080 1350"></svg>
+</div>
+<script>
+document.fonts.ready.then(()=>{
+  const S=document.getElementById('s').getBoundingClientRect();
+  const rel=el=>{const r=el.getBoundingClientRect();return {l:r.left-S.left,t:r.top-S.top,r:r.right-S.left,b:r.bottom-S.top,w:r.width,h:r.height};};
+  const red='#c62828';let svg='';
+  const ring=(o,px,py)=>{const cx=(o.l+o.r)/2,cy=(o.t+o.b)/2,rx=o.w/2+px,ry=o.h/2+py;const p=[];
+    for(let i=0;i<=72;i++){const a=-0.9+(i/72)*Math.PI*2*1.09;const w=1+0.04*Math.sin(a*2.2+0.5);p.push((i?'L':'M')+(cx+Math.cos(a)*rx*w).toFixed(1)+' '+(cy+Math.sin(a)*ry*w).toFixed(1));}
+    return `<path d="${p.join(' ')}" fill="none" stroke="${red}" stroke-width="7" stroke-linecap="round" opacity=".92"/>`;};
+  svg+=ring(rel(document.getElementById('a1')),22,16);
+  const j=rel(document.getElementById('j'));
+  svg+=`<path d="M ${j.l-8} ${j.b+6} Q ${(j.l+j.r)/2} ${j.b+1} ${j.r+12} ${j.b+3}" fill="none" stroke="${red}" stroke-width="7" stroke-linecap="round" opacity=".92"/>`;
+  svg+=`<path d="M ${j.l+2} ${j.b+18} Q ${(j.l+j.r)/2} ${j.b+13} ${j.r+4} ${j.b+16}" fill="none" stroke="${red}" stroke-width="4" stroke-linecap="round" opacity=".6"/>`;
+  const k2=rel(document.getElementById('k2'));
+  const n1=document.getElementById('n1');n1.style.left='90px';n1.style.top=(k2.b+110)+'px';
+  document.getElementById('mk').innerHTML=svg;
+  const N=rel(n1);window.__ok={n1:[Math.round(N.r),Math.round(N.b)]};
+});
+</script></body></html>
