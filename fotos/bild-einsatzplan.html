@@ -1,0 +1,78 @@
+<!doctype html><html lang="de"><head><meta charset="utf-8">
+<style>
+@font-face{font-family:'Inter';font-weight:400;src:url(inter-2.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:500;src:url(inter-3.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:800;src:url(inter-8.ttf) format('truetype');}
+@font-face{font-family:'Caveat';font-weight:700;src:url(caveat-700.ttf) format('truetype');}
+*{margin:0;padding:0;box-sizing:border-box;}
+.s{width:1080px;height:1350px;position:relative;overflow:hidden;
+ background:radial-gradient(120% 95% at 30% 0%,#5b5f6e 0%,#383b47 52%,#1f2128 100%);
+ font-family:'Inter',Helvetica,Arial,sans-serif;}
+svg.grain{position:absolute;left:0;top:0;width:1080px;height:1350px;mix-blend-mode:soft-light;opacity:.5;}
+.paper{position:absolute;left:62px;top:86px;width:956px;height:1420px;
+ background:linear-gradient(172deg,#fdfcf8 0%,#f5f2ea 100%);transform-origin:50% 0;
+ box-shadow:0 46px 90px rgba(0,0,0,.55),0 8px 18px rgba(0,0,0,.35);padding:70px 66px;color:#1b1b1b;}
+.kopf{font-size:24px;font-weight:500;letter-spacing:1.6px;text-transform:uppercase;color:#7a7a7a;}
+.titel{font-size:62px;font-weight:800;letter-spacing:-2px;margin-top:12px;}
+.meta{font-size:29px;color:#3a3a3a;margin-top:14px;}
+table{width:100%;border-collapse:collapse;margin-top:44px;table-layout:fixed;}
+th{font-size:21px;font-weight:500;letter-spacing:1px;text-transform:uppercase;color:#8a8a8a;text-align:left;padding:0 10px 14px;border-bottom:3px solid #1b1b1b;}
+th:first-child,td:first-child{width:128px;padding-left:0;}
+td{font-size:23px;line-height:1.3;padding:20px 10px;border-bottom:2px solid #e2ded5;border-left:2px solid #ebe7de;vertical-align:top;height:132px;}
+td:first-child{border-left:none;font-weight:800;font-size:25px;} tr.luca td{height:210px;}
+.note{position:absolute;font-family:'Caveat',cursive;font-weight:700;transform-origin:0 0;line-height:.98;white-space:nowrap;}
+.blau{color:#22408f;}
+.rot{color:#c62828;}
+#b1{font-size:38px;transform:rotate(-4deg);}
+#b2{font-size:40px;transform:rotate(-4deg);}
+#n1{font-size:110px;transform:rotate(-4deg);}
+svg.mk{position:absolute;left:0;top:0;width:956px;height:1420px;overflow:visible;pointer-events:none;}
+</style></head><body>
+<div class="s">
+  <svg class="grain" viewBox="0 0 1080 1350"><filter id="g"><feTurbulence type="fractalNoise" baseFrequency="0.006 0.21" numOctaves="3" seed="9"/><feColorMatrix type="saturate" values="0"/></filter><rect width="1080" height="1350" filter="url(#g)"/></svg>
+  <div class="paper" id="paper">
+    <div class="kopf">Einsatzplan Montage</div>
+    <div class="titel">KW 43</div>
+    <div class="meta">19. bis 23. Oktober 2026</div>
+    <table>
+      <tr><th></th><th>Mo</th><th>Di</th><th>Mi</th><th>Do</th><th>Fr</th></tr>
+      <tr class="luca"><td>Luca</td><td>MFH Seeblick</td><td id="di"><span id="huber">Fam. Huber</span></td><td>MFH Seeblick</td><td id="do"></td><td>Service</td></tr>
+      <tr><td>Dario</td><td>Umbau Meier</td><td>Umbau Meier</td><td>Umbau Meier</td><td>Umbau Meier</td><td>Umbau Meier</td></tr>
+      <tr><td>Nino</td><td>Service</td><td>Service</td><td>Lager</td><td>Service</td><td>Frei</td></tr>
+    </table>
+    <div class="note blau" id="b1">Notfall<br>Seeblick</div>
+    <div class="note blau" id="b2">Huber</div>
+    <div class="note rot" id="n1">Ich habe mir extra<br>frei genommen.</div>
+    <svg class="mk" id="mk" viewBox="0 0 956 1420"></svg>
+  </div>
+</div>
+<script>
+document.fonts.ready.then(()=>{
+  const paper=document.getElementById('paper');const P=paper.getBoundingClientRect();
+  const rel=el=>{const r=el.getBoundingClientRect();return {l:r.left-P.left,t:r.top-P.top,r:r.right-P.left,b:r.bottom-P.top,w:r.width,h:r.height};};
+  const blau='#22408f', red='#c62828';let svg='';
+  const h=rel(document.getElementById('huber')), di=rel(document.getElementById('di')), dO=rel(document.getElementById('do'));
+  // Blau von Hand: Huber gestrichen, Notfall darunter, Pfeil zum Donnerstag
+  // Jede Textzeile von "Fam. Huber" einzeln durchstreichen
+  Array.from(document.getElementById('huber').getClientRects()).forEach((r,i)=>{
+    const l=r.left-P.left, rr=r.right-P.left, y=r.top-P.top+r.height*0.55;
+    svg+=`<path d="M ${l-6} ${y+3} Q ${(l+rr)/2} ${y-3} ${rr+8} ${y-1}" fill="none" stroke="${blau}" stroke-width="4" stroke-linecap="round" opacity=".9"/>`;
+  });
+  const b1=document.getElementById('b1');b1.style.left=(di.l+12)+'px';b1.style.top=(h.b+18)+'px';
+  const b2=document.getElementById('b2');b2.style.left=(dO.l+18)+'px';b2.style.top=(dO.t+30)+'px';
+  const B2=rel(b2);
+  svg+=`<path d="M ${h.r+12} ${h.t+12} Q ${(h.r+B2.l)/2} ${h.t-40} ${B2.l-8} ${B2.t+16}" fill="none" stroke="${blau}" stroke-width="4" stroke-linecap="round" opacity=".9"/>`;
+  svg+=`<path d="M ${B2.l-26} ${B2.t+2} L ${B2.l-8} ${B2.t+16} L ${B2.l-28} ${B2.t+26}" fill="none" stroke="${blau}" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" opacity=".9"/>`;
+  // Rot: Kreis um die Dienstagszelle, Satz der Kundin gross darunter
+  const cx=(di.l+di.r)/2, cy=(di.t+di.b)/2+4, rx=di.w/2+26, ry=di.h/2+22;const pts=[];
+  for(let i=0;i<=72;i++){const a=-0.9+(i/72)*Math.PI*2*1.09;const w=1+0.04*Math.sin(a*2.2+0.5);pts.push((i?'L':'M')+(cx+Math.cos(a)*rx*w).toFixed(1)+' '+(cy+Math.sin(a)*ry*w).toFixed(1));}
+  svg+=`<path d="${pts.join(' ')}" fill="none" stroke="${red}" stroke-width="7" stroke-linecap="round" opacity=".92"/>`;
+  const tb=rel(document.querySelector('table')).b;
+  const n1=document.getElementById('n1');n1.style.left='40px';n1.style.top=(tb+120)+'px';
+  const N=rel(n1);
+  svg+=`<path d="M ${N.l+10} ${N.b+22} Q ${(N.l+N.r)/2} ${N.b+8} ${N.r-40} ${N.b+16}" fill="none" stroke="${red}" stroke-width="6" stroke-linecap="round" opacity=".85"/>`;
+  document.getElementById('mk').innerHTML=svg;
+  paper.style.transform='rotate(-1.6deg)';
+  window.__ok={n1:[Math.round(N.l),Math.round(N.r),Math.round(N.b+86)], kreis:[Math.round(cx-rx+62),Math.round(cx+rx+62)]};
+});
+</script></body></html>
