@@ -1,5 +1,7 @@
 # 15.10.2026 (Donnerstag) — «Das habe ich doch extra gesagt.»
 
+ERGEBNIS (gemeldet 19.10.2026): 7000 Impressions. Drittbester Post der echten Phase.
+
 Schnell geschrieben auf "Post für heute, aber schnell". Der Mahnen-Post war Florian zu nah an Bisherigem ("schon mal gehabt"). Neues Thema: Was der Kunde dem Chef am Telefon sagt, kommt nie beim Monteur an.
 
 ## Post
