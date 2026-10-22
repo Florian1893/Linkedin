@@ -1,0 +1,70 @@
+<!doctype html><html lang="de"><head><meta charset="utf-8">
+<style>
+@font-face{font-family:'Inter';font-weight:400;src:url(inter-2.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:500;src:url(inter-3.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:800;src:url(inter-8.ttf) format('truetype');}
+@font-face{font-family:'Caveat';font-weight:700;src:url(caveat-700.ttf) format('truetype');}
+*{margin:0;padding:0;box-sizing:border-box;}
+.s{width:1080px;height:1350px;position:relative;overflow:hidden;
+ background:radial-gradient(120% 95% at 70% 0%,#6b5a4a 0%,#45372b 52%,#271e17 100%);
+ font-family:'Inter',Helvetica,Arial,sans-serif;}
+svg.grain{position:absolute;left:0;top:0;width:1080px;height:1350px;mix-blend-mode:soft-light;opacity:.5;}
+.paper{position:absolute;left:66px;top:88px;width:948px;height:1420px;
+ background:linear-gradient(172deg,#fdfcf8 0%,#f5f2ea 100%);transform-origin:50% 0;
+ box-shadow:0 46px 90px rgba(0,0,0,.55),0 8px 18px rgba(0,0,0,.35);padding:72px 78px;color:#1b1b1b;}
+.kopf{font-size:24px;font-weight:500;letter-spacing:1.6px;text-transform:uppercase;color:#7a7a7a;}
+.titel{font-size:62px;font-weight:800;letter-spacing:-2px;margin-top:12px;}
+.meta{font-size:29px;color:#3a3a3a;margin-top:18px;line-height:1.5;}
+table{width:100%;border-collapse:collapse;margin-top:44px;}
+th{font-size:20px;font-weight:500;letter-spacing:1.2px;text-transform:uppercase;color:#8a8a8a;text-align:left;padding:0 0 14px;border-bottom:2px solid #d8d4cb;}
+th.r,td.r{text-align:right;}
+td{font-size:30px;padding:28px 0;border-bottom:2px solid #e4e0d7;white-space:nowrap;}
+td.r{font-weight:500;}
+#z3 td{padding-bottom:84px;vertical-align:top;} tr.tot td{font-weight:800;border-bottom:none;border-top:4px solid #1b1b1b;padding:24px 0;}
+.note{position:absolute;font-family:'Caveat',cursive;font-weight:700;color:#c62828;transform-origin:0 0;line-height:.98;white-space:nowrap;}
+#n1{font-size:112px;transform:rotate(-4deg);}
+#n2{font-size:54px;transform:rotate(-5deg);}
+#n3{font-size:54px;transform:rotate(-5deg);}
+svg.mk{position:absolute;left:0;top:0;width:948px;height:1420px;overflow:visible;pointer-events:none;}
+</style></head><body>
+<div class="s">
+  <svg class="grain" viewBox="0 0 1080 1350"><filter id="g"><feTurbulence type="fractalNoise" baseFrequency="0.006 0.21" numOctaves="3" seed="13"/><feColorMatrix type="saturate" values="0"/></filter><rect width="1080" height="1350" filter="url(#g)"/></svg>
+  <div class="paper" id="paper">
+    <div class="kopf">Rechnung Nr. 2026-0418</div>
+    <div class="titel">K&#252;chenumbau Wyss</div>
+    <div class="meta">Datum: 12.10.2026<br>Zahlbar innert 30 Tagen</div>
+    <table>
+      <tr><th>Position</th><th class="r">CHF</th></tr>
+      <tr><td>Demontage alte K&#252;che</td><td class="r">1'240.00</td></tr>
+      <tr><td>Montage neue K&#252;che</td><td class="r">6'860.00</td></tr>
+      <tr id="z3"><td><span id="t3">Entsorgung, 2 Fahrten</span></td><td class="r"><span id="b3">480.00</span></td></tr>
+      <tr class="tot"><td>Total</td><td class="r"><span id="tot">8'580.00</span></td></tr>
+    </table>
+    <div class="note" id="n2">war abgemacht!</div>
+    <div class="note" id="n3">8'100.00</div>
+    <div class="note" id="n1">Das war aber anders<br>abgemacht.</div>
+    <svg class="mk" id="mk" viewBox="0 0 948 1420"></svg>
+  </div>
+</div>
+<script>
+document.fonts.ready.then(()=>{
+  const paper=document.getElementById('paper');const P=paper.getBoundingClientRect();
+  const rel=el=>{const r=el.getBoundingClientRect();return {l:r.left-P.left,t:r.top-P.top,r:r.right-P.left,b:r.bottom-P.top,w:r.width,h:r.height};};
+  const red='#c62828';let svg='';
+  const t3=rel(document.getElementById('t3')), b3=rel(document.getElementById('b3')), tot=rel(document.getElementById('tot'));
+  // Position Entsorgung von Hand durchgestrichen
+  const y=t3.t+t3.h/2+2, x1=t3.l-12, x2=b3.r+10;
+  svg+=`<path d="M ${x1} ${y+5} Q ${(x1+x2)/2} ${y-6} ${x2} ${y-2}" fill="none" stroke="${red}" stroke-width="7" stroke-linecap="round" opacity=".92"/>`;
+  const n2=document.getElementById('n2');n2.style.left=(t3.l+20)+'px';n2.style.top=(t3.b+6)+'px';
+  // Total gestrichen, neues Total daneben
+  svg+=`<path d="M ${tot.l-8} ${tot.b-6} L ${tot.r+8} ${tot.t+6}" fill="none" stroke="${red}" stroke-width="6" stroke-linecap="round" opacity=".92"/>`;
+  const n3=document.getElementById('n3');n3.style.left=(tot.l-250)+'px';n3.style.top=(tot.t-14)+'px';
+  const tb=rel(document.querySelector('table')).b;
+  const n1=document.getElementById('n1');n1.style.left='0px';n1.style.top=(tb+130)+'px';
+  const N=rel(n1);
+  svg+=`<path d="M ${N.l+10} ${N.b+22} Q ${(N.l+N.r)/2} ${N.b+8} ${N.r-50} ${N.b+16}" fill="none" stroke="${red}" stroke-width="6" stroke-linecap="round" opacity=".85"/>`;
+  document.getElementById('mk').innerHTML=svg;
+  paper.style.transform='rotate(-1.8deg)';
+  window.__ok={n1:[Math.round(N.l),Math.round(N.r),Math.round(N.b+88)]};
+});
+</script></body></html>

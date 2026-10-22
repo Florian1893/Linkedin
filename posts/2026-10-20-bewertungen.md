@@ -1,5 +1,7 @@
 # 20.10.2026 (Dienstag) — «Du hast 4 Google-Bewertungen. Der Neue im Dorf hat 61.»
 
+ERGEBNIS (gemeldet 22.10.2026): "Katastrophe". Zahl fehlt.
+
 Florian am 19.10.: "nein, mach ein ganz anderer". Statt «Ich habe mir extra frei genommen.» (zu nah am «extra gesagt»-Post) ein ganz anderes Thema und eine andere Bauart: kein Zitat im Hook, sondern ein Vergleich mit dem Leser drin. Thema Google-Bewertungen, eines von Florians Angeboten. Der alte Bewertungs-Post (120) floppte an der Form (Frage selbst beantwortet, Werbeblock), nicht am Thema.
 
 ## Post
