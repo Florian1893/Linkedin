@@ -1,5 +1,7 @@
 # 22.10.2026 (Donnerstag) — «Das war aber anders abgemacht.»
 
+ERGEBNIS (gemeldet 27.10.2026): "Katastrophe". Zahl fehlt. Siehe Regel 46.
+
 Florian am 22.10.: "der letzte Katastrophe, vorletzte 18k views". Also zurück zum Rezept des 18k-Posts (Regel 45), mit neuem Satz und neuem Thema: Was der Chef bei der Besichtigung abmacht, kommt nie bei der Rechnung an. Bewusst kein "extra" mehr.
 
 ## Post
