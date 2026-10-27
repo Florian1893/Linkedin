@@ -4,7 +4,7 @@ const jobs=[['fmt-notiz-quadrat',1080,1080],['fmt-notiz-quer',1200,627],
             ['fmt-krank-quadrat',1080,1080],['fmt-krank-quer',1200,627],
             ['fmt-chatliste-quadrat',1080,1080],['fmt-chatliste-quer',1200,627]];
 (async()=>{
-  const b=await chromium.launch({executablePath:'/opt/pw-browsers/chromium-1194/chrome-linux/chrome'});
+  const b=await chromium.launch({executablePath:'/opt/pw-browsers/chromium'});
   for(const [name,w,h] of jobs){
     const p=await b.newPage({viewport:{width:w,height:h},deviceScaleFactor:2});
     await p.goto('file://'+__dirname+'/'+name+'.html',{waitUntil:'networkidle'});
