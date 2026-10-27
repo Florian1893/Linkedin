@@ -1,0 +1,50 @@
+<!doctype html><html lang="de"><head><meta charset="utf-8">
+<style>
+@font-face{font-family:'Inter';font-weight:400;src:url(inter-2.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:500;src:url(inter-3.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:800;src:url(inter-8.ttf) format('truetype');}
+@font-face{font-family:'Caveat';font-weight:700;src:url(caveat-700.ttf) format('truetype');}
+*{margin:0;padding:0;box-sizing:border-box;}
+.s{width:1080px;height:1350px;position:relative;overflow:hidden;
+ background:radial-gradient(120% 95% at 30% 0%,#58615a 0%,#353c37 52%,#1d221f 100%);
+ font-family:'Inter',Helvetica,Arial,sans-serif;}
+svg.grain{position:absolute;left:0;top:0;width:1080px;height:1350px;mix-blend-mode:soft-light;opacity:.55;}
+/* Rapportzettel, Durchschlag-Papier leicht gelblich */
+.paper{position:absolute;left:80px;top:96px;width:920px;height:1200px;
+ background:linear-gradient(172deg,#fbf8ee 0%,#f2edde 100%);transform-origin:50% 0;
+ box-shadow:0 46px 90px rgba(0,0,0,.55),0 8px 18px rgba(0,0,0,.35);padding:60px 70px;color:#1b1b1b;}
+.kopf{display:flex;justify-content:space-between;align-items:flex-end;border-bottom:3px solid #2a2a2a;padding-bottom:16px;}
+.kopf .t{font-size:46px;font-weight:800;letter-spacing:-1px;}
+.kopf .nr{font-size:24px;color:#6a6a6a;font-weight:500;}
+.felder{display:grid;grid-template-columns:1fr 1fr;gap:0 40px;margin-top:22px;}
+.f{font-size:20px;letter-spacing:1px;text-transform:uppercase;color:#8a8a8a;border-bottom:2px solid #d9d3c2;padding:18px 0 10px;}
+.linien{margin-top:40px;height:700px;
+ background-image:linear-gradient(#d9d3c2 2px,transparent 2px);background-size:100% 88px;background-position:0 86px;}
+.hand{position:absolute;font-family:'Caveat',cursive;font-weight:700;color:#22408f;line-height:88px;transform-origin:0 0;white-space:nowrap;}
+#h{left:74px;top:470px;font-size:76px;transform:rotate(-1.5deg);}
+#h .gross{font-size:96px;display:inline-block;margin:26px 0 30px;line-height:1;}
+svg.mk{position:absolute;left:0;top:0;width:920px;height:1200px;overflow:visible;pointer-events:none;}
+</style></head><body>
+<div class="s">
+  <svg class="grain" viewBox="0 0 1080 1350"><filter id="g"><feTurbulence type="fractalNoise" baseFrequency="0.006 0.21" numOctaves="3" seed="17"/><feColorMatrix type="saturate" values="0"/></filter><rect width="1080" height="1350" filter="url(#g)"/></svg>
+  <div class="paper" id="paper">
+    <div class="kopf"><span class="t">Arbeitsrapport</span><span class="nr">Nr. 0391</span></div>
+    <div class="felder"><div class="f">Baustelle</div><div class="f">Datum</div><div class="f">Monteur</div><div class="f">Stunden</div></div>
+    <div class="linien"></div>
+    <div class="hand" id="h">Chef,<br>ich k&#252;ndige per 31. Dezember.<br><span class="gross" id="satz">Am Lohn liegt es nicht.</span><br><span style="padding-left:420px">Simon</span></div>
+    <svg class="mk" id="mk" viewBox="0 0 920 1200"></svg>
+  </div>
+</div>
+<script>
+document.fonts.ready.then(()=>{
+  const paper=document.getElementById('paper');const P=paper.getBoundingClientRect();
+  const rel=el=>{const r=el.getBoundingClientRect();return {l:r.left-P.left,t:r.top-P.top,r:r.right-P.left,b:r.bottom-P.top,w:r.width,h:r.height};};
+  const red='#c62828';
+  const z=rel(document.getElementById('satz'));
+  const cx=(z.l+z.r)/2, cy=z.t+z.h*0.5+4, rx=z.w/2+26, ry=z.h/2+16;const p=[];
+  for(let i=0;i<=72;i++){const a=-0.9+(i/72)*Math.PI*2*1.09;const w=1+0.035*Math.sin(a*2.2+0.5);p.push((i?'L':'M')+(cx+Math.cos(a)*rx*w).toFixed(1)+' '+(cy+Math.sin(a)*ry*w).toFixed(1));}
+  document.getElementById('mk').innerHTML=`<path d="${p.join(' ')}" fill="none" stroke="${red}" stroke-width="8" stroke-linecap="round" opacity=".9"/>`;
+  paper.style.transform='rotate(2deg)';
+  window.__ok={kreis:[Math.round(cx-rx),Math.round(cx+rx)], breite:920};
+});
+</script></body></html>
