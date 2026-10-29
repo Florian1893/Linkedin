@@ -1,0 +1,46 @@
+<!doctype html><html lang="de"><head><meta charset="utf-8">
+<style>
+@font-face{font-family:'Inter';font-weight:400;src:url(inter-2.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:500;src:url(inter-3.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:800;src:url(inter-8.ttf) format('truetype');}
+@font-face{font-family:'Caveat';font-weight:700;src:url(caveat-700.ttf) format('truetype');}
+*{margin:0;padding:0;box-sizing:border-box;}
+.s{width:1080px;height:1350px;position:relative;overflow:hidden;background:#e9e3da;font-family:'Inter',Helvetica,Arial,sans-serif;color:#111;}
+.bar{height:150px;background:#f6f6f6;border-bottom:2px solid #ddd;display:flex;align-items:center;padding:0 48px;gap:28px;}
+.av{width:86px;height:86px;border-radius:50%;background:#b9c7b4;display:flex;align-items:center;justify-content:center;font-size:40px;font-weight:800;color:#fff;}
+.nm{font-size:44px;font-weight:800;letter-spacing:-.5px;}
+.sub{font-size:26px;color:#777;margin-top:4px;}
+.chat{padding:60px 48px;}
+.tag{margin:6px auto 34px;width:fit-content;background:#fff;border-radius:16px;padding:10px 24px;font-size:26px;color:#666;box-shadow:0 1px 2px rgba(0,0,0,.08);}
+.b{max-width:760px;width:fit-content;padding:22px 30px 16px;border-radius:26px;font-size:45px;line-height:1.38;margin-bottom:26px;box-shadow:0 1px 2px rgba(0,0,0,.1);position:relative;}
+.in{background:#fff;border-top-left-radius:6px;}
+.out{background:#d9f7c8;margin-left:auto;border-top-right-radius:6px;}
+.t{display:block;text-align:right;font-size:22px;color:#888;margin-top:6px;}
+.gap{height:70px;}
+svg.mk{position:absolute;left:0;top:0;width:1080px;height:1350px;overflow:visible;pointer-events:none;}
+</style></head><body>
+<div class="s" id="s">
+  <div class="bar"><div class="av">D</div><div><div class="nm">Daheim</div><div class="sub">Familie</div></div></div>
+  <div class="chat">
+    <div class="tag">Samstag</div>
+    <div class="b in"><span id="hook">Papi, du hast gesagt, diesen Samstag nicht.</span><span class="t">07:31</span></div>
+    <div class="b out">Ich komme nach. Nur schnell ins B&#252;ro.<span class="t">07:44</span></div>
+    <div class="gap"></div>
+    <div class="b in">Er hat 2 Tore gemacht.<span class="t">12:04</span></div>
+    <div class="b in"><span id="zl">Er hat die ganze Zeit zum Eingang geschaut.</span><span class="t">12:04</span></div>
+  </div>
+  <svg class="mk" id="mk" viewBox="0 0 1080 1350"></svg>
+</div>
+<script>
+document.fonts.ready.then(()=>{
+  const S=document.getElementById('s').getBoundingClientRect();
+  const red='#c62828';let svg='';
+  // Rote Unterstreichung pro Textzeile, je 3 px unter der Zeile
+  Array.from(document.getElementById('zl').getClientRects()).forEach(r=>{
+    const l=r.left-S.left, rr=r.right-S.left, y=r.bottom-S.top+12;
+    svg+=`<path d="M ${l-4} ${y+2} Q ${(l+rr)/2} ${y-3} ${rr+6} ${y}" fill="none" stroke="${red}" stroke-width="7" stroke-linecap="round" opacity=".9"/>`;
+  });
+  document.getElementById('mk').innerHTML=svg;
+  window.__ok={zeilen:document.getElementById('zl').getClientRects().length};
+});
+</script></body></html>
