@@ -1,0 +1,61 @@
+<!doctype html><html lang="de"><head><meta charset="utf-8">
+<style>
+@font-face{font-family:'Inter';font-weight:400;src:url(inter-2.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:500;src:url(inter-3.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:800;src:url(inter-8.ttf) format('truetype');}
+@font-face{font-family:'Caveat';font-weight:700;src:url(caveat-700.ttf) format('truetype');}
+*{margin:0;padding:0;box-sizing:border-box;}
+/* Armaturenbrett / Autositz: dunkles Grau */
+.s{width:1080px;height:1350px;position:relative;overflow:hidden;
+ background:radial-gradient(120% 90% at 30% 0%,#565a60 0%,#33363a 55%,#1b1c1f 100%);font-family:'Inter',Helvetica,Arial,sans-serif;}
+svg.grain{position:absolute;left:0;top:0;width:1080px;height:1350px;mix-blend-mode:soft-light;opacity:.6;}
+.blatt{position:absolute;left:70px;top:80px;width:800px;height:1060px;background:linear-gradient(172deg,#fffefb 0%,#f5f3ee 100%);
+ transform-origin:50% 0;box-shadow:0 34px 70px rgba(0,0,0,.55),0 6px 14px rgba(0,0,0,.35);padding:64px 66px;color:#1b1b1b;}
+.praxis{font-size:30px;font-weight:800;letter-spacing:-.5px;color:#2a5d8f;}
+.praxis-sub{font-size:20px;color:#7d8a96;margin-top:6px;letter-spacing:.3px;}
+.linie{height:3px;background:#2a5d8f;margin-top:22px;opacity:.7;}
+.feld{margin-top:40px;font-size:20px;letter-spacing:1.2px;text-transform:uppercase;color:#8a8a8a;border-bottom:2px solid #e2ddd2;padding-bottom:70px;position:relative;}
+.feld.gross{padding-bottom:230px;}
+.kuli{text-transform:none;letter-spacing:0;position:absolute;font-family:'Caveat',cursive;font-weight:700;color:#1f3f9a;white-space:nowrap;transform-origin:0 0;line-height:1;}
+#k1{left:6px;top:36px;font-size:58px;transform:rotate(-2deg);}
+#k2{left:6px;top:40px;font-size:112px;transform:rotate(-4deg);}
+#k3{left:6px;top:36px;font-size:58px;transform:rotate(-2deg);}
+svg.mk{position:absolute;left:0;top:0;width:800px;height:1060px;overflow:visible;pointer-events:none;}
+.handy{position:absolute;left:640px;top:820px;width:380px;height:760px;border-radius:54px;background:#0d0d0f;padding:14px;
+ transform:rotate(-10deg);transform-origin:0 0;box-shadow:0 30px 60px rgba(0,0,0,.6);}
+.screen{width:100%;height:100%;border-radius:42px;overflow:hidden;background:radial-gradient(120% 80% at 30% 0%,#2b3444 0%,#151a22 60%,#0b0d11 100%);
+ color:#fff;text-align:center;padding-top:56px;}
+.tag{font-size:26px;font-weight:500;opacity:.85;}
+.uhr{font-size:98px;font-weight:800;letter-spacing:-3px;margin-top:2px;}
+.mitt{margin:30px 16px 0;padding:22px 18px;border-radius:24px;background:rgba(255,255,255,.16);font-size:31px;font-weight:500;text-align:left;line-height:1.25;}
+</style></head><body>
+<div class="s">
+  <svg class="grain" viewBox="0 0 1080 1350"><filter id="g"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="5"/><feColorMatrix type="saturate" values="0"/></filter><rect width="1080" height="1350" filter="url(#g)"/></svg>
+  <div class="blatt" id="blatt">
+    <div class="praxis">Hausarztpraxis</div>
+    <div class="praxis-sub">Kontrolle &#183; Mo 2.11.2026</div>
+    <div class="linie"></div>
+    <div class="feld">Befund<div class="kuli" id="k1">BD 165/100, 2. Mal dieses Jahr</div></div>
+    <div class="feld gross">Empfehlung<div class="kuli" id="k2"><span id="satz">K&#252;rzertreten!</span></div></div>
+    <div class="feld">N&#228;chste Kontrolle<div class="kuli" id="k3">in 4 Wochen</div></div>
+    <svg class="mk" id="mk" viewBox="0 0 800 1060"></svg>
+  </div>
+  <div class="handy"><div class="screen">
+    <div class="tag">Montag, 2. November</div>
+    <div class="uhr">09:40</div>
+    <div class="mitt">6 verpasste Anrufe</div>
+  </div></div>
+</div>
+<script>
+document.fonts.ready.then(()=>{
+  const b=document.getElementById('blatt');const B=b.getBoundingClientRect();
+  const rel=el=>{const r=el.getBoundingClientRect();return {l:r.left-B.left,t:r.top-B.top,r:r.right-B.left,b:r.bottom-B.top,w:r.width,h:r.height};};
+  const red='#c62828';const z=rel(document.getElementById('satz'));
+  const y=z.b+6;
+  let svg=`<path d="M ${z.l-6} ${y+6} Q ${(z.l+z.r)/2} ${y-4} ${z.r+10} ${y-6}" fill="none" stroke="${red}" stroke-width="9" stroke-linecap="round" opacity=".9"/>`;
+  svg+=`<path d="M ${z.l+14} ${y+24} Q ${(z.l+z.r)/2} ${y+14} ${z.r-6} ${y+12}" fill="none" stroke="${red}" stroke-width="5" stroke-linecap="round" opacity=".6"/>`;
+  document.getElementById('mk').innerHTML=svg;
+  b.style.transform='rotate(-2.5deg)';
+  window.__ok={satz:[Math.round(z.l),Math.round(z.r),Math.round(z.b)]};
+});
+</script></body></html>

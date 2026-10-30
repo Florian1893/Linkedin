@@ -1,0 +1,59 @@
+<!doctype html><html lang="de"><head><meta charset="utf-8">
+<style>
+@font-face{font-family:'Inter';font-weight:400;src:url(inter-2.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:500;src:url(inter-3.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:800;src:url(inter-8.ttf) format('truetype');}
+@font-face{font-family:'Caveat';font-weight:700;src:url(caveat-700.ttf) format('truetype');}
+*{margin:0;padding:0;box-sizing:border-box;}
+.s{width:1080px;height:1350px;position:relative;overflow:hidden;
+ background:radial-gradient(120% 95% at 70% 0%,#6d6a64 0%,#46433e 52%,#272522 100%);font-family:'Inter',Helvetica,Arial,sans-serif;}
+svg.grain{position:absolute;left:0;top:0;width:1080px;height:1350px;mix-blend-mode:soft-light;opacity:.5;}
+.zettel{position:absolute;width:880px;height:1080px;background:linear-gradient(175deg,#fff6c9 0%,#fbeeb0 100%);
+ box-shadow:0 30px 60px rgba(0,0,0,.45),0 4px 10px rgba(0,0,0,.25);transform-origin:50% 0;}
+#z3{left:120px;top:150px;transform:rotate(6deg);}
+#z2{left:90px;top:120px;transform:rotate(-3deg);}
+#z1{left:100px;top:110px;padding:56px 60px;color:#2b2a26;}
+.kopf{font-size:46px;font-weight:800;letter-spacing:-1px;color:#8a6d12;border-bottom:3px solid #c9ab4a;padding-bottom:14px;}
+.f{display:flex;align-items:flex-end;border-bottom:2px solid #e3cf86;height:84px;}
+.lab{width:170px;flex:none;font-size:20px;letter-spacing:1.2px;text-transform:uppercase;color:#9a8640;padding-bottom:14px;}
+.val{font-family:'Caveat',cursive;font-weight:700;color:#1f3f9a;font-size:56px;line-height:1;padding-bottom:6px;white-space:nowrap;transform:rotate(-1deg);transform-origin:0 100%;}
+.box{display:flex;gap:40px;margin-top:30px;font-size:24px;color:#6b5a20;}
+.cb{display:inline-block;width:30px;height:30px;border:3px solid #9a8640;margin-right:10px;vertical-align:-6px;position:relative;}
+.x:after{content:"";position:absolute;inset:-6px;background:
+ linear-gradient(45deg,transparent 45%,#1f3f9a 45%,#1f3f9a 55%,transparent 55%),linear-gradient(-45deg,transparent 45%,#1f3f9a 45%,#1f3f9a 55%,transparent 55%);}
+.notiz{margin-top:36px;font-family:'Caveat',cursive;font-weight:700;color:#1f3f9a;font-size:62px;line-height:1.1;transform:rotate(-2deg);transform-origin:0 0;}
+.rot{position:absolute;font-family:'Caveat',cursive;font-weight:700;color:#c62828;white-space:nowrap;transform-origin:0 0;line-height:1;}
+#r1{font-size:64px;transform:rotate(-4deg);}
+svg.mk{position:absolute;left:0;top:0;width:880px;height:1080px;overflow:visible;pointer-events:none;}
+</style></head><body>
+<div class="s">
+  <svg class="grain" viewBox="0 0 1080 1350"><filter id="g"><feTurbulence type="fractalNoise" baseFrequency="0.006 0.21" numOctaves="3" seed="23"/><feColorMatrix type="saturate" values="0"/></filter><rect width="1080" height="1350" filter="url(#g)"/></svg>
+  <div class="zettel" id="z3"></div>
+  <div class="zettel" id="z2"></div>
+  <div class="zettel" id="z1">
+    <div class="kopf">Telefonnotiz</div>
+    <div class="f"><div class="lab">F&#252;r</div><div class="val">Chef</div></div>
+    <div class="f"><div class="lab">Von</div><div class="val">Frau Meier</div></div>
+    <div class="f"><div class="lab">Datum</div><div class="val">Di 3.11., 9.15 Uhr</div></div>
+    <div class="f"><div class="lab">Anliegen</div><div class="val">Termin 1 Woche sp&#228;ter m&#246;glich?</div></div>
+    <div class="box"><span><span class="cb"></span>ruft wieder an</span><span><span class="cb x"></span>bitte zur&#252;ckrufen</span></div>
+    <div class="notiz">Im Plan w&#228;re es frei.<br><span id="satz">Hab gesagt: Da muss ich<br>zuerst den Chef fragen.</span></div>
+    <div class="rot" id="r1">zur&#252;ckgerufen: Do 17.40</div>
+    <svg class="mk" id="mk" viewBox="0 0 880 1080"></svg>
+  </div>
+</div>
+<script>
+document.fonts.ready.then(()=>{
+  const z=document.getElementById('z1');const Z=z.getBoundingClientRect();
+  const rel=el=>{const r=el.getBoundingClientRect();return {l:r.left-Z.left,t:r.top-Z.top,r:r.right-Z.left,b:r.bottom-Z.top,w:r.width,h:r.height};};
+  const red='#c62828';
+  const s=rel(document.getElementById('satz'));
+  const r1=document.getElementById('r1');r1.style.left='70px';r1.style.top=(s.b+70)+'px';
+  const R=rel(r1);
+  const cx=(R.l+R.r)/2, cy=(R.t+R.b)/2+4, rx=R.w/2+30, ry=R.h/2+18;const p=[];
+  for(let i=0;i<=72;i++){const a=-0.9+(i/72)*Math.PI*2*1.09;const w=1+0.04*Math.sin(a*2.2+0.5);p.push((i?'L':'M')+(cx+Math.cos(a)*rx*w).toFixed(1)+' '+(cy+Math.sin(a)*ry*w).toFixed(1));}
+  document.getElementById('mk').innerHTML=`<path d="${p.join(' ')}" fill="none" stroke="${red}" stroke-width="7" stroke-linecap="round" opacity=".9"/>`;
+  z.style.transform='rotate(-1deg)';
+  window.__ok={rot:[Math.round(cx-rx),Math.round(cx+rx),Math.round(cy+ry)]};
+});
+</script></body></html>
