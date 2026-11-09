@@ -60,6 +60,7 @@ Fuer gesprochene Formate und ueberall dort, wo es persoenlich werden soll, ist F
 - Stunden (Florian 09.11.: "wie viele stunden man spart reinnehmen"): offene Rechnung mit 10 Stunden pro Woche (Zahl aus Headline und Banner), 10 x 48 Wochen = fast 500 Stunden im Jahr. Immer als "Spart er dir ..." formuliert, nie als Ergebnis eines Kunden. Beim Gipser bleibt es bei "mehrere Stunden pro Woche", bis Florian eine echte Zahl liefert.
 - Gipser-Satz (Florian 09.11.): "Bei einem Gipser habe ich das eingerichtet." (nicht "schon eingebaut").
 - **Expertenrunde 09.11.2026** (7 Linsen: Cold-DM, Zielgruppe, Offer, Copy, Ehrlichkeit, Einwaende, Authentizitaet): Satz "Dein Postfach und Kalender bleiben, wie sie sind" gegen "noch eine Software" und "laeuft schon alles"; "drueckst selber auf Senden"; "auch vieles andere" statt "alles"; Gipser auf die Offerten eingegrenzt ("Allein damit"); Zwischentitel "Rechne mal kurz mit:" und "Der Ablauf ist einfach:" gestrichen; "Sagst du Ja, mache ich den Rest" macht klar, dass der Call noch kein Kauf ist. Offen bei Florian: laeuft der Assistent nachts selbstaendig (sonst Morgenbild abschwaechen), A/B-Test der Schlussfrage "Wo wuerde er dir mehr Zeit sparen, bei den Offerten oder bei den Mails?", haelt "innert einer Woche" bei mehreren Zusagen.
+- **Ton (Florian 09.11.2026): "mach es sympathischer nicht so ki generiert".** Weniger Einzeiler-Bloecke und Zwischentitel, mehr zusammenhaengende Saetze, Florians eigenes Warum ("wie papierlastig das im Buero ist") wieder drin, lockere Woerter ("Stell dir mal vor", "Wenn du magst"). Gilt fuer alle weiteren Fassungen.
 - **Strategie (Florian 09.11.2026): Kostenfuehrer.** "ja ich mach ez kostenfuehrer strategie. hauptsache mal kunden und geld." Der Preis von 299 Franken bleibt bewusst tief und in der Erstnachricht. Damit die Rechnung aufgeht: Einrichtung standardisieren, Support begrenzen, Stunden pro Einrichtung festhalten. Neue Leads ab 09.11. im Tracker mit "Vorlage 09.11." markieren, um die Antwortquote mit den bisherigen rund 23% zu vergleichen. Die Basis-Einrichtung ist bezahlt, Preis erst im Gespraech, Toolkosten (Claude-Abo des Betriebs) offen nennen.
 - Upsell nach der Basis-Einrichtung: das Dashboard. Gehoert NICHT in die Erstnachricht, genau wie Preise.
 - In der Nachricht heisst es "Bueroassistent", nicht "Claude" und nicht "KI".
@@ -70,29 +71,21 @@ Fuer gesprochene Formate und ueberall dort, wo es persoenlich werden soll, ist F
 >
 > [Ice Breaker, ein bis zwei Saetze aus seinem Profil]
 >
-> Stell dir vor, du kommst morgens ins Buero und alles liegt schon bereit:
+> Stell dir mal vor, du kommst am Morgen ins Buero und alles liegt schon bereit.
 >
-> Die Offerte vom Aufmass gestern ist vorbereitet, und bestaetigte Termine stehen im Kalender.
+> Die Antworten auf deine Mails warten als Entwurf, die Offerte vom Aufmass ist vorbereitet und die Termine stehen im Kalender. Du schaust nur noch kurz drueber und schickst ab.
 >
-> Die Antworten auf neue Anfragen warten im Entwurf. Du schaust nur noch kurz drueber und drueckst selber auf Senden.
+> Ich habe selber Plattenleger gelernt, und mich hat schon damals gestoert, wie papierlastig das im Buero ist. Heute richte ich Handwerksbetrieben genau so einen Bueroassistenten ein.
 >
-> Ich habe Plattenleger gelernt und richte heute fuer Handwerksbetriebe so einen Bueroassistenten ein.
+> Du musst dafuer nichts Neues lernen. Er arbeitet in deinem Postfach und Kalender mit, und du sagst ihm einfach per Nachricht oder Sprachmemo, was er machen soll. Mails, Offerten und Termine sind dabei nur der Anfang.
 >
-> Dein Postfach und Kalender bleiben, wie sie sind, er arbeitet einfach darin mit.
+> Bei einem Gipser habe ich das eingerichtet. Er spricht nach dem Ausmessen kurz ins Handy, was er aufgenommen hat, und bekommt die fertige Offerte zurueck. Das spart ihm jede Woche mehrere Stunden.
 >
-> Du schreibst ihm oder schickst ein Sprachmemo, und er bereitet auch vieles andere vor, was immer wieder gleich ablaeuft.
+> Wenn du so auf 10 Stunden pro Woche kommst, sind das im Jahr fast 500 Stunden weniger am Abend im Buero.
 >
-> Bei einem Gipser habe ich das eingerichtet.
+> Die Einrichtung kostet bei mir ab 299 Franken, das hast du nach ein paar gesparten Stunden wieder drin.
 >
-> Er spricht nach dem Ausmessen ein, was er aufgenommen hat, und bekommt die fertige Offerte zurueck. Allein damit spart er mehrere Stunden pro Woche.
->
-> Spart er dir 10 Stunden pro Woche, sind das fast 500 Stunden im Jahr, die du nicht mehr abends im Buero sitzt.
->
-> Die Basis-Einrichtung mache ich dir ab 299 Franken, das hast du nach drei gesparten Stunden wieder drin.
->
-> In einem Videocall von 30 Minuten zeigst du mir, was im Buero am meisten Zeit frisst.
->
-> Sagst du Ja, mache ich den Rest, und innert einer Woche laeuft er bei dir.
+> Wenn du magst, machen wir einen kurzen Videocall und du zeigst mir, was bei dir am meisten Zeit frisst. Den Rest mache ich, und innert einer Woche laeuft er bei dir.
 >
 > Soll ich dir zwei Termine vorschlagen?
 >
