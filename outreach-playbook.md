@@ -83,7 +83,11 @@ Fuer gesprochene Formate und ueberall dort, wo es persoenlich werden soll, ist F
 >
 > Die Einrichtung bekommst du schon ab 299 Franken. Spart er dir nur drei Stunden, hat er sich bezahlt.
 >
-> Haettest du Lust, das bei dir auszuprobieren?
+> Der Ablauf ist einfach:
+>
+> Wir machen einen Videocall von 30 Minuten, du zeigst mir, wie du heute mit Mails, Offerten und Terminen arbeitest, und innert einer Woche laeuft der Assistent bei dir.
+>
+> Soll ich dir zwei Termine vorschlagen?
 >
 > Gruss Florian
 
