@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__Notion__notion-query-data-sources",
+      "Bash(git fetch *)"
+    ]
+  }
+}
