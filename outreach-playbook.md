@@ -66,25 +66,19 @@ Fuer gesprochene Formate und ueberall dort, wo es persoenlich werden soll, ist F
 >
 > [Ice Breaker, ein bis zwei Saetze aus seinem Profil]
 >
-> Stell dir vor, du kommst morgens ins Buero und es liegt schon alles bereit:
+> Stell dir vor, du kommst morgens ins Buero und alles liegt schon bereit:
 >
-> Die Antworten auf deine Mails sind geschrieben und warten im Entwurf, die Offerte vom Kundentermin gestern ist vorbereitet, und die neuen Termine stehen schon im Kalender.
+> Die Antworten auf deine Mails warten im Entwurf, die Offerte von gestern ist vorbereitet und die neuen Termine stehen im Kalender. Du schaust nur noch kurz drueber.
 >
-> Du musst nur noch kurz drueberschauen und auf Senden druecken.
+> Urspruenglich habe ich Plattenleger gelernt und richte heute genau so einen Bueroassistenten ein. Du steuerst ihn per Sprachmemo, und er bereitet alles vor, was bei dir im Buero immer wieder gleich ablaeuft.
 >
-> Urspruenglich habe ich Plattenleger gelernt und richte heute Handwerksbetrieben genau so einen Bueroassistenten ein. Du steuerst ihn per Sprachmemo, zum Beispiel direkt nach dem Kundentermin, und er bereitet dir alles vor.
->
-> Mails, Offerten und Termine sind aber nur ein paar Beispiele. Grundsaetzlich kann er alles vorbereiten, was bei dir im Buero immer wieder gleich ablaeuft.
->
-> Bei einem Gipser habe ich das fuer die Offerten schon so eingebaut. Er kommt vom Kundentermin oder vom Ausmessen und spricht ein, was er aufgenommen hat, daraus entsteht die fertige Offerte. Heute spart er damit messbar mehrere Stunden pro Woche.
+> Bei einem Gipser habe ich das fuer die Offerten schon eingebaut, er spart damit heute mehrere Stunden pro Woche.
 >
 > Am besten probierst du es mit einem echten Fall aus:
 >
-> Schick mir ein Sprachmemo, so wie du es nach einem Kundentermin machen wuerdest, und ich schicke dir zurueck, was der Assistent daraus macht.
+> Schick mir ein Sprachmemo, wie du es nach einem Kundentermin machen wuerdest, und ich schicke dir zurueck, was der Assistent daraus macht.
 >
-> Dann siehst du selber, ob dir das Zeit spart.
->
-> Haettest du Lust, das auszuprobieren?
+> Haettest du Lust?
 >
 > Gruss Florian
 
