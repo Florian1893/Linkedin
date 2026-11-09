@@ -4,6 +4,8 @@ Angelegt am 02.10.2026, als der Kuendigungs-Post viral ging und 100 Leute das Pr
 
 ## Titel (Headline)
 
+NEU 09.11.2026 (Zielgruppe kleine KMU, siehe wissen/angebot.md): nur ein Wort tauschen, "Entlastung fürs Handwerksbüro" wird "Entlastung fürs KMU-Büro". Rest der Headline bleibt.
+
 AKTUELL (Entscheid Florian 03.10.2026: "nicht mit Plattenleger, einfach das Wort KI ersetzen"):
 
 Entlastung fürs Handwerksbüro → Anfragen gebündelt, Offerten in 10 Minuten versendet, automatisch nachgefasst, damit kein Auftrag mehr auf dem Schreibtisch verschimmelt → Mindestens 10 Stunden Büro pro Woche gespart.

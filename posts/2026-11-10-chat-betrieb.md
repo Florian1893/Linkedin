@@ -14,7 +14,7 @@ Du schreibst zurück: Gib die Offerte Huber frei und sag Frau Meier den Donnerst
 
 Um 6.50 Uhr sitzt du im Auto. Am Samstag bleibt das Büro zu.
 
-Genau das richte ich ab jetzt in Handwerksbetrieben ein. Einen Chat auf Basis von Claude, verbunden mit deinen Mails, dem Kalender, den Offerten und Rechnungen. Du fragst in deinen Worten und bekommst Antworten aus deinem Betrieb. Was jede Woche gleich läuft, erledigt er selber. Dir legt er nur vor, was du entscheiden musst.
+Genau das richte ich ab jetzt in kleinen Betrieben ein. Einen Chat auf Basis von Claude, verbunden mit deinen Mails, dem Kalender, den Offerten und Rechnungen. Du fragst in deinen Worten und bekommst Antworten aus deinem Betrieb. Was jede Woche gleich läuft, erledigt er selber. Dir legt er nur vor, was du entscheiden musst.
 
 Wer lieber auf eine Übersicht schaut als in einen Chat, bekommt ein Dashboard dazu.
 

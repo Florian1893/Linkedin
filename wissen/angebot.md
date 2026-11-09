@@ -10,3 +10,16 @@ Kern:
 Offen bei Florian nachfragen: Was genau "Claude schickt automatisch die ..." meint (in der Nachricht unleserlich), welche Verbindungen er heute schon sicher einrichten kann, und ob es einen Preis oder ein Paket gibt.
 
 Content ab 10.11.: Szenen, die zeigen, wie der Inhaber mit seinem Betrieb chattet. Ehrlichkeit wie bisher: nur zeigen, was Florian wirklich einrichten kann, keine erfundenen Kundenergebnisse.
+
+## Zielgruppe ab 09.11.2026: kleine KMU allgemein
+
+Florian: "Ich will die Zielgruppe auch bisschen vergrössern, ohne dass ich wieder alles anpasse auf LinkedIn und jeder meint, ich wechsle immer. Handwerker sind ausgebombt von mir, ich will kleine KMU allgemein nehmen."
+
+Arbeitsdefinition (von Florian noch zu bestätigen): inhabergeführte Betriebe mit rund 5 bis 30 Mitarbeitern, in denen alles über den Tisch des Chefs läuft. Handwerk bleibt ein Beispiel unter vielen, nicht mehr der Rahmen.
+
+Umsetzung leise, ohne Ankündigung:
+- Headline nur ein Wort ändern: "Entlastung fürs Handwerksbüro" wird "Entlastung fürs KMU-Büro". Rest bleibt.
+- Kein Post über den Wechsel. Die Szenen werden einfach breiter: Offerten, Rechnungen, Termine, Mails, der Chef als Engpass, der Samstag im Büro. Das kennt jedes kleine KMU.
+- Mischung: etwa 2 von 3 Posts mit Szenen ohne Branchenwort, 1 von 3 darf weiter im Handwerk spielen, weil dort Florians Herkunft und das Netzwerk liegen.
+- Die Zeile "Ob Sanitär, Elektro oder Maler" ist ohnehin gestrichen (seit 29.10.).
+- Post vom 10.11. angepasst: "in kleinen Betrieben" statt "in Handwerksbetrieben".
