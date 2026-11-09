@@ -1,0 +1,50 @@
+<!doctype html><html lang="de"><head><meta charset="utf-8">
+<style>
+@font-face{font-family:'Inter';font-weight:400;src:url(inter-2.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:500;src:url(inter-3.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:800;src:url(inter-8.ttf) format('truetype');}
+@font-face{font-family:'Caveat';font-weight:700;src:url(caveat-700.ttf) format('truetype');}
+*{margin:0;padding:0;box-sizing:border-box;}
+.s{width:1080px;height:1350px;position:relative;overflow:hidden;background:#f4f2ee;font-family:'Inter',Helvetica,Arial,sans-serif;color:#1d1d1b;}
+.bar{height:140px;background:#fff;border-bottom:2px solid #e6e2da;display:flex;align-items:center;padding:0 52px;gap:26px;}
+.av{width:80px;height:80px;border-radius:20px;background:#2f4a3a;display:flex;align-items:center;justify-content:center;font-size:36px;font-weight:800;color:#fff;}
+.nm{font-size:42px;font-weight:800;letter-spacing:-.5px;}
+.sub{font-size:24px;color:#7a776f;margin-top:4px;}
+.chat{padding:46px 52px;}
+.zeit{text-align:center;font-size:24px;color:#8a867d;margin-bottom:30px;}
+.b{width:fit-content;max-width:840px;border-radius:28px;font-size:40px;line-height:1.38;margin-bottom:28px;}
+.du{margin-left:auto;background:#2f4a3a;color:#fff;padding:24px 32px;border-top-right-radius:8px;}
+.er{background:#fff;padding:30px 36px;border-top-left-radius:8px;box-shadow:0 2px 6px rgba(0,0,0,.06);}
+.er .p{display:flex;gap:18px;margin-top:14px;}
+.er .p:first-of-type{margin-top:20px;}
+.er .dot{flex:none;width:14px;height:14px;border-radius:50%;background:#2f4a3a;margin-top:22px;}
+svg.mk{position:absolute;left:0;top:0;width:1080px;height:1350px;overflow:visible;pointer-events:none;}
+</style></head><body>
+<div class="s" id="s">
+  <div class="bar"><div class="av">B</div><div><div class="nm">Mein Betrieb</div><div class="sub">verbunden mit Mail, Kalender, Offerten, Rechnungen</div></div></div>
+  <div class="chat">
+    <div class="zeit">Montag, 06:45</div>
+    <div class="b du">Zeig mir, was heute liegen geblieben ist.</div>
+    <div class="b er">Guten Morgen. Heute liegt bei dir:
+      <div class="p"><span class="dot"></span><span>3 Offerten warten auf deine Freigabe.</span></div>
+      <div class="p"><span class="dot"></span><span>Frau Meier will ihren Termin verschieben.</span></div>
+      <div class="p"><span class="dot"></span><span>Rechnung Wyss ist seit 12 Tagen f&#228;llig. <span id="erl">Die Erinnerung ging gestern raus.</span></span></div>
+    </div>
+    <div class="b du">Gib die Offerte Huber frei und sag Frau Meier den Donnerstag zu.</div>
+    <div class="b er"><span id="ok">Erledigt.</span> Offerte Huber ist verschickt, Frau Meier hat die Best&#228;tigung f&#252;r Donnerstag.</div>
+  </div>
+  <svg class="mk" id="mk" viewBox="0 0 1080 1350"></svg>
+</div>
+<script>
+document.fonts.ready.then(()=>{
+  const S=document.getElementById('s').getBoundingClientRect();
+  const red='#c62828';let svg='';
+  Array.from(document.getElementById('erl').getClientRects()).forEach(r=>{
+    const l=r.left-S.left, rr=r.right-S.left, y=r.bottom-S.top+10;
+    svg+=`<path d="M ${l-4} ${y+2} Q ${(l+rr)/2} ${y-3} ${rr+6} ${y}" fill="none" stroke="${red}" stroke-width="7" stroke-linecap="round" opacity=".9"/>`;
+  });
+  document.getElementById('mk').innerHTML=svg;
+  const last=document.querySelectorAll('.b');const L=last[last.length-1].getBoundingClientRect();
+  window.__ok={unten:Math.round(L.bottom-S.top)};
+});
+</script></body></html>
