@@ -1,0 +1,61 @@
+<!doctype html><html lang="de"><head><meta charset="utf-8">
+<style>
+@font-face{font-family:'Inter';font-weight:400;src:url(inter-2.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:500;src:url(inter-3.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:800;src:url(inter-8.ttf) format('truetype');}
+@font-face{font-family:'Caveat';font-weight:700;src:url(caveat-700.ttf) format('truetype');}
+*{margin:0;padding:0;box-sizing:border-box;}
+.s{width:1080px;height:1350px;position:relative;overflow:hidden;
+ background:radial-gradient(120% 95% at 30% 0%,#5d5a55 0%,#3a3733 52%,#1f1d1b 100%);font-family:'Inter',Helvetica,Arial,sans-serif;}
+svg.grain{position:absolute;left:0;top:0;width:1080px;height:1350px;mix-blend-mode:soft-light;opacity:.55;}
+.paper{position:absolute;left:80px;top:100px;width:920px;height:1160px;background:linear-gradient(172deg,#fffefb 0%,#f4f1ea 100%);
+ transform-origin:50% 0;box-shadow:0 46px 90px rgba(0,0,0,.55),0 8px 18px rgba(0,0,0,.35);padding:64px 70px;color:#1b1b1b;}
+.kopf{font-size:46px;font-weight:800;letter-spacing:-1px;}
+.sub{font-size:24px;color:#7a776f;margin-top:8px;}
+table{width:100%;border-collapse:collapse;margin-top:44px;font-size:32px;}
+th{text-align:left;font-size:20px;letter-spacing:1.2px;text-transform:uppercase;color:#8a8a8a;font-weight:500;padding:0 0 16px;border-bottom:3px solid #2a2a2a;}
+td{padding:0;height:92px;border-bottom:2px solid #e2ddd2;vertical-align:middle;}
+td.nr{font-variant-numeric:tabular-nums;color:#3a3935;}
+.leer{display:inline-block;width:150px;height:40px;}
+.rot{position:absolute;font-family:'Caveat',cursive;font-weight:700;color:#c62828;white-space:nowrap;line-height:1;transform-origin:0 0;}
+#r1{font-size:68px;transform:rotate(-4deg);}
+svg.mk{position:absolute;left:0;top:0;width:920px;height:1160px;overflow:visible;pointer-events:none;}
+</style></head><body>
+<div class="s">
+  <svg class="grain" viewBox="0 0 1080 1350"><filter id="g"><feTurbulence type="fractalNoise" baseFrequency="0.006 0.21" numOctaves="3" seed="31"/><feColorMatrix type="saturate" values="0"/></filter><rect width="1080" height="1350" filter="url(#g)"/></svg>
+  <div class="paper" id="paper">
+    <div class="kopf">Auftr&#228;ge Juli bis August</div>
+    <div class="sub">Abgleich Kalender und Rechnungen</div>
+    <table>
+      <tr><th style="width:38%">Auftrag</th><th style="width:30%">Erledigt</th><th>Rechnung</th></tr>
+      <tr><td>Keller</td><td class="nr">2. Juli</td><td class="nr">R-1041</td></tr>
+      <tr><td>Gerber</td><td class="nr">14. Juli</td><td><span class="leer" id="leer"></span></td></tr>
+      <tr><td>Lanz</td><td class="nr">22. Juli</td><td class="nr">R-1052</td></tr>
+      <tr><td>Moser</td><td class="nr">5. August</td><td class="nr">R-1058</td></tr>
+      <tr><td>Huber</td><td class="nr">19. August</td><td class="nr">R-1063</td></tr>
+      <tr><td>Wyss</td><td class="nr">27. August</td><td class="nr">R-1067</td></tr>
+    </table>
+    <div class="rot" id="r1">nie verrechnet</div>
+    <svg class="mk" id="mk" viewBox="0 0 920 1160"></svg>
+  </div>
+</div>
+<script>
+document.fonts.ready.then(()=>{
+  const paper=document.getElementById('paper');const P=paper.getBoundingClientRect();
+  const rel=el=>{const r=el.getBoundingClientRect();return {l:r.left-P.left,t:r.top-P.top,r:r.right-P.left,b:r.bottom-P.top,w:r.width,h:r.height};};
+  const red='#c62828';
+  const z=rel(document.getElementById('leer'));
+  const cx=(z.l+z.r)/2, cy=(z.t+z.b)/2, rx=z.w/2+24, ry=z.h/2+26;const p=[];
+  for(let i=0;i<=72;i++){const a=-0.9+(i/72)*Math.PI*2*1.09;const w=1+0.04*Math.sin(a*2.2+0.5);p.push((i?'L':'M')+(cx+Math.cos(a)*rx*w).toFixed(1)+' '+(cy+Math.sin(a)*ry*w).toFixed(1));}
+  let svg=`<path d="${p.join(' ')}" fill="none" stroke="${red}" stroke-width="8" stroke-linecap="round" opacity=".9"/>`;
+  const tab=rel(document.querySelector('table'));
+  const r1=document.getElementById('r1');r1.style.left='430px';r1.style.top=(tab.b+90)+'px';
+  const R=rel(r1);
+  const sx=R.r+6, sy=R.t+18, ex=cx+rx+4, ey=cy+10;
+  svg+=`<path d="M ${sx} ${sy} Q 900 ${(sy+ey)/2} ${ex} ${ey}" fill="none" stroke="${red}" stroke-width="6" stroke-linecap="round" opacity=".9"/>`;
+  svg+=`<path d="M ${ex+6} ${ey+30} L ${ex} ${ey} L ${ex+30} ${ey+12}" fill="none" stroke="${red}" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" opacity=".9"/>`;
+  document.getElementById('mk').innerHTML=svg;
+  paper.style.transform='rotate(-1.5deg)';
+  window.__ok={bogen:Math.round(0.25*sx+0.5*900+0.25*ex),kreis:[Math.round(cx-rx),Math.round(cx+rx)],notiz:[Math.round(R.l),Math.round(R.r),Math.round(R.b)],breite:920};
+});
+</script></body></html>

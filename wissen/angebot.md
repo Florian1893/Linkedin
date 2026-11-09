@@ -7,7 +7,7 @@ Kern:
 - Was jede Woche gleich läuft, läuft automatisch (Erinnerungen, Bestätigungen, Nachfassen). Der Inhaber gibt frei, was er entscheiden muss.
 - Upsell: ein Dashboard mit der Übersicht, für alle, die nicht im Chat arbeiten wollen.
 
-Offen bei Florian nachfragen: Was genau "Claude schickt automatisch die ..." meint (in der Nachricht unleserlich), welche Verbindungen er heute schon sicher einrichten kann, und ob es einen Preis oder ein Paket gibt.
+Offen bei Florian nachfragen: welche Verbindungen er heute schon sicher einrichten kann und ob es einen Preis oder ein Paket gibt. (Das unleserliche Wort aus seiner Nachricht vom 09.11. ist erledigt, Florian: "nichts, vergiss das".)
 
 Content ab 10.11.: Szenen, die zeigen, wie der Inhaber mit seinem Betrieb chattet. Ehrlichkeit wie bisher: nur zeigen, was Florian wirklich einrichten kann, keine erfundenen Kundenergebnisse.
 

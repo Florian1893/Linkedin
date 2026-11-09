@@ -1,0 +1,56 @@
+<!doctype html><html lang="de"><head><meta charset="utf-8">
+<style>
+@font-face{font-family:'Inter';font-weight:400;src:url(inter-2.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:500;src:url(inter-3.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:800;src:url(inter-8.ttf) format('truetype');}
+@font-face{font-family:'Caveat';font-weight:700;src:url(caveat-700.ttf) format('truetype');}
+*{margin:0;padding:0;box-sizing:border-box;}
+.s{width:1080px;height:1350px;position:relative;overflow:hidden;
+ background:radial-gradient(120% 95% at 70% 0%,#5a6068 0%,#373c43 52%,#1d2024 100%);font-family:'Inter',Helvetica,Arial,sans-serif;}
+svg.grain{position:absolute;left:0;top:0;width:1080px;height:1350px;mix-blend-mode:soft-light;opacity:.55;}
+.paper{position:absolute;left:90px;top:96px;width:900px;height:1170px;background:linear-gradient(172deg,#ffffff 0%,#f3f2ee 100%);
+ transform-origin:50% 0;box-shadow:0 46px 90px rgba(0,0,0,.55),0 8px 18px rgba(0,0,0,.35);padding:70px 80px;color:#1b1b1b;}
+.abs{font-size:22px;color:#6b7280;letter-spacing:.5px;}
+.abs b{display:block;font-size:30px;color:#1f2a44;font-weight:800;letter-spacing:-.3px;margin-bottom:6px;}
+.ort{font-size:24px;color:#6b7280;margin-top:70px;}
+.betreff{font-size:40px;font-weight:800;letter-spacing:-.8px;margin-top:46px;line-height:1.2;}
+.txt{font-size:30px;line-height:1.55;margin-top:34px;color:#2b2b2b;}
+.termin{margin-top:40px;font-size:32px;line-height:2.3;}
+.termin .l{display:inline-block;width:210px;color:#6b7280;font-size:26px;}
+.gruss{font-size:30px;line-height:1.55;margin-top:44px;color:#2b2b2b;}
+.rot{position:absolute;font-family:'Caveat',cursive;font-weight:700;color:#c62828;white-space:nowrap;line-height:1;transform-origin:0 0;}
+#r1{font-size:70px;transform:rotate(-4deg);}
+svg.mk{position:absolute;left:0;top:0;width:900px;height:1170px;overflow:visible;pointer-events:none;}
+</style></head><body>
+<div class="s">
+  <svg class="grain" viewBox="0 0 1080 1350"><filter id="g"><feTurbulence type="fractalNoise" baseFrequency="0.006 0.21" numOctaves="3" seed="41"/><feColorMatrix type="saturate" values="0"/></filter><rect width="1080" height="1350" filter="url(#g)"/></svg>
+  <div class="paper" id="paper">
+    <div class="abs"><b>Treuhandb&#252;ro</b>Buchhaltung &#183; Steuern &#183; Abschl&#252;sse</div>
+    <div class="ort">19. November 2026</div>
+    <div class="betreff">Einladung zur Besprechung<br>Jahresabschluss 2026</div>
+    <div class="txt">Gerne besprechen wir mit dir, wie dein Jahr 2026 gelaufen ist.</div>
+    <div class="termin"><span class="l">Datum</span><span id="dat">Donnerstag, 15. April 2027</span><br><span class="l">Zeit</span>14.00 Uhr</div>
+    <div class="gruss">Bitte bring die Unterlagen bis Ende Februar vorbei.<br><br>Freundliche Gr&#252;sse</div>
+    <div class="rot" id="r1">5 Monate ohne Zahlen</div>
+    <svg class="mk" id="mk" viewBox="0 0 900 1170"></svg>
+  </div>
+</div>
+<script>
+document.fonts.ready.then(()=>{
+  const paper=document.getElementById('paper');const P=paper.getBoundingClientRect();
+  const rel=el=>{const r=el.getBoundingClientRect();return {l:r.left-P.left,t:r.top-P.top,r:r.right-P.left,b:r.bottom-P.top,w:r.width,h:r.height};};
+  const red='#c62828';
+  const z=rel(document.getElementById('dat'));
+  const cx=(z.l+z.r)/2, cy=(z.t+z.b)/2+2, rx=z.w/2+50, ry=z.h/2+22;const p=[];
+  for(let i=0;i<=72;i++){const a=-0.9+(i/72)*Math.PI*2*1.09;const w=1+0.035*Math.sin(a*2.2+0.5);p.push((i?'L':'M')+(cx+Math.cos(a)*rx*w).toFixed(1)+' '+(cy+Math.sin(a)*ry*w).toFixed(1));}
+  let svg=`<path d="${p.join(' ')}" fill="none" stroke="${red}" stroke-width="8" stroke-linecap="round" opacity=".9"/>`;
+  const g=rel(document.querySelector('.gruss'));
+  const r1=document.getElementById('r1');r1.style.left='80px';r1.style.top=(g.b+90)+'px';
+  const R=rel(r1);
+  const y=R.b+8;
+  svg+=`<path d="M ${R.l-4} ${y+4} Q ${(R.l+R.r)/2} ${y-6} ${R.r+8} ${y-10}" fill="none" stroke="${red}" stroke-width="6" stroke-linecap="round" opacity=".85"/>`;
+  document.getElementById('mk').innerHTML=svg;
+  paper.style.transform='rotate(1.5deg)';
+  window.__ok={kreis:[Math.round(cx-rx),Math.round(cx+rx)],notiz:[Math.round(R.l),Math.round(R.r),Math.round(R.b)],breite:900,hoehe:1170};
+});
+</script></body></html>

@@ -1,0 +1,79 @@
+<!doctype html><html lang="de"><head><meta charset="utf-8">
+<style>
+@font-face{font-family:'Inter';font-weight:400;src:url(inter-2.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:500;src:url(inter-3.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:800;src:url(inter-8.ttf) format('truetype');}
+@font-face{font-family:'Caveat';font-weight:700;src:url(caveat-700.ttf) format('truetype');}
+*{margin:0;padding:0;box-sizing:border-box;}
+.s{width:1080px;height:1350px;position:relative;overflow:hidden;
+ background:radial-gradient(120% 90% at 30% 0%,#5b5f66 0%,#363a40 55%,#1c1e22 100%);font-family:'Inter',Helvetica,Arial,sans-serif;color:#1d1d1b;}
+svg.grain{position:absolute;left:0;top:0;width:1080px;height:1350px;mix-blend-mode:soft-light;opacity:.55;}
+.win{position:absolute;left:48px;top:110px;width:984px;height:930px;background:#fff;border-radius:18px;overflow:hidden;
+ box-shadow:0 40px 80px rgba(0,0,0,.55),0 6px 14px rgba(0,0,0,.3);}
+.top{height:110px;background:#eceae6;border-bottom:2px solid #dcd9d2;display:flex;align-items:center;padding:0 34px;gap:26px;}
+.dots{display:flex;gap:12px;}.dots i{width:20px;height:20px;border-radius:50%;background:#cfccc5;display:block;}
+.such{flex:1;height:62px;border-radius:14px;background:#fff;border:2px solid #c9c5bc;display:flex;align-items:center;padding:0 22px;font-size:30px;color:#1d1d1b;gap:16px;}
+.lupe{width:24px;height:24px;border:4px solid #8a867d;border-radius:50%;position:relative;flex:none;}
+.lupe:after{content:"";position:absolute;width:4px;height:13px;background:#8a867d;right:-8px;bottom:-11px;transform:rotate(-45deg);}
+.body{display:flex;height:820px;}
+.side{width:330px;background:#f6f5f2;border-right:2px solid #e6e3dc;padding:30px 0;}
+.ord{display:flex;justify-content:space-between;align-items:center;padding:0 30px;height:68px;font-size:29px;color:#3a3935;}
+.ord .n{font-size:24px;color:#8a867d;}
+.ord.akt{background:#e3e9e4;font-weight:500;}
+.main{flex:1;display:flex;flex-direction:column;align-items:center;padding-top:190px;}
+.leer{font-size:40px;font-weight:800;color:#3a3935;letter-spacing:-.5px;}
+.leer2{font-size:28px;color:#8a867d;margin-top:18px;}
+.handy{position:absolute;left:668px;top:700px;width:370px;height:740px;border-radius:54px;background:#0d0d0f;padding:14px;
+ transform:rotate(-8deg);transform-origin:0 0;box-shadow:0 30px 60px rgba(0,0,0,.6);}
+.screen{width:100%;height:100%;border-radius:42px;overflow:hidden;background:linear-gradient(180deg,#2c3a33 0%,#18201c 70%,#0e1311 100%);
+ color:#fff;text-align:center;padding-top:70px;}
+.wer{font-size:42px;font-weight:800;letter-spacing:-.5px;}
+.zeit{font-size:84px;font-weight:500;letter-spacing:-2px;margin-top:10px;font-variant-numeric:tabular-nums;}
+.lauf{font-size:24px;opacity:.7;margin-top:2px;}
+.knopf{display:flex;justify-content:center;gap:34px;margin-top:70px;}
+.knopf div{width:84px;height:84px;border-radius:50%;background:rgba(255,255,255,.18);font-size:18px;display:flex;align-items:center;justify-content:center;}
+.knopf .rot{background:#d23b30;}
+svg.mk{position:absolute;left:0;top:0;width:1080px;height:1350px;overflow:visible;pointer-events:none;}
+</style></head><body>
+<div class="s" id="s">
+  <svg class="grain" viewBox="0 0 1080 1350"><filter id="g"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="9"/><feColorMatrix type="saturate" values="0"/></filter><rect width="1080" height="1350" filter="url(#g)"/></svg>
+  <div class="win">
+    <div class="top"><div class="dots"><i></i><i></i><i></i></div><div class="such"><span class="lupe"></span>Brunner Preis August</div></div>
+    <div class="body">
+      <div class="side">
+        <div class="ord akt"><span>Posteingang</span><span class="n">1243</span></div>
+        <div class="ord"><span>Gesendet</span></div>
+        <div class="ord"><span>Kunden</span><span class="n">318</span></div>
+        <div class="ord"><span>Kunden alt</span><span class="n">902</span></div>
+        <div class="ord"><span>Offerten 2026</span><span class="n">147</span></div>
+        <div class="ord" id="sandra"><span>Ablage Sandra</span></div>
+        <div class="ord"><span>Diverses</span><span class="n">75</span></div>
+        <div class="ord"><span>Archiv 2025</span><span class="n">2108</span></div>
+        <div class="ord"><span>Lieferanten</span><span class="n">231</span></div>
+      </div>
+      <div class="main"><div class="leer" id="leer">Keine Treffer</div><div class="leer2">in &#171;Posteingang&#187;</div></div>
+    </div>
+  </div>
+  <div class="handy"><div class="screen">
+    <div class="wer">Herr Brunner</div>
+    <div class="zeit">11:04</div>
+    <div class="lauf">Anruf l&#228;uft</div>
+    <div class="knopf"><div>Halten</div><div>Stumm</div><div class="rot"></div></div>
+  </div></div>
+  <svg class="mk" id="mk" viewBox="0 0 1080 1350"></svg>
+</div>
+<script>
+document.fonts.ready.then(()=>{
+  const S=document.getElementById('s').getBoundingClientRect();
+  const rel=el=>{const r=el.getBoundingClientRect();return {l:r.left-S.left,t:r.top-S.top,r:r.right-S.left,b:r.bottom-S.top,w:r.width,h:r.height};};
+  const red='#c62828';let svg='';
+  const z=rel(document.getElementById('leer'));const y=z.b+12;
+  svg+=`<path d="M ${z.l-8} ${y+3} Q ${(z.l+z.r)/2} ${y-4} ${z.r+10} ${y}" fill="none" stroke="${red}" stroke-width="8" stroke-linecap="round" opacity=".9"/>`;
+  const a=rel(document.getElementById('sandra').firstElementChild);
+  const cx=(a.l+a.r)/2, cy=(a.t+a.b)/2+2, rx=a.w/2+28, ry=a.h/2+16;const p=[];
+  for(let i=0;i<=72;i++){const t=-0.9+(i/72)*Math.PI*2*1.09;const w=1+0.04*Math.sin(t*2.2+0.5);p.push((i?'L':'M')+(cx+Math.cos(t)*rx*w).toFixed(1)+' '+(cy+Math.sin(t)*ry*w).toFixed(1));}
+  svg+=`<path d="${p.join(' ')}" fill="none" stroke="${red}" stroke-width="7" stroke-linecap="round" opacity=".9"/>`;
+  document.getElementById('mk').innerHTML=svg;
+  window.__ok={kreis:[Math.round(cx-rx),Math.round(cx+rx)],strich:[Math.round(z.l),Math.round(z.r),Math.round(y)]};
+});
+</script></body></html>
