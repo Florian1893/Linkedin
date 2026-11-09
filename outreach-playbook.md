@@ -58,22 +58,22 @@ Fuer gesprochene Formate und ueberall dort, wo es persoenlich werden soll, ist F
 - No-Brainer (Vorschlag Claude 09.11., ersetzt Gratis-Analyse und Beispiele): Einrichtung gratis, zwei Wochen im Alltag testen, bringt er nichts, wird er wieder abgeschaltet. Toolkosten (Claude-Abo des Betriebs) vor der Einrichtung offen nennen.
 - Upsell nach dem Test: das Dashboard. Gehoert NICHT in die Erstnachricht, genau wie Preise.
 - In der Nachricht heisst es "Bueroassistent", nicht "Claude" und nicht "KI".
-- Aufbau wie die Fassung vom 15.09. (Schmerz-Absatz, Plattenleger, Gipser-Fall, "Mein Vorschlag, ohne Risiko fuer dich:", Abschlussfrage). Der Gipser-Fall ist bewusst nur auf die Offerten bezogen, weil nur das dort umgesetzt ist.
+- Einstieg nach dem Ice Breaker mit "Stell dir vor, du kommst morgens ins Buero und es liegt schon alles bereit" (Florian 09.11.), ersetzt den Schmerz-Absatz. Sonst Aufbau wie die Fassung vom 15.09. (Plattenleger, Gipser-Fall, "Mein Vorschlag, ohne Risiko fuer dich:", Abschlussfrage). Der Gipser-Fall ist bewusst nur auf die Offerten bezogen, weil nur das dort umgesetzt ist.
 - Ehrlichkeit: "beantwortet deine Mails" immer mit "legt als Entwurf ab", gesendet wird nichts ohne den Inhaber.
 
 > Hallo [Name]
 >
 > [Ice Breaker, ein bis zwei Saetze aus seinem Profil]
 >
-> Ich weiss nicht, wie es bei dir aussieht, aber bei den meisten Handwerksbetrieben, mit denen ich spreche, passiert mit der Zeit dasselbe:
+> Stell dir vor, du kommst morgens ins Buero und es liegt schon alles bereit:
 >
-> Der Betrieb ist gewachsen, aber die Ablaeufe im Buero sind gleich geblieben. Anfragen stapeln sich, Offerten brauchen Tage statt Minuten, und nachgefasst wird nur, wenn gerade Zeit ist.
+> Die Antworten auf deine Mails sind geschrieben und warten im Entwurf, die Offerte vom Kundentermin gestern ist vorbereitet, und die neuen Termine stehen schon im Kalender.
 >
-> Urspruenglich habe ich Plattenleger gelernt und richte heute Handwerksbetrieben einen Bueroassistenten ein, den du per Sprachmemo steuerst und der dir die Bueroarbeit vorbereitet.
+> Du musst nur noch kurz drueberschauen und auf Senden druecken.
 >
-> Er beantwortet deine Mails und legt die Antworten als Entwurf ab, bereitet Offerten vor und traegt Termine selbstaendig in deinen Kalender ein.
+> Urspruenglich habe ich Plattenleger gelernt und richte heute Handwerksbetrieben genau so einen Bueroassistenten ein. Du steuerst ihn per Sprachmemo, zum Beispiel direkt nach dem Kundentermin, und er bereitet dir alles vor.
 >
-> Das sind aber nur ein paar Beispiele. Grundsaetzlich kann er alles vorbereiten, was bei dir im Buero immer wieder gleich ablaeuft.
+> Mails, Offerten und Termine sind aber nur ein paar Beispiele. Grundsaetzlich kann er alles vorbereiten, was bei dir im Buero immer wieder gleich ablaeuft.
 >
 > Bei einem Gipser habe ich das fuer die Offerten schon so eingebaut. Er kommt vom Kundentermin oder vom Ausmessen und spricht ein, was er aufgenommen hat, daraus entsteht die fertige Offerte. Heute spart er damit messbar mehrere Stunden pro Woche.
 >
