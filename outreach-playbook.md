@@ -62,6 +62,7 @@ Fuer gesprochene Formate und ueberall dort, wo es persoenlich werden soll, ist F
 - **Expertenrunde 09.11.2026** (7 Linsen: Cold-DM, Zielgruppe, Offer, Copy, Ehrlichkeit, Einwaende, Authentizitaet): Satz "Dein Postfach und Kalender bleiben, wie sie sind" gegen "noch eine Software" und "laeuft schon alles"; "drueckst selber auf Senden"; "auch vieles andere" statt "alles"; Gipser auf die Offerten eingegrenzt ("Allein damit"); Zwischentitel "Rechne mal kurz mit:" und "Der Ablauf ist einfach:" gestrichen; "Sagst du Ja, mache ich den Rest" macht klar, dass der Call noch kein Kauf ist. Offen bei Florian: laeuft der Assistent nachts selbstaendig (sonst Morgenbild abschwaechen), A/B-Test der Schlussfrage "Wo wuerde er dir mehr Zeit sparen, bei den Offerten oder bei den Mails?", haelt "innert einer Woche" bei mehreren Zusagen.
 - **Ton (Florian 09.11.2026): "mach es sympathischer nicht so ki generiert".** Weniger Einzeiler-Bloecke und Zwischentitel, mehr zusammenhaengende Saetze, Florians eigenes Warum ("wie papierlastig das im Buero ist") wieder drin, lockere Woerter ("Stell dir mal vor", "Wenn du magst"). Gilt fuer alle weiteren Fassungen.
 - **Kein Testangebot (Florian 09.11.2026): "bei 299 muss keiner testen".** Der Preis ist der No-Brainer. Keine Testwoche, kein Live-Test, kein Zahlen nach Testphase mehr vorschlagen.
+- **Florians Versandfassung 09.11.2026 (Hélder Monteiro #143) ist die Vorlage:** "zum Beispiel" beim Gipser, 5 Stunden pro Woche und fast 250 Stunden im Jahr statt 10 und 500, Schluss "Haettest du Lust?". Die 10-Stunden-Rechnung ist damit ersetzt.
 - **Strategie (Florian 09.11.2026): Kostenfuehrer.** "ja ich mach ez kostenfuehrer strategie. hauptsache mal kunden und geld." Der Preis von 299 Franken bleibt bewusst tief und in der Erstnachricht. Damit die Rechnung aufgeht: Einrichtung standardisieren, Support begrenzen, Stunden pro Einrichtung festhalten. Neue Leads ab 09.11. im Tracker mit "Vorlage 09.11." markieren, um die Antwortquote mit den bisherigen rund 23% zu vergleichen. Die Basis-Einrichtung ist bezahlt, Preis erst im Gespraech, Toolkosten (Claude-Abo des Betriebs) offen nennen.
 - Upsell nach der Basis-Einrichtung: das Dashboard. Gehoert NICHT in die Erstnachricht, genau wie Preise.
 - In der Nachricht heisst es "Bueroassistent", nicht "Claude" und nicht "KI".
@@ -80,15 +81,15 @@ Fuer gesprochene Formate und ueberall dort, wo es persoenlich werden soll, ist F
 >
 > Du musst dafuer nichts Neues lernen. Er arbeitet in deinem Postfach und Kalender mit, und du sagst ihm einfach per Nachricht oder Sprachmemo, was er machen soll. Mails, Offerten und Termine sind dabei nur der Anfang.
 >
-> Bei einem Gipser habe ich das eingerichtet. Er spricht nach dem Ausmessen kurz ins Handy, was er aufgenommen hat, und bekommt die fertige Offerte zurueck. Das spart ihm jede Woche mehrere Stunden.
+> Bei einem Gipser habe ich das zum Beispiel eingerichtet. Er spricht nach dem Ausmessen kurz ins Handy, was er aufgenommen hat, und bekommt die fertige Offerte zurueck. Das spart ihm jede Woche mehrere Stunden.
 >
-> Wenn du so auf 10 Stunden pro Woche kommst, sind das im Jahr fast 500 Stunden weniger am Abend im Buero.
+> Wenn du so auf 5 Stunden pro Woche kommst, sind das im Jahr fast 250 Stunden weniger Bueroarbeit.
 >
 > Die Einrichtung kostet bei mir ab 299 Franken, das hast du nach ein paar gesparten Stunden wieder drin.
 >
 > Wenn du magst, schauen wir in einem kurzen Videocall zusammen, wo er dir am meisten Zeit spart. Den Rest mache ich, und innert einer Woche laeuft er bei dir.
 >
-> Soll ich dir zwei Termine schicken? Ein kurzes Ja reicht.
+> Haettest du Lust?
 >
 > Gruss Florian
 
