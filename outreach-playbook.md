@@ -1,6 +1,6 @@
 # BetriebsFlow LinkedIn Outreach Playbook
 
-Verbindliche Struktur fuer jede Cold-Outreach-Erstnachricht. Von Florian freigegeben am 01.09.2026 (Lead: Sanel Jukic). Basis: MMS SOP LinkedIn Lead Gen + BetriebsFlow-Kontext. **Seit 12.09.2026 gilt die Endfassung im Abschnitt "Erstnachricht ab 12.09.2026"** (Lead: Besnik Velijaj #58). Die 5-Baustein-Struktur weiter unten ist die Fassung der ersten 47 Nachrichten und bleibt als Referenz stehen.
+Verbindliche Struktur fuer jede Cold-Outreach-Erstnachricht. Von Florian freigegeben am 01.09.2026 (Lead: Sanel Jukic). Basis: MMS SOP LinkedIn Lead Gen + BetriebsFlow-Kontext. **Seit 09.11.2026 gilt die Fassung im Abschnitt "Erstnachricht ab 09.11.2026"** (neues Angebot: KI-Assistent per Chat, Beispiele statt Gratis-Analyse). Die 5-Baustein-Struktur weiter unten ist die Fassung der ersten 47 Nachrichten und bleibt als Referenz stehen.
 
 ## Prozessregeln (aus dem MMS SOP)
 
@@ -50,7 +50,46 @@ Fuer gesprochene Formate und ueberall dort, wo es persoenlich werden soll, ist F
 
 **MERKE:** Ein geliehenes Warum hoert man beim Sprechen sofort. Wenn Claude eine Motivation formuliert, die Florian nicht selber so empfindet, muss das ausdruecklich gekennzeichnet und von Florian bestaetigt oder ersetzt werden.
 
-## Erstnachricht ab 15.09.2026 (aktuelle Endfassung)
+## Erstnachricht ab 09.11.2026 (aktuelle Endfassung, neues Angebot)
+
+**Angebotswechsel (Florian 09.11.2026):** "mein angebot bisschen abaendere auf eine basis einrichtung von claude wo der inhaber ueber chat alles bekommt und dann upsell das dashboard. Ich will dazu nicht eine kostenlose analyse anbieten sondern beispiele zeigen."
+
+- Einstiegsangebot: Basis-Einrichtung eines KI-Assistenten (Claude), ueber den der Inhaber per Chat an seine Infos kommt (Mails, Termine, Dokumente) und sich Texte vorbereiten laesst.
+- Upsell danach: das Dashboard. Gehoert NICHT in die Erstnachricht, genau wie Preise.
+- Keine kostenlose Analyse und kein Gratis-Prozess mehr in der Nachricht. Call to Action ist neu: Beispiele zeigen (Florian schickt Beispiele, z.B. Screenshots oder kurzes Video).
+- "Claude" wird in der Erstnachricht nicht genannt, dort heisst es "KI-Assistent". Den Namen erst in den Beispielen oder im Gespraech.
+- Der Satz "Du musst dafuer kein neues Programm lernen." nimmt den Einwand "keine Kapazitaet fuer weitere Software" (Matthias Graber #125) vorweg.
+- Das Gipser-Beispiel ist draussen, weil unklar ist, ob es auf dem Claude-Setup laeuft. Wenn ja, kann Florian es als eines der Beispiele zeigen.
+
+> Hallo [Name]
+>
+> [Ice Breaker, ein bis zwei Saetze aus seinem Profil]
+>
+> Ich weiss nicht, wie es bei dir aussieht, aber bei den meisten Handwerksbetrieben, mit denen ich spreche, ist es aehnlich:
+>
+> Der Betrieb ist gewachsen, und die Infos liegen verstreut in Mails, Kalender und Ordnern. Wer schnell wissen will, welche Offerten noch offen sind oder was ein Kunde geschrieben hat, sucht zuerst eine Weile.
+>
+> Urspruenglich habe ich Plattenleger gelernt und richte heute Handwerksbetrieben einen KI-Assistenten ein, ueber den der Inhaber alles im Chat bekommt.
+>
+> Du schreibst ihm wie auf WhatsApp, zum Beispiel "Welche Offerten sind noch offen?" oder "Schreib mir eine Antwort auf die Anfrage von Mueller", und er holt sich die Infos direkt aus deinen Mails, Terminen und Dokumenten.
+>
+> Du musst dafuer kein neues Programm lernen.
+>
+> Statt dir lange zu erklaeren, wie das aussieht, zeige ich dir lieber ein paar Beispiele.
+>
+> Soll ich dir welche schicken?
+>
+> Gruss Florian
+
+**FU1 ab 09.11.2026:**
+
+> Hallo [Name], wollte kurz nachhaken, so eine Nachricht geht im Tagesgeschaeft schnell unter. Soll ich dir die Beispiele schicken? Falls das gerade kein Thema ist, voellig okay, kurzes Nein reicht.
+>
+> Gruss Florian
+
+**Offene Entwuerfe** (Stand 09.11.: Fisnik Zeneli, Hansruedi Roeschmann, Simon Rohner, Albin Dervishi, Andreas Alt, Dario Widmer, Ymron Gashi, Christian Veljkovic, Sandra Sollberger) beim Versand auf diese Fassung umstellen, Ice Breaker behalten.
+
+## Erstnachricht ab 15.09.2026 (abgeloest am 09.11.2026)
 
 Ersetzt die Fassung vom 12.09. (weiter unten als Vorstufe dokumentiert). Ausloeser: Florian hat sein LinkedIn-Profil auf eine spitzigere Positionierung umgestellt (Banner "Dein Betrieb ist gewachsen. Dein System nicht.", Headline mit der Mechanik Anfragen gebuendelt, Offerten schnell raus, automatisch nachgefasst) und wollte diese Schaerfe auch in der Nachricht, dazu den No-Brainer-Charakter des Angebots deutlicher machen. Florians Anweisung: "habe jetzt ein spitzigeres angebot du musst noch den nobrainer reintun in die nachricht".
 
