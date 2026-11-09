@@ -57,6 +57,8 @@ Fuer gesprochene Formate und ueberall dort, wo es persoenlich werden soll, ist F
 - Einstiegsangebot: Basis-Einrichtung eines Bueroassistenten (laeuft auf Claude), per Sprachmemo steuerbar. Beantwortet Mails und legt die Antworten als Entwurf ab, bereitet Offerten vor, traegt Termine selbstaendig in den Kalender ein. Die Nachricht muss klarmachen, dass das nur Beispiele sind.
 - No-Brainer ab 09.11. (Florian: "konkreter, per sprachmemo ist einfach eine methode" und "das basisangebot richte ich dir schon ab 299.- ein"): Einstiegspreis Basis-Einrichtung ab 299 Franken, steht in der Erstnachricht. Damit ist die Regel "Preise nie in die Erstnachricht" fuer diesen Einstiegspreis aufgehoben. Im Text "299 Franken" schreiben, nicht "299.-" mit Strich. Das Claude-Abo des Betriebs kommt dazu und wird vor der Einrichtung offen genannt. Sprachmemo ist nur eine Art der Steuerung, nicht das Angebot.
 - Nichts gratis einrichten (Florian 09.11.: "der kunde kann einfach sein eigenes claude weiterlaufen lassen und ich hatte die arbeit").
+- Stunden (Florian 09.11.: "wie viele stunden man spart reinnehmen"): offene Rechnung mit 10 Stunden pro Woche (Zahl aus Headline und Banner), 10 x 48 Wochen = fast 500 Stunden im Jahr. Immer als "Spart er dir ..." formuliert, nie als Ergebnis eines Kunden. Beim Gipser bleibt es bei "mehrere Stunden pro Woche", bis Florian eine echte Zahl liefert.
+- Gipser-Satz (Florian 09.11.): "Bei einem Gipser habe ich das eingerichtet." (nicht "schon eingebaut").
 - **Strategie (Florian 09.11.2026): Kostenfuehrer.** "ja ich mach ez kostenfuehrer strategie. hauptsache mal kunden und geld." Der Preis von 299 Franken bleibt bewusst tief und in der Erstnachricht. Damit die Rechnung aufgeht: Einrichtung standardisieren, Support begrenzen, Stunden pro Einrichtung festhalten. Neue Leads ab 09.11. im Tracker mit "Vorlage 09.11." markieren, um die Antwortquote mit den bisherigen rund 23% zu vergleichen. Die Basis-Einrichtung ist bezahlt, Preis erst im Gespraech, Toolkosten (Claude-Abo des Betriebs) offen nennen.
 - Upsell nach der Basis-Einrichtung: das Dashboard. Gehoert NICHT in die Erstnachricht, genau wie Preise.
 - In der Nachricht heisst es "Bueroassistent", nicht "Claude" und nicht "KI".
@@ -69,17 +71,19 @@ Fuer gesprochene Formate und ueberall dort, wo es persoenlich werden soll, ist F
 >
 > Stell dir vor, du kommst morgens ins Buero und alles liegt schon bereit:
 >
-> Die Antworten auf neue Anfragen und Mails warten im Entwurf, die Offerte vom letzten Kundentermin ist vorbereitet und bestaetigte Termine stehen schon im Kalender. Du schaust nur noch kurz drueber und drueckst auf Senden.
+> Die Antworten auf neue Anfragen und Mails warten im Entwurf, die Offerte vom letzten Kundentermin ist fertig vorbereitet und bestaetigte Termine stehen schon im Kalender. Du schaust nur noch kurz drueber und drueckst auf Senden.
 >
-> Urspruenglich habe ich Plattenleger gelernt und richte heute Handwerksbetrieben genau so einen Bueroassistenten ein. Steuern kannst du ihn per Chat oder Sprachmemo, und er bereitet alles vor, was bei dir im Buero immer wieder gleich ablaeuft.
+> Urspruenglich habe ich Plattenleger gelernt und richte heute Handwerksbetrieben genau so einen Bueroassistenten ein. Du steuerst ihn per Chat oder Sprachmemo, und er bereitet alles vor, was bei dir im Buero immer wieder gleich ablaeuft.
 >
-> Bei einem Gipser habe ich das fuer die Offerten schon eingebaut, er spart damit heute mehrere Stunden pro Woche.
+> Bei einem Gipser habe ich das eingerichtet. Er spricht nach dem Ausmessen ein, was er aufgenommen hat, und bekommt die fertige Offerte zurueck. Damit spart er heute mehrere Stunden pro Woche.
 >
-> Der Einstieg ist bewusst guenstig:
+> Rechne mal kurz mit:
 >
-> Die Basis-Einrichtung bekommst du schon ab 299 Franken. Spart er dir nur eine Stunde pro Woche, hat er sich nach ein paar Wochen bezahlt.
+> Spart er dir 10 Stunden pro Woche, sind das fast 500 Stunden im Jahr, die du wieder fuer Kunden und Familie hast.
 >
-> Haettest du Lust, das auszuprobieren?
+> Die Einrichtung bekommst du schon ab 299 Franken. Spart er dir nur drei Stunden, hat er sich bezahlt.
+>
+> Haettest du Lust, das bei dir auszuprobieren?
 >
 > Gruss Florian
 
