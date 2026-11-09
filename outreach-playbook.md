@@ -1,6 +1,6 @@
 # BetriebsFlow LinkedIn Outreach Playbook
 
-Verbindliche Struktur fuer jede Cold-Outreach-Erstnachricht. Von Florian freigegeben am 01.09.2026 (Lead: Sanel Jukic). Basis: MMS SOP LinkedIn Lead Gen + BetriebsFlow-Kontext. **Seit 09.11.2026 gilt die Fassung im Abschnitt "Erstnachricht ab 09.11.2026"** (neues Angebot: KI-Assistent per Chat, Beispiele statt Gratis-Analyse). Die 5-Baustein-Struktur weiter unten ist die Fassung der ersten 47 Nachrichten und bleibt als Referenz stehen.
+Verbindliche Struktur fuer jede Cold-Outreach-Erstnachricht. Von Florian freigegeben am 01.09.2026 (Lead: Sanel Jukic). Basis: MMS SOP LinkedIn Lead Gen + BetriebsFlow-Kontext. **Seit 09.11.2026 gilt die Fassung im Abschnitt "Erstnachricht ab 09.11.2026"** (neues Angebot: Bueroassistent per Sprachmemo, Beispiele statt Gratis-Analyse). Die 5-Baustein-Struktur weiter unten ist die Fassung der ersten 47 Nachrichten und bleibt als Referenz stehen.
 
 ## Prozessregeln (aus dem MMS SOP)
 
@@ -52,28 +52,26 @@ Fuer gesprochene Formate und ueberall dort, wo es persoenlich werden soll, ist F
 
 ## Erstnachricht ab 09.11.2026 (aktuelle Endfassung, neues Angebot)
 
-**Angebotswechsel (Florian 09.11.2026):** "mein angebot bisschen abaendere auf eine basis einrichtung von claude wo der inhaber ueber chat alles bekommt und dann upsell das dashboard. Ich will dazu nicht eine kostenlose analyse anbieten sondern beispiele zeigen."
+**Angebotswechsel (Florian 09.11.2026):** "mein angebot bisschen abaendere auf eine basis einrichtung von claude wo der inhaber ueber chat alles bekommt und dann upsell das dashboard. Ich will dazu nicht eine kostenlose analyse anbieten sondern beispiele zeigen." Praezisiert am selben Tag: "komme in der dm auf den punkt das ich ein bueroassistenten einrichte der per sprachmemo steuerbar ist und alles fuer dich vorbereitet. mails beantwortet und in entwuerfe ablegt. offerten vorbereitet und kalendereintraege selbstaendig macht usw."
 
-- Einstiegsangebot: Basis-Einrichtung eines KI-Assistenten (Claude), ueber den der Inhaber per Chat an seine Infos kommt (Mails, Termine, Dokumente) und sich Texte vorbereiten laesst.
+- Einstiegsangebot: Basis-Einrichtung eines Bueroassistenten (laeuft auf Claude), per Sprachmemo steuerbar. Beantwortet Mails und legt die Antworten als Entwurf ab, bereitet Offerten vor, traegt Termine selbstaendig in den Kalender ein.
 - Upsell danach: das Dashboard. Gehoert NICHT in die Erstnachricht, genau wie Preise.
-- Keine kostenlose Analyse und kein Gratis-Prozess mehr in der Nachricht. Call to Action ist neu: Beispiele zeigen (Florian schickt Beispiele, z.B. Screenshots oder kurzes Video).
-- "Claude" wird in der Erstnachricht nicht genannt, dort heisst es "KI-Assistent". Den Namen erst in den Beispielen oder im Gespraech.
-- Der Satz "Du musst dafuer kein neues Programm lernen." nimmt den Einwand "keine Kapazitaet fuer weitere Software" (Matthias Graber #125) vorweg.
-- Das Gipser-Beispiel ist draussen, weil unklar ist, ob es auf dem Claude-Setup laeuft. Wenn ja, kann Florian es als eines der Beispiele zeigen.
+- Keine kostenlose Analyse und kein Gratis-Prozess mehr in der Nachricht. Call to Action: Beispiele zeigen (Sprachmemo rein, Ergebnis raus: Mail-Entwurf, Offerten-Entwurf, Kalendereintrag).
+- In der Nachricht heisst es "Bueroassistent", nicht "Claude" und nicht "KI". Der Name erst in den Beispielen oder im Gespraech.
+- Der Schmerz-Absatz ("Ich weiss nicht, wie es bei dir aussieht...") ist raus, die Nachricht kommt nach dem Ice Breaker direkt zum Angebot.
+- Ehrlichkeit: "beantwortet deine Mails" immer mit "legt als Entwurf ab", gesendet wird nichts ohne den Inhaber.
 
 > Hallo [Name]
 >
 > [Ice Breaker, ein bis zwei Saetze aus seinem Profil]
 >
-> Ich weiss nicht, wie es bei dir aussieht, aber bei den meisten Handwerksbetrieben, mit denen ich spreche, ist es aehnlich:
+> Kurz zu mir:
 >
-> Der Betrieb ist gewachsen, und die Infos liegen verstreut in Mails, Kalender und Ordnern. Wer schnell wissen will, welche Offerten noch offen sind oder was ein Kunde geschrieben hat, sucht zuerst eine Weile.
+> Ich habe urspruenglich Plattenleger gelernt und richte heute Handwerksbetrieben einen Bueroassistenten ein, den du per Sprachmemo steuerst und der alles fuer dich vorbereitet.
 >
-> Urspruenglich habe ich Plattenleger gelernt und richte heute Handwerksbetrieben einen KI-Assistenten ein, ueber den der Inhaber alles im Chat bekommt.
+> Er beantwortet deine Mails und legt die Antworten als Entwurf ab, du musst sie nur noch pruefen und abschicken. Offerten bereitet er vor, und Termine traegt er selbstaendig in deinen Kalender ein.
 >
-> Du schreibst ihm wie auf WhatsApp, zum Beispiel "Welche Offerten sind noch offen?" oder "Schreib mir eine Antwort auf die Anfrage von Mueller", und er holt sich die Infos direkt aus deinen Mails, Terminen und Dokumenten.
->
-> Du musst dafuer kein neues Programm lernen.
+> Du sprichst also nach dem Kundentermin kurz ins Handy, und wenn du ins Buero kommst, liegt das meiste schon bereit.
 >
 > Statt dir lange zu erklaeren, wie das aussieht, zeige ich dir lieber ein paar Beispiele.
 >
