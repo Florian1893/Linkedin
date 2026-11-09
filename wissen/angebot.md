@@ -15,7 +15,7 @@ Content ab 10.11.: Szenen, die zeigen, wie der Inhaber mit seinem Betrieb chatte
 
 Florian: "Ich will die Zielgruppe auch bisschen vergrössern, ohne dass ich wieder alles anpasse auf LinkedIn und jeder meint, ich wechsle immer. Handwerker sind ausgebombt von mir, ich will kleine KMU allgemein nehmen."
 
-Arbeitsdefinition (von Florian noch zu bestätigen): inhabergeführte Betriebe mit rund 5 bis 30 Mitarbeitern, in denen alles über den Tisch des Chefs läuft. Handwerk bleibt ein Beispiel unter vielen, nicht mehr der Rahmen.
+Zielgruppe (von Florian am 09.11.2026 bestätigt): inhabergeführte Betriebe mit rund 5 bis 30 Mitarbeitern, in denen alles über den Tisch des Chefs läuft. Handwerk bleibt ein Beispiel unter vielen, nicht mehr der Rahmen.
 
 Umsetzung leise, ohne Ankündigung:
 - Headline nur ein Wort ändern: "Entlastung fürs Handwerksbüro" wird "Entlastung fürs KMU-Büro". Rest bleibt.
