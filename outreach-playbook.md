@@ -1,6 +1,6 @@
 # BetriebsFlow LinkedIn Outreach Playbook
 
-Verbindliche Struktur fuer jede Cold-Outreach-Erstnachricht. Von Florian freigegeben am 01.09.2026 (Lead: Sanel Jukic). Basis: MMS SOP LinkedIn Lead Gen + BetriebsFlow-Kontext. **Seit 09.11.2026 gilt die Fassung im Abschnitt "Erstnachricht ab 09.11.2026"** (neues Angebot: Bueroassistent per Sprachmemo, No-Brainer Sprachmemo-Test). Die 5-Baustein-Struktur weiter unten ist die Fassung der ersten 47 Nachrichten und bleibt als Referenz stehen.
+Verbindliche Struktur fuer jede Cold-Outreach-Erstnachricht. Von Florian freigegeben am 01.09.2026 (Lead: Sanel Jukic). Basis: MMS SOP LinkedIn Lead Gen + BetriebsFlow-Kontext. **Seit 09.11.2026 gilt die Fassung im Abschnitt "Erstnachricht ab 09.11.2026"** (neues Angebot: Bueroassistent, No-Brainer Mail-Teil gratis eingerichtet). Die 5-Baustein-Struktur weiter unten ist die Fassung der ersten 47 Nachrichten und bleibt als Referenz stehen.
 
 ## Prozessregeln (aus dem MMS SOP)
 
@@ -55,8 +55,8 @@ Fuer gesprochene Formate und ueberall dort, wo es persoenlich werden soll, ist F
 **Angebotswechsel (Florian 09.11.2026):** "mein angebot bisschen abaendere auf eine basis einrichtung von claude wo der inhaber ueber chat alles bekommt und dann upsell das dashboard. Ich will dazu nicht eine kostenlose analyse anbieten sondern beispiele zeigen." Praezisiert am selben Tag: "komme in der dm auf den punkt das ich ein bueroassistenten einrichte der per sprachmemo steuerbar ist und alles fuer dich vorbereitet. mails beantwortet und in entwuerfe ablegt. offerten vorbereitet und kalendereintraege selbstaendig macht usw." Danach: "sie muessen verstehen dass er noch mehr kann als nur diese beispiele. will ich keine beispiele schicken ein anderer nobrainer muss her und passe die nachricht aehnlich an die alte an".
 
 - Einstiegsangebot: Basis-Einrichtung eines Bueroassistenten (laeuft auf Claude), per Sprachmemo steuerbar. Beantwortet Mails und legt die Antworten als Entwurf ab, bereitet Offerten vor, traegt Termine selbstaendig in den Kalender ein. Die Nachricht muss klarmachen, dass das nur Beispiele sind.
-- No-Brainer ab 09.11.: Sprachmemo-Test. Der Lead schickt ein Sprachmemo wie nach einem Kundentermin, Florian schickt zurueck, was der Assistent daraus macht (Mail-Antwort oder Offerten-Entwurf). Ersetzt Gratis-Analyse und Beispiele.
-- NICHT gratis einrichten (Florian 09.11.: "der kunde kann einfach sein eigenes claude weiterlaufen lassen und ich hatte die arbeit"). Aus demselben Grund keine Geld-zurueck-Garantie und kein "zahlen erst nach dem Test": Die Einrichtung bleibt beim Kunden. Gratis gibt es nur ein Ergebnis, nie das Setup. Die Basis-Einrichtung ist bezahlt, Preis erst im Gespraech, Toolkosten (Claude-Abo des Betriebs) offen nennen.
+- No-Brainer ab 09.11. (Florian: "konkreter, per sprachmemo ist einfach eine methode"): Der Mail-Teil wird gratis eingerichtet (Antworten liegen jeden Morgen als Entwurf bereit). Offerten, Kalender und spaeter das Dashboard sind bezahlt. Logik wie beim alten "erster Prozess gratis": kleiner Teil als Akquisekosten, der Rest ist das Geschaeft. Sprachmemo ist nur eine Art der Steuerung, nicht das Angebot.
+- NICHT den ganzen Assistenten gratis einrichten (Florian 09.11.: "der kunde kann einfach sein eigenes claude weiterlaufen lassen und ich hatte die arbeit"). Gratis ist nur der Mail-Teil. Die Basis-Einrichtung ist bezahlt, Preis erst im Gespraech, Toolkosten (Claude-Abo des Betriebs) offen nennen.
 - Upsell nach der Basis-Einrichtung: das Dashboard. Gehoert NICHT in die Erstnachricht, genau wie Preise.
 - In der Nachricht heisst es "Bueroassistent", nicht "Claude" und nicht "KI".
 - Einstieg nach dem Ice Breaker mit "Stell dir vor, du kommst morgens ins Buero und es liegt schon alles bereit" (Florian 09.11.), ersetzt den Schmerz-Absatz. Sonst Aufbau wie die Fassung vom 15.09. (Plattenleger, Gipser-Fall, "Mein Vorschlag, ohne Risiko fuer dich:", Abschlussfrage). Der Gipser-Fall ist bewusst nur auf die Offerten bezogen, weil nur das dort umgesetzt ist.
@@ -68,23 +68,23 @@ Fuer gesprochene Formate und ueberall dort, wo es persoenlich werden soll, ist F
 >
 > Stell dir vor, du kommst morgens ins Buero und alles liegt schon bereit:
 >
-> Die Antworten auf deine Mails warten im Entwurf, die Offerte von gestern ist vorbereitet und die neuen Termine stehen im Kalender. Du schaust nur noch kurz drueber.
+> Die Antworten auf neue Anfragen und Mails warten im Entwurf, die Offerte vom letzten Kundentermin ist vorbereitet und bestaetigte Termine stehen schon im Kalender. Du schaust nur noch kurz drueber und drueckst auf Senden.
 >
-> Urspruenglich habe ich Plattenleger gelernt und richte heute genau so einen Bueroassistenten ein. Du steuerst ihn per Sprachmemo, und er bereitet alles vor, was bei dir im Buero immer wieder gleich ablaeuft.
+> Urspruenglich habe ich Plattenleger gelernt und richte heute Handwerksbetrieben genau so einen Bueroassistenten ein. Steuern kannst du ihn per Chat oder Sprachmemo, und er bereitet alles vor, was bei dir im Buero immer wieder gleich ablaeuft.
 >
 > Bei einem Gipser habe ich das fuer die Offerten schon eingebaut, er spart damit heute mehrere Stunden pro Woche.
 >
-> Am besten probierst du es mit einem echten Fall aus:
+> Mein Vorschlag, ohne Risiko fuer dich:
 >
-> Schick mir ein Sprachmemo, wie du es nach einem Kundentermin machen wuerdest, und ich schicke dir zurueck, was der Assistent daraus macht.
+> Ich richte dir als Erstes den Teil fuer deine Mails gratis ein. Ab dann liegen die Antworten jeden Morgen als Entwurf bereit, und du siehst selber, ob dir das Zeit spart.
 >
-> Haettest du Lust?
+> Haettest du Lust, das auszuprobieren?
 >
 > Gruss Florian
 
 **FU1 ab 09.11.2026:**
 
-> Hallo [Name], wollte kurz nachhaken, so eine Nachricht geht im Tagesgeschaeft schnell unter. Falls der Test mit dem Sprachmemo gerade nichts fuer dich ist, voellig okay, kurzes Nein reicht.
+> Hallo [Name], wollte kurz nachhaken, so eine Nachricht geht im Tagesgeschaeft schnell unter. Falls der gratis Start mit den Mails gerade nichts fuer dich ist, voellig okay, kurzes Nein reicht.
 >
 > Gruss Florian
 
