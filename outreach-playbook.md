@@ -86,9 +86,9 @@ Fuer gesprochene Formate und ueberall dort, wo es persoenlich werden soll, ist F
 >
 > Die Einrichtung kostet bei mir ab 299 Franken, das hast du nach ein paar gesparten Stunden wieder drin.
 >
-> Wenn du magst, machen wir einen kurzen Videocall und du zeigst mir, was bei dir am meisten Zeit frisst. Den Rest mache ich, und innert einer Woche laeuft er bei dir.
+> Wenn du magst, schauen wir in einem kurzen Videocall zusammen, wo er dir am meisten Zeit spart. Den Rest mache ich, und innert einer Woche laeuft er bei dir.
 >
-> Soll ich dir zwei Termine vorschlagen?
+> Soll ich dir zwei Termine schicken? Ein kurzes Ja reicht.
 >
 > Gruss Florian
 
