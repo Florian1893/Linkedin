@@ -14,7 +14,7 @@ Du schreibst zurück: Gib die Offerte Huber frei und sag Frau Meier den Donnerst
 
 Um 6.50 Uhr sitzt du im Auto. Am Samstag bleibt das Büro zu.
 
-Genau das richte ich ab jetzt in kleinen Betrieben ein. Einen Chat auf Basis von Claude, verbunden mit deinen Mails, dem Kalender, den Offerten und Rechnungen. Du fragst in deinen Worten und bekommst Antworten aus deinem Betrieb. Was jede Woche gleich läuft, erledigt er selber. Dir legt er nur vor, was du entscheiden musst.
+Ich baue Betrieben ihre Abläufe so, dass du deinem Betrieb schreibst wie einem Mitarbeiter. Ein Chat auf Basis von Claude, verbunden mit Mails, Kalender, Offerten und Rechnungen. Du fragst in deinen Worten und bekommst Antworten aus deinem Betrieb. Was jede Woche gleich läuft, erledigt er selber. Dir legt er nur noch die Entscheidungen vor.
 
 Wer lieber auf eine Übersicht schaut als in einen Chat, bekommt ein Dashboard dazu.
 
@@ -22,7 +22,7 @@ Was würdest du deinen Betrieb morgen früh als Erstes fragen?
 
 ## Messung
 
-960 Zeichen, 7 Kommas, 1 Frage, kein ß, keine Gedankenstriche. Hook ohne Fragezeichen (Befehl statt Frage).
+977 Zeichen, 7 Kommas, 1 Frage, kein ß, keine Gedankenstriche. Hook ohne Fragezeichen (Befehl statt Frage).
 
 ## Ehrlichkeit
 
