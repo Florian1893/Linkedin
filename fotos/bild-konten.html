@@ -1,0 +1,55 @@
+<!doctype html><html lang="de"><head><meta charset="utf-8">
+<style>
+@font-face{font-family:'Inter';font-weight:400;src:url(inter-2.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:500;src:url(inter-3.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:800;src:url(inter-8.ttf) format('truetype');}
+@font-face{font-family:'Caveat';font-weight:700;src:url(caveat-700.ttf) format('truetype');}
+*{margin:0;padding:0;box-sizing:border-box;}
+.s{width:1080px;height:1350px;position:relative;overflow:hidden;
+ background:radial-gradient(120% 95% at 30% 0%,#5b6460 0%,#383f3c 52%,#1e2321 100%);font-family:'Inter',Helvetica,Arial,sans-serif;}
+svg.grain{position:absolute;left:0;top:0;width:1080px;height:1350px;mix-blend-mode:soft-light;opacity:.55;}
+.paper{position:absolute;left:70px;top:90px;width:940px;height:1180px;background:linear-gradient(172deg,#fffefb 0%,#f4f1ea 100%);
+ transform-origin:50% 0;box-shadow:0 46px 90px rgba(0,0,0,.55),0 8px 18px rgba(0,0,0,.35);padding:60px 66px;color:#1b1b1b;}
+.kopf{font-size:46px;font-weight:800;letter-spacing:-1px;}
+.sub{font-size:24px;color:#7a776f;margin-top:8px;}
+table{width:100%;border-collapse:collapse;margin-top:36px;font-size:30px;}
+th{text-align:left;font-size:19px;letter-spacing:1.2px;text-transform:uppercase;color:#8a8a8a;font-weight:500;padding:0 0 14px;border-bottom:3px solid #2a2a2a;}
+td{height:84px;border-bottom:2px solid #e2ddd2;vertical-align:middle;color:#2b2b2b;}
+td.n{font-weight:500;color:#1b1b1b;}
+.rot{position:absolute;font-family:'Caveat',cursive;font-weight:700;color:#c62828;white-space:nowrap;line-height:1;transform-origin:0 0;font-size:96px;transform:rotate(-4deg);}
+svg.mk{position:absolute;left:0;top:0;width:940px;height:1180px;overflow:visible;pointer-events:none;}
+</style></head><body>
+<div class="s">
+  <svg class="grain" viewBox="0 0 1080 1350"><filter id="g"><feTurbulence type="fractalNoise" baseFrequency="0.006 0.21" numOctaves="3" seed="53"/><feColorMatrix type="saturate" values="0"/></filter><rect width="1080" height="1350" filter="url(#g)"/></svg>
+  <div class="paper" id="paper">
+    <div class="kopf">Wer nutzt was?</div>
+    <div class="sub">Teamsitzung Montag &#183; kurze Umfrage</div>
+    <table>
+      <tr><th style="width:24%">Name</th><th style="width:38%">Womit</th><th>Wof&#252;r</th></tr>
+      <tr><td class="n">Sandra</td><td>ChatGPT privat</td><td>Mails</td></tr>
+      <tr><td class="n">Marco</td><td>ChatGPT gratis</td><td>Offertentexte</td></tr>
+      <tr><td class="n">Reto</td><td>Copilot</td><td>Excel-Formeln</td></tr>
+      <tr><td class="n">Lena</td><td>ChatGPT privat</td><td>Social Media</td></tr>
+      <tr><td class="n">Jonas</td><td>App auf dem Handy</td><td>&#220;bersetzen</td></tr>
+      <tr><td class="n">Petra</td><td>Claude gratis</td><td>Protokolle</td></tr>
+      <tr><td class="n">Daniel</td><td>ChatGPT Plus</td><td>alles M&#246;gliche</td></tr>
+      <tr><td class="n">Chef</td><td>ab und zu</td><td>vergessen</td></tr>
+    </table>
+    <div class="rot" id="r1">8 Konten. 0 System.</div>
+    <svg class="mk" id="mk" viewBox="0 0 940 1180"></svg>
+  </div>
+</div>
+<script>
+document.fonts.ready.then(()=>{
+  const paper=document.getElementById('paper');const P=paper.getBoundingClientRect();
+  const rel=el=>{const r=el.getBoundingClientRect();return {l:r.left-P.left,t:r.top-P.top,r:r.right-P.left,b:r.bottom-P.top,w:r.width,h:r.height};};
+  const red='#c62828';
+  const tab=rel(document.querySelector('table'));
+  const r1=document.getElementById('r1');r1.style.left='80px';r1.style.top=(tab.b+70)+'px';
+  const R=rel(r1);const y=R.b+14;
+  const svg=`<path d="M ${R.l-6} ${y+6} Q ${(R.l+R.r)/2} ${y-6} ${R.r+12} ${y-12}" fill="none" stroke="${red}" stroke-width="8" stroke-linecap="round" opacity=".9"/>`;
+  document.getElementById('mk').innerHTML=svg;
+  paper.style.transform='rotate(-1.5deg)';
+  window.__ok={notiz:[Math.round(R.l),Math.round(R.r),Math.round(y)],breite:940,hoehe:1180,tabelle:Math.round(tab.b)};
+});
+</script></body></html>
