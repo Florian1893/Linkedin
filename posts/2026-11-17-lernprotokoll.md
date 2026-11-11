@@ -1,5 +1,7 @@
 # 17.11.2026 (Dienstag) — Ein Post von mir hatte 215'908 Impressions. Der nächste 389.
 
+RESERVE seit 11.11.2026: Florian wollte stattdessen eine eigene Claude-Automatisierung (posts/2026-11-17-postfach.md).
+
 Ersetzt posts/2026-11-17-verrechnet.md (jetzt Reserve). Florian am 11.11. mit Screenshot eines fremden Posts ("Claude hat mir 5 Termine gebucht", Ich-Geschichte mit echten Zahlen, eigene Automatisierung als Beweis): "der post zieht auch. einfach eine random Automatisierung wo er weiterhilft und die Leute interessiert's". Übernommen nur die Bauart: echte Zahl im Hook, Ich-Form, Überraschung aus den eigenen Daten, dann der Nutzen für Betriebe. Die Automatisierung ist echt: Florians eigenes LinkedIn-System mit Lernprotokoll in diesem Repo.
 
 ## Post
