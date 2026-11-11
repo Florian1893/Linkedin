@@ -1,0 +1,71 @@
+<!doctype html><html lang="de"><head><meta charset="utf-8">
+<style>
+@font-face{font-family:'Inter';font-weight:400;src:url(inter-2.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:500;src:url(inter-3.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:800;src:url(inter-8.ttf) format('truetype');}
+@font-face{font-family:'Caveat';font-weight:700;src:url(caveat-700.ttf) format('truetype');}
+*{margin:0;padding:0;box-sizing:border-box;}
+.s{width:1080px;height:1350px;position:relative;overflow:hidden;background:#f4f2ee;font-family:'Inter',Helvetica,Arial,sans-serif;color:#1d1d1b;padding:56px 60px;}
+.marke{display:flex;align-items:center;gap:12px;font-size:24px;font-weight:800;color:#2f4a3a;letter-spacing:-.2px;}
+.marke i{display:block;width:16px;height:16px;border-radius:5px;background:#2f4a3a;}
+h1{font-size:84px;font-weight:800;letter-spacing:-3px;line-height:1.02;margin-top:34px;}
+.hand{font-family:'Caveat',cursive;font-weight:700;color:#c62828;font-size:58px;line-height:1;margin-top:14px;transform:rotate(-1.5deg);transform-origin:0 0;}
+.lab{font-size:18px;letter-spacing:2px;text-transform:uppercase;color:#8a867d;font-weight:500;margin-top:26px;}
+.chips{display:grid;grid-template-columns:repeat(4,1fr);gap:16px 16px;margin-top:16px;}
+.chip{background:#fff;border-radius:16px;padding:14px 16px;box-shadow:0 3px 10px rgba(0,0,0,.08);border:1.5px solid #e6e2da;}
+.chip b{display:block;font-size:24px;font-weight:800;letter-spacing:-.3px;}
+.chip span{display:block;font-size:18px;color:#6f6c64;margin-top:4px;line-height:1.3;}
+.weiter{font-family:'Caveat',cursive;font-weight:700;color:#2f4a3a;font-size:52px;line-height:1;margin:22px 0 0 300px;}
+.hub{margin:22px auto 0;width:820px;background:#fff;border-radius:26px;overflow:hidden;box-shadow:0 18px 40px rgba(47,74,58,.18);border:3px solid #2f4a3a;}
+.hk{background:#2f4a3a;color:#fff;padding:22px 32px;}
+.hk b{display:block;font-size:38px;font-weight:800;letter-spacing:-.8px;}
+.hk span{display:block;font-size:20px;opacity:.8;margin-top:4px;}
+.row{display:flex;align-items:center;justify-content:space-between;padding:0 32px;height:62px;border-bottom:1.5px solid #ece8e0;font-size:26px;font-weight:500;}
+.row:last-child{border-bottom:none;}
+.row .l{display:flex;align-items:center;gap:16px;}
+.ck{width:30px;height:30px;border-radius:8px;background:#e3ece6;position:relative;flex:none;}
+.ck:after{content:"";position:absolute;left:10px;top:4px;width:8px;height:15px;border:solid #2f4a3a;border-width:0 4px 4px 0;transform:rotate(45deg);}
+.row .r{font-size:19px;color:#8a867d;font-weight:400;}
+.cta{margin:24px auto 0;width:fit-content;background:#2f4a3a;color:#fff;border-radius:22px;padding:22px 44px;font-size:38px;font-weight:800;letter-spacing:-.8px;box-shadow:0 10px 24px rgba(47,74,58,.3);}
+svg.mk{position:absolute;left:0;top:0;width:1080px;height:1350px;overflow:visible;pointer-events:none;}
+</style></head><body>
+<div class="s" id="s">
+  <div class="marke"><i></i>BetriebsFlow</div>
+  <h1>8 Mitarbeiter.<br>8 eigene KI-Konten.</h1>
+  <div class="hand">Und keiner weiss vom anderen.</div>
+  <div class="lab">So l&#228;uft es heute</div>
+  <div class="chips">
+    <div class="chip" style="transform:rotate(-2deg)"><b>Sandra</b><span>ChatGPT privat<br>Mails</span></div>
+    <div class="chip" style="transform:rotate(1.5deg)"><b>Marco</b><span>ChatGPT gratis<br>Offertentexte</span></div>
+    <div class="chip" style="transform:rotate(-1deg)"><b>Reto</b><span>Copilot<br>Excel-Formeln</span></div>
+    <div class="chip" style="transform:rotate(2deg)"><b>Lena</b><span>ChatGPT privat<br>Social Media</span></div>
+    <div class="chip" style="transform:rotate(1deg)"><b>Jonas</b><span>App auf dem Handy<br>&#220;bersetzen</span></div>
+    <div class="chip" style="transform:rotate(-2deg)"><b>Petra</b><span>Claude gratis<br>Protokolle</span></div>
+    <div class="chip" style="transform:rotate(1.5deg)"><b>Daniel</b><span>ChatGPT Plus<br>alles M&#246;gliche</span></div>
+    <div class="chip" style="transform:rotate(-1.5deg)"><b>Chef</b><span>ab und zu<br>wieder vergessen</span></div>
+  </div>
+  <div class="weiter" id="weiter">Mit einem Ort f&#252;r alle:</div>
+  <div class="hub" id="hub">
+    <div class="hk"><b>Euer Betrieb in Claude</b><span>Jeder im Team arbeitet mit demselben Wissen</span></div>
+    <div class="row"><span class="l"><span class="ck"></span>Regeln f&#252;r alle</span><span class="r">gleiche Qualit&#228;t</span></div>
+    <div class="row"><span class="l"><span class="ck"></span>Wissen &#252;ber den Betrieb</span><span class="r">Preise, Kunden, Abl&#228;ufe</span></div>
+    <div class="row"><span class="l"><span class="ck"></span>Mails und Kalender</span><span class="r">angeschlossen</span></div>
+    <div class="row"><span class="l"><span class="ck"></span>Offerten und Rechnungen</span><span class="r">angeschlossen</span></div>
+    <div class="row"><span class="l"><span class="ck"></span>Steuerung per Sprachmemo</span><span class="r">vom Handy aus</span></div>
+  </div>
+  <div class="cta" id="cta">Schreib &#171;SYSTEM&#187; in die Kommentare</div>
+  <svg class="mk" id="mk" viewBox="0 0 1080 1350"></svg>
+</div>
+<script>
+document.fonts.ready.then(()=>{
+  const S=document.getElementById('s').getBoundingClientRect();
+  const w=document.getElementById('weiter').getBoundingClientRect();
+  const h=document.getElementById('hub').getBoundingClientRect();
+  const c=document.getElementById('cta').getBoundingClientRect();
+  const x0=w.left-S.left-30, y0=w.top-S.top+10, x1=w.left-S.left-10, y1=h.top-S.top-8;
+  const g='#2f4a3a';
+  document.getElementById('mk').innerHTML=`<path d="M ${x0} ${y0} Q ${x0-80} ${(y0+y1)/2} ${x1} ${y1}" fill="none" stroke="${g}" stroke-width="5" stroke-linecap="round"/>`+
+   `<path d="M ${x1-22} ${y1-8} L ${x1} ${y1} L ${x1-6} ${y1-24}" fill="none" stroke="${g}" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>`;
+  window.__ok={hubUnten:Math.round(h.bottom-S.top),ctaUnten:Math.round(c.bottom-S.top),hoehe:1350};
+});
+</script></body></html>

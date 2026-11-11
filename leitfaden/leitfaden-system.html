@@ -1,0 +1,165 @@
+<!doctype html><html lang="de"><head><meta charset="utf-8"><title>Ein Ort für den ganzen Betrieb</title>
+<style>
+@font-face{font-family:'Inter';font-weight:400;src:url(../fotos/inter-2.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:500;src:url(../fotos/inter-3.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:800;src:url(../fotos/inter-8.ttf) format('truetype');}
+@font-face{font-family:'Caveat';font-weight:700;src:url(../fotos/caveat-700.ttf) format('truetype');}
+@page{size:A4;margin:0;}
+*{margin:0;padding:0;box-sizing:border-box;}
+body{font-family:'Inter',Helvetica,Arial,sans-serif;color:#1d1d1b;font-size:11pt;line-height:1.55;}
+.seite{width:210mm;height:297mm;padding:22mm 20mm 18mm;position:relative;page-break-after:always;overflow:hidden;background:#fff;}
+.seite:last-child{page-break-after:auto;}
+.fuss{position:absolute;left:20mm;right:20mm;bottom:10mm;display:flex;justify-content:space-between;font-size:8.5pt;color:#8a867d;}
+.titel{background:#2f4a3a;color:#fff;padding:0;}
+.titel .in{padding:34mm 22mm 0;}
+.marke{display:flex;align-items:center;gap:8px;font-weight:800;font-size:12pt;letter-spacing:-.2px;}
+.marke i{display:block;width:11px;height:11px;border-radius:3px;background:#fff;}
+.titel h1{font-size:40pt;line-height:1.05;letter-spacing:-1.5px;font-weight:800;margin-top:40mm;}
+.titel .unter{font-size:15pt;margin-top:8mm;opacity:.9;line-height:1.4;}
+.titel .hand{font-family:'Caveat',cursive;font-size:30pt;color:#f3c9c3;margin-top:14mm;transform:rotate(-2deg);transform-origin:0 0;}
+.titel .autor{position:absolute;left:22mm;bottom:22mm;font-size:11pt;opacity:.85;line-height:1.5;}
+.nr{font-size:10pt;font-weight:800;letter-spacing:2px;text-transform:uppercase;color:#2f4a3a;}
+h2{font-size:22pt;line-height:1.15;letter-spacing:-.6px;font-weight:800;margin:3mm 0 5mm;}
+h3{font-size:12.5pt;font-weight:800;margin:6mm 0 2mm;}
+p{margin-bottom:3mm;}
+ul{margin:0 0 3mm 0;padding-left:5mm;}
+li{margin-bottom:1.6mm;}
+.box{background:#f4f2ee;border-radius:10px;padding:5mm 6mm;margin:5mm 0;}
+.box.gruen{background:#e3ece6;}
+.box b.k{display:block;font-size:10pt;letter-spacing:1.5px;text-transform:uppercase;color:#2f4a3a;margin-bottom:2mm;}
+.code{font-family:'Inter';background:#fff;border:1.5px dashed #b9c7b4;border-radius:8px;padding:4mm 5mm;font-size:10pt;line-height:1.5;white-space:pre-line;}
+table{width:100%;border-collapse:collapse;margin:3mm 0 4mm;font-size:10pt;}
+th{text-align:left;font-size:8.5pt;letter-spacing:1.2px;text-transform:uppercase;color:#8a867d;font-weight:500;padding:0 0 2mm;border-bottom:2px solid #2f4a3a;}
+td{padding:2.2mm 2mm 2.2mm 0;border-bottom:1px solid #e6e2da;vertical-align:top;}
+.zwei{display:grid;grid-template-columns:1fr 1fr;gap:6mm;}
+.tag{display:flex;gap:5mm;padding:3.5mm 0;border-bottom:1px solid #e6e2da;}
+.tag b{flex:none;width:18mm;color:#2f4a3a;font-size:12pt;}
+.rot{color:#c62828;}
+</style></head><body>
+
+<div class="seite titel"><div class="in">
+  <div class="marke"><i></i>BetriebsFlow</div>
+  <h1>Ein Ort f&#252;r den ganzen Betrieb</h1>
+  <div class="unter">Claude im KMU einrichten.<br>Der Leitfaden in 5 Schritten.</div>
+  <div class="hand">Mit Schritt 1 kannst du morgen anfangen.</div>
+</div>
+<div class="autor">Florian R&#246;thlisberger<br>BetriebsFlow &#183; betriebsflow.ch</div></div>
+
+<div class="seite">
+  <div class="nr">Worum es geht</div>
+  <h2>8 Mitarbeiter. 8 eigene KI-Konten. Kein System.</h2>
+  <p>In vielen Betrieben l&#228;uft es heute so: Die B&#252;rokraft schreibt ihre Mails mit ChatGPT, der Projektleiter l&#228;sst sich Texte vorformulieren und der Chef fragt ab und zu etwas. Jeder auf seinem eigenen Konto, jeder mit seinen eigenen Tricks.</p>
+  <p>Das spart jedem ein bisschen Zeit. Dem Betrieb bringt es wenig. Denn das Programm kennt euren Betrieb nicht. Jeder erkl&#228;rt ihm jeden Tag wieder von vorne, wer ihr seid, was ihr anbietet und wie ihr schreibt. Und was einer herausgefunden hat, weiss der n&#228;chste nicht.</p>
+  <p>Dieser Leitfaden zeigt, wie aus vielen Einzelkonten ein gemeinsamer Ort wird. Mit demselben Wissen und denselben Regeln f&#252;r alle. Ich arbeite mit Claude, darum beziehen sich die Begriffe auf Claude. Die Idee dahinter funktioniert aber mit jedem guten Werkzeug.</p>
+  <div class="box gruen"><b class="k">Die 5 Schritte</b>
+    <ul>
+      <li><b>1.</b> Der eine Ort und wer worauf Zugriff hat</li>
+      <li><b>2.</b> Welches Wissen hinein geh&#246;rt und was nie</li>
+      <li><b>3.</b> Regeln, damit jeder dieselbe Qualit&#228;t bekommt</li>
+      <li><b>4.</b> Wie Mailprogramm und Kalender dazukommen</li>
+      <li><b>5.</b> Ein Plan f&#252;r die ersten 5 Arbeitstage</li>
+    </ul></div>
+  <div class="box"><b class="k">So arbeite ich selber</b>
+  In meinem eigenen Betrieb kennt Claude feste Regeln f&#252;r meine Texte, mein Design, meine Website und meine LinkedIn-Beitr&#228;ge. Jede Aufgabe, die sich wiederholt, hat eine eigene Anleitung. Ich erkl&#228;re nichts zweimal. Genau dieses Prinzip steckt in den 5 Schritten.</div>
+  <div class="fuss"><span>Ein Ort f&#252;r den ganzen Betrieb</span><span>Seite 2</span></div>
+</div>
+
+<div class="seite">
+  <div class="nr">Schritt 1</div>
+  <h2>Der eine Ort und wer worauf Zugriff hat</h2>
+  <h3>Ein Konto f&#252;r den Betrieb statt private Konten</h3>
+  <p>Firmendaten geh&#246;ren nicht in private Gratis-Konten. Claude gibt es als Team-Konto f&#252;r Betriebe. Dort verwaltet der Betrieb die Zug&#228;nge, und wenn jemand den Betrieb verl&#228;sst, bleibt das Wissen da.</p>
+  <h3>Ein Projekt pro Bereich</h3>
+  <p>In Claude heisst der gemeinsame Ort <b>Projekt</b>. Ein Projekt enth&#228;lt Anweisungen und Dokumente, die bei jeder Unterhaltung darin automatisch dabei sind. F&#252;r ein KMU mit 5 bis 30 Mitarbeitern reichen am Anfang 3 Projekte:</p>
+  <ul><li><b>Betrieb:</b> Firmenbeschrieb, Leistungen, Abl&#228;ufe, h&#228;ufige Fragen</li>
+  <li><b>B&#252;ro:</b> Vorlagen f&#252;r Offerten, Auftragsbest&#228;tigungen, Rechnungen und Mails</li>
+  <li><b>Kommunikation:</b> Ton, Website, Social Media, Stelleninserate</li></ul>
+  <h3>Zugriff festlegen</h3>
+  <table><tr><th>Wer</th><th>Betrieb</th><th>B&#252;ro</th><th>Kommunikation</th></tr>
+  <tr><td>Chef</td><td>ja</td><td>ja</td><td>ja</td></tr>
+  <tr><td>B&#252;ro</td><td>ja</td><td>ja</td><td>ja</td></tr>
+  <tr><td>Projektleiter</td><td>ja</td><td>Offerten</td><td>nein</td></tr>
+  <tr><td>Mitarbeiter</td><td>ja</td><td>nein</td><td>nein</td></tr></table>
+  <div class="box gruen"><b class="k">Morgen erledigen</b>Frag in der n&#228;chsten Teamsitzung: Wer nutzt welches KI-Programm, auf welchem Konto und wof&#252;r? Schreib die Antworten in eine Tabelle. Das ist deine Ausgangslage, und sie zeigt dir, welche Aufgaben im Team am h&#228;ufigsten vorkommen.</div>
+  <div class="fuss"><span>Ein Ort f&#252;r den ganzen Betrieb</span><span>Seite 3</span></div>
+</div>
+
+<div class="seite">
+  <div class="nr">Schritt 2</div>
+  <h2>Welches Wissen hinein geh&#246;rt und was nie</h2>
+  <div class="zwei">
+   <div><h3>Das geh&#246;rt hinein</h3><ul>
+    <li>Firmenbeschrieb in 10 S&#228;tzen: wer ihr seid, f&#252;r wen ihr arbeitet, was euch ausmacht</li>
+    <li>Leistungen und wie ihr sie beschreibt</li>
+    <li>Vorlagen: Offerte, Auftragsbest&#228;tigung, Zahlungserinnerung, Absage</li>
+    <li>Die 20 h&#228;ufigsten Kundenfragen mit euren Antworten</li>
+    <li>Euer Ablauf vom ersten Anruf bis zur Rechnung</li>
+    <li>Begriffe, die bei euch etwas Bestimmtes bedeuten</li></ul></div>
+   <div><h3 class="rot">Das geh&#246;rt nie hinein</h3><ul>
+    <li>Passw&#246;rter und Zugangsdaten</li>
+    <li>Lohnlisten und Personalakten</li>
+    <li>Gesundheitsdaten von Mitarbeitern oder Kunden</li>
+    <li>Bankdaten und Kartennummern</li>
+    <li>Ganze Kundenlisten mit Privatadressen, wenn die Aufgabe sie nicht braucht</li></ul></div>
+  </div>
+  <div class="box"><b class="k">Datenschutz</b>Es gilt das Schweizer Datenschutzgesetz: Gib nur hinein, was f&#252;r die Aufgabe n&#246;tig ist. Lies vor dem Start die aktuellen Bedingungen deines Kontos, vor allem was mit euren Daten passiert und wo sie gespeichert werden. Bei Team-Konten sind diese Regeln f&#252;r Betriebe gemacht. Wenn du unsicher bist, frag deinen Treuh&#228;nder oder eine Fachperson.</div>
+  <h3>Wissen bleibt nur gut, wenn es jemand pflegt</h3>
+  <p>Bestimme eine Person, die das Wissen einmal im Monat durchgeht. Neue Preise, neue Vorlagen, neue Mitarbeiter. Veraltetes Wissen ist gef&#228;hrlicher als gar keines, weil alle ihm vertrauen.</p>
+  <div class="box gruen"><b class="k">Tipp</b>Fang mit einer Seite an. Ein guter Firmenbeschrieb und 5 Vorlagen bringen mehr als 50 Dokumente, die niemand gepr&#252;ft hat.</div>
+  <div class="fuss"><span>Ein Ort f&#252;r den ganzen Betrieb</span><span>Seite 4</span></div>
+</div>
+
+<div class="seite">
+  <div class="nr">Schritt 3</div>
+  <h2>Regeln, damit jeder dieselbe Qualit&#228;t bekommt</h2>
+  <p>Jedes Projekt hat ein Feld f&#252;r Anweisungen. Was dort steht, gilt f&#252;r jede Unterhaltung im Projekt. Das ist eure Hausordnung. So schreibt der Lernende dieselbe Qualit&#228;t wie die B&#252;rokraft mit 20 Jahren Erfahrung.</p>
+  <div class="code">Wir sind [Name], ein Betrieb mit [Anzahl] Mitarbeitern in [Ort].
+Kunden sprechen wir mit Sie an. Intern duzen wir uns.
+Schreib in Schweizer Hochdeutsch mit ss statt scharfem S.
+Kurze S&#228;tze. Kein Fachjargon gegen&#252;ber Kunden.
+Preise und Termine nur aus unseren Unterlagen, nie sch&#228;tzen.
+Wenn eine Angabe fehlt, frag nach statt zu erfinden.
+Nichts geht an Kunden raus ohne Freigabe von [Name].</div>
+  <h3>Wiederkehrende Aufgaben als feste Anleitung</h3>
+  <p>Aufgaben, die jede Woche gleich laufen, bekommen eine eigene Schritt-f&#252;r-Schritt-Anleitung. In Claude heissen solche Anleitungen <b>Skills</b>. Gute Kandidaten:</p>
+  <ul><li>Offerte aus Notizen oder einem Sprachmemo</li>
+  <li>Antwort auf eine Reklamation</li>
+  <li>Zahlungserinnerung in 3 Stufen</li>
+  <li>Wochenr&#252;ckblick f&#252;r den Chef</li></ul>
+  <h3>Ergebnisse geh&#246;ren zur&#252;ck an den Ort</h3>
+  <p>Wenn jemand eine Vorlage verbessert, kommt die neue Version ins Projekt. So wird das System jeden Monat besser und nicht nur der Mitarbeiter, der den Trick gefunden hat.</p>
+  <div class="fuss"><span>Ein Ort f&#252;r den ganzen Betrieb</span><span>Seite 5</span></div>
+</div>
+
+<div class="seite">
+  <div class="nr">Schritt 4</div>
+  <h2>Wie Mailprogramm und Kalender dazukommen</h2>
+  <p>Richtig stark wird der gemeinsame Ort erst, wenn er nicht nur Wissen hat, sondern auch sieht, was im Betrieb passiert. Claude kann sich &#252;ber sogenannte Verbindungen mit verbreiteten Programmen verbinden, zum Beispiel mit Gmail und Google Kalender oder mit Microsoft 365.</p>
+  <h3>In 3 Stufen, nie alles auf einmal</h3>
+  <table><tr><th style="width:22%">Stufe</th><th>Was Claude darf</th><th style="width:34%">Beispiel</th></tr>
+  <tr><td><b>1. Lesen</b></td><td>suchen und zusammenfassen</td><td>Zeig mir das Mail von Herrn Brunner zum Preis.</td></tr>
+  <tr><td><b>2. Entw&#252;rfe</b></td><td>Antworten und Termine vorbereiten</td><td>Schreib Frau Meier eine Antwort f&#252;r Donnerstag.</td></tr>
+  <tr><td><b>3. Mit Freigabe</b></td><td>verschicken, nachdem du zugestimmt hast</td><td>Gib die Antwort an Frau Meier frei.</td></tr></table>
+  <h3>Offerten und Rechnungen</h3>
+  <p>Hier h&#228;ngt es vom Programm ab, mit dem ihr arbeitet. Manche haben eine Schnittstelle, die sich direkt anbinden l&#228;sst. Bei anderen braucht es einen Umweg. Das kl&#228;rt man am besten im Einzelfall.</p>
+  <h3>Steuern per Sprachmemo</h3>
+  <p>In der Claude-App auf dem Handy kannst du sprechen statt tippen. Zusammen mit den Verbindungen heisst das: Du sagst zwischen 2 Terminen, was erledigt werden soll, und findest es danach vorbereitet oder erledigt vor.</p>
+  <div class="box gruen"><b class="k">Wichtig</b>Alles, was an Kunden rausgeht, l&#228;uft am Anfang &#252;ber eine Freigabe. Erst wenn ein Ablauf wochenlang sauber l&#228;uft, darf er selbst&#228;ndig laufen.</div>
+  <div class="fuss"><span>Ein Ort f&#252;r den ganzen Betrieb</span><span>Seite 6</span></div>
+</div>
+
+<div class="seite">
+  <div class="nr">Schritt 5</div>
+  <h2>Ein Plan f&#252;r die ersten 5 Arbeitstage</h2>
+  <div class="tag"><b>Tag 1</b><span>Bestandesaufnahme im Team: Wer nutzt was wof&#252;r. Entscheiden, auf welchem Konto der Betrieb arbeitet.</span></div>
+  <div class="tag"><b>Tag 2</b><span>Firmenbeschrieb auf einer Seite schreiben. Die 5 wichtigsten Vorlagen sammeln. Beides ins Projekt Betrieb legen.</span></div>
+  <div class="tag"><b>Tag 3</b><span>Hausordnung in die Anweisungen schreiben. 3 Aufgaben ausw&#228;hlen, die jede Woche vorkommen.</span></div>
+  <div class="tag"><b>Tag 4</b><span>Mail und Kalender verbinden, nur lesend. 10 echte Fragen stellen und pr&#252;fen, ob die Antworten stimmen.</span></div>
+  <div class="tag"><b>Tag 5</b><span>Dem Team zeigen, wie es funktioniert. Ab heute keine Betriebsdaten mehr in private Konten. Fragen sammeln.</span></div>
+  <p style="margin-top:5mm">Danach kommt jede Woche eine Aufgabe dazu. Nach einem Monat l&#228;uft das Wichtigste &#252;ber einen Ort, und neue Mitarbeiter finden sich vom ersten Tag an zurecht.</p>
+  <div class="box gruen" style="margin-top:10mm"><b class="k">Wenn du das nicht selber aufbauen willst</b>
+  Ich richte das in deinem Betrieb ein: Claude als gemeinsamer Ort, das Wissen und die Regeln eures Betriebs, die Verbindung zu Mail, Kalender, Offerten und Rechnungen und die Steuerung per Sprachmemo. Wer lieber auf eine &#220;bersicht schaut als in einen Chat, bekommt ein Dashboard dazu.<br><br>
+  Schreib mir einfach auf LinkedIn. <b>Florian R&#246;thlisberger, BetriebsFlow</b></div>
+  <div class="fuss"><span>Ein Ort f&#252;r den ganzen Betrieb</span><span>Seite 7</span></div>
+</div>
+</body></html>
