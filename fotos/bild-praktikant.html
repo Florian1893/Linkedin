@@ -1,0 +1,53 @@
+<!doctype html><html lang="de"><head><meta charset="utf-8">
+<style>
+@font-face{font-family:'Inter';font-weight:400;src:url(inter-2.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:500;src:url(inter-3.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:800;src:url(inter-8.ttf) format('truetype');}
+@font-face{font-family:'Caveat';font-weight:700;src:url(caveat-700.ttf) format('truetype');}
+*{margin:0;padding:0;box-sizing:border-box;}
+.s{width:1080px;height:1350px;position:relative;overflow:hidden;background:#f2f2f0;font-family:'Inter',Helvetica,Arial,sans-serif;color:#1d1d1b;}
+.bar{height:130px;background:#fff;border-bottom:2px solid #e3e3df;display:flex;align-items:center;padding:0 52px;gap:24px;}
+.av{width:74px;height:74px;border-radius:50%;background:#d9d9d4;display:flex;align-items:center;justify-content:center;font-size:30px;font-weight:800;color:#77776f;}
+.nm{font-size:38px;font-weight:800;letter-spacing:-.5px;}
+.sub{font-size:23px;color:#8a8a82;margin-top:3px;}
+.chat{padding:30px 52px 0;}
+.tag{margin:8px auto 22px;width:fit-content;background:#fff;border-radius:14px;padding:8px 22px;font-size:23px;color:#77776f;box-shadow:0 1px 2px rgba(0,0,0,.08);}
+.b{width:fit-content;max-width:820px;border-radius:26px;font-size:33px;line-height:1.36;margin-bottom:18px;padding:20px 28px;}
+.du{margin-left:auto;background:#3b4b5c;color:#fff;border-top-right-radius:8px;}
+.ki{background:#fff;border-top-left-radius:8px;box-shadow:0 1px 3px rgba(0,0,0,.07);color:#3a3a36;}
+.blass{opacity:.55;}
+.rot{position:absolute;font-family:'Caveat',cursive;font-weight:700;color:#c62828;white-space:nowrap;line-height:1;transform-origin:0 0;font-size:84px;transform:rotate(-4deg);}
+svg.mk{position:absolute;left:0;top:0;width:1080px;height:1350px;overflow:visible;pointer-events:none;}
+</style></head><body>
+<div class="s" id="s">
+  <div class="bar"><div class="av">KI</div><div><div class="nm">Neuer Chat</div><div class="sub">weiss nichts &#252;ber deinen Betrieb</div></div></div>
+  <div class="chat">
+    <div class="tag">Montag, 08:12</div>
+    <div class="b du"><span class="intro">Wir sind ein Betrieb mit 6 Mitarbeitern und siezen unsere Kunden.</span> Schreib Frau Keller eine Antwort.</div>
+    <div class="b ki">Gerne! Was bietet ihr genau an?</div>
+    <div class="tag">Dienstag, 07:55</div>
+    <div class="b du"><span class="intro">Wir sind ein Betrieb mit 6 Mitarbeitern und siezen unsere Kunden.</span> Mach mir eine Offerte.</div>
+    <div class="b ki">Gerne! Was kostet bei euch eine Stunde?</div>
+    <div class="tag blass">Mittwoch, 08:20</div>
+    <div class="b du blass" id="letzte"><span class="intro">Wir sind ein Betrieb mit 6 Mitarbeitern und&#8230;</span></div>
+  </div>
+  <div class="rot" id="r1">jeden Morgen von vorne</div>
+  <svg class="mk" id="mk" viewBox="0 0 1080 1350"></svg>
+</div>
+<script>
+document.fonts.ready.then(()=>{
+  const S=document.getElementById('s').getBoundingClientRect();
+  const red='#c62828';let svg='';
+  document.querySelectorAll('.intro').forEach((el,k)=>{
+    Array.from(el.getClientRects()).forEach(r=>{
+      const l=r.left-S.left, rr=r.right-S.left, y=r.bottom-S.top+6;
+      svg+=`<path d="M ${l-2} ${y+2} Q ${(l+rr)/2} ${y-3} ${rr+4} ${y}" fill="none" stroke="${red}" stroke-width="5" stroke-linecap="round" opacity="${k==2?.5:.85}"/>`;
+    });
+  });
+  const L=document.getElementById('letzte').getBoundingClientRect();
+  const r1=document.getElementById('r1');r1.style.left='120px';r1.style.top=(L.bottom-S.top+60)+'px';
+  const R=r1.getBoundingClientRect();
+  document.getElementById('mk').innerHTML=svg;
+  window.__ok={letzteUnten:Math.round(L.bottom-S.top),notiz:[Math.round(R.left-S.left),Math.round(R.right-S.left),Math.round(R.bottom-S.top)]};
+});
+</script></body></html>
