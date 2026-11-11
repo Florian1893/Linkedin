@@ -1,5 +1,7 @@
 # 17.11.2026 (Dienstag) — «Den Auftrag haben wir gar nie verrechnet.»
 
+RESERVE seit 11.11.2026: ersetzt durch posts/2026-11-17-lernprotokoll.md (alter Szenen-Stil nach 2 Flops zurückgestellt).
+
 Dritter Post zum neuen Angebot, ohne Branchenwort. Nerv: Arbeit, die erledigt und nie verrechnet wird. Angebot: der Chat gleicht jeden Freitag Kalender und Rechnungen ab. Kein Mahnen (verbrannt), es geht um die Rechnung, die nie geschrieben wurde.
 
 ## Post
