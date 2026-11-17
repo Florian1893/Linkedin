@@ -1,0 +1,49 @@
+<!doctype html><html lang="de"><head><meta charset="utf-8">
+<style>
+@font-face{font-family:'Inter';font-weight:400;src:url(inter-2.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:800;src:url(inter-8.ttf) format('truetype');}
+@font-face{font-family:'Caveat';font-weight:700;src:url(caveat-700.ttf) format('truetype');}
+*{margin:0;padding:0;box-sizing:border-box;}
+.s{width:1080px;height:1350px;position:relative;overflow:hidden;
+ background:radial-gradient(120% 95% at 30% 0%,#6a5f52 0%,#43392f 52%,#221c17 100%);font-family:'Inter',Helvetica,Arial,sans-serif;}
+svg.grain{position:absolute;left:0;top:0;width:1080px;height:1350px;mix-blend-mode:soft-light;opacity:.6;}
+.paper{position:absolute;left:95px;top:90px;width:890px;height:1180px;transform-origin:50% 0;
+ background-color:#fdfcf6;background-image:linear-gradient(#cfd9e8 2px,transparent 2px);background-size:100% 82px;background-position:0 166px;
+ box-shadow:0 46px 90px rgba(0,0,0,.55),0 8px 18px rgba(0,0,0,.35);}
+.rand{position:absolute;left:120px;top:0;bottom:0;width:3px;background:#e8a7a7;}
+.hand{position:absolute;left:150px;top:96px;right:40px;font-family:'Caveat',cursive;font-weight:700;color:#1f3f9a;font-size:56px;line-height:82px;}
+.hand .t{font-size:66px;}
+.hand .w{color:#5a6b8c;}
+.weg{text-decoration:line-through;text-decoration-thickness:4px;}
+.gross{font-size:74px;}
+svg.mk{position:absolute;left:0;top:0;width:890px;height:1180px;overflow:visible;pointer-events:none;}
+</style></head><body>
+<div class="s">
+  <svg class="grain" viewBox="0 0 1080 1350"><filter id="g"><feTurbulence type="fractalNoise" baseFrequency="0.006 0.21" numOctaves="3" seed="71"/><feColorMatrix type="saturate" values="0"/></filter><rect width="1080" height="1350" filter="url(#g)"/></svg>
+  <div class="paper" id="paper"><div class="rand"></div>
+    <div class="hand">
+      <div class="t">Meine Notizen</div>
+      <div><span class="w">Wo 1:</span> <span class="weg">Offerte so wie Sandra zeigt</span></div>
+      <div><span class="w">Wo 2:</span> Marco: so nicht mehr!</div>
+      <div><span class="w">Wo 4:</span> Chef fragen &#8594; im Termin</div>
+      <div><span class="w">Wo 6:</span> Sandra: frag Marco</div>
+      <div><span class="w">&#8195;&#8195;&#8197;</span> Marco: frag den Chef</div>
+      <div><span class="w">Wo 9:</span></div>
+      <div>&#160;</div>
+      <div class="gross"><span id="frage">Wen soll ich fragen?</span></div>
+    </div>
+    <svg class="mk" id="mk" viewBox="0 0 890 1180"></svg>
+  </div>
+</div>
+<script>
+document.fonts.ready.then(()=>{
+  const paper=document.getElementById('paper');const P=paper.getBoundingClientRect();
+  const rel=el=>{const r=el.getBoundingClientRect();return {l:r.left-P.left,t:r.top-P.top,r:r.right-P.left,b:r.bottom-P.top,w:r.width,h:r.height};};
+  const red='#c62828';const z=rel(document.getElementById('frage'));
+  const cx=(z.l+z.r)/2, cy=(z.t+z.b)/2+4, rx=z.w/2+54, ry=z.h/2+20;const p=[];
+  for(let i=0;i<=72;i++){const a=2.5+(i/72)*Math.PI*2*1.08;const w=1+0.03*Math.sin(a*2.2+0.5);p.push((i?'L':'M')+(cx+Math.cos(a)*rx*w).toFixed(1)+' '+(cy+Math.sin(a)*ry*w).toFixed(1));}
+  document.getElementById('mk').innerHTML=`<path d="${p.join(' ')}" fill="none" stroke="${red}" stroke-width="8" stroke-linecap="round" opacity=".9"/>`;
+  paper.style.transform='rotate(-2deg)';
+  window.__ok={kreis:[Math.round(cx-rx),Math.round(cx+rx),Math.round(cy+ry)],breite:890,hoehe:1180};
+});
+</script></body></html>
