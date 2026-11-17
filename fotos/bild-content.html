@@ -1,0 +1,65 @@
+<!doctype html><html lang="de"><head><meta charset="utf-8">
+<style>
+@font-face{font-family:'Inter';font-weight:400;src:url(inter-2.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:500;src:url(inter-3.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:800;src:url(inter-8.ttf) format('truetype');}
+@font-face{font-family:'Caveat';font-weight:700;src:url(caveat-700.ttf) format('truetype');}
+*{margin:0;padding:0;box-sizing:border-box;}
+.s{width:1080px;height:1350px;position:relative;overflow:hidden;background:#f4f2ee;font-family:'Inter',Helvetica,Arial,sans-serif;color:#1d1d1b;}
+h1{position:absolute;left:60px;top:64px;font-size:76px;font-weight:800;letter-spacing:-2.6px;line-height:1.02;}
+h1 span{color:#2f4a3a;}
+.lab{position:absolute;font-size:20px;letter-spacing:2px;text-transform:uppercase;color:#8a867d;font-weight:500;}
+.handy{position:absolute;top:330px;width:400px;height:800px;border-radius:56px;background:#111;padding:14px;box-shadow:0 30px 60px rgba(0,0,0,.28);}
+.screen{width:100%;height:100%;border-radius:44px;overflow:hidden;position:relative;}
+.roh .screen{background:linear-gradient(160deg,#8d8a83 0%,#5f5a52 45%,#3b3732 100%);filter:saturate(.6);}
+.fertig .screen{background:linear-gradient(160deg,#c9a77a 0%,#8a6a46 45%,#4a3a2a 100%);}
+/* einfache Szene: Werkbank, Werkzeug */
+.tisch{position:absolute;left:0;right:0;bottom:180px;height:90px;background:rgba(0,0,0,.25);}
+.box1{position:absolute;left:60px;bottom:270px;width:120px;height:90px;border-radius:8px;background:rgba(255,255,255,.18);}
+.box2{position:absolute;left:200px;bottom:270px;width:80px;height:150px;border-radius:8px;background:rgba(255,255,255,.12);}
+.hand{position:absolute;left:150px;bottom:330px;width:110px;height:60px;border-radius:30px;background:rgba(255,220,190,.35);transform:rotate(-18deg);}
+.play{position:absolute;left:50%;top:40%;transform:translate(-50%,-50%);width:110px;height:110px;border-radius:50%;background:rgba(255,255,255,.25);}
+.play:after{content:"";position:absolute;left:42px;top:30px;border-left:36px solid #fff;border-top:25px solid transparent;border-bottom:25px solid transparent;}
+.zeit{position:absolute;left:24px;top:28px;font-size:22px;color:#fff;background:rgba(0,0,0,.45);border-radius:10px;padding:6px 12px;font-variant-numeric:tabular-nums;}
+.wackel{position:absolute;right:22px;top:28px;font-size:20px;color:#fff;opacity:.85;}
+.balken{position:absolute;left:24px;right:24px;bottom:40px;height:6px;border-radius:3px;background:rgba(255,255,255,.3);}
+.balken i{display:block;width:35%;height:100%;border-radius:3px;background:#fff;}
+.ut{position:absolute;left:26px;right:26px;top:330px;text-align:center;}
+.ut b{display:inline;background:#111;color:#fff;font-size:34px;font-weight:800;line-height:1.5;padding:4px 10px;box-decoration-break:clone;-webkit-box-decoration-break:clone;}
+.ut b em{font-style:normal;color:#ffd166;}
+.marke{position:absolute;left:24px;top:26px;display:flex;align-items:center;gap:10px;color:#fff;font-size:22px;font-weight:800;}
+.marke i{display:block;width:34px;height:34px;border-radius:10px;background:#2f4a3a;border:2px solid #fff;}
+.text{position:absolute;left:0;right:0;bottom:0;background:linear-gradient(transparent,rgba(0,0,0,.75) 30%);color:#fff;padding:60px 26px 30px;font-size:21px;line-height:1.4;}
+.text b{display:block;font-size:22px;margin-bottom:6px;}
+.pfeil{position:absolute;left:478px;top:640px;width:124px;height:90px;}
+.liste{position:absolute;left:60px;right:60px;bottom:58px;display:flex;justify-content:space-between;}
+.punkt{display:flex;align-items:center;gap:10px;font-size:23px;font-weight:500;}
+.ck{width:30px;height:30px;border-radius:8px;background:#2f4a3a;position:relative;flex:none;}
+.ck:after{content:"";position:absolute;left:10px;top:4px;width:8px;height:15px;border:solid #fff;border-width:0 4px 4px 0;transform:rotate(45deg);}
+.rot{position:absolute;font-family:'Caveat',cursive;font-weight:700;color:#c62828;font-size:50px;transform:rotate(-6deg);white-space:nowrap;}
+</style></head><body>
+<div class="s">
+  <h1>Handyvideo rein.<br><span>Fertiger Post raus.</span></h1>
+  <div class="lab" style="left:60px;top:292px">Was er filmt</div>
+  <div class="lab" style="left:620px;top:292px">Was rausgeht</div>
+  <div class="handy roh" style="left:60px"><div class="screen">
+    <div class="tisch"></div><div class="box1"></div><div class="box2"></div><div class="hand"></div>
+    <div class="play"></div><div class="zeit">00:42</div><div class="wackel">verwackelt</div>
+    <div class="balken"><i></i></div>
+  </div></div>
+  <svg class="pfeil" viewBox="0 0 124 90"><path d="M8 52 Q 60 8 108 44" fill="none" stroke="#2f4a3a" stroke-width="7" stroke-linecap="round"/><path d="M88 30 L110 46 L86 58" fill="none" stroke="#2f4a3a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></svg>
+  <div class="handy fertig" style="left:620px"><div class="screen">
+    <div class="tisch"></div><div class="box1"></div><div class="box2"></div><div class="hand"></div>
+    <div class="marke"><i></i>Dein Betrieb</div>
+    <div class="ut"><b>So sieht ein <em>ganz normaler</em> Dienstag bei uns aus</b></div>
+    <div class="text"><b>Ein Blick hinter die Kulissen</b>Heute zeigen wir euch, wie bei uns ein Auftrag vom ersten Anruf bis zur &#220;bergabe l&#228;uft.</div>
+  </div></div>
+  <div class="rot" style="left:560px;top:1150px">Er filmt nur noch.</div>
+  <div class="liste">
+    <div class="punkt"><span class="ck"></span>Geschnitten</div>
+    <div class="punkt"><span class="ck"></span>Untertitel</div>
+    <div class="punkt"><span class="ck"></span>Text</div>
+    <div class="punkt"><span class="ck"></span>Eigene Marke</div>
+  </div>
+</div>
+</body></html>
