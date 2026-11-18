@@ -95,31 +95,29 @@ Fuer gesprochene Formate und ueberall dort, wo es persoenlich werden soll, ist F
 
 **Variante Planungsbuero (09.11.2026, erstmals Thomas Zünd #145):** Morgenbild "Die Antworten an Bauherren und Architekten warten als Entwurf, das Protokoll von der letzten Bausitzung ist geschrieben und die Termine stehen im Kalender." Statt "Mails, Offerten und Termine sind dabei nur der Anfang": "Auch bei Ausschreibungen oder beim Vergleich von Unternehmerofferten nimmt er dir viel Vorarbeit ab." Nach dem Gipser-Fall: "Bei dir ginge das genau so nach der Bausitzung, du sprichst kurz ein und bekommst das fertige Protokoll." Plattenleger-Satz: "Handwerksbetrieben und Planungsbueros". Rest wie die Vorlage.
 
-**Variante erweiterte Zielgruppe, Beispiel Werbetechnik (18.11.2026, Florian: "allgemein zb fuer werbetechnik firma"):** Grundsatz: Vorlage bleibt, pro Branche werden genau drei Stellen getauscht. (1) Morgenbild: "Die Antworten auf die Kundenanfragen warten als Entwurf, die Offerte fuer die Fahrzeugbeschriftung ist vorbereitet und die Montagetermine stehen im Kalender." (2) Statt "Mails, Offerten und Termine sind dabei nur der Anfang": "Auch das Nachfassen beim Gut zum Druck bereitet er dir vor." (nur vorbereiten, nicht selbstaendig senden). (3) Nach dem Gipser-Fall: "Bei dir ginge das genau so nach dem Kundentermin, du sprichst kurz ein, was beschriftet wird, und die Offerte liegt bereit." Plattenleger-Satz fuer alle Nicht-Handwerker: "...wie viel Zeit im Buero liegen bleibt. Heute richte ich Betrieben wie deinem genau so einen Bueroassistenten ein." Rest wie die Vorlage.
-
-**Erweiterte Zielgruppe, frische Fassung (18.11.2026, Florian: "ohne preis ohne gipser ganz frisch schreiben"):** Gilt fuer KMU ausserhalb des klassischen Handwerks (z.B. Werbetechnik). Kein Preis, kein Gipser-Fall, Einstieg mit Frage statt Morgenbild, Call als einziges Angebot.
+**Erweiterte Zielgruppe: KI-Beratung und Umsetzung (18.11.2026, Endfassung):** Florian: "eine werbetechnik firma schreibt keine offerten usw. Die brauchen aber auch eine KI beratung bzw implementierung". Darum fuer Betriebe ausserhalb des Handwerks (z.B. Werbetechnik) NICHT der Bueroassistent mit Offerten/Mails, sondern KI-Beratung plus Umsetzung. Kein Preis, kein Gipser-Fall, keine kostenlose Analyse (Call heisst nur "kurzer Videocall"). Hier darf "KI" stehen, weil es das Angebot selbst ist; in der Bueroassistent-DM bleibt "KI" draussen. Zwei verworfene Zwischenstaende vom 18.11. (Werbetechnik mit Offerten/Fahrzeugbeschriftung, allgemeine Bueroassistent-Fassung ohne Preis) gelten nicht.
 
 ```
 Hallo [Name]
 
 [Ice Breaker aus seinem Profil]
 
-Kurze Frage: Wie viel von deinem Tag geht eigentlich für Mails, Offerten und Terminabsprachen drauf?
+Hast du dir auch schon überlegt, wo KI euch im Betrieb Arbeit abnehmen könnte?
 
-Bei vielen Inhabern, mit denen ich spreche, ist es mehr, als ihnen lieb ist. Und oft passiert das am Abend, wenn eigentlich Feierabend wäre.
+Viele, mit denen ich darüber rede, finden das spannend, wissen aber nicht, wo anfangen. Und im Alltag fehlt die Zeit, sich da reinzuknien.
 
-Genau da setze ich an. Ich richte dir einen Büroassistenten ein, der in deinem Postfach und Kalender mitarbeitet. Er schreibt die Antworten auf Kundenanfragen vor, bereitet Offerten vor und trägt Termine ein. Du schaust drüber und schickst ab.
+Genau das nehme ich dir ab. Ich schaue mit dir an, wo KI bei euch wirklich Zeit spart, und richte es dann auch gleich ein. Nicht als Theorie mit Folien, sondern so, dass es danach im Alltag läuft.
 
-Dafür musst du nichts Neues lernen und keine neue Software einführen. Du sagst ihm einfach per Nachricht oder Sprachmemo, was er machen soll.
+Ich komme selber aus dem Handwerk und weiss, dass niemand Lust auf ein grosses IT-Projekt hat. Du musst dafür nichts Neues lernen, den Grossteil der Arbeit mache ich.
 
-Ich komme selber aus dem Handwerk und weiss, dass niemand Lust auf ein grosses IT-Projekt hat. Darum läuft er innert einer Woche, und den Grossteil der Arbeit mache ich.
-
-Wenn du magst, zeige ich dir in einem kurzen Videocall, wie das bei dir aussehen würde.
+Wenn du magst, schauen wir in einem kurzen Videocall, wo es bei dir am meisten bringen würde.
 
 Hättest du Lust?
 
 Gruss Florian
 ```
+
+Optionaler Branchen-Satz nach dem dritten Absatz (nur wenn umsetzbar): "Bei einer Werbetechnik-Firma kann das zum Beispiel bei den Kundenanfragen anfangen oder bei schnellen Visualisierungen für den Kunden."
 
 **FU1 ab 09.11.2026:**
 
