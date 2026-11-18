@@ -97,6 +97,30 @@ Fuer gesprochene Formate und ueberall dort, wo es persoenlich werden soll, ist F
 
 **Variante erweiterte Zielgruppe, Beispiel Werbetechnik (18.11.2026, Florian: "allgemein zb fuer werbetechnik firma"):** Grundsatz: Vorlage bleibt, pro Branche werden genau drei Stellen getauscht. (1) Morgenbild: "Die Antworten auf die Kundenanfragen warten als Entwurf, die Offerte fuer die Fahrzeugbeschriftung ist vorbereitet und die Montagetermine stehen im Kalender." (2) Statt "Mails, Offerten und Termine sind dabei nur der Anfang": "Auch das Nachfassen beim Gut zum Druck bereitet er dir vor." (nur vorbereiten, nicht selbstaendig senden). (3) Nach dem Gipser-Fall: "Bei dir ginge das genau so nach dem Kundentermin, du sprichst kurz ein, was beschriftet wird, und die Offerte liegt bereit." Plattenleger-Satz fuer alle Nicht-Handwerker: "...wie viel Zeit im Buero liegen bleibt. Heute richte ich Betrieben wie deinem genau so einen Bueroassistenten ein." Rest wie die Vorlage.
 
+**Erweiterte Zielgruppe, frische Fassung (18.11.2026, Florian: "ohne preis ohne gipser ganz frisch schreiben"):** Gilt fuer KMU ausserhalb des klassischen Handwerks (z.B. Werbetechnik). Kein Preis, kein Gipser-Fall, Einstieg mit Frage statt Morgenbild, Call als einziges Angebot.
+
+```
+Hallo [Name]
+
+[Ice Breaker aus seinem Profil]
+
+Kurze Frage: Wie viel von deinem Tag geht eigentlich für Mails, Offerten und Terminabsprachen drauf?
+
+Bei vielen Inhabern, mit denen ich spreche, ist es mehr, als ihnen lieb ist. Und oft passiert das am Abend, wenn eigentlich Feierabend wäre.
+
+Genau da setze ich an. Ich richte dir einen Büroassistenten ein, der in deinem Postfach und Kalender mitarbeitet. Er schreibt die Antworten auf Kundenanfragen vor, bereitet Offerten vor und trägt Termine ein. Du schaust drüber und schickst ab.
+
+Dafür musst du nichts Neues lernen und keine neue Software einführen. Du sagst ihm einfach per Nachricht oder Sprachmemo, was er machen soll.
+
+Ich komme selber aus dem Handwerk und weiss, dass niemand Lust auf ein grosses IT-Projekt hat. Darum läuft er innert einer Woche, und den Grossteil der Arbeit mache ich.
+
+Wenn du magst, zeige ich dir in einem kurzen Videocall, wie das bei dir aussehen würde.
+
+Hättest du Lust?
+
+Gruss Florian
+```
+
 **FU1 ab 09.11.2026:**
 
 > Hallo [Name], wollte kurz nachhaken, so eine Nachricht geht im Tagesgeschaeft schnell unter. Falls der Bueroassistent gerade kein Thema fuer dich ist, voellig okay, kurzes Nein reicht.
