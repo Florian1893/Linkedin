@@ -95,29 +95,27 @@ Fuer gesprochene Formate und ueberall dort, wo es persoenlich werden soll, ist F
 
 **Variante Planungsbuero (09.11.2026, erstmals Thomas Zünd #145):** Morgenbild "Die Antworten an Bauherren und Architekten warten als Entwurf, das Protokoll von der letzten Bausitzung ist geschrieben und die Termine stehen im Kalender." Statt "Mails, Offerten und Termine sind dabei nur der Anfang": "Auch bei Ausschreibungen oder beim Vergleich von Unternehmerofferten nimmt er dir viel Vorarbeit ab." Nach dem Gipser-Fall: "Bei dir ginge das genau so nach der Bausitzung, du sprichst kurz ein und bekommst das fertige Protokoll." Plattenleger-Satz: "Handwerksbetrieben und Planungsbueros". Rest wie die Vorlage.
 
-**Erweiterte Zielgruppe: KI-Beratung und Umsetzung (18.11.2026, Endfassung):** Florian: "eine werbetechnik firma schreibt keine offerten usw. Die brauchen aber auch eine KI beratung bzw implementierung". Darum fuer Betriebe ausserhalb des Handwerks (z.B. Werbetechnik) NICHT der Bueroassistent mit Offerten/Mails, sondern KI-Beratung plus Umsetzung. Kein Preis, kein Gipser-Fall, keine kostenlose Analyse (Call heisst nur "kurzer Videocall"). Hier darf "KI" stehen, weil es das Angebot selbst ist; in der Bueroassistent-DM bleibt "KI" draussen. Zwei verworfene Zwischenstaende vom 18.11. (Werbetechnik mit Offerten/Fahrzeugbeschriftung, allgemeine Bueroassistent-Fassung ohne Preis) gelten nicht.
+**Erweiterte Zielgruppe Werbetechnik: KI-Beratung und Umsetzung (18.11.2026, Endfassung nach Expertenrunde mit 97 Agenten):** Florian: "eine werbetechnik firma schreibt keine offerten usw. Die brauchen aber auch eine KI beratung bzw implementierung" und "es muss verkaufen, schnell lesbar sein und ein nobrainer sein". Kein Preis, kein Gipser, nichts gratis, kein Test, nichts Erfundenes. "KI" darf hier stehen, weil es das Angebot ist (in der Bueroassistent-DM bleibt "KI" draussen). Ablauf: 30 Entwuerfe, 40 Juroren (20 simulierte Werbetechnik-Inhaber, 20 Fachleute), Synthese, 25 Pruefer, Feinschliff. Sieger mit 37 von 40 Stimmen: Szene-Einstieg (Lieferwagen, kein Modell, verpixeltes Logo). Simulierte Antwortschaetzung rund 18 Prozent (keine echte Zahl). Fruehere Zwischenstaende vom 18.11. gelten nicht.
 
 ```
 Hallo [Name]
 
 [Ice Breaker aus seinem Profil]
 
-Hast du dir auch schon überlegt, wo KI euch im Betrieb Arbeit abnehmen könnte?
+Ein Kunde will seinen Lieferwagen beschriften lassen. Kein Modell, kein Baujahr, das Logo als verpixeltes JPG. Also wieder nachhaken.
 
-Viele, mit denen ich darüber rede, finden das spannend, wissen aber nicht, wo anfangen. Und im Alltag fehlt die Zeit, sich da reinzuknien.
+KI kann direkt in eurem Postfach erkennen, was fehlt, und die Rückfrage samt Nachfassen vorbereiten. Ihr schaut nur drüber und schickt ab.
 
-Genau das nehme ich dir ab. Ich schaue mit dir an, wo KI bei euch wirklich Zeit spart, und richte es dann auch gleich ein. Nicht als Theorie mit Folien, sondern so, dass es danach im Alltag läuft.
+Ich bin gelernter Plattenleger und richte KI in Betrieben ein. Du musst nichts lernen, die Umsetzung mache ich.
 
-Ich komme selber aus dem Handwerk und weiss, dass niemand Lust auf ein grosses IT-Projekt hat. Du musst dafür nichts Neues lernen, den Grossteil der Arbeit mache ich.
+In einem Videocall von 15 Minuten suchen wir zwei, drei solche Zeitfresser bei dir. Vorbereiten musst du nichts. Was wir finden, behältst du, auch ohne Auftrag.
 
-Wenn du magst, schauen wir in einem kurzen Videocall, wo es bei dir am meisten bringen würde.
-
-Hättest du Lust?
+Soll ich dir zwei Termine vorschlagen?
 
 Gruss Florian
 ```
 
-Optionaler Branchen-Satz nach dem dritten Absatz (nur wenn umsetzbar): "Bei einer Werbetechnik-Firma kann das zum Beispiel bei den Kundenanfragen anfangen oder bei schnellen Visualisierungen für den Kunden."
+A/B-Alternative fuer die Schlussfrage: "Wäre das was für dich?" Hinweis: "Was wir finden, behältst du, auch ohne Auftrag" ist der No-Brainer; falls Florian das zu nah an einer Gratis-Analyse findet, Satz streichen.
 
 **FU1 ab 09.11.2026:**
 
