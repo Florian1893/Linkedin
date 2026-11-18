@@ -95,6 +95,8 @@ Fuer gesprochene Formate und ueberall dort, wo es persoenlich werden soll, ist F
 
 **Variante Planungsbuero (09.11.2026, erstmals Thomas Zünd #145):** Morgenbild "Die Antworten an Bauherren und Architekten warten als Entwurf, das Protokoll von der letzten Bausitzung ist geschrieben und die Termine stehen im Kalender." Statt "Mails, Offerten und Termine sind dabei nur der Anfang": "Auch bei Ausschreibungen oder beim Vergleich von Unternehmerofferten nimmt er dir viel Vorarbeit ab." Nach dem Gipser-Fall: "Bei dir ginge das genau so nach der Bausitzung, du sprichst kurz ein und bekommst das fertige Protokoll." Plattenleger-Satz: "Handwerksbetrieben und Planungsbueros". Rest wie die Vorlage.
 
+**Variante erweiterte Zielgruppe / KMU ausserhalb Handwerk (18.11.2026, auf Florians Wunsch "outreach nachricht fuer die erweiterte zielgruppe ähnlich wie meine"):** Morgenbild "die Offerte fuer den neuen Kunden ist vorbereitet" statt "die Offerte vom Aufmass". Plattenleger-Satz: "Ich habe urspruenglich Plattenleger gelernt, und mich hat schon damals gestoert, wie viel Zeit im Buero liegen bleibt. Heute richte ich Betrieben genau so einen Bueroassistenten ein." Gipser-Fall bleibt (echter Fall), danach Bruecke: "Bei dir sind es andere Unterlagen, das Prinzip ist das gleiche." Rest wie die Vorlage. Offen: ob Florian eine bestimmte Branche meint (Treuhand, Immobilienverwaltung, Garage), dann Morgenbild branchenspezifisch anpassen.
+
 **FU1 ab 09.11.2026:**
 
 > Hallo [Name], wollte kurz nachhaken, so eine Nachricht geht im Tagesgeschaeft schnell unter. Falls der Bueroassistent gerade kein Thema fuer dich ist, voellig okay, kurzes Nein reicht.
