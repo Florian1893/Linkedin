@@ -95,7 +95,7 @@ Fuer gesprochene Formate und ueberall dort, wo es persoenlich werden soll, ist F
 
 **Variante Planungsbuero (09.11.2026, erstmals Thomas Zünd #145):** Morgenbild "Die Antworten an Bauherren und Architekten warten als Entwurf, das Protokoll von der letzten Bausitzung ist geschrieben und die Termine stehen im Kalender." Statt "Mails, Offerten und Termine sind dabei nur der Anfang": "Auch bei Ausschreibungen oder beim Vergleich von Unternehmerofferten nimmt er dir viel Vorarbeit ab." Nach dem Gipser-Fall: "Bei dir ginge das genau so nach der Bausitzung, du sprichst kurz ein und bekommst das fertige Protokoll." Plattenleger-Satz: "Handwerksbetrieben und Planungsbueros". Rest wie die Vorlage.
 
-**Gestandene Unternehmen, Beratung und Automation (19.11.2026, aktuelle Fassung):** Florian: "Ich will Unternehmen ansprechen, gestandene, fuer Beratung und Automation" und als Vorbild eine erhaltene Akquise-DM (E-Mail-Marketing, Aufbau: Ice Breaker, "Ich weiss nicht, wie es bei dir aussieht, aber ...", Problem, Folge, "Deshalb ein kurzer Vorschlag:", Schlussfrage) mit "aehnlich, aber kuerzer". Gratis-Monat und Erfolgszahlen aus dem Vorbild bewusst NICHT uebernommen (keine Gratis-Angebote, nichts Erfundenes). Rund 65 Woerter.
+**Gestandene Unternehmen, Beratung und Automation (19.11.2026, aktuelle Fassung):** Florian: "Ich will Unternehmen ansprechen, gestandene, fuer Beratung und Automation", Vorbild eine erhaltene Akquise-DM (Aufbau: Ice Breaker, "Ich weiss nicht, wie es bei dir aussieht, aber ...", Problem, Folge, "Deshalb ein kurzer Vorschlag:", Schlussfrage) mit "aehnlich, aber kuerzer". Danach von Florian ergaenzt: "keine Angst, verkaufen will ich dir erst beim 2. Gespraech etwas, beim 1. gehts nur um das Potential bei dir in der Firma. Wir bestimmen zusammen das Einsparpotential, wenn das nicht messbar erreicht wird kriegst du das Geld zurueck." GELD-ZURUECK-GARANTIE AB 19.11.2026 VON FLORIAN FREIGEGEBEN (nur in dieser Vorlage). Messgroesse im 2. Gespraech schriftlich festlegen (z.B. Stunden pro Woche vorher/nachher). Gratis-Monat und Erfolgszahlen aus dem Vorbild bewusst NICHT uebernommen.
 
 ```
 Hallo [Name]
@@ -104,7 +104,11 @@ Hallo [Name]
 
 Ich weiss nicht, wie es bei euch aussieht, aber bei vielen Unternehmen, mit denen ich spreche, bleibt das Thema Automation im Tagesgeschäft liegen. Dadurch läuft vieles noch von Hand, was längst automatisch laufen könnte.
 
-Deshalb ein kurzer Vorschlag: Ich schaue mir mit dir an, wo Automation und KI bei euch am meisten Zeit sparen, und setze es danach selber um. Ihr müsst dafür nichts Kompliziertes lernen.
+Deshalb ein kurzer Vorschlag: Ich schaue mir mit dir an, wo Automation und KI bei euch am meisten Zeit sparen, und setze es danach selber um.
+
+Und keine Angst, verkaufen will ich dir erst beim zweiten Gespräch etwas 😉 Beim ersten geht es nur darum, wie viel bei euch drinliegt.
+
+Das Einsparpotenzial legen wir zusammen fest. Wird es nicht messbar erreicht, bekommst du dein Geld zurück.
 
 Hättest du Lust auf einen kurzen Austausch?
 
