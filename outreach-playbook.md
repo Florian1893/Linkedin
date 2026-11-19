@@ -95,6 +95,26 @@ Fuer gesprochene Formate und ueberall dort, wo es persoenlich werden soll, ist F
 
 **Variante Planungsbuero (09.11.2026, erstmals Thomas Zünd #145):** Morgenbild "Die Antworten an Bauherren und Architekten warten als Entwurf, das Protokoll von der letzten Bausitzung ist geschrieben und die Termine stehen im Kalender." Statt "Mails, Offerten und Termine sind dabei nur der Anfang": "Auch bei Ausschreibungen oder beim Vergleich von Unternehmerofferten nimmt er dir viel Vorarbeit ab." Nach dem Gipser-Fall: "Bei dir ginge das genau so nach der Bausitzung, du sprichst kurz ein und bekommst das fertige Protokoll." Plattenleger-Satz: "Handwerksbetrieben und Planungsbueros". Rest wie die Vorlage.
 
+**KMU allgemein, kurz und humorvoll (19.11.2026, Florian: "kurze und knackige auch humorvolle professionelle erst dm. Zielgruppe ist kmu also fokussiere dich eher aufs angebot"):** Angebot Bueroassistent ab 299 Franken, ohne "KI", ohne Gipser, rund 80 Woerter.
+
+```
+Hallo [Name]
+
+[Ice Breaker aus seinem Profil]
+
+Wer beantwortet bei euch eigentlich die Mails um 21 Uhr? Falls du gerade an dich selbst denkst: Ich hätte da jemanden für dich.
+
+Einen Büroassistenten, der Mails, Offerten und Termine vorbereitet. Du sagst ihm per Nachricht oder Sprachmemo, was er tun soll, schaust kurz drüber und schickst ab.
+
+Er wird nie krank, will keine Ferien und trinkt dir auch nicht den Kaffee weg.
+
+Die Einrichtung kostet ab 299 Franken, und innert einer Woche läuft er. Du musst nichts Neues lernen, den Rest mache ich.
+
+Hättest du Lust auf einen kurzen Videocall?
+
+Gruss Florian
+```
+
 **Erweiterte Zielgruppe Werbetechnik: KI-Beratung und Umsetzung (18.11.2026, Endfassung nach Expertenrunde mit 97 Agenten):** Florian: "eine werbetechnik firma schreibt keine offerten usw. Die brauchen aber auch eine KI beratung bzw implementierung" und "es muss verkaufen, schnell lesbar sein und ein nobrainer sein". Kein Preis, kein Gipser, nichts gratis, kein Test, nichts Erfundenes. "KI" darf hier stehen, weil es das Angebot ist (in der Bueroassistent-DM bleibt "KI" draussen). Ablauf: 30 Entwuerfe, 40 Juroren (20 simulierte Werbetechnik-Inhaber, 20 Fachleute), Synthese, 25 Pruefer, Feinschliff. Sieger mit 37 von 40 Stimmen: Szene-Einstieg (Lieferwagen, kein Modell, verpixeltes Logo). Simulierte Antwortschaetzung rund 18 Prozent (keine echte Zahl). Fruehere Zwischenstaende vom 18.11. gelten nicht.
 
 ```
