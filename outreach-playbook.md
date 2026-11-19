@@ -95,6 +95,22 @@ Fuer gesprochene Formate und ueberall dort, wo es persoenlich werden soll, ist F
 
 **Variante Planungsbuero (09.11.2026, erstmals Thomas Zünd #145):** Morgenbild "Die Antworten an Bauherren und Architekten warten als Entwurf, das Protokoll von der letzten Bausitzung ist geschrieben und die Termine stehen im Kalender." Statt "Mails, Offerten und Termine sind dabei nur der Anfang": "Auch bei Ausschreibungen oder beim Vergleich von Unternehmerofferten nimmt er dir viel Vorarbeit ab." Nach dem Gipser-Fall: "Bei dir ginge das genau so nach der Bausitzung, du sprichst kurz ein und bekommst das fertige Protokoll." Plattenleger-Satz: "Handwerksbetrieben und Planungsbueros". Rest wie die Vorlage.
 
+**Gestandene Unternehmen, Beratung und Automation (19.11.2026, aktuelle Fassung):** Florian: "Ich will Unternehmen ansprechen, gestandene, fuer Beratung und Automation" und als Vorbild eine erhaltene Akquise-DM (E-Mail-Marketing, Aufbau: Ice Breaker, "Ich weiss nicht, wie es bei dir aussieht, aber ...", Problem, Folge, "Deshalb ein kurzer Vorschlag:", Schlussfrage) mit "aehnlich, aber kuerzer". Gratis-Monat und Erfolgszahlen aus dem Vorbild bewusst NICHT uebernommen (keine Gratis-Angebote, nichts Erfundenes). Rund 65 Woerter.
+
+```
+Hallo [Name]
+
+[Ice Breaker aus seinem Profil]
+
+Ich weiss nicht, wie es bei euch aussieht, aber bei vielen Unternehmen, mit denen ich spreche, bleibt das Thema Automation im Tagesgeschäft liegen. Dadurch läuft vieles noch von Hand, was längst automatisch laufen könnte.
+
+Deshalb ein kurzer Vorschlag: Ich schaue mir mit dir an, wo Automation und KI bei euch am meisten Zeit sparen, und setze es danach selber um. Ihr müsst dafür nichts Kompliziertes lernen.
+
+Hättest du Lust auf einen kurzen Austausch?
+
+Gruss Florian
+```
+
 **KMU allgemein, originell und humorvoll (19.11.2026, Endfassung nach Expertenrunde mit 36 Agenten):** Florian: "kurze und knackige auch humorvolle professionelle erst dm, Zielgruppe KMU", "ohne Preis, Offerten und Mails nicht rein, zu banal, allgemeine Firmendigitalisierung oder Beratung pitchen" und "so eine Nachricht schickt jeder". Ablauf: 16 Texter-Ansaetze, 12 simulierte KMU-Inhaber als Jury (mit Abzug fuer "schon oft gesehen"), Synthese, 6 Pruefer, Feinschliff. Beide Fassungen von keinem Juror als Standard-DM empfunden, Prueferschnitt je 7.5/10. Hebel: Florians Weg vom Plattenleger zum Digitalisierer. Offen: Florian bestaetigt fachlich "Wasser kommt selten durch die Platte, fast immer durch die Fuge". Die Excel/Chef-Ferien-Fassung vom selben Tag gilt nicht ("so eine Nachricht schickt jeder").
 
 Hauptfassung (Fugen-Bild):
