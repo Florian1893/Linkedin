@@ -1,38 +1,47 @@
-# 19.11.2026 (Donnerstag) — «Dieses Jahr machen wir über Weihnachten wirklich zu.»
+# 19.11.2026 (Donnerstag) — Wenn du über Weihnachten erreichbar sein musst, hast du keinen Betrieb.
 
 Florian am 18.11.: "anderes Thema als das. Letzter Post 120 Views." Ersetzt den Content-Post (posts/2026-11-19-content.md, jetzt Reserve). Neuer Lebensbereich: die Tage zwischen Weihnachten und Neujahr. Aktuell, weil bis Weihnachten noch 5 Wochen bleiben. Für alle KMU, nicht nur Handwerk. Weder KI noch Claude genannt.
 
+Version 2 vom 19.11.: Florian wollte mehr Storytelling und einen polarisierenden Hook. Hook jetzt als Behauptung, der viele Inhaber widersprechen werden ("Du hast einen Job ohne Ferien"). Geschichte mit Guetzli, Fondue chinoise und dem Satz der Tochter.
+
 ## Post
 
-«Dieses Jahr machen wir über Weihnachten wirklich zu.»
+Wenn du über Weihnachten erreichbar sein musst, hast du keinen Betrieb.
+Du hast einen Job ohne Ferien.
 
-Das hast du letztes Jahr auch gesagt.
-Am 27. Dezember warst du trotzdem im Büro.
+Dieses Jahr machst du wirklich zu.
+Versprochen.
 
-Am 23. um 16 Uhr schliesst du ab.
-Am 24. um 9.15 Uhr kommt ein Mail: Ohne Rechnung können wir dieses Jahr nichts mehr buchen.
+Am 23. um 16 Uhr schliesst du das Büro ab.
+Zu Hause riecht es nach Guetzli.
+
+Am 24. um 9.15 Uhr vibriert dein Handy.
+Ein Kunde: Ohne Rechnung können wir dieses Jahr nichts mehr buchen.
+Du denkst: Nur schnell.
+Um 11 Uhr sitzt du wieder im Büro.
+
+Am Abend gibt es Fondue chinoise.
+Dein Handy liegt neben dem Teller.
+Beim Dessert sagt deine Tochter: Du bist gar nicht richtig da.
+
 Am 27. fragt der Treuhänder nach den Belegen.
-Und wo die liegen, weisst nur du.
-
-Deine Familie hat Ferien.
-Du hast ein Handy und 47 ungelesene Mails.
+Wo die liegen, weisst nur du.
 
 Frei hat nur, wer sich vertreten lassen kann.
 
 Bis Weihnachten sind es noch 5 Wochen.
-Das reicht, um es dieses Jahr anders zu machen.
+Genug Zeit, um es anders zu machen.
 
 Ich baue Betrieben ihre Abläufe so, dass das Büro auch ohne dich weiss, was zu tun ist.
 Anfragen bekommen eine Antwort.
 Rechnungen gehen raus.
-Die Belege liegen dort, wo der Treuhänder sie sucht.
 Zu dir kommt nur, was wirklich dich braucht.
 
 Wie viele Tage warst du letztes Jahr zwischen Weihnachten und Neujahr wirklich weg vom Geschäft?
 
 ## Messung
 
-874 Zeichen, 7 Kommas, 1 Frage, kein ß, keine Gedankenstriche, keine Emojis. Hook: das eigene Versprechen des Chefs, Zeile 2 nimmt es auseinander. Merksatz: Frei hat nur, wer sich vertreten lassen kann. Dringlichkeit: noch 5 Wochen. Schlussfrage zählbar (Tage wirklich weg vom Geschäft).
+Siehe Zählung beim Speichern: rund 1000 Zeichen, 7 Kommas, 1 Frage, kein ß, keine Gedankenstriche, keine Emojis, weder KI noch Claude. Polarisierender Hook soll Widerspruch in den Kommentaren auslösen. Merksatz: Frei hat nur, wer sich vertreten lassen kann.
 
 ## Ehrlichkeit
 
