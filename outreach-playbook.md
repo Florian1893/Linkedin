@@ -95,20 +95,18 @@ Fuer gesprochene Formate und ueberall dort, wo es persoenlich werden soll, ist F
 
 **Variante Planungsbuero (09.11.2026, erstmals Thomas Zünd #145):** Morgenbild "Die Antworten an Bauherren und Architekten warten als Entwurf, das Protokoll von der letzten Bausitzung ist geschrieben und die Termine stehen im Kalender." Statt "Mails, Offerten und Termine sind dabei nur der Anfang": "Auch bei Ausschreibungen oder beim Vergleich von Unternehmerofferten nimmt er dir viel Vorarbeit ab." Nach dem Gipser-Fall: "Bei dir ginge das genau so nach der Bausitzung, du sprichst kurz ein und bekommst das fertige Protokoll." Plattenleger-Satz: "Handwerksbetrieben und Planungsbueros". Rest wie die Vorlage.
 
-**KMU allgemein, kurz und humorvoll (19.11.2026, Florian: "kurze und knackige auch humorvolle professionelle erst dm. Zielgruppe ist kmu also fokussiere dich eher aufs angebot"):** Angebot Bueroassistent ab 299 Franken, ohne "KI", ohne Gipser, rund 80 Woerter.
+**KMU allgemein, kurz und humorvoll (19.11.2026, Endfassung):** Florian: "kurze und knackige auch humorvolle professionelle erst dm, Zielgruppe KMU" und danach "ohne preis. Und offerten nicht rein, mails auch nicht, das ist zu banal. Eine allgemeine Firmendigitalisierung oder Beratung pitchen". Kein Preis, keine Mails/Offerten, kein Gipser, nichts gratis, rund 75 Woerter. Die Zwischenfassung mit Bueroassistent und 299 Franken vom selben Tag gilt nicht.
 
 ```
 Hallo [Name]
 
 [Ice Breaker aus seinem Profil]
 
-Wer beantwortet bei euch eigentlich die Mails um 21 Uhr? Falls du gerade an dich selbst denkst: Ich hätte da jemanden für dich.
+In vielen Firmen läuft noch einiges über Excel-Listen, Zettel und das Gedächtnis vom Chef. Das klappt wunderbar, bis der Chef in die Ferien geht.
 
-Einen Büroassistenten, der Mails, Offerten und Termine vorbereitet. Du sagst ihm per Nachricht oder Sprachmemo, was er tun soll, schaust kurz drüber und schickst ab.
+Genau da setze ich an. Ich schaue mir an, wo bei euch Zeit liegen bleibt, und digitalisiere das Schritt für Schritt. Ohne grosses IT-Projekt und ohne dass dein Team drei neue Programme lernen muss.
 
-Er wird nie krank, will keine Ferien und trinkt dir auch nicht den Kaffee weg.
-
-Die Einrichtung kostet ab 299 Franken, und innert einer Woche läuft er. Du musst nichts Neues lernen, den Rest mache ich.
+Ich mache nur, was sich für euch auch wirklich lohnt. Den Rest lassen wir, wie er ist.
 
 Hättest du Lust auf einen kurzen Videocall?
 
