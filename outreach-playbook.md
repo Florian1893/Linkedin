@@ -95,20 +95,40 @@ Fuer gesprochene Formate und ueberall dort, wo es persoenlich werden soll, ist F
 
 **Variante Planungsbuero (09.11.2026, erstmals Thomas Zünd #145):** Morgenbild "Die Antworten an Bauherren und Architekten warten als Entwurf, das Protokoll von der letzten Bausitzung ist geschrieben und die Termine stehen im Kalender." Statt "Mails, Offerten und Termine sind dabei nur der Anfang": "Auch bei Ausschreibungen oder beim Vergleich von Unternehmerofferten nimmt er dir viel Vorarbeit ab." Nach dem Gipser-Fall: "Bei dir ginge das genau so nach der Bausitzung, du sprichst kurz ein und bekommst das fertige Protokoll." Plattenleger-Satz: "Handwerksbetrieben und Planungsbueros". Rest wie die Vorlage.
 
-**KMU allgemein, kurz und humorvoll (19.11.2026, Endfassung):** Florian: "kurze und knackige auch humorvolle professionelle erst dm, Zielgruppe KMU" und danach "ohne preis. Und offerten nicht rein, mails auch nicht, das ist zu banal. Eine allgemeine Firmendigitalisierung oder Beratung pitchen". Kein Preis, keine Mails/Offerten, kein Gipser, nichts gratis, rund 75 Woerter. Die Zwischenfassung mit Bueroassistent und 299 Franken vom selben Tag gilt nicht.
+**KMU allgemein, originell und humorvoll (19.11.2026, Endfassung nach Expertenrunde mit 36 Agenten):** Florian: "kurze und knackige auch humorvolle professionelle erst dm, Zielgruppe KMU", "ohne Preis, Offerten und Mails nicht rein, zu banal, allgemeine Firmendigitalisierung oder Beratung pitchen" und "so eine Nachricht schickt jeder". Ablauf: 16 Texter-Ansaetze, 12 simulierte KMU-Inhaber als Jury (mit Abzug fuer "schon oft gesehen"), Synthese, 6 Pruefer, Feinschliff. Beide Fassungen von keinem Juror als Standard-DM empfunden, Prueferschnitt je 7.5/10. Hebel: Florians Weg vom Plattenleger zum Digitalisierer. Offen: Florian bestaetigt fachlich "Wasser kommt selten durch die Platte, fast immer durch die Fuge". Die Excel/Chef-Ferien-Fassung vom selben Tag gilt nicht ("so eine Nachricht schickt jeder").
 
+Hauptfassung (Fugen-Bild):
 ```
 Hallo [Name]
 
 [Ice Breaker aus seinem Profil]
 
-In vielen Firmen läuft noch einiges über Excel-Listen, Zettel und das Gedächtnis vom Chef. Das klappt wunderbar, bis der Chef in die Ferien geht.
+Als gelernter Plattenleger weiss ich: Wasser kommt selten durch die Platte. Fast immer durch die Fuge.
 
-Genau da setze ich an. Ich schaue mir an, wo bei euch Zeit liegen bleibt, und digitalisiere das Schritt für Schritt. Ohne grosses IT-Projekt und ohne dass dein Team drei neue Programme lernen muss.
+Im Betrieb auch. Es tropft dort, wo jemand sagt: «Ich dachte, du machst das.»
 
-Ich mache nur, was sich für euch auch wirklich lohnt. Den Rest lassen wir, wie er ist.
+Heute dichte ich genau diese Übergaben digital ab. Wo es passt, auch mit KI. Deinem Team erspare ich den Fugenkurs.
 
-Hättest du Lust auf einen kurzen Videocall?
+Wo nichts tropft, lasse ich die Finger davon.
+
+Darf ich in einem kurzen Videocall nach euren Fugen schauen?
+
+Gruss Florian
+```
+
+Alternative (Selbstironie):
+```
+Hallo [Name]
+
+[Ice Breaker aus seinem Profil]
+
+Ich bin gelernter Plattenleger und digitalisiere heute Firmen. Ja, mein Lebenslauf sieht aus wie ein Tippfehler.
+
+Vom Bau ist mir geblieben: Ich klopfe zuerst eure Abläufe ab. Was hohl tönt, mache ich digital neu. Selber. Umsatteln musste nur ich, dein Team nicht.
+
+Was satt liegt, bleibt liegen. Das sage ich dir auch, wenn es fast alles ist.
+
+Darf ich mal bei dir anklopfen? Ein kurzer Videocall reicht.
 
 Gruss Florian
 ```
