@@ -1,0 +1,51 @@
+<!doctype html><html lang="de"><head><meta charset="utf-8">
+<style>
+@font-face{font-family:'Inter';font-weight:400;src:url(inter-2.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:500;src:url(inter-3.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:800;src:url(inter-8.ttf) format('truetype');}
+@font-face{font-family:'Caveat';font-weight:700;src:url(caveat-700.ttf) format('truetype');}
+*{margin:0;padding:0;box-sizing:border-box;}
+.s{width:1080px;height:1350px;position:relative;overflow:hidden;
+ background:radial-gradient(120% 90% at 30% 0%,#5b5f66 0%,#363a40 55%,#1c1e22 100%);font-family:'Inter',Helvetica,Arial,sans-serif;color:#1d1d1b;}
+.win{position:absolute;left:48px;top:150px;width:984px;height:760px;background:#fff;border-radius:18px;overflow:hidden;box-shadow:0 40px 80px rgba(0,0,0,.55);}
+.top{height:96px;background:#eceae6;border-bottom:2px solid #dcd9d2;display:flex;align-items:center;padding:0 34px;gap:26px;}
+.dots{display:flex;gap:12px;}.dots i{width:20px;height:20px;border-radius:50%;background:#cfccc5;display:block;}
+.pfad{font-size:30px;color:#3a3935;font-weight:500;}
+.kopf{display:flex;padding:22px 40px 14px;font-size:19px;letter-spacing:1.4px;text-transform:uppercase;color:#8a867d;border-bottom:2px solid #ece8e0;}
+.row{display:flex;align-items:center;padding:0 40px;height:120px;border-bottom:2px solid #f0ede7;font-size:29px;}
+.c1{flex:1;display:flex;align-items:center;gap:22px;min-width:0;}
+.c2{width:170px;color:#6f6c64;font-size:25px;}
+.c3{width:130px;color:#6f6c64;font-size:25px;}
+.ico{width:48px;height:58px;border-radius:6px;background:#2e7d4f;position:relative;flex:none;}
+.ico:after{content:"";position:absolute;left:9px;top:12px;width:30px;height:34px;background:
+ linear-gradient(#fff 0 0) 0 0/100% 3px,linear-gradient(#fff 0 0) 0 11px/100% 3px,linear-gradient(#fff 0 0) 0 22px/100% 3px,linear-gradient(#fff 0 0) 0 31px/100% 3px,
+ linear-gradient(#fff 0 0) 0 0/3px 100%,linear-gradient(#fff 0 0) 14px 0/3px 100%,linear-gradient(#fff 0 0) 27px 0/3px 100%;background-repeat:no-repeat;opacity:.9;}
+.name{white-space:nowrap;}
+.zeile{font-size:23px;color:#8a867d;margin-top:4px;}
+.rot{position:absolute;font-family:'Caveat',cursive;font-weight:700;color:#e2574c;white-space:nowrap;line-height:1;transform-origin:0 0;}
+svg.mk{position:absolute;left:0;top:0;width:1080px;height:1350px;overflow:visible;pointer-events:none;}
+</style></head><body>
+<div class="s" id="s">
+  <div class="win">
+    <div class="top"><div class="dots"><i></i><i></i><i></i></div><div class="pfad">B&#252;ro &#8250; Offerten</div></div>
+    <div class="kopf"><span style="flex:1">Name</span><span style="width:170px">Ge&#228;ndert</span><span style="width:130px">Von</span></div>
+    <div class="row"><div class="c1"><span class="ico"></span><div><div class="name">Offerten_2026.xlsx</div><div class="zeile">Steiner: <span id="s1">offen</span></div></div></div><div class="c2">12.08.</div><div class="c3">Chef</div></div>
+    <div class="row"><div class="c1"><span class="ico"></span><div><div class="name">Offerten_2026_NEU.xlsx</div><div class="zeile">Steiner: <span id="s2">verschickt</span></div></div></div><div class="c2">03.10.</div><div class="c3">Marco</div></div>
+    <div class="row"><div class="c1"><span class="ico"></span><div><div class="name">Offerten_2026_NEU_Sandra_final.xlsx</div><div class="zeile">Steiner: <span id="s3">nicht gefunden</span></div></div></div><div class="c2">14.11.</div><div class="c3">Sandra</div></div>
+    <div class="row" style="opacity:.55"><div class="c1"><span class="ico"></span><div><div class="name">Kopie von Offerten_2026_NEU.xlsx</div></div></div><div class="c2">20.11.</div><div class="c3">?</div></div>
+  </div>
+  <div class="rot" id="r1" style="font-size:110px;transform:rotate(-5deg)">Welche stimmt?</div>
+  <svg class="mk" id="mk" viewBox="0 0 1080 1350"></svg>
+</div>
+<script>
+document.fonts.ready.then(()=>{
+  const S=document.getElementById('s').getBoundingClientRect();
+  const red='#e2574c';let svg='';
+  ['s1','s2','s3'].forEach(id=>{const r=document.getElementById(id).getBoundingClientRect();const l=r.left-S.left,rr=r.right-S.left,y=r.bottom-S.top+6;
+    svg+=`<path d="M ${l-4} ${y+2} Q ${(l+rr)/2} ${y-3} ${rr+6} ${y}" fill="none" stroke="${red}" stroke-width="6" stroke-linecap="round" opacity=".95"/>`;});
+  const r1=document.getElementById('r1');r1.style.left='120px';r1.style.top='1000px';
+  document.getElementById('mk').innerHTML=svg;
+  const R=r1.getBoundingClientRect();
+  window.__ok={notiz:[Math.round(R.left-S.left),Math.round(R.right-S.left),Math.round(R.bottom-S.top)]};
+});
+</script></body></html>
