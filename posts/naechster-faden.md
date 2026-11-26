@@ -33,6 +33,7 @@ Wie das geht, habe ich als Bauplan aufgeschrieben:
 → Der Auftrag zum Kopieren, fertig formuliert
 → Wie Newsletter und Rechnungen draussen bleiben
 → Wie die Entwürfe nach dir klingen
+→ Die Variante für DSG und DSGVO
 
 Schreib «FADEN» in die Kommentare und ich schicke ihn dir.
 
@@ -42,7 +43,7 @@ Schreib «FADEN» in die Kommentare und ich schicke ihn dir.
 
 ## Ehrlichkeit
 
-"Als ich das bei mir prüfen liess, waren es 3. Eine davon seit 5 Wochen." stimmt (Gmail-Suche 11.11.). VOR DEM POSTEN MUSS FLORIAN die geplante Aufgabe in Claude wirklich anlegen (jeden Freitag 16 Uhr, Auftrag aus dem Bauplan), sonst stimmen "habe ich mir angelegt" und "läuft jede Woche von allein" nicht. Der Bauplan existiert: leitfaden/Bauplan-Freitags-Check.pdf (Quelle leitfaden/bauplan-faden.html). Die genaue Klickfolge in Claude ist im Bauplan bewusst allgemein gehalten, Florian prüft sie beim eigenen Einrichten.
+"Als ich das bei mir prüfen liess, waren es 3. Eine davon seit 5 Wochen." stimmt (Gmail-Suche 11.11.). VOR DEM POSTEN MUSS FLORIAN die geplante Aufgabe in Claude wirklich anlegen (jeden Freitag 16 Uhr, Auftrag aus dem Bauplan), sonst stimmen "habe ich mir angelegt" und "läuft jede Woche von allein" nicht. Der Bauplan existiert: leitfaden/Bauplan-Freitags-Check.pdf, seit 26.11. mit Seite 4 "Die datenschutzkonforme Variante (DSG und DSGVO)" (8 Punkte, datensparsamer Auftrag, Hinweis keine Rechtsberatung) (Quelle leitfaden/bauplan-faden.html). Die genaue Klickfolge in Claude ist im Bauplan bewusst allgemein gehalten, Florian prüft sie beim eigenen Einrichten.
 
 ## Bild
 
