@@ -1,0 +1,80 @@
+<!doctype html><html lang="de"><head><meta charset="utf-8"><title>Der Freitags-Check</title>
+<style>
+@font-face{font-family:'Inter';font-weight:400;src:url(../fotos/inter-2.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:500;src:url(../fotos/inter-3.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:800;src:url(../fotos/inter-8.ttf) format('truetype');}
+@font-face{font-family:'Caveat';font-weight:700;src:url(../fotos/caveat-700.ttf) format('truetype');}
+@page{size:A4;margin:0;}
+*{margin:0;padding:0;box-sizing:border-box;}
+body{font-family:'Inter',Helvetica,Arial,sans-serif;color:#1d1d1b;font-size:11pt;line-height:1.55;}
+.seite{width:210mm;height:297mm;padding:22mm 20mm 18mm;position:relative;page-break-after:always;overflow:hidden;background:#fff;}
+.seite:last-child{page-break-after:auto;}
+.fuss{position:absolute;left:20mm;right:20mm;bottom:10mm;display:flex;justify-content:space-between;font-size:8.5pt;color:#8a867d;}
+.titel{background:#2f4a3a;color:#fff;padding:0;}
+.titel .in{padding:34mm 22mm 0;}
+.marke{display:flex;align-items:center;gap:8px;font-weight:800;font-size:12pt;letter-spacing:-.2px;}
+.marke i{display:block;width:11px;height:11px;border-radius:3px;background:#fff;}
+.titel h1{font-size:40pt;line-height:1.05;letter-spacing:-1.5px;font-weight:800;margin-top:40mm;}
+.titel .unter{font-size:15pt;margin-top:8mm;opacity:.9;line-height:1.4;}
+.titel .hand{font-family:'Caveat',cursive;font-size:30pt;color:#f3c9c3;margin-top:14mm;transform:rotate(-2deg);transform-origin:0 0;}
+.titel .autor{position:absolute;left:22mm;bottom:22mm;font-size:11pt;opacity:.85;line-height:1.5;}
+.nr{font-size:10pt;font-weight:800;letter-spacing:2px;text-transform:uppercase;color:#2f4a3a;}
+h2{font-size:22pt;line-height:1.15;letter-spacing:-.6px;font-weight:800;margin:3mm 0 5mm;}
+h3{font-size:12.5pt;font-weight:800;margin:6mm 0 2mm;}
+p{margin-bottom:3mm;}
+ul{margin:0 0 3mm 0;padding-left:5mm;}
+li{margin-bottom:1.6mm;}
+.box{background:#f4f2ee;border-radius:10px;padding:5mm 6mm;margin:5mm 0;}
+.box.gruen{background:#e3ece6;}
+.box b.k{display:block;font-size:10pt;letter-spacing:1.5px;text-transform:uppercase;color:#2f4a3a;margin-bottom:2mm;}
+.code{font-family:'Inter';background:#fff;border:1.5px dashed #b9c7b4;border-radius:8px;padding:4mm 5mm;font-size:10pt;line-height:1.5;white-space:pre-line;}
+table{width:100%;border-collapse:collapse;margin:3mm 0 4mm;font-size:10pt;}
+th{text-align:left;font-size:8.5pt;letter-spacing:1.2px;text-transform:uppercase;color:#8a867d;font-weight:500;padding:0 0 2mm;border-bottom:2px solid #2f4a3a;}
+td{padding:2.2mm 2mm 2.2mm 0;border-bottom:1px solid #e6e2da;vertical-align:top;}
+.zwei{display:grid;grid-template-columns:1fr 1fr;gap:6mm;}
+.tag{display:flex;gap:5mm;padding:3.5mm 0;border-bottom:1px solid #e6e2da;}
+.tag b{flex:none;width:18mm;color:#2f4a3a;font-size:12pt;}
+.rot{color:#c62828;}
+</style></head><body>
+<div class="seite titel"><div class="in">
+  <div class="marke"><i></i>BetriebsFlow</div>
+  <h1>Der Freitags-Check</h1>
+  <div class="unter">Bauplan: Claude findet jede Woche alle Mails,<br>auf die nie eine Antwort kam.</div>
+  <div class="hand">Einmal einrichten. Jeden Freitag Ruhe.</div>
+</div>
+<div class="autor">Florian R&#246;thlisberger<br>BetriebsFlow &#183; betriebsflow.ch</div></div>
+
+<div class="seite">
+  <div class="nr">Schritt 1 und 2</div>
+  <h2>Wo du die w&#246;chentliche Aufgabe anlegst</h2>
+  <p><b>Was du brauchst:</b> Claude mit verbundenem Mailkonto. Daf&#252;r gibt es fertige Verbindungen, zum Beispiel f&#252;r Gmail oder Microsoft 365. Du findest sie in Claude unter den Verbindungen (Connectors).</p>
+  <p><b>Die Aufgabe anlegen:</b> In Claude kannst du Aufgaben planen, die regelm&#228;ssig von selbst laufen. Lege eine neue geplante Aufgabe an, w&#228;hle <b>jeden Freitag, 16:00 Uhr</b> und f&#252;ge den Auftrag von Schritt 2 ein. Je nach Version heisst die Funktion etwas anders. Findest du sie nicht, schreib mir.</p>
+  <h3>Schritt 2: Der Auftrag zum Kopieren</h3>
+  <div class="code">Geh meine gesendeten Mails der letzten 30 Tage durch.
+Finde alle Mails, auf die bis heute keine Antwort gekommen ist.
+Lass weg: Newsletter, automatische Mails, Rechnungen und Mails, die keine Antwort brauchen (Dank, Best&#228;tigung, Absage).
+Sortiere den Rest nach Wichtigkeit: zuerst Offerten und Kundenanfragen, dann Lieferanten, dann alles andere.
+Gib mir pro Mail: Empf&#228;nger, Betreff, gesendet am und seit wie vielen Tagen ohne Antwort.
+Schreib zu jeder Mail einen kurzen Entwurf zum Nachfassen in meinem Ton.
+Verschicke nichts selber. Ich gebe jede Mail frei.</div>
+  <div class="fuss"><span>Der Freitags-Check</span><span>Seite 2</span></div>
+</div>
+
+<div class="seite">
+  <div class="nr">Schritt 3 und 4</div>
+  <h2>Newsletter draussen, Entw&#252;rfe in deinem Ton</h2>
+  <h3>Schritt 3: Damit nur Wichtiges auf die Liste kommt</h3>
+  <ul><li>Schreib Absender, die nie auf die Liste sollen, als Ausnahme dazu. Zum Beispiel: &#171;Ignoriere alles an buchhaltung@ und an Newsletter-Adressen.&#187;</li>
+  <li>Mails an mehrere Empf&#228;nger, bei denen einer geantwortet hat, z&#228;hlen als beantwortet.</li>
+  <li>Alles, was j&#252;nger als 3 Tage ist, darf warten.</li></ul>
+  <h3>Schritt 4: Damit die Entw&#252;rfe nach dir klingen</h3>
+  <ul><li>Kopiere 3 eigene Nachfass-Mails in den Auftrag und schreib dazu: &#171;So schreibe ich. Halte dich an diesen Ton.&#187;</li>
+  <li>Lege fest, ob du Kunden duzt oder siezt.</li>
+  <li>Jeder Entwurf hat h&#246;chstens 4 S&#228;tze und einen konkreten Vorschlag, zum Beispiel einen Termin.</li>
+  <li>Nie dr&#228;ngen. Ein Satz wie &#171;Wenn es gerade nicht passt, sag es mir einfach&#187; nimmt den Druck raus.</li></ul>
+  <div class="box gruen"><b class="k">Test vor dem ersten Freitag</b>F&#252;hre den Auftrag einmal von Hand aus. Pr&#252;fe die Liste: Fehlt etwas Wichtiges, oder steht Unwichtiges drauf? Passe die Ausnahmen an. Erst dann l&#228;uft er jeden Freitag von allein.</div>
+  <div class="box"><b class="k">Wichtig</b>Claude verschickt nichts selber. Die Freigabe bleibt bei dir. Lies vor dem Start, was dein Konto mit den Daten macht, und gib nur frei, was du auch selber so schicken w&#252;rdest.</div>
+  <p style="margin-top:6mm">Fragen oder lieber einrichten lassen? Schreib mir auf LinkedIn. <b>Florian R&#246;thlisberger, BetriebsFlow</b></p>
+  <div class="fuss"><span>Der Freitags-Check</span><span>Seite 3</span></div>
+</div>
+</body></html>
