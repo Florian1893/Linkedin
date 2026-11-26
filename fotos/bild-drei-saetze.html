@@ -1,0 +1,47 @@
+<!doctype html><html lang="de"><head><meta charset="utf-8">
+<style>
+@font-face{font-family:'Inter';font-weight:400;src:url(inter-2.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:500;src:url(inter-3.ttf) format('truetype');}
+@font-face{font-family:'Inter';font-weight:800;src:url(inter-8.ttf) format('truetype');}
+@font-face{font-family:'Caveat';font-weight:700;src:url(caveat-700.ttf) format('truetype');}
+*{margin:0;padding:0;box-sizing:border-box;}
+.s{width:1080px;height:1350px;position:relative;overflow:hidden;
+ background:radial-gradient(120% 95% at 30% 0%,#5e6460 0%,#3a3f3c 52%,#1f2321 100%);font-family:'Inter',Helvetica,Arial,sans-serif;}
+svg.grain{position:absolute;left:0;top:0;width:1080px;height:1350px;mix-blend-mode:soft-light;opacity:.55;}
+.paper{position:absolute;left:80px;top:90px;width:920px;height:1180px;transform-origin:50% 0;
+ background-color:#fdfcf6;background-image:linear-gradient(#cfd9e8 2px,transparent 2px);background-size:100% 76px;background-position:0 236px;
+ box-shadow:0 46px 90px rgba(0,0,0,.55),0 8px 18px rgba(0,0,0,.35);padding:56px 64px;}
+.kopf{font-size:22px;letter-spacing:1.6px;text-transform:uppercase;color:#8a8a8a;font-weight:500;}
+.titel{font-size:44px;font-weight:800;letter-spacing:-1px;color:#1b1b1b;margin-top:8px;}
+.hand{position:absolute;left:64px;right:56px;top:226px;font-family:'Caveat',cursive;font-weight:700;color:#1f3f9a;font-size:52px;line-height:76px;}
+.nr{display:inline-block;width:56px;color:#5a6b8c;}
+.zit{display:block;padding-left:56px;text-indent:-56px;margin-bottom:76px;}
+.fuss{position:absolute;left:64px;bottom:60px;font-family:'Caveat',cursive;font-weight:700;color:#c62828;font-size:64px;transform:rotate(-3deg);transform-origin:0 0;}
+svg.mk{position:absolute;left:0;top:0;width:920px;height:1180px;overflow:visible;pointer-events:none;}
+</style></head><body>
+<div class="s">
+  <svg class="grain" viewBox="0 0 1080 1350"><filter id="g"><feTurbulence type="fractalNoise" baseFrequency="0.006 0.21" numOctaves="3" seed="81"/><feColorMatrix type="saturate" values="0"/></filter><rect width="1080" height="1350" filter="url(#g)"/></svg>
+  <div class="paper" id="paper">
+    <div class="kopf">Gespr&#228;chsnotizen &#183; 42 Minuten</div>
+    <div class="titel">Betrieb mit 12 Mitarbeitern</div>
+    <div class="hand">
+      <span class="zit"><span class="nr">1.</span>&#171;F&#252;r jeden Neuen muss alles neu erkl&#228;rt werden.&#187;</span>
+      <span class="zit"><span class="nr">2.</span>&#171;R&#252;ckmeldung teils erst nach 3 Tagen. Bis dann hat der Kunde anders entschieden.&#187;</span>
+      <span class="zit"><span class="nr">3.</span>&#171;Das Geld liegt bei den Privatkunden. <span id="satz">Genau dort geht am meisten verloren.</span>&#187;</span>
+    </div>
+    <div class="fuss" id="fuss">Kein Wort &#252;ber Software.</div>
+    <svg class="mk" id="mk" viewBox="0 0 920 1180"></svg>
+  </div>
+</div>
+<script>
+document.fonts.ready.then(()=>{
+  const paper=document.getElementById('paper');const P=paper.getBoundingClientRect();
+  const red='#c62828';let svg='';
+  Array.from(document.getElementById('satz').getClientRects()).forEach(r=>{const l=r.left-P.left,rr=r.right-P.left,y=r.bottom-P.top+2;
+    svg+=`<path d="M ${l-4} ${y+2} Q ${(l+rr)/2} ${y-3} ${rr+6} ${y}" fill="none" stroke="${red}" stroke-width="6" stroke-linecap="round" opacity=".9"/>`;});
+  document.getElementById('mk').innerHTML=svg;
+  paper.style.transform='rotate(-1.5deg)';
+  const h=document.querySelector('.hand').getBoundingClientRect(), f=document.getElementById('fuss').getBoundingClientRect();
+  window.__ok={handUnten:Math.round(h.bottom-P.top),fussOben:Math.round(f.top-P.top)};
+});
+</script></body></html>
